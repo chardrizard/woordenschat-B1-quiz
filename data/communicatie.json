@@ -9,12 +9,12 @@
       "De politicus <mark>beweert</mark> dat zijn plan de problemen zal oplossen."
     ],
     "options": [
+      "iets officieel bekendmaken",
       "iets aantonen met bewijs",
-      "iets stellen of zeggen zonder bewijs",
       "iets vragen aan een ander",
-      "iets officieel bekendmaken"
+      "iets stellen of zeggen zonder bewijs"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Beweren' = iets stellen als waar, zonder het noodzakelijk te bewijzen. Zelfstandig naamwoord: 'bewering'. Neutraler dan 'liegen', maar impliceert enige scepsis.",
     "hint": "Iemand zegt dat iets zo is, maar je bent er niet zeker van of het klopt. Hij... dat."
   },
@@ -28,12 +28,12 @@
       "Kun je dit even met je manager <mark>overleggen</mark>?"
     ],
     "options": [
-      "een beslissing alleen nemen",
       "met anderen bespreken om tot een beslissing of mening te komen",
+      "een klacht indienen",
       "iets officieel vastleggen",
-      "een klacht indienen"
+      "een beslissing alleen nemen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Overleggen' = samen bespreken om tot een uitkomst te komen. Zelfstandig naamwoord: 'overleg'. 'In overleg' = na bespreking. Synoniem: 'bespreken', 'consulteren'.",
     "hint": "Niet alleen beslissen, maar eerst met anderen praten. Dat noem je..."
   },
@@ -47,12 +47,12 @@
       "De treinomroep deed een <mark>mededeling</mark> over de vertraging."
     ],
     "options": [
-      "een vraag die om een antwoord vraagt",
       "een officiële of formele aankondiging of bericht",
-      "een instructie die gevolgd moet worden",
-      "een klacht die is ingediend"
+      "een klacht die is ingediend",
+      "een vraag die om een antwoord vraagt",
+      "een instructie die gevolgd moet worden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Mededeling' = een officieel of formeel bericht of aankondiging. Van 'mededelen' = officieel bekendmaken. Formeler dan 'bericht'. Meervoud: 'mededelingen'.",
     "hint": "Een formeel bericht of aankondiging van een organisatie aan haar leden of klanten heet een..."
   },
@@ -66,12 +66,12 @@
       "Ze vroeg hem zijn standpunt verder <mark>toe te lichten</mark>."
     ],
     "options": [
-      "iets verbergen of onduidelijk maken",
-      "iets verder uitleggen en verduidelijken",
+      "iets herhalen zonder uitleg",
       "iets officieel goedkeuren",
-      "iets herhalen zonder uitleg"
+      "iets verder uitleggen en verduidelijken",
+      "iets verbergen of onduidelijk maken"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Toelichten' = iets meer uitleggen of verduidelijken. Scheidbaar: 'licht toe', 'lichtte toe', 'toegelicht'. Synoniem: 'verduidelijken', 'uitleggen'.",
     "hint": "Je uitleg was kort — nu geef je meer detail en uitleg. Je... jouw antwoord."
   },
@@ -105,11 +105,11 @@
     ],
     "options": [
       "iets op intuïtie beweren zonder feiten",
-      "een stelling steunen met argumenten of bewijs",
       "iets ontkrachten of weerleggen",
-      "een samenvatting maken van een argument"
+      "een samenvatting maken van een argument",
+      "een stelling steunen met argumenten of bewijs"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Onderbouwen' = een bewering of standpunt voorzien van argumenten en bewijs. Scheidbaar: 'onderbouw', 'onderbouwde', 'onderbouwd'. Synoniem: 'beargumenteren'.",
     "hint": "Je stelling is sterker als je er feiten en argumenten aan toevoegt. Je moet je stelling..."
   },
@@ -124,11 +124,11 @@
     ],
     "options": [
       "de grammaticale structuur van een zin",
-      "de selectie van woorden die iemand gebruikt om zich uit te drukken",
+      "het accent waarmee iemand Nederlands spreekt",
       "de snelheid waarmee iemand spreekt",
-      "het accent waarmee iemand Nederlands spreekt"
+      "de selectie van woorden die iemand gebruikt om zich uit te drukken"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Woordkeus' = de selectie van specifieke woorden in spraak of schrijven. Samengesteld van 'woord' + 'keus' (keuze). Synoniem: 'woordgebruik', 'taalgebruik'.",
     "hint": "Niet hoe snel je spreekt, maar welke woorden je kiest — dat is je..."
   },
@@ -142,12 +142,12 @@
       "De vraag was moeilijk te <mark>formuleren</mark> in duidelijke taal."
     ],
     "options": [
-      "iets neerschrijven zonder nadenken",
       "iets in woorden uitdrukken of verwoorden",
+      "iets samenvatten in één zin",
       "iets vertalen naar een andere taal",
-      "iets samenvatten in één zin"
+      "iets neerschrijven zonder nadenken"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Formuleren' = iets in woorden uitdrukken, een gedachte of idee verwoorden. Van het Latijn 'formula'. Zelfstandig naamwoord: 'formulering'.",
     "hint": "Je hebt een idee, maar je moet het in woorden uitdrukken. Je moet het..."
   },
@@ -161,12 +161,12 @@
       "Wat was jouw <mark>interpretatie</mark> van die opmerking?"
     ],
     "options": [
-      "de letterlijke vertaling van een tekst",
-      "de uitleg of betekenis die iemand aan iets geeft",
       "de officiële definitie van een begrip",
-      "de samenvatting van een tekst"
+      "de samenvatting van een tekst",
+      "de letterlijke vertaling van een tekst",
+      "de uitleg of betekenis die iemand aan iets geeft"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Interpretatie' = de betekenis of uitleg die iemand aan iets geeft. Van het Latijn 'interpretatio'. Werkwoord: 'interpreteren'. Synoniemen: 'lezing', 'uitleg'.",
     "hint": "Je leest een gedicht. Wat betekent het voor jou? Dat is jouw..."
   },
@@ -180,12 +180,12 @@
       "De <mark>correspondentie</mark> wordt bewaard voor tien jaar."
     ],
     "options": [
+      "een vergadering tussen vertegenwoordigers",
       "een mondeling gesprek tussen twee partijen",
       "de uitwisseling van berichten, brieven of e-mails",
-      "een vergadering tussen vertegenwoordigers",
       "een officieel contract tussen partijen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Correspondentie' = het uitwisselen van brieven of berichten, of de berichten zelf. Van het Latijn 'correspondere'. Werkwoord: 'corresponderen'.",
     "hint": "Het uitwisselen van brieven of e-mails over een periode noem je..."
   },
@@ -199,12 +199,12 @@
       "Sommige <mark>dialecten</mark> zijn zo anders dat ze bijna onverstaanbaar zijn."
     ],
     "options": [
-      "een vreemde taal die in Nederland wordt gesproken",
       "een regionale variant van een taal",
-      "een verouderde vorm van een taal",
-      "een formele schrijfstijl van een taal"
+      "een formele schrijfstijl van een taal",
+      "een vreemde taal die in Nederland wordt gesproken",
+      "een verouderde vorm van een taal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Dialect' = een regionale variëteit van een taal, met eigen klanken, woordenschat en soms grammatica. Bijvoeglijk naamwoord: 'dialectisch'.",
     "hint": "Limburgs, Gronings, Zeeuws — dit zijn regionale varianten van het Nederlands. We noemen ze..."
   },
@@ -218,12 +218,12 @@
       "Ze verloor het <mark>debat</mark> omdat haar argumenten zwak waren."
     ],
     "options": [
-      "een gesprek tussen twee vrienden",
-      "een formele discussie waarbij tegenstanders argumenten uitwisselen",
+      "een toespraak voor een groot publiek",
       "een vergadering om beslissingen te nemen",
-      "een toespraak voor een groot publiek"
+      "een formele discussie waarbij tegenstanders argumenten uitwisselen",
+      "een gesprek tussen twee vrienden"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Debat' = een gestructureerde discussie waarbij twee of meer partijen tegengestelde meningen verdedigen. Van het Frans 'débattre'. Werkwoord: 'debatteren'.",
     "hint": "Twee partijen beargumenteren elk hun standpunt tegenover elkaar. Dat is een..."
   },
@@ -237,12 +237,12 @@
       "Het NT2-examen toetst de <mark>taalvaardigheid</mark> op B1-niveau."
     ],
     "options": [
-      "de kennis van grammaticaregels",
       "het vermogen om een taal correct en vloeiend te gebruiken",
-      "het kunnen vertalen tussen twee talen",
-      "het kennen van veel woorden"
+      "het kennen van veel woorden",
+      "de kennis van grammaticaregels",
+      "het kunnen vertalen tussen twee talen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Taalvaardigheid' = het vermogen om een taal effectief te gebruiken: spreken, luisteren, lezen en schrijven. Samengesteld van 'taal' + 'vaardigheid'.",
     "hint": "Niet alleen woorden kennen, maar ook vlot kunnen spreken, lezen en schrijven — dat is je..."
   },
@@ -256,10 +256,10 @@
       "Deze quiz helpt je <mark>woordenschat</mark> te vergroten."
     ],
     "options": [
-      "de kennis van grammaticale regels",
+      "de kwaliteit van iemands uitspraak",
       "het totaal aan woorden dat iemand kent en kan gebruiken",
-      "het vermogen om snel te lezen",
-      "de kwaliteit van iemands uitspraak"
+      "de kennis van grammaticale regels",
+      "het vermogen om snel te lezen"
     ],
     "correct": 1,
     "explanation": "'Woordenschat' = alle woorden die iemand kent en kan gebruiken. Samengesteld van 'woord' + 'schat' (verzameling). Engels: 'vocabulary'.",
