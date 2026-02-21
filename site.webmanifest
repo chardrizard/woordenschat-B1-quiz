@@ -2,7 +2,7 @@
   "name": "Woordenschat Quiz — B1–B2 Nederlands",
   "short_name": "Woordenschat",
   "description": "Oefen B1–B2 woordenschat met contextrijke meerkeuzevragen",
-  "start_url": "/",
+  "start_url": "/woordenschat-B1-quiz/",
   "display": "standalone",
   "background_color": "#0F1117",
   "theme_color": "#0F1117",
