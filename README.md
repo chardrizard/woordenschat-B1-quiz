@@ -1,16 +1,29 @@
 # 🇳🇱 Woordenschat Quiz
 
-A mobile-friendly multiple-choice vocabulary quiz for Dutch learners at **B1–B2 level**. Instead of showing translations, learners infer meaning from **contextual example sentences** — the same V1 UX pattern developed for maximum acquisition depth.
+A mobile-friendly, context-first vocabulary quiz for Dutch learners at **B1–B2 level**. No translations — you infer meaning from **contextual example sentences**, then choose the correct Dutch definition.
 
-**Built as a companion to [Werkwoorden Quiz](https://github.com/chardrizard/samengestelde-werkwoorden-quiz)** — same design system, same architecture.
+**Built as a companion to [Werkwoorden Quiz](https://github.com/chardrizard/samengestelde-werkwoorden-quiz)** — same design system, same interaction patterns.
+
+---
+
+## Live demo
+
+→ **[Open the quiz](https://chardrizard.github.io/woordenschat-quiz/)**
 
 ---
 
 ## What makes this different?
 
-Most vocabulary apps show translations immediately. This quiz shows **3 example sentences in context** first — no English, no definitions. You infer the meaning, then choose. Feedback explains *why*, not just what's correct.
+Most vocabulary apps show translations immediately. This quiz shows **example sentences in context** first — no English, no definitions. You infer the meaning, then choose. Feedback explains *why*, not just what's correct.
 
-This mirrors how you'd encounter a word while reading authentic Dutch content.
+Difficulty is calibrated using the **Hazenberg & Hulstijn (2002)** frequency framework — the same list used by Dutch integration exams. Every word is tagged to a frequency level:
+
+| Level | Frequency band | Label |
+|-------|---------------|-------|
+| N1 | Words 1–500 | Basis |
+| N2 | Words 501–1000 | Gemiddeld |
+| N3 | Words 1001–1500 | Gevorderd |
+| N4 | Words 1501–2000 | Expert |
 
 ---
 
@@ -18,11 +31,11 @@ This mirrors how you'd encounter a word while reading authentic Dutch content.
 
 | Theme | Words |
 |-------|-------|
-| ✈️ **Reizen & Vervoer** | vertrekhal · douane · overstappen · handbagage · ... |
-| 📚 **School & Onderwijs** | beoordelen · rooster · herkansen · slagen · stage · ... |
-| 🌍 **Aardrijkskunde** | bevolkingsdichtheid · klimaatzone · urbanisatie · delta · ... |
-| 💼 **Werk & Carrière** | solliciteren · vergadering · proeftijd · pensioen · ... |
-| 🏥 **Gezondheid & Lichaam** | symptoom · diagnose · vaccinatie · chronisch · ... |
+| ✈️ **Reizen & Vervoer** | verblijf · bestemming · douane · overstappen · toeslag · ... |
+| 📚 **School & Onderwijs** | beoordelen · rooster · slagen · stage · herkansen · scriptie · ... |
+| 🌍 **Aardrijkskunde** | migratie · zeeniveau · delta · urbanisatie · evenaar · ... |
+| 💼 **Werk & Carrière** | solliciteren · vergadering · leidinggevende · proeftijd · ... |
+| 🏥 **Gezondheid & Lichaam** | symptoom · herstel · diagnose · chronisch · bijwerking · ... |
 
 ---
 
@@ -30,80 +43,102 @@ This mirrors how you'd encounter a word while reading authentic Dutch content.
 
 ```
 woordenschat-quiz/
-├── index.html              ← UI (HTML + CSS + JS, fetches from data/)
-├── site.webmanifest        ← PWA manifest
-├── data/
-│   ├── themes.json         ← Theme registry (id, label, emoji, color, wordCount)
-│   ├── reizen.json         ← Questions for Reizen theme
-│   ├── school.json         ← Questions for School theme
-│   ├── aardrijkskunde.json ← Questions for Aardrijkskunde theme
-│   ├── werk.json           ← Questions for Werk theme
-│   └── gezondheid.json     ← Questions for Gezondheid theme
+├── index.html          ← The entire app (HTML + CSS + JS + all data, self-contained)
+├── site.webmanifest    ← PWA manifest (installable on mobile)
 ├── assets/
-│   └── icons/              ← Favicons and PWA icons
+│   └── icons/          ← Favicons and PWA icons (192px, 512px)
 ├── README.md
 ├── LICENSE
 └── .gitignore
 ```
 
-**Architecture supports up to 2000+ words** across unlimited themes. The UI fetches `themes.json` on startup, then lazily loads each theme's question file on demand. Progress is stored in `localStorage`.
+**Everything is embedded in `index.html`.** No build step, no server, no external dependencies. Works as `file://`, GitHub Pages, or any static host.
 
 ---
 
-## Question format
+## Question format (embedded in index.html)
 
-Each question in a theme JSON file:
+Each question object inside `const QUESTIONS`:
 
-```json
+```js
 {
-  "word": "overstappen",
-  "pos": "werkwoord · scheidbaar",
-  "examples": [
+  word: "overstappen",
+  pos: "werkwoord · scheidbaar",
+  level: 2,                       // Hazenberg & Hulstijn frequency level (1–4)
+  examples: [
     "We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.",
     "Hij stapte in Brussel <mark>over</mark> op een andere trein.",
     "Bij <mark>overstappen</mark> heb je soms maar twintig minuten."
   ],
-  "options": [
+  options: [
     "je bagage checken",
-    "van vervoersmiddel wisselen tijdens een reis",
+    "van vervoersmiddel wisselen tijdens een reis",   // ← correct (index 1)
     "inchecken op de luchthaven",
     "een ticket omboeken"
   ],
-  "correct": 1,
-  "explanation": "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus.",
-  "hint": "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
+  correct: 1,
+  explanation: "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus.",
+  hint: "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
 }
 ```
 
-- `word` — the target word shown as the question
-- `pos` — part of speech label (shown below the word)
-- `examples` — 1–3 context sentences. Use `<mark>` to highlight the target word. **No translations.**
-- `options` — 4 answer choices (all in Dutch)
-- `correct` — 0-based index of the correct option
-- `explanation` — shown in feedback after answering (Dutch)
-- `hint` — optional hint (Dutch, shown on demand)
+| Field | Description |
+|-------|-------------|
+| `word` | Target word shown as the question |
+| `pos` | Part of speech (shown below the word) |
+| `level` | Frequency level 1–4 (Hazenberg & Hulstijn) |
+| `examples` | 1–3 context sentences. Use `<mark>` to highlight the target word. No translations. |
+| `options` | 4 answer choices (all Dutch) |
+| `correct` | 0-based index of the correct option |
+| `explanation` | Shown in feedback after answering (Dutch) |
+| `hint` | Optional hint shown on demand (Dutch) |
 
 ---
 
-## Adding a new theme
+## Adding words or themes
 
-1. Create `data/themename.json` with an array of questions (see format above)
-2. Add to `data/themes.json`:
+All data lives inside `index.html` in the `const QUESTIONS` object and `const THEMES` array.
 
-```json
-{
-  "id": "themename",
-  "label": "Thema Naam",
-  "description": "woord1 · woord2 · woord3",
-  "emoji": "🎯",
-  "color": "#FF8C42",
-  "wordCount": 10
-}
+### Add words to an existing theme
+
+Find the theme key in `QUESTIONS` (e.g. `reizen:`) and append a new object:
+
+```js
+{ word: "inchecken", pos: "werkwoord", level: 1,
+  examples: ["We konden online <mark>inchecken</mark> voor onze vlucht.", ...],
+  options: ["je bagage ophalen", "je reis registreren voor vertrek", ...],
+  correct: 1,
+  explanation: "...",
+  hint: "..." },
 ```
 
-3. Push — GitHub Pages deploys automatically.
+### Add a new theme
 
-`wordCount` should match the actual number of questions in your JSON file. It drives the progress ring on the home screen.
+1. Add an entry to `const THEMES`:
+
+```js
+{ id:"politiek", label:"Politiek & Bestuur", emoji:"🏛️", color:"#FF8C42",
+  description:"parlement · minister · wet · stemmen" },
+```
+
+2. Add a matching key in `const QUESTIONS`:
+
+```js
+politiek: [
+  { word:"parlement", pos:"zelfstandig naamwoord · het", level:1, ... },
+  ...
+]
+```
+
+No other code changes needed. The theme card and progress ring appear automatically.
+
+---
+
+## Level filtering (Hazenberg & Hulstijn)
+
+On the count-select screen, users choose a frequency level before starting. The quiz then filters the question pool to only that level. Each question carries a `level` field (1–4). The UI shows live word counts per level per theme.
+
+**Design decision:** Level filtering happens at session start — not during the quiz. This keeps the experience clean and predictable.
 
 ---
 
@@ -112,78 +147,84 @@ Each question in a theme JSON file:
 Progress is saved in `localStorage` under the key `wq_progress_v1`. It tracks:
 
 - Which words have been **seen**
-- Which words have been answered **correctly** (wrong resets the word — forces re-learning)
+- Which words have been answered **correctly** (a wrong answer *removes* the word from correct — forces re-learning)
 - **Best score** per theme
 - **Attempts** per theme
 
-The progress ring on the home screen shows `correct unique words / total wordCount`. Resetting progress clears `localStorage`.
+The progress ring on the home screen shows `correct unique words / total words in theme`. Resetting clears `localStorage`.
 
 ---
 
 ## Scaling to 2000+ words
 
-The architecture is designed for this from the start:
+The self-contained architecture scales cleanly:
 
-- Each theme is a separate JSON file — browser caches independently
-- `themes.json` is the only file loaded on startup (small)
-- Questions are lazy-loaded per theme, only when needed
-- Each session picks a **random subset** — so 200 words in a theme feels fresh every time
-- `localStorage` progress schema uses `Set` for O(1) word lookups
+```js
+const QUESTIONS = {
+  reizen:         [ /* up to 200 words */ ],
+  school:         [ /* up to 200 words */ ],
+  politiek:       [ /* new theme */       ],
+  technologie:    [ /* new theme */       ],
+  // ... as many themes as needed
+};
+```
 
-To add 2000 words: create 20 themes of 100 words each, or 10 themes of 200 words each. No code changes required.
-
----
-
-## Session counts
-
-The count selector lets users choose:
-- **10 vragen** — quick session (~8 min)
-- **20 vragen** — standard session (~15 min)
-- **Alles** — full theme (varies)
-
-Questions are randomly shuffled each session, so the same theme stays fresh across multiple attempts.
-
----
-
-## Design system
-
-Uses the same tokens as [Werkwoorden Quiz](https://github.com/chardrizard/samengestelde-werkwoorden-quiz):
-
-- `DM Sans` + `DM Mono` typography
-- Dark surface stack: `#0F1117` → `#181A20` → `#1E2028` → `#252830`
-- Semantic colors: correct (green), wrong (red), per-theme accent
-- Per-theme accent color for progress ring and navigation
-- Mobile-first, 480px max-width, safe-area padding for iOS
+- Random shuffle each session → same theme stays fresh across attempts
+- `localStorage` Set-based lookup is O(1) regardless of vocabulary size
+- Level filtering means learners can focus on exactly the words they need
+- Browser caches the single HTML file — subsequent loads are instant
 
 ---
 
 ## Run locally
 
+Just open `index.html` directly in a browser — no server needed.
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/woordenschat-quiz.git
-cd woordenschat-quiz
-python3 -m http.server 8000
-# Visit http://localhost:8000
+git clone https://github.com/chardrizard/woordenschat-quiz.git
+open index.html   # macOS
+# or double-click index.html on Windows/Linux
 ```
 
-> A local server is required because of `fetch()` — opening `file://` won't work.
+> Unlike the previous version, this build requires **no local server** — there are no `fetch()` calls.
+
+---
+
+## Deploy to GitHub Pages
+
+1. Push `index.html` (and `site.webmanifest`, `assets/`) to your repo
+2. Go to **Settings → Pages → Source: Deploy from branch → main / root**
+3. Done — live at `https://chardrizard.github.io/woordenschat-quiz/`
+
+---
+
+## Keyboard shortcuts
+
+| Key | Action |
+|-----|--------|
+| `A` `B` `C` `D` or `1` `2` `3` `4` | Select answer |
+| `Enter` | Next question |
+| `H` | Toggle hint |
+| `Esc` | Back / close |
+| `↑` `↓` | Navigate options or theme cards |
 
 ---
 
 ## Roadmap
 
 - [ ] More themes: Politiek, Technologie, Natuur & Milieu, Wonen, Familie
-- [ ] Spaced repetition mode (SRS algorithm for wrong answers)
+- [ ] Expand to 200 words per theme (2000 total)
+- [ ] Spaced repetition mode (SRS for wrong answers)
 - [ ] Mix mode — random words from all themes
 - [ ] Streak tracking
-- [ ] PWA install-to-homescreen
+- [ ] PWA install-to-homescreen (manifest + service worker)
 - [ ] Custom domain
 
 ---
 
 ## Contributing
 
-Wrong explanation? Unnatural sentence? Edit the relevant JSON in `data/` and open a PR. Native speaker corrections especially welcome.
+Wrong explanation? Unnatural sentence? Open the relevant section in `index.html` and edit the question object directly, then open a PR. Native speaker corrections especially welcome.
 
 ## License
 
