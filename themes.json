@@ -8,7 +8,7 @@
     "wordCount": 10
   },
   {
-    "id": "school",
+    "id": "school-onderwijs",
     "label": "School & Onderwijs",
     "description": "toets · cijfer · opdracht · docent · rooster",
     "emoji": "📚",
@@ -16,15 +16,7 @@
     "wordCount": 10
   },
   {
-    "id": "aardrijkskunde",
-    "label": "Aardrijkskunde",
-    "description": "hoofdstad · grens · klimaat · bevolking · rivier",
-    "emoji": "🌍",
-    "color": "#E09F3E",
-    "wordCount": 10
-  },
-  {
-    "id": "werk",
+    "id": "werk-studie",
     "label": "Werk & Carrière",
     "description": "solliciteren · vergadering · functie · salaris · collega",
     "emoji": "💼",
@@ -32,11 +24,75 @@
     "wordCount": 10
   },
   {
-    "id": "gezondheid",
-    "label": "Gezondheid & Lichaam",
-    "description": "symptoom · medicijn · klacht · behandeling · herstel",
+    "id": "mens-lichaam",
+    "label": "Mens, Lichaam & Gezondheid",
+    "description": "symptoom · medicijn · patiënt · behandeling · herstel",
     "emoji": "🏥",
     "color": "#E87F7F",
+    "wordCount": 10
+  },
+  {
+    "id": "maatschappij",
+    "label": "Maatschappij & Wereld",
+    "description": "politiek · overheid · klimaat · bevolking · wet",
+    "emoji": "🌍",
+    "color": "#E09F3E",
+    "wordCount": 10
+  },
+  {
+    "id": "huis-leven",
+    "label": "Huis & Dagelijks Leven",
+    "description": "kamer · meubel · straat · winkel · koken",
+    "emoji": "🏠",
+    "color": "#48CAE4",
+    "wordCount": 10
+  },
+  {
+    "id": "tijd-ruimte",
+    "label": "Tijd & Ruimte",
+    "description": "vroeger · toekomst · moment · afstand · richting",
+    "emoji": "⏳",
+    "color": "#F4A261",
+    "wordCount": 10
+  },
+  {
+    "id": "gevoelens",
+    "label": "Gevoelens & Gedachten",
+    "description": "angst · liefde · twijfel · hopen · geloven",
+    "emoji": "💭",
+    "color": "#FFB5A7",
+    "wordCount": 10
+  },
+  {
+    "id": "communicatie",
+    "label": "Communicatie",
+    "description": "gesprek · mening · vertellen · luisteren · uitleg",
+    "emoji": "🗣️",
+    "color": "#9D4EDD",
+    "wordCount": 10
+  },
+  {
+    "id": "actie-beweging",
+    "label": "Actie & Beweging",
+    "description": "lopen · pakken · gooien · vallen · zoeken",
+    "emoji": "🏃",
+    "color": "#FF006E",
+    "wordCount": 10
+  },
+  {
+    "id": "eigenschappen",
+    "label": "Eigenschappen",
+    "description": "groot · zwaar · mooi · belangrijk · gevaarlijk",
+    "emoji": "📏",
+    "color": "#06D6A0",
+    "wordCount": 10
+  },
+  {
+    "id": "verbindingswoorden",
+    "label": "Verbindingswoorden",
+    "description": "hoewel · tenzij · daarom · tijdens · omdat",
+    "emoji": "🔗",
+    "color": "#8D99AE",
     "wordCount": 10
   }
 ]
