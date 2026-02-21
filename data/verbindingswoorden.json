@@ -1,287 +1,287 @@
 [
   {
-    "word": "omdat",
-    "pos": "voegwoord",
+    "word": "verblijf",
+    "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Ze bleef thuis <mark>omdat</mark> ze ziek was.",
-      "Hij leerde hard <mark>omdat</mark> hij wilde slagen voor zijn examen.",
-      "<mark>Omdat</mark> het regende, gingen ze niet fietsen."
+      "Haar <mark>verblijf</mark> in Amsterdam duurde drie weken.",
+      "Tijdens ons <mark>verblijf</mark> bezochten we alle musea in de stad.",
+      "Voor een langer <mark>verblijf</mark> heb je een visum nodig."
     ],
     "options": [
-      "geeft een tegenstelling aan",
-      "geeft een gevolg aan",
-      "geeft een reden of oorzaak aan",
-      "geeft een tijdstip aan"
+      "de terugreis naar huis",
+      "het reizen naar een bestemming",
+      "het ergens zijn of wonen voor een periode",
+      "een hotelkamer reserveren"
     ],
     "correct": 2,
-    "explanation": "'Omdat' = voegwoord dat een reden of oorzaak aangeeft. Na 'omdat' staat de persoonsvorm achteraan in de bijzin: 'omdat ze ziek wás'. Vraagwoord: 'waarom?'.",
-    "hint": "Waarom bleef ze thuis? Vraag naar de reden. Het antwoord begint met 'ze bleef thuis...' wat?"
+    "explanation": "'Verblijf' is de periode dat je ergens bent of tijdelijk woont. Werkwoord: 'verblijven'. Denk aan 'verblijfsvergunning' = toestemming om ergens te wonen.",
+    "hint": "Niet de reis, maar de tijd die je doorbrengt op de bestemming."
   },
   {
-    "word": "hoewel",
-    "pos": "voegwoord",
-    "level": 2,
-    "examples": [
-      "<mark>Hoewel</mark> hij moe was, werkte hij door tot middernacht.",
-      "Ze kocht de jas, <mark>hoewel</mark> die erg duur was.",
-      "<mark>Hoewel</mark> het bewolkt was, gingen ze toch het strand op."
-    ],
-    "options": [
-      "geeft een voorwaarde aan",
-      "geeft een reden aan",
-      "geeft een tijd aan",
-      "geeft een tegenstelling of concessie aan"
-    ],
-    "correct": 3,
-    "explanation": "'Hoewel' = concessief voegwoord: iets is waar, maar het tegenovergestelde wordt ook gedaan of is ook waar. Synoniemen: 'ofschoon', 'al', 'ook al'.",
-    "hint": "Je verwacht dat iets niet doorgaat, maar toch gebeurt het. 'Moe, maar toch doorgaan' — dat verbind je met..."
-  },
-  {
-    "word": "toch",
-    "pos": "bijwoord / voegwoord",
+    "word": "bestemming",
+    "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "Het regende, maar ze gingen <mark>toch</mark> wandelen.",
-      "Ik dacht dat hij niet zou komen, maar hij was er <mark>toch</mark>.",
-      "Je kunt het <mark>toch</mark> proberen — je verliest niets."
+      "Lissabon was onze uiteindelijke <mark>bestemming</mark>.",
+      "Wat is de <mark>bestemming</mark> van je volgende reis?",
+      "De trein reed naar zijn eindstation als <mark>bestemming</mark>."
     ],
     "options": [
-      "geeft aan dat iets niet mogelijk is",
-      "geeft aan dat iets ondanks verwachting of tegenwerking wél gebeurt",
-      "geeft een tijdsvolgorde aan",
-      "geeft een reden of oorzaak aan"
+      "de duur van de reis",
+      "de plek waar je naartoe gaat",
+      "het vertrekpunt van een reis",
+      "de reisplanning of het schema"
     ],
     "correct": 1,
-    "explanation": "'Toch' = versterkend woord dat aangeeft dat iets ondanks een belemmering of verwachting wél zo is. Vergelijkbaar met 'toch nog', 'desondanks'.",
-    "hint": "Je verwachtte het niet, of er was een reden om het niet te doen — maar het gebeurde..."
+    "explanation": "'Bestemming' is de plek waarheen je onderweg bent — je eindpunt. Van 'bestemmen' = bepalen waarvoor iets bedoeld is.",
+    "hint": "Waar ga je naartoe? Dat is je...?"
   },
   {
-    "word": "tijdens",
-    "pos": "voorzetsel",
+    "word": "instappen",
+    "pos": "werkwoord · scheidbaar",
     "level": 1,
     "examples": [
-      "<mark>Tijdens</mark> de vergadering mochten ze hun telefoon niet gebruiken.",
-      "Hij viel in slaap <mark>tijdens</mark> de film.",
-      "<mark>Tijdens</mark> haar verblijf in Amsterdam bezocht ze alle musea."
+      "Passagiers met kleine kinderen mogen als eerste <mark>instappen</mark>.",
+      "Hij stapte vlak voor vertrek snel <mark>in</mark>.",
+      "Iedereen was al <mark>ingestapt</mark> toen de deuren sloten."
     ],
     "options": [
-      "geeft aan wat er op hetzelfde moment als iets anders gebeurt",
-      "geeft aan wat er voor een bepaald moment gebeurt",
-      "geeft aan hoe lang iets duurt",
-      "geeft aan wat er na een bepaald moment gebeurt"
+      "je ticket laten zien",
+      "je koffer inpakken",
+      "een voertuig binnengaan",
+      "je stoel zoeken"
     ],
-    "correct": 0,
-    "explanation": "'Tijdens' = gelijktijdig met, in de periode van. Voorzetsel gevolgd door een zelfstandig naamwoord. Synoniem: 'gedurende', 'in de loop van'.",
-    "hint": "De actie en de andere gebeurtenis vinden op hetzelfde moment plaats. In de film = ... de film."
+    "correct": 2,
+    "explanation": "'Instappen' betekent een voertuig (vliegtuig, trein, bus) binnengaan. Scheidbaar: 'stap in', 'stapte in', 'ingestapt'. Tegendeel: 'uitstappen'.",
+    "hint": "Wat doe je als je aan boord gaat van een vliegtuig of trein?"
   },
   {
-    "word": "namelijk",
-    "pos": "bijwoord",
+    "word": "annuleren",
+    "pos": "werkwoord",
     "level": 2,
     "examples": [
-      "Ik kan niet komen vanavond — ik ben <mark>namelijk</mark> ziek.",
-      "De prijs is hoog, en dat heeft een reden: het product is <mark>namelijk</mark> handgemaakt.",
-      "Ze is heel goed in haar werk, <mark>namelijk</mark> omdat ze elke dag oefent."
+      "Door het slechte weer werd de vlucht <mark>geannuleerd</mark>.",
+      "Hij moest zijn reservering <mark>annuleren</mark> omdat hij ziek was.",
+      "Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."
     ],
     "options": [
-      "geeft een tijdsvolgorde aan",
-      "geeft een uitleg of reden voor het vorige aan",
-      "geeft een tegenstelling aan",
-      "geeft een gevolg aan van de vorige zin"
+      "inchecken via de telefoon",
+      "een reservering of vlucht officieel afzeggen",
+      "je vlucht verzekeren",
+      "een boeking bevestigen"
     ],
     "correct": 1,
-    "explanation": "'Namelijk' = woord dat een verklaring of reden geeft voor wat eerder is gezegd. Staat nooit aan het begin van een zin. Vergelijkbaar met 'want' maar staat later in de zin.",
-    "hint": "Je hebt net iets gezegd, en nu leg je uit waarom. 'Ik kom niet — ik ben... ziek.' Welk woord past hier?"
+    "explanation": "'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.",
+    "hint": "Je had iets geboekt, maar het gaat niet door. Je...?"
   },
   {
-    "word": "bovendien",
-    "pos": "bijwoord",
+    "word": "overstappen",
+    "pos": "werkwoord · scheidbaar",
     "level": 2,
     "examples": [
-      "Het appartement is groot en mooi; <mark>bovendien</mark> is de huur betaalbaar.",
-      "Ze spreekt drie talen en is <mark>bovendien</mark> een uitstekende schrijver.",
-      "Het werk is interessant, en <mark>bovendien</mark> verdien je er goed aan."
+      "We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.",
+      "Hij stapte in Brussel <mark>over</mark> op een andere trein.",
+      "Bij <mark>overstappen</mark> heb je soms maar twintig minuten."
     ],
     "options": [
-      "voegt een extra positief punt toe bovenop wat al is gezegd",
-      "geeft de reden aan van de vorige zin",
-      "geeft een voorwaarde aan",
-      "geeft een tegenstelling aan met wat eerder is gezegd"
+      "van vervoersmiddel wisselen tijdens een reis",
+      "een ticket omboeken",
+      "je bagage checken",
+      "inchecken op de luchthaven"
     ],
     "correct": 0,
-    "explanation": "'Bovendien' = toevoeging die iets extra's aangeeft bovenop wat al is vermeld. Synoniem: 'daarnaast', 'ook nog'. Van 'boven' + 'dien' (dit).",
-    "hint": "Je hebt al een voordeel genoemd, en nu noem je nóg een voordeel. Je zegt..."
+    "explanation": "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.",
+    "hint": "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
   },
   {
-    "word": "tenzij",
-    "pos": "voegwoord",
+    "word": "douane",
+    "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "We gaan picknicken, <mark>tenzij</mark> het regent.",
-      "<mark>Tenzij</mark> je een betere oplossing hebt, doen we het op deze manier.",
-      "Ze komt zeker, <mark>tenzij</mark> er iets onverwachts gebeurt."
+      "Bij de <mark>douane</mark> moest hij zijn koffer openmaken voor inspectie.",
+      "Sommige goederen mag je niet door de <mark>douane</mark> meenemen.",
+      "Ze had niets aan te geven bij de <mark>douane</mark>."
     ],
     "options": [
-      "geeft een uitzondering of voorwaarde aan waaronder iets niet doorgaat",
-      "geeft een reden aan",
-      "geeft een tegenstelling aan",
-      "geeft twee gelijke opties aan"
+      "beveiligingspersoneel op de luchthaven",
+      "dienst die goederen en bagage controleert bij de grens",
+      "dienst die paspoorten controleert",
+      "loket voor vliegtickets"
     ],
-    "correct": 0,
-    "explanation": "'Tenzij' = behalve als, alleen niet als. Geeft de uitzondering aan waaronder iets anders geldt. Vergelijkbaar met 'als... niet'.",
-    "hint": "Het plan gaat door, maar er is één uitzondering. 'We gaan, ... het regent.' Welk woord past?"
+    "correct": 1,
+    "explanation": "De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.",
+    "hint": "De douane staat bij de grens. Ze kijken niet naar je gezicht, maar naar wat je bij je hebt."
   },
   {
-    "word": "waardoor",
-    "pos": "betrekkelijk bijwoord",
+    "word": "handbagage",
+    "pos": "zelfstandig naamwoord · de/het",
     "level": 2,
     "examples": [
-      "Hij sliep slecht, <mark>waardoor</mark> hij de volgende dag erg moe was.",
-      "Het systeem crashte, <mark>waardoor</mark> alle gegevens verloren gingen.",
-      "Ze trainde elke dag, <mark>waardoor</mark> haar prestaties sterk verbeterden."
+      "Mijn <mark>handbagage</mark> paste precies in het bagagevak boven de stoel.",
+      "Vloeistoffen in <mark>handbagage</mark> mogen maximaal 100 ml zijn.",
+      "Ze nam alleen <mark>handbagage</mark> mee voor haar weekendreis."
     ],
     "options": [
-      "geeft een tegenstelling aan",
-      "geeft de reden aan van de vorige zin",
-      "geeft het gevolg aan van de vorige zin",
-      "geeft een tijdstip aan"
-    ],
-    "correct": 2,
-    "explanation": "'Waardoor' = verbindingswoord dat het gevolg aangeeft. De eerste zin is de oorzaak, 'waardoor' verbindt met het gevolg. Synoniem: 'daardoor', 'waarmee'.",
-    "hint": "Oorzaak → gevolg. 'Hij sliep slecht, ... hij moe was.' Wat verbindt oorzaak met gevolg?"
-  },
-  {
-    "word": "aldus",
-    "pos": "bijwoord",
-    "level": 3,
-    "examples": [
-      "'Het is een kwestie van oefening', <mark>aldus</mark> de trainer.",
-      "<mark>Aldus</mark> werd besloten dat het project zou worden stopgezet.",
-      "De minister sprak: '<mark>Aldus</mark> zullen wij handelen.'"
-    ],
-    "options": [
-      "geeft een tegenstelling aan",
-      "geeft een tijdstip aan",
-      "geeft een conclusie of samenvatting aan, of citeert iemand",
-      "geeft een reden aan"
-    ],
-    "correct": 2,
-    "explanation": "'Aldus' = formeel woord voor 'zo', 'op deze manier', of om een citaat toe te schrijven. Van het Latijn 'aldus'. Gebruikt in formele of literaire teksten.",
-    "hint": "Een formeel woord voor 'zo' of 'op deze manier'. Je ziet het vaak na een citaat: '...', ... de minister."
-  },
-  {
-    "word": "desondanks",
-    "pos": "bijwoord",
-    "level": 3,
-    "examples": [
-      "Hij had weinig geslapen; <mark>desondanks</mark> presteerde hij uitstekend.",
-      "De omstandigheden waren moeilijk, maar <mark>desondanks</mark> gaven ze niet op.",
-      "Er waren grote bezwaren; <mark>desondanks</mark> werd het plan goedgekeurd."
-    ],
-    "options": [
-      "geeft een tijdsvolgorde aan",
-      "geeft een gevolg aan",
-      "geeft een reden aan voor het volgende",
-      "geeft aan dat iets ondanks een belemmering toch gebeurt"
+      "koffer die je inchekt bij de balie",
+      "bagage die apart in het ruim wordt vervoerd",
+      "tas die je opgeeft bij de balie",
+      "bagage die je zelf meeneemt in het vliegtuig"
     ],
     "correct": 3,
-    "explanation": "'Desondanks' = ondanks dat, toch. Formeler dan 'toch'. Van 'des' (door) + 'ondanks'. Synoniemen: 'toch', 'niettemin', 'ondanks dat'.",
-    "hint": "Er waren problemen, maar het ging toch door. Formeler dan 'toch'. Het woord is..."
+    "explanation": "'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.",
+    "hint": "Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig."
   },
   {
-    "word": "mits",
-    "pos": "voegwoord",
+    "word": "toeslag",
+    "pos": "zelfstandig naamwoord · de",
     "level": 3,
     "examples": [
-      "Je mag gaan, <mark>mits</mark> je om tien uur thuis bent.",
-      "Het plan wordt goedgekeurd, <mark>mits</mark> er voldoende budget is.",
-      "Ze helpt je graag, <mark>mits</mark> je het zelf ook probeert."
+      "Voor een extra koffer betaal je een <mark>toeslag</mark> van 30 euro.",
+      "Er geldt een <mark>toeslag</mark> voor stoelen bij het raam.",
+      "De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."
     ],
     "options": [
-      "geeft een voorwaarde aan waaronder iets mag of kan",
-      "geeft een uitzondering aan",
-      "geeft een reden aan",
-      "geeft een tegenstelling aan"
+      "extra bedrag bovenop de basisprijs",
+      "korting op de basisprijs",
+      "de totaalprijs van een ticket",
+      "een terugbetaling"
     ],
     "correct": 0,
-    "explanation": "'Mits' = op voorwaarde dat, alleen als. Geeft een vereiste aan waaraan voldaan moet worden. Vergelijkbaar met 'als' maar sterker. Formeler dan 'als'.",
-    "hint": "Je stelt een eis. Het mag alleen als aan die eis is voldaan. 'Je mag, ... je om tien uur thuis bent.'"
+    "explanation": "'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.",
+    "hint": "Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij."
   },
   {
-    "word": "doorgaans",
-    "pos": "bijwoord",
+    "word": "reisdocument",
+    "pos": "zelfstandig naamwoord · het",
     "level": 3,
     "examples": [
-      "<mark>Doorgaans</mark> begint de les om negen uur, maar vandaag was het later.",
-      "Ze is <mark>doorgaans</mark> vroeg op de hoogte van het laatste nieuws.",
-      "<mark>Doorgaans</mark> zijn de prijzen in de zomer hoger."
+      "Een paspoort is het bekendste <mark>reisdocument</mark>.",
+      "Controleer altijd of je <mark>reisdocument</mark> nog geldig is voor vertrek.",
+      "Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."
     ],
     "options": [
-      "altijd, zonder uitzondering",
-      "soms, af en toe",
-      "in de meeste gevallen, gewoonlijk",
-      "nooit, in geen enkel geval"
-    ],
-    "correct": 2,
-    "explanation": "'Doorgaans' = gewoonlijk, in de meeste gevallen. Formeler dan 'meestal'. Van 'doorgaan' = normaal verlopen. Synoniemen: 'gewoonlijk', 'in de regel'.",
-    "hint": "Niet altijd, maar wel in de meeste gevallen. Formeler dan 'meestal'."
-  },
-  {
-    "word": "derhalve",
-    "pos": "bijwoord",
-    "level": 4,
-    "examples": [
-      "De kosten zijn te hoog; wij zullen de samenwerking <mark>derhalve</mark> beëindigen.",
-      "Hij heeft de deadline gemist en zal <mark>derhalve</mark> worden uitgesloten.",
-      "Het bewijs is onvoldoende; <mark>derhalve</mark> wordt de verdachte vrijgesproken."
-    ],
-    "options": [
-      "geeft een conclusie of gevolg aan op formele toon",
-      "geeft een tijdstip aan",
-      "geeft een reden aan",
-      "geeft een tegenstelling aan"
+      "officieel document waarmee je je identiteit bewijst en mag reizen",
+      "een lijst van bezienswaardigheden",
+      "een reisverzekering",
+      "een vliegticket"
     ],
     "correct": 0,
-    "explanation": "'Derhalve' = daarom, dus. Formeel en schrijftalig. Van het Latijn 'de re halve'. Gebruik je in juridische, academische of officiële teksten.",
-    "hint": "Een heel formeel woord voor 'daarom' of 'dus'. Je ziet het in rechtbankverslagen en officiële brieven."
+    "explanation": "'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.",
+    "hint": "Zonder dit mag je de grens niet over. Het bewijst wie je bent."
   },
   {
-    "word": "evenals",
-    "pos": "voegwoord / voorzetsel",
+    "word": "vertrekhal",
+    "pos": "zelfstandig naamwoord · de",
     "level": 4,
     "examples": [
-      "<mark>Evenals</mark> zijn broer studeerde hij aan de Universiteit van Amsterdam.",
-      "De nieuwe wet geldt voor bedrijven, <mark>evenals</mark> voor zelfstandigen.",
-      "Zij werkte hard, <mark>evenals</mark> haar collega's."
+      "De <mark>vertrekhal</mark> was vol met reizigers die hun vlucht afwachtten.",
+      "Je vindt de incheckbalies aan het begin van de <mark>vertrekhal</mark>.",
+      "We liepen snel door de <mark>vertrekhal</mark> richting gate B7."
     ],
     "options": [
-      "geeft een uitzondering aan",
-      "geeft een reden aan",
-      "geeft aan dat iets ook voor de genoemde persoon of zaak geldt",
-      "geeft een tegenstelling aan met de vorige zin"
+      "wachtruimte bij het station",
+      "ruimte voor bagage ophalen",
+      "hal waar reizigers vertrekken",
+      "aankomsthal van een vliegveld"
     ],
     "correct": 2,
-    "explanation": "'Evenals' = net als, ook. Geeft aan dat iets in gelijke mate van toepassing is. Formeler dan 'net als'. Van 'even' (gelijk) + 'als'.",
-    "hint": "Net als, ook. Maar formeler. 'Zij werkt hard, ... haar collega's.' Welk woord past?"
+    "explanation": "'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.",
+    "hint": "Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?"
   },
   {
-    "word": "zowel...als",
-    "pos": "correlerende voegwoorden",
-    "level": 4,
+    "word": "inchecken",
+    "pos": "werkwoord",
+    "level": 1,
     "examples": [
-      "<mark>Zowel</mark> kinderen <mark>als</mark> volwassenen kunnen meedoen aan het programma.",
-      "De maatregel geldt <mark>zowel</mark> voor werkgevers <mark>als</mark> voor werknemers.",
-      "Ze spreekt <mark>zowel</mark> Nederlands <mark>als</mark> Engels vloeiend."
+      "Je kunt online <mark>inchecken</mark> tot 24 uur voor vertrek.",
+      "Bij de balie moest hij eerst <mark>inchecken</mark> voor de vlucht.",
+      "Na het <mark>inchecken</mark> gaf de baliemedewerker hem zijn boardingpass."
     ],
     "options": [
-      "geeft een tegenstelling aan tussen twee zaken",
-      "geeft een keuze aan tussen twee opties",
-      "geeft aan dat twee zaken allebei gelden",
-      "geeft aan dat geen van twee zaken geldt"
+      "je aanmelden voor een vlucht of hotel bij aankomst",
+      "door de paspoortcontrole gaan",
+      "je bagage ophalen na de vlucht",
+      "je ticket omboeken"
+    ],
+    "correct": 0,
+    "explanation": "'Inchecken' = je officieel aanmelden voor een vlucht of bij een hotel. Geleend uit het Engels 'check in'. Tegendeel bij hotel: 'uitchecken'.",
+    "hint": "Wat doe je bij de balie of online voor je naar de gate gaat?"
+  },
+  {
+    "word": "oponthoud",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "Door <mark>oponthoud</mark> op de luchthaven miste ze haar aansluitende vlucht.",
+      "We hadden een uur <mark>oponthoud</mark> in Parijs vanwege technische problemen.",
+      "Het <mark>oponthoud</mark> was frustrerend, maar onvermijdelijk."
+    ],
+    "options": [
+      "een extra kosten voor de reis",
+      "een geplande tussenstop tijdens een reis",
+      "een onverwachte of ongewenste vertraging",
+      "een verlenging van de reis"
     ],
     "correct": 2,
-    "explanation": "'Zowel...als' = correlatief voegwoord dat aangeeft dat beide zaken van toepassing zijn. Synoniem: 'én...én'. Tegendeel: 'noch...noch' (geen van beide).",
-    "hint": "Niet A of B — maar A én B. Beide gelden. 'Zowel kinderen... volwassenen mogen meedoen.'"
+    "explanation": "'Oponthoud' = een onverwachte vertraging of het langer wachten dan gepland. Van 'op' + 'onthoud' (verblijf). Synoniem: 'vertraging'.",
+    "hint": "Je was van plan door te reizen, maar iets houdt je tegen. Je hebt..."
+  },
+  {
+    "word": "reisverzekering",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Met een goede <mark>reisverzekering</mark> word je geholpen als je ziek wordt in het buitenland.",
+      "Ze vergat een <mark>reisverzekering</mark> af te sluiten en moest de ziekenhuiskosten zelf betalen.",
+      "Een <mark>reisverzekering</mark> dekt ook annuleringskosten."
+    ],
+    "options": [
+      "een verzekering die kosten dekt bij problemen tijdens een reis",
+      "een geldig visum voor het buitenland",
+      "een document dat je identiteit bewijst",
+      "een service om tickets goedkoper te boeken"
+    ],
+    "correct": 0,
+    "explanation": "'Reisverzekering' = een verzekering die kosten vergoedt bij ziekte, ongeval of annulering tijdens een reis. Samengesteld van 'reis' + 'verzekering'.",
+    "hint": "Als je ziek wordt in het buitenland, betaalt dit de rekeningen. Het is een..."
+  },
+  {
+    "word": "doorvoer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "De passagiers waren in <mark>doorvoer</mark> en hoefden geen visum aan te vragen.",
+      "Amsterdam Schiphol is een belangrijk <mark>doorvoer</mark>knooppunt in Europa.",
+      "Voor <mark>doorvoer</mark> via sommige landen is toch een transitvisum vereist."
+    ],
+    "options": [
+      "het verlengen van een visum",
+      "het overstappen naar een andere vliegtuigmaatschappij",
+      "het reizen door een land of luchthaven zonder er officieel in te reizen",
+      "het ophalen van bagage na een vlucht"
+    ],
+    "correct": 2,
+    "explanation": "'Doorvoer' = het passeren van een land of luchthaven zonder er in te reizen. Van 'door' + 'voer' (het voeren, vervoeren). Engels: 'transit'.",
+    "hint": "Je vliegt via Amsterdam maar je reist niet naar Nederland. Je bent in..."
+  },
+  {
+    "word": "boeken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>boekte</mark> vroeg een hotel om de beste prijs te krijgen.",
+      "Hij <mark>boekte</mark> zijn vlucht online via een vergelijkingssite.",
+      "Heb je al een tafel <mark>geboekt</mark> voor vanavond?"
+    ],
+    "options": [
+      "informatie opzoeken over een bestemming",
+      "betalen voor een ticket",
+      "een reis of plek annuleren",
+      "een reis, kamer of plek officieel reserveren"
+    ],
+    "correct": 3,
+    "explanation": "'Boeken' = officieel reserveren van een vlucht, hotel of activiteit. Van 'boek' — vroeger schreef je reserveringen op in een boek. Zelfstandig naamwoord: 'boeking'.",
+    "hint": "Voor je op reis gaat, moet je je vluchten en hotel..."
   }
 ]
