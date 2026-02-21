@@ -9,12 +9,12 @@
       "Hij werd streng <mark>beoordeeld</mark> voor zijn presentatie."
     ],
     "options": [
-      "een opdracht inleveren",
-      "iets een oordeel geven, evalueren",
       "een toets maken",
-      "iets uitleggen aan de klas"
+      "een opdracht inleveren",
+      "iets uitleggen aan de klas",
+      "iets een oordeel geven, evalueren"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Beoordelen' betekent een oordeel vormen over iets of iemand. In schoolcontext: een cijfer of evaluatie geven. Zelfstandig naamwoord: 'beoordeling'.",
     "hint": "Wat doet een docent als hij een werkstuk nakijkt en een cijfer geeft?"
   },
@@ -29,11 +29,11 @@
     ],
     "options": [
       "een lijst van klasgenoten",
-      "een schema met lessen en tijden",
+      "een lijst van schoolregels",
       "een overzicht van cijfers",
-      "een lijst van schoolregels"
+      "een schema met lessen en tijden"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Rooster' (in schoolcontext) is het lesrooster: een schema dat aangeeft welke lessen er wanneer zijn. Ook gebruikt voor werktijden.",
     "hint": "Je kijkt hierop om te zien wanneer welk vak is. Het is een schema."
   },
@@ -47,12 +47,12 @@
       "Niet iedereen <mark>slaagt</mark> de eerste keer."
     ],
     "options": [
-      "zakken voor een examen",
       "een examen of toets met goed gevolg afleggen",
+      "zakken voor een examen",
       "een vak kiezen",
       "een diploma ontvangen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Slagen' betekent een examen of toets halen. Tegendeel: 'zakken'. 'Geslaagd' gebruik je ook voor succes in het algemeen.",
     "hint": "Het tegendeel van zakken. Je hebt het examen..."
   },
@@ -66,12 +66,12 @@
       "Een goede <mark>stage</mark> kan leiden tot een echte baan."
     ],
     "options": [
-      "een schooluitje of excursie",
       "een werkperiode als onderdeel van de opleiding",
-      "een tussentoets halverwege het jaar",
-      "een extra cursus na schooltijd"
+      "een extra cursus na schooltijd",
+      "een schooluitje of excursie",
+      "een tussentoets halverwege het jaar"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Stage' is een praktijkperiode waarbij studenten werkervaring opdoen als onderdeel van hun opleiding. Afgeleid van het Franse 'stage'.",
     "hint": "Je gaat tijdelijk werken bij een bedrijf als onderdeel van je studie."
   },
@@ -85,9 +85,9 @@
       "Niet iedereen krijgt de kans om te <mark>herkansen</mark>."
     ],
     "options": [
-      "een toets voor de eerste keer maken",
-      "een toets of examen opnieuw afleggen",
       "een opdracht opnieuw inleveren",
+      "een toets of examen opnieuw afleggen",
+      "een toets voor de eerste keer maken",
       "een vak kiezen"
     ],
     "correct": 1,
@@ -104,12 +104,12 @@
       "Goede <mark>begeleiding</mark> is belangrijk voor leerlingen met dyslexie."
     ],
     "options": [
-      "zelfstandig werken aan een opdracht",
-      "hulp en ondersteuning bij leren of werken",
       "het beoordelen van een prestatie",
-      "het geven van een cijfer"
+      "het geven van een cijfer",
+      "zelfstandig werken aan een opdracht",
+      "hulp en ondersteuning bij leren of werken"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Begeleiding' is de hulp en ondersteuning die iemand krijgt bij een taak. Werkwoord: 'begeleiden'. Een begeleider helpt maar doet het niet over.",
     "hint": "Iemand die naast je staat en je ondersteunt terwijl jij het zelf doet."
   },
@@ -123,12 +123,12 @@
       "Ben je al <mark>ingeschreven</mark> aan de universiteit?"
     ],
     "options": [
+      "een rapport ontvangen",
       "een vak afronden",
       "je officieel aanmelden voor een opleiding of vak",
-      "een tentamen afleggen",
-      "een rapport ontvangen"
+      "een tentamen afleggen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Inschrijven' betekent je officieel aanmelden voor een opleiding, cursus of vak. Scheidbaar: 'schrijf in', 'schreef in', 'ingeschreven'.",
     "hint": "Wat doe je om officieel lid te worden van een opleiding of cursus?"
   },
@@ -142,12 +142,12 @@
       "Het <mark>nakijken</mark> van 30 scripties kost veel tijd."
     ],
     "options": [
-      "een toets plannen",
-      "antwoorden of werk controleren en beoordelen",
+      "een opdracht inleveren",
       "een les voorbereiden",
-      "een opdracht inleveren"
+      "een toets plannen",
+      "antwoorden of werk controleren en beoordelen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Nakijken' betekent iets controleren op fouten of beoordelen. Scheidbaar: 'kijk na', 'keek na', 'nagekeken'.",
     "hint": "Wat doet een docent met toetsen nadat leerlingen ze hebben gemaakt?"
   },
@@ -162,11 +162,11 @@
     ],
     "options": [
       "aanwezig zijn bij de les",
-      "afwezig zijn, niet op school zijn",
       "te laat komen in de klas",
+      "afwezig zijn, niet op school zijn",
       "een dag vrij vragen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Absentie' betekent afwezigheid. Van het Latijn 'absentia'. Het tegenovergestelde is 'aanwezigheid' of 'presentie'.",
     "hint": "Je bent niet op school — je hebt..."
   },
@@ -180,12 +180,12 @@
       "Ze werkt al maanden aan haar <mark>scriptie</mark>."
     ],
     "options": [
-      "een kort verslag van een les",
-      "een uitgebreid onderzoeksverslag als afsluiting van een studie",
+      "een opdracht die je wekelijks inlevert",
       "een presentatie voor de klas",
-      "een opdracht die je wekelijks inlevert"
+      "een uitgebreid onderzoeksverslag als afsluiting van een studie",
+      "een kort verslag van een les"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Scriptie' is een uitgebreid onderzoeksverslag dat studenten schrijven als onderdeel van hun bachelor- of masteropleiding. Synoniem voor master: 'thesis'.",
     "hint": "Een lang onderzoeksdocument dat je schrijft aan het einde van je studie."
   },
@@ -218,10 +218,10 @@
       "Na een paar maanden <mark>bijles</mark> gingen zijn cijfers sterk omhoog."
     ],
     "options": [
-      "een extra verplicht vak op school",
-      "extra privéonderwijs buiten de reguliere lessen",
       "een herhaling van de reguliere les",
-      "een groepsoefening na schooltijd"
+      "extra privéonderwijs buiten de reguliere lessen",
+      "een groepsoefening na schooltijd",
+      "een extra verplicht vak op school"
     ],
     "correct": 1,
     "explanation": "'Bijles' = extra privéonderwijs voor een leerling die extra hulp nodig heeft. Van 'bij' (extra) + 'les'. Vergelijkbaar met 'tutoring' in het Engels.",
@@ -238,11 +238,11 @@
     ],
     "options": [
       "het recht om gratis onderwijs te volgen",
-      "de wettelijke verplichting om naar school te gaan",
+      "de verplichting om een diploma te halen",
       "de keuze om thuis les te krijgen",
-      "de verplichting om een diploma te halen"
+      "de wettelijke verplichting om naar school te gaan"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Leerplicht' = de wettelijke verplichting voor kinderen om onderwijs te volgen. Samengesteld van 'leren' + 'plicht'. Geldt in Nederland van 5 tot 16 jaar.",
     "hint": "Kinderen zijn verplicht om naar school te gaan. Die verplichting heet de..."
   },
@@ -256,10 +256,10 @@
       "Hij was blij met zijn <mark>cijfer</mark> voor het mondeling examen."
     ],
     "options": [
-      "een schriftelijk commentaar van de docent",
-      "een getal dat een prestatie beoordeelt",
       "een certificaat na het afronden van een vak",
-      "een rangschikking in de klas"
+      "een getal dat een prestatie beoordeelt",
+      "een rangschikking in de klas",
+      "een schriftelijk commentaar van de docent"
     ],
     "correct": 1,
     "explanation": "'Cijfer' = een getal dat de prestatie van een leerling weergeeft. In Nederland van 1 (slecht) tot 10 (uitstekend). Een 6 is het minimum om te slagen.",
@@ -277,8 +277,8 @@
     "options": [
       "een klein huiswerkopdracht",
       "een formeel examen aan een universiteit of hogeschool",
-      "een mondeling gesprek met de docent",
-      "een tussentijdse beoordeling zonder cijfer"
+      "een tussentijdse beoordeling zonder cijfer",
+      "een mondeling gesprek met de docent"
     ],
     "correct": 1,
     "explanation": "'Tentamen' = een formeel examen aan een hogeschool of universiteit. Van het Latijn 'tentamen' (poging). Op school heet het 'toets' of 'examen'.",
