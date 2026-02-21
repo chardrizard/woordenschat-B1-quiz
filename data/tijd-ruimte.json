@@ -1,287 +1,287 @@
 [
   {
-    "word": "tijdelijk",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 1,
-    "examples": [
-      "Dit is slechts een <mark>tijdelijke</mark> oplossing — we zoeken iets permanents.",
-      "Ze heeft een <mark>tijdelijk</mark> contract van drie maanden.",
-      "De storing was <mark>tijdelijk</mark> en werd snel verholpen."
-    ],
-    "options": [
-      "voor een beperkte periode, niet permanent",
-      "voor altijd, zonder einde",
-      "onmiddellijk, zonder wachten",
-      "regelmatig terugkerend"
-    ],
-    "correct": 0,
-    "explanation": "'Tijdelijk' = voor een beperkte periode, niet voor altijd. Tegendeel: 'permanent' of 'blijvend'. Van 'tijd'.",
-    "hint": "Het tegendeel van 'permanent'. Niet voor altijd, maar voor een..."
-  },
-  {
-    "word": "vroeger",
-    "pos": "bijwoord",
-    "level": 1,
-    "examples": [
-      "<mark>Vroeger</mark> fietste hij elke dag naar school, maar nu neemt hij de trein.",
-      "<mark>Vroeger</mark> was dit een klein dorp — nu is het een grote stad.",
-      "Dat was <mark>vroeger</mark> anders."
-    ],
-    "options": [
-      "op dit moment",
-      "in de toekomst",
-      "in het verleden",
-      "af en toe, soms"
-    ],
-    "correct": 2,
-    "explanation": "'Vroeger' verwijst naar een tijd in het verleden — niet heel recent, maar ooit. Vergelijkbaar met 'in het verleden' of 'destijds'.",
-    "hint": "Niet nu, niet straks, maar... toen. In het verleden."
-  },
-  {
-    "word": "moment",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 1,
-    "examples": [
-      "Op dat <mark>moment</mark> realiseerde ze zich dat ze haar sleutels vergeten was.",
-      "Wacht even — dit is niet het juiste <mark>moment</mark>.",
-      "Geniet van elk <mark>moment</mark>."
-    ],
-    "options": [
-      "een terugkerend tijdstip",
-      "een heel kort tijdstip",
-      "een lange periode van meerdere jaren",
-      "een vaste afspraak in de agenda"
-    ],
-    "correct": 1,
-    "explanation": "'Moment' = een heel kort punt in de tijd. Van het Latijnse 'momentum'. Ook gebruikt voor 'nu': 'op dit moment' = nu.",
-    "hint": "Niet een uur, niet een dag — maar een heel kort tijdstip. Een..."
-  },
-  {
-    "word": "eeuw",
+    "word": "burger",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De Gouden <mark>Eeuw</mark> was een bloeiperiode voor Nederland in de 17e <mark>eeuw</mark>.",
-      "Het duurt nog een halve <mark>eeuw</mark> voor dit project af is — dat is 50 jaar.",
-      "In de 21e <mark>eeuw</mark> speelt technologie een steeds grotere rol."
+      "Als <mark>burger</mark> van Nederland heb je recht op een paspoort.",
+      "De <mark>burgers</mark> van de stad protesteerden tegen de nieuwe wet.",
+      "Een goede <mark>burger</mark> betaalt belasting en stemt bij verkiezingen."
     ],
     "options": [
-      "een periode van honderd jaar",
-      "een onbepaalde lange periode",
-      "een periode van duizend jaar",
-      "een periode van tien jaar"
+      "een medewerker van de overheid",
+      "iemand die in een dorp woont",
+      "een persoon met officieel lidmaatschap van een staat of stad",
+      "een soldaat in het leger"
     ],
-    "correct": 0,
-    "explanation": "'Eeuw' = 100 jaar. De 21e eeuw loopt van 2001 tot 2100. Van het Latijn 'saeculum'. Meervoud: 'eeuwen'.",
-    "hint": "Tien jaar = decennium. Honderd jaar = ..."
+    "correct": 2,
+    "explanation": "'Burger' = een persoon die officieel lid is van een staat en daarmee rechten en plichten heeft. Van het Middelhollandse 'borgher'. Burgerrechten = rechten die hierbij horen.",
+    "hint": "Als je de nationaliteit van een land hebt, ben je een... van dat land."
   },
   {
-    "word": "afstand",
+    "word": "wet",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De <mark>afstand</mark> tussen Amsterdam en Rotterdam is ongeveer 75 kilometer.",
-      "Ze hield emotioneel <mark>afstand</mark> van haar collega's.",
-      "Op welke <mark>afstand</mark> staat de volgende benzinepomp?"
+      "De <mark>wet</mark> verbiedt het rijden onder invloed van alcohol.",
+      "Het parlement stemde voor een nieuwe <mark>wet</mark> over privacy.",
+      "Je bent verplicht de <mark>wet</mark> te volgen."
     ],
     "options": [
-      "de snelheid waarmee je reist",
-      "de tijd die een reis duurt",
-      "de ruimte tussen twee punten",
-      "de richting van een route"
+      "een officiële regel die door de overheid is vastgesteld en moet worden gevolgd",
+      "een verzoek van een politieke partij",
+      "een akkoord tussen twee landen",
+      "een advies van de overheid"
     ],
-    "correct": 2,
-    "explanation": "'Afstand' = de ruimte of meting tussen twee punten. Ook figuurlijk: emotionele afstand. Van 'af' + 'staan' = hoe ver iets van je vandaan staat.",
-    "hint": "Als je meet hoe ver Amsterdam van Rotterdam is, meet je de..."
+    "correct": 0,
+    "explanation": "'Wet' = een officieel vastgestelde regel die verplicht is. Meervoud: 'wetten'. 'Wetgeving' = het geheel van wetten. Overtreding is strafbaar.",
+    "hint": "Je mag niet door rood rijden — dat staat in de..."
   },
   {
-    "word": "verleden",
-    "pos": "zelfstandig naamwoord · het",
+    "word": "oorlog",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De Tweede Wereld<mark>oorlog</mark> duurde van 1939 tot 1945.",
+      "Door de <mark>oorlog</mark> moesten miljoenen mensen vluchten.",
+      "Na jaren van <mark>oorlog</mark> tekenden de landen een vredesakkoord."
+    ],
+    "options": [
+      "een gewapend conflict tussen landen of groepen",
+      "een economische crisis in een land",
+      "een politieke verkiezing",
+      "een diplomatieke onderhandeling tussen landen"
+    ],
+    "correct": 0,
+    "explanation": "'Oorlog' = een gewapend conflict op grote schaal, meestal tussen staten. Tegendeel: 'vrede'. 'Oorlogvoering' = hoe een oorlog gevoerd wordt.",
+    "hint": "Landen die met wapens tegen elkaar strijden, zijn in..."
+  },
+  {
+    "word": "verkiezing",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Bij de <mark>verkiezing</mark> van vorig jaar stemden recordaantallen mensen.",
+      "De partij won de <mark>verkiezingen</mark> met een grote meerderheid.",
+      "In Nederland zijn eens in de vier jaar Tweede Kamer<mark>verkiezingen</mark>."
+    ],
+    "options": [
+      "een vergadering van politici",
+      "de benoeming van een minister",
+      "een proces waarbij burgers stemmen om leiders of vertegenwoordigers te kiezen",
+      "een volksstemming over een wet"
+    ],
+    "correct": 2,
+    "explanation": "'Verkiezing' = het democratische proces waarbij burgers stemmen. Van 'kiezen' = selecteren. 'Verkiezingscampagne' = de periode voor de stemming.",
+    "hint": "Elke vier jaar gaan Nederlanders naar het stemhokje. Dat is een..."
+  },
+  {
+    "word": "bevolking",
+    "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Het is beter om naar de toekomst te kijken dan in het <mark>verleden</mark> te blijven.",
-      "Nederland heeft een rijke maritiem <mark>verleden</mark>.",
-      "In haar <mark>verleden</mark> had ze moeilijke tijden doorgemaakt."
+      "De <mark>bevolking</mark> van Nederland telt ruim 17 miljoen mensen.",
+      "Een groot deel van de <mark>bevolking</mark> woont in de Randstad.",
+      "De vergrijzing heeft grote gevolgen voor de <mark>bevolking</mark>."
     ],
     "options": [
-      "de komende tijd, de toekomst",
-      "het heden, dit moment",
-      "een onbepaalde, verre toekomst",
-      "de tijd die al geweest is"
+      "de migranten die naar een land komen",
+      "de regering van een land",
+      "de werkende mensen in een land",
+      "alle mensen die in een bepaald gebied wonen"
     ],
     "correct": 3,
-    "explanation": "'Verleden' = de tijd die achter ons ligt. Tegendelen: 'heden' (nu) en 'toekomst' (later). Als grammaticale term: 'verleden tijd' = past tense.",
-    "hint": "Heden is nu. Toekomst is later. En het... is wat al geweest is."
+    "explanation": "'Bevolking' = alle inwoners van een bepaald gebied gezamenlijk. Van 'bevolken' = bewonen. Synoniem: 'inwoners', 'bevolkingsgroep'.",
+    "hint": "Alle mensen die in Nederland wonen vormen de Nederlandse..."
   },
   {
-    "word": "tijdstip",
+    "word": "beleid",
     "pos": "zelfstandig naamwoord · het",
     "level": 2,
     "examples": [
-      "Om welk <mark>tijdstip</mark> begint de vergadering?",
-      "Dit is niet het juiste <mark>tijdstip</mark> voor die discussie.",
-      "Op hetzelfde <mark>tijdstip</mark> elke dag eten is goed voor de gezondheid."
+      "De nieuwe minister veranderde het <mark>beleid</mark> op het gebied van onderwijs.",
+      "Het gemeentelijke <mark>beleid</mark> is gericht op duurzaamheid.",
+      "Veel burgers zijn het niet eens met het huidige <mark>beleid</mark>."
     ],
     "options": [
-      "een terugkerende gewoonte",
-      "een specifiek punt op de klok of in de dag",
-      "de duur van een activiteit",
-      "een lange periode van weken of maanden"
-    ],
-    "correct": 1,
-    "explanation": "'Tijdstip' = een specifiek, bepaald moment op de klok. Samengesteld van 'tijd' + 'stip' (punt). Bijna synoniem met 'moment', maar concreter.",
-    "hint": "Niet de duur, maar het exacte punt. Hoe laat? Op welk..."
-  },
-  {
-    "word": "omgeving",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De <mark>omgeving</mark> van Amsterdam is groen en waterrijk.",
-      "Hij groeide op in een veilige, warme <mark>omgeving</mark>.",
-      "Het bedrijf heeft veel invloed op de lokale <mark>omgeving</mark>."
-    ],
-    "options": [
-      "de binnenruimte van een gebouw",
-      "de ruimte en situatie rondom iets of iemand",
-      "de mensen in een team of groep",
-      "de afstand tot het stadscentrum"
-    ],
-    "correct": 1,
-    "explanation": "'Omgeving' = alles wat rondom je is — ruimtelijk of sociaal. Van 'omgeven' = omringen. Synoniemen: 'buurt', 'context', 'milieu'.",
-    "hint": "Wat je rondom je ziet, hoort en voelt — je directe..."
-  },
-  {
-    "word": "gelijktijdig",
-    "pos": "bijwoord / bijvoeglijk naamwoord",
-    "level": 3,
-    "examples": [
-      "Twee evenementen vonden <mark>gelijktijdig</mark> plaats, wat problemen gaf.",
-      "Ze probeerde <mark>gelijktijdig</mark> te werken en te studeren.",
-      "De <mark>gelijktijdige</mark> aankomst van drie treinen zorgde voor drukte."
-    ],
-    "options": [
-      "één voor één, achter elkaar",
-      "later dan gepland",
-      "op hetzelfde moment tegelijk",
-      "op gezette tijden, periodiek"
-    ],
-    "correct": 2,
-    "explanation": "'Gelijktijdig' = op hetzelfde moment, tegelijkertijd. Samengesteld van 'gelijk' (hetzelfde) + 'tijdig' (op tijd, tijdgerelateerd). Synoniem: 'simultaan'.",
-    "hint": "Niet na elkaar, maar op precies hetzelfde moment. Dat noem je..."
-  },
-  {
-    "word": "grens",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De <mark>grens</mark> tussen Nederland en België is hier bijna onzichtbaar.",
-      "Ze gaf aan dat dit de <mark>grens</mark> van haar geduld was.",
-      "Over de <mark>grens</mark> met Duitsland zijn de regels anders."
-    ],
-    "options": [
-      "de hoofdstad van een land",
-      "de afstand tussen twee steden",
-      "het midden van een gebied",
-      "de lijn of scheiding tussen twee gebieden of zaken"
+      "een debat in de politiek",
+      "een wet die door het parlement is aangenomen",
+      "een akkoord tussen twee partijen",
+      "een plan van aanpak of koers die een organisatie of overheid volgt"
     ],
     "correct": 3,
-    "explanation": "'Grens' = de scheiding of limiet tussen twee gebieden, landen of concepten. Ook figuurlijk: 'grenzen stellen' = limieten bepalen.",
-    "hint": "Wat scheidt Nederland van België? Dat is een..."
+    "explanation": "'Beleid' = het geheel van plannen, keuzes en maatregelen dat een overheid of organisatie voert. Van 'beleiden' = leiden, sturen.",
+    "hint": "De plannen en keuzes die de overheid maakt om een doel te bereiken — dat is haar..."
   },
   {
-    "word": "interval",
+    "word": "ongelijkheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "<mark>Ongelijkheid</mark> in inkomen neemt wereldwijd toe.",
+      "De beweging strijdt tegen sociale <mark>ongelijkheid</mark>.",
+      "Onderwijs kan bijdragen aan het verminderen van <mark>ongelijkheid</mark>."
+    ],
+    "options": [
+      "het gelijk behandelen van alle mensen",
+      "de samenwerking tussen verschillende landen",
+      "het verschil in kansen, bezit of rechten tussen mensen",
+      "het verbod op discriminatie"
+    ],
+    "correct": 2,
+    "explanation": "'Ongelijkheid' = het bestaan van grote verschillen in inkomen, kansen of macht. 'On-' = niet, 'gelijkheid' = gelijke situatie. Synoniem: 'inequaliteit'.",
+    "hint": "Als sommigen veel meer hebben dan anderen, en de kansen niet gelijk zijn, is er..."
+  },
+  {
+    "word": "democratie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Nederland is een parlementaire <mark>democratie</mark>.",
+      "In een <mark>democratie</mark> hebben burgers het recht om te stemmen.",
+      "Persvrijheid is een belangrijk kenmerk van een gezonde <mark>democratie</mark>."
+    ],
+    "options": [
+      "een bestuursvorm waarbij één persoon alle macht heeft",
+      "een bestuursvorm waarbij de kerk de wet bepaalt",
+      "een bestuursvorm waarbij burgers meebeslissen via verkiezingen",
+      "een systeem waarbij experts de beslissingen nemen"
+    ],
+    "correct": 2,
+    "explanation": "'Democratie' = bestuursvorm waarbij burgers via stemmen invloed uitoefenen op beslissingen. Van het Grieks: 'demos' (volk) + 'kratos' (macht).",
+    "hint": "De macht bij het volk. Burgers stemmen. Dat systeem heet..."
+  },
+  {
+    "word": "vluchtelingenkamp",
     "pos": "zelfstandig naamwoord · het",
     "level": 3,
     "examples": [
-      "De treinen rijden met een <mark>interval</mark> van tien minuten.",
-      "Het <mark>interval</mark> tussen twee hartslagen kan worden gemeten.",
-      "Hij traint met korte <mark>intervallen</mark> van hoge intensiteit."
+      "Tienduizenden mensen leefden in het <mark>vluchtelingenkamp</mark> aan de grens.",
+      "Humanitaire organisaties brachten voedsel naar het <mark>vluchtelingenkamp</mark>.",
+      "De omstandigheden in het <mark>vluchtelingenkamp</mark> waren erg slecht."
     ],
     "options": [
-      "de pauze of tussentijd tussen twee momenten",
-      "de totale duur van een activiteit",
-      "het begin van een tijdperiode",
-      "een terugkerende afspraak"
+      "een militaire basis",
+      "een centrum voor arbeidsmigranten",
+      "een tijdelijk kamp voor toeristen",
+      "een voorziening waar vluchtelingen tijdelijk worden opgevangen"
     ],
-    "correct": 0,
-    "explanation": "'Interval' = de tijd of ruimte tussen twee momenten of gebeurtenissen. Van het Latijn 'intervallum'. Gebruikt in sport, muziek en tijdplanning.",
-    "hint": "De tijd tússen twee treinen of twee hartslagen — dat is het..."
+    "correct": 3,
+    "explanation": "'Vluchtelingenkamp' = een tijdelijke opvanglocatie voor mensen die gevlucht zijn voor oorlog, geweld of vervolging. Samengesteld van 'vluchteling' + 'kamp'.",
+    "hint": "Mensen die door oorlog hun land ontvluchten, wonen vaak tijdelijk in een..."
   },
   {
-    "word": "vluchtig",
-    "pos": "bijvoeglijk naamwoord",
+    "word": "soevereiniteit",
+    "pos": "zelfstandig naamwoord · de",
     "level": 3,
     "examples": [
-      "Ze wierp een <mark>vluchtige</mark> blik op haar telefoon tijdens de vergadering.",
-      "Het was slechts een <mark>vluchtige</mark> ontmoeting — ze spraken maar vijf minuten.",
-      "De <mark>vluchtige</mark> schoonheid van een zonsondergang maakt hem bijzonder."
+      "De <mark>soevereiniteit</mark> van een land betekent dat het zijn eigen wetten mag maken.",
+      "De bezetting schond de <mark>soevereiniteit</mark> van het land.",
+      "EU-lidstaten dragen een deel van hun <mark>soevereiniteit</mark> over aan Brussel."
     ],
     "options": [
-      "intens en diepgaand",
-      "langdurig en grondig",
-      "heel kort en oppervlakkig, snel voorbijgaand",
-      "regelmatig en voorspelbaar"
+      "de culturele identiteit van een volk",
+      "de economische onafhankelijkheid van een land",
+      "de militaire macht van een land",
+      "het recht van een staat om zichzelf te besturen zonder inmenging"
     ],
-    "correct": 2,
-    "explanation": "'Vluchtig' = snel voorbijgaand, kort en oppervlakkig. Van 'vlucht' (het snel gaan). Vergelijkbaar met 'kort' maar met de nadruk op het vergankelijke karakter.",
-    "hint": "Een vluchtige blik — niet lang, niet diep. Heel..."
+    "correct": 3,
+    "explanation": "'Soevereiniteit' = het recht en de macht van een staat om zichzelf volledig te besturen. Van het Frans 'souveraineté'. Bijvoeglijk naamwoord: 'soeverein'.",
+    "hint": "Een land dat zelf zijn wetten maakt en niet door anderen wordt bestuurd, heeft..."
   },
   {
-    "word": "eeuwigdurend",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "grondwet",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
     "examples": [
-      "Ze waren het beu van de <mark>eeuwigdurende</mark> vergaderingen.",
-      "De <mark>eeuwigdurende</mark> discussie over dit onderwerp kent geen einde.",
-      "De natuur lijkt in <mark>eeuwigdurende</mark> verandering."
+      "De Nederlandse <mark>Grondwet</mark> garandeert vrijheid van meningsuiting.",
+      "Een wijziging van de <mark>grondwet</mark> vereist een tweederde meerderheid.",
+      "De <mark>grondwet</mark> is de hoogste wet in het land."
     ],
     "options": [
-      "langzaam verlopend",
-      "plotseling eindigend",
-      "nooit eindigend, altijd doorgaand",
-      "elk jaar terugkerend"
+      "de fundamentele wet die de rechten van burgers en de structuur van de staat vastlegt",
+      "een wet over grondbezit en eigendom",
+      "de eerste wet die een parlement aanneemt",
+      "een verdrag tussen twee landen"
     ],
-    "correct": 2,
-    "explanation": "'Eeuwigdurend' = dat nooit ophoudt, voor altijd doorgaat. Samengesteld van 'eeuwig' (voor altijd) + 'durend' (gaande). Synoniem: 'eindeloos', 'voortdurend'.",
-    "hint": "'Eeuwig' + 'durend'. Iets wat altijd maar doorgaat en nooit stopt."
+    "correct": 0,
+    "explanation": "'Grondwet' = de fundamentele, hoogste wet van een staat. Samengesteld van 'grond' (basis) + 'wet'. Legt burgerrechten en staatsinrichting vast.",
+    "hint": "'Grond' = basis. De meest fundamentele wet van een land is de..."
   },
   {
-    "word": "begrensd",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "lobby",
+    "pos": "zelfstandig naamwoord · de / werkwoord",
+    "level": 3,
     "examples": [
-      "De tijd is <mark>begrensd</mark> — we moeten prioriteiten stellen.",
-      "Zijn kennis van het onderwerp is <mark>begrensd</mark>.",
-      "De <mark>begrensde</mark> ruimte van het appartement maakte grote meubels onmogelijk."
+      "De farmaceutische industrie heeft een sterke <mark>lobby</mark> in Den Haag.",
+      "Milieugroepen <mark>lobbyen</mark> voor strengere klimaatwetten.",
+      "De <mark>lobbyisten</mark> spraken de ministers aan in de wandelgangen."
     ],
     "options": [
-      "oneindig groot of ruim",
-      "met een limiet, eindig",
-      "vaag en onbepaald",
-      "tijdelijk en wisselend"
+      "het beïnvloeden van politici door georganiseerde belangengroepen",
+      "een openbare protestmars",
+      "een officieel debat in het parlement",
+      "een campagne voor het grote publiek"
     ],
-    "correct": 1,
-    "explanation": "'Begrensd' = gelimiteerd, met grenzen. Van 'begrenzen' = grenzen stellen. Tegendeel: 'onbegrensd' (zonder grenzen).",
-    "hint": "Als iets grenzen heeft — niet oneindig is — dan is het..."
+    "correct": 0,
+    "explanation": "'Lobby' = het beïnvloeden van politieke beslissingen door belangengroepen, vaak achter de schermen. Van het Engelse 'lobby' (gang, hal van parlement).",
+    "hint": "Bedrijven of organisaties die politici proberen te beïnvloeden buiten officiële debatten doen aan..."
   },
   {
-    "word": "hedendaags",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "subsidie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
     "examples": [
-      "De <mark>hedendaagse</mark> kunst is heel anders dan die uit de 17e eeuw.",
-      "In de <mark>hedendaagse</mark> maatschappij speelt social media een grote rol.",
-      "<mark>Hedendaagse</mark> architectuur maakt veel gebruik van glas en staal."
+      "De kunstenaar ontving een <mark>subsidie</mark> van de gemeente voor haar project.",
+      "Zonnepanelen worden in Nederland met <mark>subsidie</mark> gestimuleerd.",
+      "De <mark>subsidie</mark> voor het theater werd gekort wegens bezuinigingen."
     ],
     "options": [
-      "uit een ver verleden",
-      "van nu, van deze tijd",
-      "van de toekomst, nog niet bestaand",
-      "klassiek en tijdloos"
+      "financiële steun van de overheid voor een activiteit of organisatie",
+      "een boete voor het overtreden van regels",
+      "een lening van een bank",
+      "een belasting die bedrijven moeten betalen"
     ],
-    "correct": 1,
-    "explanation": "'Hedendaags' = van deze tijd, modern, actueel. Samengesteld van 'heden' (nu) + 'daags' (van de dag). Synoniem: 'modern', 'eigentijds'.",
-    "hint": "'Heden' = nu. 'Daags' = van de dag. Dus 'hedendaags' betekent van..."
+    "correct": 0,
+    "explanation": "'Subsidie' = financiële steun die de overheid verstrekt aan organisaties of personen om bepaalde activiteiten te stimuleren. Van het Latijn 'subsidium'.",
+    "hint": "Geld dat de overheid geeft — niet als lening — om iets te stimuleren. Dat heet een..."
+  },
+  {
+    "word": "rechtsstaat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "In een <mark>rechtsstaat</mark> is ook de overheid gebonden aan de wet.",
+      "Vrije rechtspraak is een pijler van de <mark>rechtsstaat</mark>.",
+      "Corruptie ondermijnt de <mark>rechtsstaat</mark>."
+    ],
+    "options": [
+      "een land zonder corruptie",
+      "een democratie met algemeen stemrecht",
+      "een land met een sterk leger",
+      "een staat waarbij macht wordt beperkt door wetten en onafhankelijke rechtspraak"
+    ],
+    "correct": 3,
+    "explanation": "'Rechtsstaat' = een staat waarbij de overheid gebonden is aan de wet en burgers onafhankelijke rechtspraak hebben. Kernwaarden: scheiding der machten en grondrechten.",
+    "hint": "Niet alleen burgers, maar ook de overheid moet zich aan de wet houden. Dat is de essentie van de..."
+  },
+  {
+    "word": "polarisatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "<mark>Polarisatie</mark> in de samenleving maakt compromissen steeds moeilijker.",
+      "Social media versterkt de <mark>polarisatie</mark> tussen politieke groepen.",
+      "De <mark>polarisatie</mark> tussen voor- en tegenstanders was groot."
+    ],
+    "options": [
+      "de groei van de middenklasse in de samenleving",
+      "de samenwerking tussen verschillende groepen",
+      "de invloed van de media op de politiek",
+      "het verscherpen van tegenstellingen waardoor groepen verder uit elkaar groeien"
+    ],
+    "correct": 3,
+    "explanation": "'Polarisatie' = het proces waarbij groepen in de samenleving steeds verder tegenover elkaar komen te staan. Van 'pool' (uiterste punt). Werkwoord: 'polariseren'.",
+    "hint": "Als groepen steeds verder uit elkaar groeien en tegenover elkaar komen te staan, is er..."
   }
 ]
