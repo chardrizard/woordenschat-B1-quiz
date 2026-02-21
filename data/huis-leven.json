@@ -1,287 +1,287 @@
 [
   {
-    "word": "huurder",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "beweren",
+    "pos": "werkwoord",
     "level": 1,
     "examples": [
-      "De <mark>huurder</mark> betaalt elke maand huur aan de verhuurder.",
-      "Als <mark>huurder</mark> ben je verantwoordelijk voor kleine reparaties.",
-      "De <mark>huurder</mark> vroeg of hij een kat mocht houden."
+      "Hij <mark>beweert</mark> dat hij de trein heeft gemist, maar ik geloof hem niet.",
+      "Ze <mark>beweerde</mark> onschuldig te zijn, ondanks het bewijs.",
+      "De politicus <mark>beweert</mark> dat zijn plan de problemen zal oplossen."
     ],
     "options": [
-      "iemand die een huis of appartement huurt van een ander",
-      "iemand die een huis koopt",
-      "iemand die een woning beheert",
-      "iemand die een huis bezit en verhuurt"
-    ],
-    "correct": 0,
-    "explanation": "'Huurder' = iemand die een woning huurt. De eigenaar heet 'verhuurder'. Van 'huren' = betalen voor tijdelijk gebruik. Meervoud: 'huurders'.",
-    "hint": "Je betaalt maandelijks geld om in een huis te mogen wonen dat van iemand anders is. Dan ben je een..."
-  },
-  {
-    "word": "verwarming",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "In de winter zet ze de <mark>verwarming</mark> op 20 graden.",
-      "De <mark>verwarming</mark> was stuk en het werd ijskoud in huis.",
-      "Hij draaide de <mark>verwarming</mark> lager om energie te besparen."
-    ],
-    "options": [
-      "de waterinstallatie in een woning",
-      "de isolatie van muren en ramen",
-      "het koelsysteem van een gebouw",
-      "het systeem dat een gebouw warm houdt"
+      "iets officieel bekendmaken",
+      "iets aantonen met bewijs",
+      "iets vragen aan een ander",
+      "iets stellen of zeggen zonder bewijs"
     ],
     "correct": 3,
-    "explanation": "'Verwarming' = het systeem dat warmte produceert in een gebouw, zoals een cv-installatie. Van 'verwarmen' = warm maken.",
-    "hint": "In de winter zet je dit aan zodat het warm blijft in huis. Dat is de..."
+    "explanation": "'Beweren' = iets stellen als waar, zonder het noodzakelijk te bewijzen. Zelfstandig naamwoord: 'bewering'. Neutraler dan 'liegen', maar impliceert enige scepsis.",
+    "hint": "Iemand zegt dat iets zo is, maar je bent er niet zeker van of het klopt. Hij... dat."
   },
   {
-    "word": "boodschappen",
-    "pos": "zelfstandig naamwoord · meervoud",
+    "word": "overleggen",
+    "pos": "werkwoord",
     "level": 1,
     "examples": [
-      "Ze deed elke vrijdag <mark>boodschappen</mark> in de supermarkt.",
-      "Hij vergat melk op de <mark>boodschappenlijst</mark> te zetten.",
-      "Na het werk haalde ze snel de <mark>boodschappen</mark> op."
+      "Voor de beslissing wil ik eerst met mijn collega's <mark>overleggen</mark>.",
+      "Ze <mark>overlegden</mark> een uur over de beste aanpak.",
+      "Kun je dit even met je manager <mark>overleggen</mark>?"
     ],
     "options": [
-      "inkopen die je doet voor dagelijks gebruik",
-      "facturen die je moet betalen",
-      "berichten die je aan iemand doorstuurt",
-      "cadeaus die je koopt voor anderen"
+      "met anderen bespreken om tot een beslissing of mening te komen",
+      "een klacht indienen",
+      "iets officieel vastleggen",
+      "een beslissing alleen nemen"
     ],
     "correct": 0,
-    "explanation": "'Boodschappen' = de inkopen voor dagelijks gebruik, zoals eten en drinken. 'Boodschappen doen' = naar de winkel gaan. Enkelvoud: 'boodschap' (ook: bericht).",
-    "hint": "Naar de supermarkt gaan voor eten en drinken — dat noem je..."
+    "explanation": "'Overleggen' = samen bespreken om tot een uitkomst te komen. Zelfstandig naamwoord: 'overleg'. 'In overleg' = na bespreking. Synoniem: 'bespreken', 'consulteren'.",
+    "hint": "Niet alleen beslissen, maar eerst met anderen praten. Dat noem je..."
   },
   {
-    "word": "schoonmaken",
-    "pos": "werkwoord · scheidbaar",
-    "level": 1,
-    "examples": [
-      "Ze <mark>maakt</mark> elk weekend het huis <mark>schoon</mark>.",
-      "Na het feest moest hij alles <mark>schoonmaken</mark>.",
-      "Het toilet <mark>schoonmaken</mark> is niet zijn lievelingsklusje."
-    ],
-    "options": [
-      "de vloer verven of bekleden",
-      "vuil of stof verwijderen om iets hygiënisch te maken",
-      "de tuin onderhouden",
-      "meubels repareren"
-    ],
-    "correct": 1,
-    "explanation": "'Schoonmaken' = vuil verwijderen, reinigen. Scheidbaar: 'maak schoon', 'maakte schoon', 'schoongemaakt'. Synoniem: 'reinigen', 'poetsen'.",
-    "hint": "Je haalt een doekje en verwijdert stof en vuil. Je bent het huis aan het..."
-  },
-  {
-    "word": "hypotheek",
+    "word": "mededeling",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Ze sloten een <mark>hypotheek</mark> af om hun eerste huis te kopen.",
-      "De maandelijkse <mark>hypotheek</mark> bedraagt 1.200 euro.",
-      "Na dertig jaar is de <mark>hypotheek</mark> volledig afbetaald."
+      "De directeur deed een belangrijke <mark>mededeling</mark> aan het personeel.",
+      "Op het bord hing een <mark>mededeling</mark> over de gewijzigde openingstijden.",
+      "De treinomroep deed een <mark>mededeling</mark> over de vertraging."
     ],
     "options": [
-      "de kosten van het onderhoud van een huis",
-      "de maandelijkse huurprijs van een woning",
-      "een verzekering voor schade aan het huis",
-      "een lening om een huis te kopen, waarbij het huis als onderpand dient"
+      "een officiële of formele aankondiging of bericht",
+      "een klacht die is ingediend",
+      "een vraag die om een antwoord vraagt",
+      "een instructie die gevolgd moet worden"
     ],
-    "correct": 3,
-    "explanation": "'Hypotheek' = een lening van de bank voor het kopen van een woning, waarbij het huis als zekerheid geldt. Van het Grieks 'hypotheke' (onderpand).",
-    "hint": "Je leent geld van de bank om een huis te kopen. Die lening heet een..."
+    "correct": 0,
+    "explanation": "'Mededeling' = een officieel of formeel bericht of aankondiging. Van 'mededelen' = officieel bekendmaken. Formeler dan 'bericht'. Meervoud: 'mededelingen'.",
+    "hint": "Een formeel bericht of aankondiging van een organisatie aan haar leden of klanten heet een..."
   },
   {
-    "word": "slaapkamer",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
+    "word": "toelichten",
+    "pos": "werkwoord · scheidbaar",
+    "level": 2,
     "examples": [
-      "De kinderen delen een <mark>slaapkamer</mark>.",
-      "Haar <mark>slaapkamer</mark> heeft uitzicht op de tuin.",
-      "Hij verfde de <mark>slaapkamer</mark> lichtblauw."
+      "Kunt u uw beslissing nader <mark>toelichten</mark>?",
+      "De minister <mark>lichtte</mark> het nieuwe beleid <mark>toe</mark> tijdens een persconferentie.",
+      "Ze vroeg hem zijn standpunt verder <mark>toe te lichten</mark>."
     ],
     "options": [
-      "de kamer om gasten te ontvangen",
-      "de kamer die is ingericht om in te slapen",
-      "de kamer waar je eet en kookt",
-      "de ruimte om kleding op te slaan"
+      "iets herhalen zonder uitleg",
+      "iets officieel goedkeuren",
+      "iets verder uitleggen en verduidelijken",
+      "iets verbergen of onduidelijk maken"
+    ],
+    "correct": 2,
+    "explanation": "'Toelichten' = iets meer uitleggen of verduidelijken. Scheidbaar: 'licht toe', 'lichtte toe', 'toegelicht'. Synoniem: 'verduidelijken', 'uitleggen'.",
+    "hint": "Je uitleg was kort — nu geef je meer detail en uitleg. Je... jouw antwoord."
+  },
+  {
+    "word": "misverstaan",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze had hem <mark>misverstaan</mark> — hij bedoelde iets heel anders.",
+      "Door het slechte geluid <mark>misverstoond</mark> hij wat er gezegd werd.",
+      "Dit is een <mark>misverstand</mark> — we zijn het eigenlijk eens."
+    ],
+    "options": [
+      "iemand goed begrijpen",
+      "iets verkeerd begrijpen of interpreteren",
+      "iemand bewust verkeerd informeren",
+      "iets niet horen"
     ],
     "correct": 1,
-    "explanation": "'Slaapkamer' = de kamer in een woning die bestemd is om in te slapen. Samengesteld van 'slapen' + 'kamer'. Synoniem: 'slaapvertrek' (formeler).",
-    "hint": "Waar staat je bed en slaap je 's nachts? Dat is de..."
+    "explanation": "'Misverstaan' = iets verkeerd begrijpen. Zelfstandig naamwoord: 'misverstand'. 'Mis-' = verkeerd. 'Er is een misverstand' = we begrijpen elkaar niet goed.",
+    "hint": "Je dacht dat iemand X bedoelde, maar hij bedoelde Y. Je hebt hem..."
   },
   {
-    "word": "onderhoud",
+    "word": "onderbouwen",
+    "pos": "werkwoord · scheidbaar",
+    "level": 3,
+    "examples": [
+      "Hij <mark>onderbouwde</mark> zijn argument met wetenschappelijke feiten.",
+      "Kun je dit standpunt beter <mark>onderbouwen</mark>?",
+      "Een goed <mark>onderbouwde</mark> conclusie is sterker dan een mening."
+    ],
+    "options": [
+      "iets op intuïtie beweren zonder feiten",
+      "iets ontkrachten of weerleggen",
+      "een samenvatting maken van een argument",
+      "een stelling steunen met argumenten of bewijs"
+    ],
+    "correct": 3,
+    "explanation": "'Onderbouwen' = een bewering of standpunt voorzien van argumenten en bewijs. Scheidbaar: 'onderbouw', 'onderbouwde', 'onderbouwd'. Synoniem: 'beargumenteren'.",
+    "hint": "Je stelling is sterker als je er feiten en argumenten aan toevoegt. Je moet je stelling..."
+  },
+  {
+    "word": "woordkeus",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Zijn <mark>woordkeus</mark> was niet gepast in deze formele context.",
+      "De <mark>woordkeus</mark> in de brief was nauwkeurig en professioneel.",
+      "Door een slechte <mark>woordkeus</mark> kwam de boodschap verkeerd over."
+    ],
+    "options": [
+      "de grammaticale structuur van een zin",
+      "het accent waarmee iemand Nederlands spreekt",
+      "de snelheid waarmee iemand spreekt",
+      "de selectie van woorden die iemand gebruikt om zich uit te drukken"
+    ],
+    "correct": 3,
+    "explanation": "'Woordkeus' = de selectie van specifieke woorden in spraak of schrijven. Samengesteld van 'woord' + 'keus' (keuze). Synoniem: 'woordgebruik', 'taalgebruik'.",
+    "hint": "Niet hoe snel je spreekt, maar welke woorden je kiest — dat is je..."
+  },
+  {
+    "word": "formuleren",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze nam even de tijd om haar antwoord zorgvuldig te <mark>formuleren</mark>.",
+      "Hoe <mark>formuleer</mark> je een beleefd maar duidelijk verzoek?",
+      "De vraag was moeilijk te <mark>formuleren</mark> in duidelijke taal."
+    ],
+    "options": [
+      "iets in woorden uitdrukken of verwoorden",
+      "iets samenvatten in één zin",
+      "iets vertalen naar een andere taal",
+      "iets neerschrijven zonder nadenken"
+    ],
+    "correct": 0,
+    "explanation": "'Formuleren' = iets in woorden uitdrukken, een gedachte of idee verwoorden. Van het Latijn 'formula'. Zelfstandig naamwoord: 'formulering'.",
+    "hint": "Je hebt een idee, maar je moet het in woorden uitdrukken. Je moet het..."
+  },
+  {
+    "word": "interpretatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Er zijn meerdere <mark>interpretaties</mark> mogelijk van dit gedicht.",
+      "Zijn <mark>interpretatie</mark> van de wet was omstreden.",
+      "Wat was jouw <mark>interpretatie</mark> van die opmerking?"
+    ],
+    "options": [
+      "de officiële definitie van een begrip",
+      "de samenvatting van een tekst",
+      "de letterlijke vertaling van een tekst",
+      "de uitleg of betekenis die iemand aan iets geeft"
+    ],
+    "correct": 3,
+    "explanation": "'Interpretatie' = de betekenis of uitleg die iemand aan iets geeft. Van het Latijn 'interpretatio'. Werkwoord: 'interpreteren'. Synoniemen: 'lezing', 'uitleg'.",
+    "hint": "Je leest een gedicht. Wat betekent het voor jou? Dat is jouw..."
+  },
+  {
+    "word": "correspondentie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Alle <mark>correspondentie</mark> met de klant is per e-mail verlopen.",
+      "Ze had een lange <mark>correspondentie</mark> met de advocaat.",
+      "De <mark>correspondentie</mark> wordt bewaard voor tien jaar."
+    ],
+    "options": [
+      "een vergadering tussen vertegenwoordigers",
+      "een mondeling gesprek tussen twee partijen",
+      "de uitwisseling van berichten, brieven of e-mails",
+      "een officieel contract tussen partijen"
+    ],
+    "correct": 2,
+    "explanation": "'Correspondentie' = het uitwisselen van brieven of berichten, of de berichten zelf. Van het Latijn 'correspondere'. Werkwoord: 'corresponderen'.",
+    "hint": "Het uitwisselen van brieven of e-mails over een periode noem je..."
+  },
+  {
+    "word": "dialect",
     "pos": "zelfstandig naamwoord · het",
     "level": 2,
     "examples": [
-      "Het <mark>onderhoud</mark> van een koophuis kost gemiddeld 1% van de woningwaarde per jaar.",
-      "De cv-ketel heeft regelmatig <mark>onderhoud</mark> nodig.",
-      "Slecht <mark>onderhoud</mark> kan leiden tot grote schade."
+      "Zijn grootmoeder sprak nog het oude Groningse <mark>dialect</mark>.",
+      "Het Limburgs <mark>dialect</mark> verschilt sterk van het Standaardnederlands.",
+      "Sommige <mark>dialecten</mark> zijn zo anders dat ze bijna onverstaanbaar zijn."
     ],
     "options": [
-      "het regelmatig verzorgen en repareren om iets in goede staat te houden",
-      "het verbouwen van een woning",
-      "het kopen van nieuwe meubels",
-      "het afsluiten van een verzekering"
+      "een regionale variant van een taal",
+      "een formele schrijfstijl van een taal",
+      "een vreemde taal die in Nederland wordt gesproken",
+      "een verouderde vorm van een taal"
     ],
     "correct": 0,
-    "explanation": "'Onderhoud' = het geheel van activiteiten om iets in goede staat te houden. Van 'onderhouden' = in stand houden. Werkwoord: 'onderhouden'.",
-    "hint": "Schilderen, kleine reparaties, de ketel laten controleren — dat zijn allemaal vormen van..."
+    "explanation": "'Dialect' = een regionale variëteit van een taal, met eigen klanken, woordenschat en soms grammatica. Bijvoeglijk naamwoord: 'dialectisch'.",
+    "hint": "Limburgs, Gronings, Zeeuws — dit zijn regionale varianten van het Nederlands. We noemen ze..."
   },
   {
-    "word": "woningcorporatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "word": "debat",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
     "examples": [
-      "Ze huurde haar appartement via een <mark>woningcorporatie</mark>.",
-      "<mark>Woningcorporaties</mark> verhuren sociale huurwoningen voor een lage prijs.",
-      "De wachtlijst bij de <mark>woningcorporatie</mark> is soms wel tien jaar."
+      "In het parlement werd een fel <mark>debat</mark> gevoerd over klimaatverandering.",
+      "Het <mark>debat</mark> tussen de politici trok veel kijkers.",
+      "Ze verloor het <mark>debat</mark> omdat haar argumenten zwak waren."
     ],
     "options": [
-      "een gemeente-instelling voor woningtoewijzing",
-      "een organisatie die betaalbare huurwoningen beheert voor mensen met een laag inkomen",
-      "een bank die hypotheken verstrekt",
-      "een makelaardij die huizen verkoopt"
-    ],
-    "correct": 1,
-    "explanation": "'Woningcorporatie' = een non-profitorganisatie die sociale huurwoningen beheert en verhuurt aan mensen met een laag inkomen. Synoniem: 'corporatie', 'woningbouwvereniging'.",
-    "hint": "Een organisatie die goedkope huurwoningen aanbiedt aan mensen die niet zoveel verdienen — dat heet een..."
-  },
-  {
-    "word": "inboedel",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Bij een brand raakte de familie zijn hele <mark>inboedel</mark> kwijt.",
-      "De <mark>inboedelverzekering</mark> dekt schade aan meubels en apparaten.",
-      "Bij de verhuizing moest de hele <mark>inboedel</mark> worden ingepakt."
-    ],
-    "options": [
-      "de structuur van een gebouw",
-      "de technische installaties in een woning",
-      "alle spullen en meubels in een woning",
-      "de tuin en buitenruimte van een huis"
+      "een toespraak voor een groot publiek",
+      "een vergadering om beslissingen te nemen",
+      "een formele discussie waarbij tegenstanders argumenten uitwisselen",
+      "een gesprek tussen twee vrienden"
     ],
     "correct": 2,
-    "explanation": "'Inboedel' = alle roerende goederen in een woning: meubels, apparaten, kleding, enzovoort. Van 'boedel' (bezit).",
-    "hint": "Alle meubels, apparaten en persoonlijke spullen in je huis bij elkaar — dat is je..."
+    "explanation": "'Debat' = een gestructureerde discussie waarbij twee of meer partijen tegengestelde meningen verdedigen. Van het Frans 'débattre'. Werkwoord: 'debatteren'.",
+    "hint": "Twee partijen beargumenteren elk hun standpunt tegenover elkaar. Dat is een..."
   },
   {
-    "word": "ventilatie",
+    "word": "taalvaardigheid",
     "pos": "zelfstandig naamwoord · de",
     "level": 3,
     "examples": [
-      "Goede <mark>ventilatie</mark> is belangrijk om schimmel te voorkomen.",
-      "De <mark>ventilatie</mark> in het appartement werkte niet goed.",
-      "Zet een raam open voor natuurlijke <mark>ventilatie</mark>."
+      "Een hoge <mark>taalvaardigheid</mark> in het Nederlands is vereist voor de baan.",
+      "Zijn <mark>taalvaardigheid</mark> verbeterde snel door veel te lezen.",
+      "Het NT2-examen toetst de <mark>taalvaardigheid</mark> op B1-niveau."
     ],
     "options": [
-      "het vernieuwen van de lucht in een ruimte",
-      "de verwarming van een ruimte",
-      "het isoleren van een gebouw",
-      "het koelen van een ruimte in de zomer"
+      "het vermogen om een taal correct en vloeiend te gebruiken",
+      "het kennen van veel woorden",
+      "de kennis van grammaticaregels",
+      "het kunnen vertalen tussen twee talen"
     ],
     "correct": 0,
-    "explanation": "'Ventilatie' = het verversen van de lucht in een ruimte door verse lucht aan te voeren en verbruikte lucht af te voeren. Van het Latijn 'ventilare'.",
-    "hint": "Zonder dit wordt de lucht in een kamer muf en vochtig. Je hebt goede... nodig."
+    "explanation": "'Taalvaardigheid' = het vermogen om een taal effectief te gebruiken: spreken, luisteren, lezen en schrijven. Samengesteld van 'taal' + 'vaardigheid'.",
+    "hint": "Niet alleen woorden kennen, maar ook vlot kunnen spreken, lezen en schrijven — dat is je..."
   },
   {
-    "word": "energierekening",
+    "word": "woordenschat",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Na de winter was zijn <mark>energierekening</mark> veel hoger dan verwacht.",
-      "Door zonnepanelen is zijn <mark>energierekening</mark> bijna nul.",
-      "Ze besparen bewust om de <mark>energierekening</mark> laag te houden."
+      "Hij had een rijke <mark>woordenschat</mark> dankzij zijn liefde voor lezen.",
+      "Met een beperkte <mark>woordenschat</mark> is het lastig je goed uit te drukken.",
+      "Deze quiz helpt je <mark>woordenschat</mark> te vergroten."
     ],
     "options": [
-      "een belastingaanslag voor woningbezitters",
-      "een rekening voor het verbruik van gas en elektriciteit",
-      "kosten voor reparaties aan een woning",
-      "een rekening van de watermaatschappij"
+      "de kwaliteit van iemands uitspraak",
+      "het totaal aan woorden dat iemand kent en kan gebruiken",
+      "de kennis van grammaticale regels",
+      "het vermogen om snel te lezen"
     ],
     "correct": 1,
-    "explanation": "'Energierekening' = de rekening van de energieleverancier voor gas en elektriciteitsverbruik. Samengesteld van 'energie' + 'rekening'.",
-    "hint": "Elke maand of elk kwartaal ontvang je een rekening van je energieleverancier. Dat is de..."
+    "explanation": "'Woordenschat' = alle woorden die iemand kent en kan gebruiken. Samengesteld van 'woord' + 'schat' (verzameling). Engels: 'vocabulary'.",
+    "hint": "Alle woorden die jij kent, samen — dat is jouw..."
   },
   {
-    "word": "servicekosten",
-    "pos": "zelfstandig naamwoord · meervoud",
+    "word": "nuanceren",
+    "pos": "werkwoord",
     "level": 3,
     "examples": [
-      "De huur is 900 euro exclusief <mark>servicekosten</mark>.",
-      "<mark>Servicekosten</mark> kunnen betrekking hebben op schoonmaak en onderhoud van gemeenschappelijke ruimtes.",
-      "Zijn verhuurder rekende te hoge <mark>servicekosten</mark>."
+      "Hij <mark>nuanceerde</mark> zijn uitspraak na kritiek van collega's.",
+      "De situatie is complex — laten we het niet te simpel stellen maar <mark>nuanceren</mark>.",
+      "Een goede journalist <mark>nuanceert</mark> zijn berichten."
     ],
     "options": [
-      "extra kosten bovenop de huur voor gedeelde diensten en voorzieningen",
-      "belasting die je als huurder betaalt",
-      "de huurprijs voor een woning",
-      "kosten voor internet en televisie"
+      "iets sterker en duidelijker stellen",
+      "een uitspraak verfijnen door uitzonderingen en details toe te voegen",
+      "iets terugtrekken wat eerder is gezegd",
+      "iets in simpelere bewoordingen uitleggen"
     ],
-    "correct": 0,
-    "explanation": "'Servicekosten' = extra kosten bovenop de kale huur voor diensten zoals schoonmaak, lift en tuinonderhoud in gemeenschappelijke ruimtes.",
-    "hint": "Naast de kale huur betaal je ook... voor het onderhoud van de gedeelde ruimtes."
-  },
-  {
-    "word": "bewoning",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Het pand was al jaren niet meer geschikt voor <mark>bewoning</mark>.",
-      "De <mark>bewoning</mark> van het huis begint op 1 mei.",
-      "Na de renovatie was de woning klaar voor <mark>bewoning</mark>."
-    ],
-    "options": [
-      "het renoveren van een gebouw",
-      "het verhuren van een woning aan anderen",
-      "het te koop zetten van een woning",
-      "het bewonen of in gebruik nemen van een woning"
-    ],
-    "correct": 3,
-    "explanation": "'Bewoning' = het feit of de staat van bewonen — dat er mensen wonen. Van 'bewonen' = in wonen. 'Ongeschikt voor bewoning' = te gevaarlijk of slecht om in te wonen.",
-    "hint": "Als mensen in een woning leven, is er sprake van..."
-  },
-  {
-    "word": "renovatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Na de <mark>renovatie</mark> was het oude gebouw niet meer te herkennen.",
-      "De <mark>renovatie</mark> van de keuken kostte 15.000 euro.",
-      "Tijdens de <mark>renovatie</mark> woonden ze tijdelijk bij haar ouders."
-    ],
-    "options": [
-      "het verkopen van een woning",
-      "het slopen van een gebouw",
-      "het kleine reparaties uitvoeren",
-      "het grootschalig vernieuwen of opknappen van een gebouw"
-    ],
-    "correct": 3,
-    "explanation": "'Renovatie' = het ingrijpend vernieuwen of opknappen van een gebouw. Van het Latijn 'renovatio'. Werkwoord: 'renoveren'.",
-    "hint": "Het hele huis opknappen — nieuwe keuken, badkamer, dak — dat is een..."
-  },
-  {
-    "word": "klusjesman",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De <mark>klusjesman</mark> repareerde de lekkende kraan.",
-      "Ze belde een <mark>klusjesman</mark> voor de kapotte deur.",
-      "Als <mark>klusjesman</mark> kan hij aan de slag in de hele buurt."
-    ],
-    "options": [
-      "een makelaar die huizen verkoopt",
-      "een architect die huizen ontwerpt",
-      "iemand die kleine reparaties en klussen in en om het huis uitvoert",
-      "een aannemer die grote bouwprojecten leidt"
-    ],
-    "correct": 2,
-    "explanation": "'Klusjesman' = iemand die handige kleine reparaties en klussen uitvoert. Van 'klusje' (kleine taak). Samengesteld van 'klus' + 'man'. Vrouwelijk: 'klusjesvrouw'.",
-    "hint": "De kraan lekt, het slot is kapot. Je belt een..."
+    "correct": 1,
+    "explanation": "'Nuanceren' = een uitspraak of mening verfijnen door onderscheid te maken en uitzonderingen te benoemen. Zelfstandig naamwoord: 'nuance'. Van het Frans 'nuance' (schakering).",
+    "hint": "De werkelijkheid is niet zwart-wit. Als je dat erkent en toevoegt aan je standpunt, noem je dat..."
   }
 ]
