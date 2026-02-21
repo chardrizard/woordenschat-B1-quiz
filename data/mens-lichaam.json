@@ -1,0 +1,287 @@
+[
+  {
+    "word": "lichaam",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Sport is goed voor je <mark>lichaam</mark> en je geest.",
+      "Het <mark>lichaam</mark> van een volwassen mens bestaat voor 60% uit water.",
+      "Ze voelde zich moe — haar hele <mark>lichaam</mark> deed pijn."
+    ],
+    "options": [
+      "de geest of het gevoel van een persoon",
+      "het fysieke omhulsel van een levend wezen",
+      "de gezondheid van een persoon",
+      "het gewicht van een persoon"
+    ],
+    "correct": 1,
+    "explanation": "'Lichaam' is het fysieke, materiële deel van een mens of dier — de tegenhanger van 'geest' of 'ziel'.",
+    "hint": "Niet je gedachten, maar het fysieke deel van jou. Je armen, benen, hoofd — dat is je..."
+  },
+  {
+    "word": "gezicht",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze herkende zijn <mark>gezicht</mark> meteen uit de menigte.",
+      "Hij waste zijn <mark>gezicht</mark> voor het slapengaan.",
+      "Op haar <mark>gezicht</mark> was een brede glimlach te zien."
+    ],
+    "options": [
+      "de achterkant van het hoofd",
+      "de voorkant van het hoofd met ogen, neus en mond",
+      "de uitdrukking van een emotie",
+      "het bovenstuk van het lichaam"
+    ],
+    "correct": 1,
+    "explanation": "'Gezicht' is het voorste deel van het hoofd, met ogen, neus en mond. Ook gebruikt voor uitdrukking: 'een blij gezicht trekken'.",
+    "hint": "Als je in de spiegel kijkt, zie je je..."
+  },
+  {
+    "word": "adem",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Na het hardlopen was zijn <mark>adem</mark> zwaar en snel.",
+      "Ze hield haar <mark>adem</mark> in toen ze het nieuws hoorde.",
+      "In de kou zie je je <mark>adem</mark> als een wolkje."
+    ],
+    "options": [
+      "het bloed dat door het lichaam stroomt",
+      "de lucht die je in- en uitademt",
+      "het geluid van je stem",
+      "de hartslag van het lichaam"
+    ],
+    "correct": 1,
+    "explanation": "'Adem' is de lucht die je inademt en uitademt. Werkwoord: 'ademen'. 'Adem inhouden' = stoppen met ademen.",
+    "hint": "Wat houd je in als je schrikt? En wat zie je in de kou als een wit wolkje?"
+  },
+  {
+    "word": "zwanger",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was zes maanden <mark>zwanger</mark> van een meisje.",
+      "De dokter bevestigde dat ze <mark>zwanger</mark> was.",
+      "<mark>Zwangere</mark> vrouwen krijgen speciale zorg."
+    ],
+    "options": [
+      "ziek zijn door een infectie",
+      "een baby verwachten",
+      "overgewicht hebben",
+      "te moe zijn om te werken"
+    ],
+    "correct": 1,
+    "explanation": "'Zwanger' beschrijft een vrouw die een kind verwacht. Zelfstandig naamwoord: 'zwangerschap'. Na de bevalling is ze niet meer zwanger.",
+    "hint": "Een vrouw die een baby in haar buik draagt, is..."
+  },
+  {
+    "word": "hartslag",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Zijn <mark>hartslag</mark> steeg snel tijdens het sporten.",
+      "Een normale <mark>hartslag</mark> is 60 tot 100 slagen per minuut.",
+      "De dokter mat haar <mark>hartslag</mark> met een stethoscoop."
+    ],
+    "options": [
+      "de druk in de bloedvaten",
+      "het aantal keren dat het hart per minuut klopt",
+      "de temperatuur van het bloed",
+      "het gewicht van het hart"
+    ],
+    "correct": 1,
+    "explanation": "'Hartslag' = hoe vaak het hart per minuut klopt. Samengesteld van 'hart' + 'slag' (klap). Ook: 'polsslag' als je het bij de pols meet.",
+    "hint": "Als je je hand op je borst legt, voel je de... van je hart."
+  },
+  {
+    "word": "beenbreuk",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Na de val had hij een <mark>beenbreuk</mark> en moest hij zes weken rusten.",
+      "De röntgenfoto toonde een <mark>beenbreuk</mark> in het onderbeen.",
+      "Bij een <mark>beenbreuk</mark> zit je been in het gips."
+    ],
+    "options": [
+      "pijn in de spieren na het sporten",
+      "een gebroken bot in het been",
+      "een ontsteking van de knie",
+      "een wond aan de buitenkant van het been"
+    ],
+    "correct": 1,
+    "explanation": "'Beenbreuk' = een gebroken bot in het been. Samengesteld van 'been' (bot of lichaamsdeel) + 'breuk' (het breken). Synonieem: 'fractuur'.",
+    "hint": "Na een val of ongeluk kan een bot breken. Als dat in je been is, heb je een..."
+  },
+  {
+    "word": "spier",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Door regelmatig te sporten worden je <mark>spieren</mark> sterker.",
+      "Na de marathon waren al zijn <mark>spieren</mark> pijnlijk.",
+      "De <mark>spier</mark> in zijn rug was gespannen door de stress."
+    ],
+    "options": [
+      "een bot in het skelet",
+      "weefsel dat het lichaam laat bewegen door samen te trekken",
+      "een bloedvat in het lichaam",
+      "de huid die het lichaam bedekt"
+    ],
+    "correct": 1,
+    "explanation": "'Spier' is het weefsel dat samentrekt om het lichaam te bewegen. Je hebt meer dan 600 spieren. Bijvoeglijk naamwoord: 'gespierd' (met grote spieren).",
+    "hint": "Wat train je in de sportschool om sterker te worden?"
+  },
+  {
+    "word": "vermoeid",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Na een lange dag werk was ze volledig <mark>vermoeid</mark>.",
+      "De kinderen zagen er <mark>vermoeid</mark> uit na de lange reis.",
+      "Hij was te <mark>vermoeid</mark> om nog te eten."
+    ],
+    "options": [
+      "blij en energiek",
+      "uitgeput, zonder energie",
+      "ziek door een infectie",
+      "hongerig en dorstig"
+    ],
+    "correct": 1,
+    "explanation": "'Vermoeid' = moe, zonder energie. Sterker dan 'moe'. Van 'vermoeien' = moe maken. Zelfstandig naamwoord: 'vermoeidheid'.",
+    "hint": "Na een hele lange dag zonder slaap voel je je..."
+  },
+  {
+    "word": "verwonding",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "De voetballer moest het veld verlaten door een <mark>verwonding</mark> aan zijn enkel.",
+      "De soldaat had ernstige <mark>verwondingen</mark> opgelopen.",
+      "Een kleine <mark>verwonding</mark> kan met een pleister worden behandeld."
+    ],
+    "options": [
+      "een ziekte die door bacteriën wordt veroorzaakt",
+      "letsel aan het lichaam door een externe oorzaak",
+      "pijn zonder zichtbare oorzaak",
+      "een chronische aandoening"
+    ],
+    "correct": 1,
+    "explanation": "'Verwonding' = letsel, een wond aan het lichaam. Van 'verwonden' = verwonden. Synoniemen: 'letsel', 'blessure', 'wond'.",
+    "hint": "Als je gevallen bent en je hebt pijn aan je knie, heb je een..."
+  },
+  {
+    "word": "bloedsomloop",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "De <mark>bloedsomloop</mark> zorgt ervoor dat zuurstof door het lichaam wordt vervoerd.",
+      "Sport verbetert de <mark>bloedsomloop</mark>.",
+      "Bij een storing in de <mark>bloedsomloop</mark> kan een hartaanval optreden."
+    ],
+    "options": [
+      "het systeem waarmee de longen werken",
+      "het systeem van hart en bloedvaten dat bloed door het lichaam pompt",
+      "de manier waarop voedsel wordt verwerkt",
+      "de beweging van zenuwen in het lichaam"
+    ],
+    "correct": 1,
+    "explanation": "'Bloedsomloop' = het systeem van hart en bloedvaten. Het hart pompt bloed rond door de bloedvaten. Samengesteld van 'bloed' + 'omloop' (het rondgaan).",
+    "hint": "Het hart pompt bloed door het lichaam. Dit systeem heet de..."
+  },
+  {
+    "word": "zenuwstelsel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "Het <mark>zenuwstelsel</mark> stuurt signalen van de hersenen naar het lichaam.",
+      "Multiple sclerose is een ziekte die het <mark>zenuwstelsel</mark> aantast.",
+      "Stress heeft invloed op het <mark>zenuwstelsel</mark>."
+    ],
+    "options": [
+      "de botten en gewrichten van het lichaam",
+      "het netwerk van zenuwen dat signalen door het lichaam stuurt",
+      "de spieren die het lichaam bewegen",
+      "het systeem van hormonen in het bloed"
+    ],
+    "correct": 1,
+    "explanation": "'Zenuwstelsel' = het netwerk van hersenen, ruggenmerg en zenuwen dat alle lichaamsfuncties coördineert. Samengesteld van 'zenuw' + 'stelsel' (systeem).",
+    "hint": "Hersenen, ruggenmerg en zenuwen samen vormen het..."
+  },
+  {
+    "word": "erfelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Sommige ziekten zijn <mark>erfelijk</mark> en komen vaker voor in bepaalde families.",
+      "Zijn blauwe ogen zijn <mark>erfelijk</mark> — zijn vader heeft ze ook.",
+      "<mark>Erfelijke</mark> aanleg speelt een rol bij hart- en vaatziekten."
+    ],
+    "options": [
+      "aangeleerd door opvoeding en omgeving",
+      "overgedragen van ouder op kind via genen",
+      "veroorzaakt door een infectie",
+      "ontstaan door een ongezonde leefstijl"
+    ],
+    "correct": 1,
+    "explanation": "'Erfelijk' = overgedragen via genen van ouder op kind. Van 'erfenis' (wat je erft). Synonieem: 'genetisch'.",
+    "hint": "Als een eigenschap of ziekte via genen van ouders op kinderen overgaat, is het..."
+  },
+  {
+    "word": "immuniteit",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "Na de infectie bouwde hij <mark>immuniteit</mark> op tegen het virus.",
+      "Vaccinaties geven het lichaam <mark>immuniteit</mark> zonder ziek te worden.",
+      "Zuigelingen hebben tijdelijke <mark>immuniteit</mark> door de moedermelk."
+    ],
+    "options": [
+      "de gevoeligheid van het lichaam voor ziekten",
+      "de weerstand van het lichaam tegen ziekteverwekkers",
+      "het vermogen om pijn te verdragen",
+      "de snelheid waarmee het lichaam herstelt"
+    ],
+    "correct": 1,
+    "explanation": "'Immuniteit' = de weerstand van het immuunsysteem tegen ziekten. Van het Latijn 'immunitas'. Bijvoeglijk naamwoord: 'immuun'.",
+    "hint": "Als je lichaam een ziekteverwekker herkent en aanvalt, heb je er... voor opgebouwd."
+  },
+  {
+    "word": "stofwisseling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "Een actieve <mark>stofwisseling</mark> helpt bij het verbranden van calorieën.",
+      "Schildklierproblemen kunnen de <mark>stofwisseling</mark> verstoren.",
+      "Sport versnelt de <mark>stofwisseling</mark>."
+    ],
+    "options": [
+      "het verteren van voedsel in de maag",
+      "het geheel van chemische processen waarmee het lichaam energie aanmaakt en verbruikt",
+      "de opname van vitamines door de darmen",
+      "de aanmaak van hormonen in de klieren"
+    ],
+    "correct": 1,
+    "explanation": "'Stofwisseling' = het metabolisme: alle chemische processen waarmee het lichaam voedsel omzet in energie. Samengesteld van 'stof' (materiaal) + 'wisseling' (omzetting).",
+    "hint": "Het metabolisme — hoe snel je calorieën verbrandt — is je..."
+  },
+  {
+    "word": "onvruchtbaar",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "Het stel ontdekte dat hij <mark>onvruchtbaar</mark> was na medisch onderzoek.",
+      "<mark>Onvruchtbaarheid</mark> kan zowel bij mannen als vrouwen voorkomen.",
+      "Sommige behandelingen kunnen mensen tijdelijk <mark>onvruchtbaar</mark> maken."
+    ],
+    "options": [
+      "niet in staat om ziek te worden",
+      "niet in staat om kinderen te verwekken of te baren",
+      "niet in staat om te bewegen",
+      "niet in staat om voedsel te verteren"
+    ],
+    "correct": 1,
+    "explanation": "'Onvruchtbaar' = niet in staat om kinderen te krijgen. 'On-' = niet, 'vruchtbaar' = in staat om te reproduceren. Zelfstandig naamwoord: 'onvruchtbaarheid'.",
+    "hint": "'On-' + 'vruchtbaar'. 'Vrucht' verwijst naar nageslacht. Als je geen kinderen kunt krijgen, ben je..."
+  }
+]

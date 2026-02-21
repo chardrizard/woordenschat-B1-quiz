@@ -1,0 +1,287 @@
+[
+  {
+    "word": "verblijf",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Haar <mark>verblijf</mark> in Amsterdam duurde drie weken.",
+      "Tijdens ons <mark>verblijf</mark> bezochten we alle musea in de stad.",
+      "Voor een langer <mark>verblijf</mark> heb je een visum nodig."
+    ],
+    "options": [
+      "het reizen naar een bestemming",
+      "het ergens zijn of wonen voor een periode",
+      "een hotelkamer reserveren",
+      "de terugreis naar huis"
+    ],
+    "correct": 1,
+    "explanation": "'Verblijf' is de periode dat je ergens bent of tijdelijk woont. Werkwoord: 'verblijven'. Denk aan 'verblijfsvergunning' = toestemming om ergens te wonen.",
+    "hint": "Niet de reis, maar de tijd die je doorbrengt op de bestemming."
+  },
+  {
+    "word": "bestemming",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Lissabon was onze uiteindelijke <mark>bestemming</mark>.",
+      "Wat is de <mark>bestemming</mark> van je volgende reis?",
+      "De trein reed naar zijn eindstation als <mark>bestemming</mark>."
+    ],
+    "options": [
+      "het vertrekpunt van een reis",
+      "de plek waar je naartoe gaat",
+      "de reisplanning of het schema",
+      "de duur van de reis"
+    ],
+    "correct": 1,
+    "explanation": "'Bestemming' is de plek waarheen je onderweg bent — je eindpunt. Van 'bestemmen' = bepalen waarvoor iets bedoeld is.",
+    "hint": "Waar ga je naartoe? Dat is je...?"
+  },
+  {
+    "word": "instappen",
+    "pos": "werkwoord · scheidbaar",
+    "level": 1,
+    "examples": [
+      "Passagiers met kleine kinderen mogen als eerste <mark>instappen</mark>.",
+      "Hij stapte vlak voor vertrek snel <mark>in</mark>.",
+      "Iedereen was al <mark>ingestapt</mark> toen de deuren sloten."
+    ],
+    "options": [
+      "je koffer inpakken",
+      "een voertuig binnengaan",
+      "je ticket laten zien",
+      "je stoel zoeken"
+    ],
+    "correct": 1,
+    "explanation": "'Instappen' betekent een voertuig (vliegtuig, trein, bus) binnengaan. Scheidbaar: 'stap in', 'stapte in', 'ingestapt'. Tegendeel: 'uitstappen'.",
+    "hint": "Wat doe je als je aan boord gaat van een vliegtuig of trein?"
+  },
+  {
+    "word": "annuleren",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Door het slechte weer werd de vlucht <mark>geannuleerd</mark>.",
+      "Hij moest zijn reservering <mark>annuleren</mark> omdat hij ziek was.",
+      "Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."
+    ],
+    "options": [
+      "een boeking bevestigen",
+      "een reservering of vlucht officieel afzeggen",
+      "je vlucht verzekeren",
+      "inchecken via de telefoon"
+    ],
+    "correct": 1,
+    "explanation": "'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.",
+    "hint": "Je had iets geboekt, maar het gaat niet door. Je...?"
+  },
+  {
+    "word": "overstappen",
+    "pos": "werkwoord · scheidbaar",
+    "level": 2,
+    "examples": [
+      "We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.",
+      "Hij stapte in Brussel <mark>over</mark> op een andere trein.",
+      "Bij <mark>overstappen</mark> heb je soms maar twintig minuten."
+    ],
+    "options": [
+      "je bagage checken",
+      "van vervoersmiddel wisselen tijdens een reis",
+      "inchecken op de luchthaven",
+      "een ticket omboeken"
+    ],
+    "correct": 1,
+    "explanation": "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.",
+    "hint": "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
+  },
+  {
+    "word": "douane",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Bij de <mark>douane</mark> moest hij zijn koffer openmaken voor inspectie.",
+      "Sommige goederen mag je niet door de <mark>douane</mark> meenemen.",
+      "Ze had niets aan te geven bij de <mark>douane</mark>."
+    ],
+    "options": [
+      "dienst die paspoorten controleert",
+      "dienst die goederen en bagage controleert bij de grens",
+      "loket voor vliegtickets",
+      "beveiligingspersoneel op de luchthaven"
+    ],
+    "correct": 1,
+    "explanation": "De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.",
+    "hint": "De douane staat bij de grens. Ze kijken niet naar je gezicht, maar naar wat je bij je hebt."
+  },
+  {
+    "word": "handbagage",
+    "pos": "zelfstandig naamwoord · de/het",
+    "level": 2,
+    "examples": [
+      "Mijn <mark>handbagage</mark> paste precies in het bagagevak boven de stoel.",
+      "Vloeistoffen in <mark>handbagage</mark> mogen maximaal 100 ml zijn.",
+      "Ze nam alleen <mark>handbagage</mark> mee voor haar weekendreis."
+    ],
+    "options": [
+      "koffer die je inchekt bij de balie",
+      "bagage die je zelf meeneemt in het vliegtuig",
+      "tas die je opgeeft bij de balie",
+      "bagage die apart in het ruim wordt vervoerd"
+    ],
+    "correct": 1,
+    "explanation": "'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.",
+    "hint": "Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig."
+  },
+  {
+    "word": "toeslag",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Voor een extra koffer betaal je een <mark>toeslag</mark> van 30 euro.",
+      "Er geldt een <mark>toeslag</mark> voor stoelen bij het raam.",
+      "De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."
+    ],
+    "options": [
+      "korting op de basisprijs",
+      "extra bedrag bovenop de basisprijs",
+      "de totaalprijs van een ticket",
+      "een terugbetaling"
+    ],
+    "correct": 1,
+    "explanation": "'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.",
+    "hint": "Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij."
+  },
+  {
+    "word": "reisdocument",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "Een paspoort is het bekendste <mark>reisdocument</mark>.",
+      "Controleer altijd of je <mark>reisdocument</mark> nog geldig is voor vertrek.",
+      "Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."
+    ],
+    "options": [
+      "een vliegticket",
+      "officieel document waarmee je je identiteit bewijst en mag reizen",
+      "een lijst van bezienswaardigheden",
+      "een reisverzekering"
+    ],
+    "correct": 1,
+    "explanation": "'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.",
+    "hint": "Zonder dit mag je de grens niet over. Het bewijst wie je bent."
+  },
+  {
+    "word": "vertrekhal",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "De <mark>vertrekhal</mark> was vol met reizigers die hun vlucht afwachtten.",
+      "Je vindt de incheckbalies aan het begin van de <mark>vertrekhal</mark>.",
+      "We liepen snel door de <mark>vertrekhal</mark> richting gate B7."
+    ],
+    "options": [
+      "aankomsthal van een vliegveld",
+      "hal waar reizigers vertrekken",
+      "wachtruimte bij het station",
+      "ruimte voor bagage ophalen"
+    ],
+    "correct": 1,
+    "explanation": "'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.",
+    "hint": "Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?"
+  },
+  {
+    "word": "inchecken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Je kunt online <mark>inchecken</mark> tot 24 uur voor vertrek.",
+      "Bij de balie moest hij eerst <mark>inchecken</mark> voor de vlucht.",
+      "Na het <mark>inchecken</mark> gaf de baliemedewerker hem zijn boardingpass."
+    ],
+    "options": [
+      "je bagage ophalen na de vlucht",
+      "je aanmelden voor een vlucht of hotel bij aankomst",
+      "door de paspoortcontrole gaan",
+      "je ticket omboeken"
+    ],
+    "correct": 1,
+    "explanation": "'Inchecken' = je officieel aanmelden voor een vlucht of bij een hotel. Geleend uit het Engels 'check in'. Tegendeel bij hotel: 'uitchecken'.",
+    "hint": "Wat doe je bij de balie of online voor je naar de gate gaat?"
+  },
+  {
+    "word": "oponthoud",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "Door <mark>oponthoud</mark> op de luchthaven miste ze haar aansluitende vlucht.",
+      "We hadden een uur <mark>oponthoud</mark> in Parijs vanwege technische problemen.",
+      "Het <mark>oponthoud</mark> was frustrerend, maar onvermijdelijk."
+    ],
+    "options": [
+      "een geplande tussenstop tijdens een reis",
+      "een onverwachte of ongewenste vertraging",
+      "een verlenging van de reis",
+      "een extra kosten voor de reis"
+    ],
+    "correct": 1,
+    "explanation": "'Oponthoud' = een onverwachte vertraging of het langer wachten dan gepland. Van 'op' + 'onthoud' (verblijf). Synoniem: 'vertraging'.",
+    "hint": "Je was van plan door te reizen, maar iets houdt je tegen. Je hebt..."
+  },
+  {
+    "word": "reisverzekering",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Met een goede <mark>reisverzekering</mark> word je geholpen als je ziek wordt in het buitenland.",
+      "Ze vergat een <mark>reisverzekering</mark> af te sluiten en moest de ziekenhuiskosten zelf betalen.",
+      "Een <mark>reisverzekering</mark> dekt ook annuleringskosten."
+    ],
+    "options": [
+      "een document dat je identiteit bewijst",
+      "een verzekering die kosten dekt bij problemen tijdens een reis",
+      "een service om tickets goedkoper te boeken",
+      "een geldig visum voor het buitenland"
+    ],
+    "correct": 1,
+    "explanation": "'Reisverzekering' = een verzekering die kosten vergoedt bij ziekte, ongeval of annulering tijdens een reis. Samengesteld van 'reis' + 'verzekering'.",
+    "hint": "Als je ziek wordt in het buitenland, betaalt dit de rekeningen. Het is een..."
+  },
+  {
+    "word": "doorvoer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "De passagiers waren in <mark>doorvoer</mark> en hoefden geen visum aan te vragen.",
+      "Amsterdam Schiphol is een belangrijk <mark>doorvoer</mark>knooppunt in Europa.",
+      "Voor <mark>doorvoer</mark> via sommige landen is toch een transitvisum vereist."
+    ],
+    "options": [
+      "het ophalen van bagage na een vlucht",
+      "het reizen door een land of luchthaven zonder er officieel in te reizen",
+      "het overstappen naar een andere vliegtuigmaatschappij",
+      "het verlengen van een visum"
+    ],
+    "correct": 1,
+    "explanation": "'Doorvoer' = het passeren van een land of luchthaven zonder er in te reizen. Van 'door' + 'voer' (het voeren, vervoeren). Engels: 'transit'.",
+    "hint": "Je vliegt via Amsterdam maar je reist niet naar Nederland. Je bent in..."
+  },
+  {
+    "word": "boeken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>boekte</mark> vroeg een hotel om de beste prijs te krijgen.",
+      "Hij <mark>boekte</mark> zijn vlucht online via een vergelijkingssite.",
+      "Heb je al een tafel <mark>geboekt</mark> voor vanavond?"
+    ],
+    "options": [
+      "een reis of plek annuleren",
+      "een reis, kamer of plek officieel reserveren",
+      "betalen voor een ticket",
+      "informatie opzoeken over een bestemming"
+    ],
+    "correct": 1,
+    "explanation": "'Boeken' = officieel reserveren van een vlucht, hotel of activiteit. Van 'boek' — vroeger schreef je reserveringen op in een boek. Zelfstandig naamwoord: 'boeking'.",
+    "hint": "Voor je op reis gaat, moet je je vluchten en hotel..."
+  }
+]

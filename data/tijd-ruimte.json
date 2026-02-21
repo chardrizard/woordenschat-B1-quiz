@@ -1,0 +1,287 @@
+[
+  {
+    "word": "tijdelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Dit is slechts een <mark>tijdelijke</mark> oplossing — we zoeken iets permanents.",
+      "Ze heeft een <mark>tijdelijk</mark> contract van drie maanden.",
+      "De storing was <mark>tijdelijk</mark> en werd snel verholpen."
+    ],
+    "options": [
+      "voor altijd, zonder einde",
+      "voor een beperkte periode, niet permanent",
+      "onmiddellijk, zonder wachten",
+      "regelmatig terugkerend"
+    ],
+    "correct": 1,
+    "explanation": "'Tijdelijk' = voor een beperkte periode, niet voor altijd. Tegendeel: 'permanent' of 'blijvend'. Van 'tijd'.",
+    "hint": "Het tegendeel van 'permanent'. Niet voor altijd, maar voor een..."
+  },
+  {
+    "word": "vroeger",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Vroeger</mark> fietste hij elke dag naar school, maar nu neemt hij de trein.",
+      "<mark>Vroeger</mark> was dit een klein dorp — nu is het een grote stad.",
+      "Dat was <mark>vroeger</mark> anders."
+    ],
+    "options": [
+      "in de toekomst",
+      "op dit moment",
+      "in het verleden",
+      "af en toe, soms"
+    ],
+    "correct": 2,
+    "explanation": "'Vroeger' verwijst naar een tijd in het verleden — niet heel recent, maar ooit. Vergelijkbaar met 'in het verleden' of 'destijds'.",
+    "hint": "Niet nu, niet straks, maar... toen. In het verleden."
+  },
+  {
+    "word": "moment",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Op dat <mark>moment</mark> realiseerde ze zich dat ze haar sleutels vergeten was.",
+      "Wacht even — dit is niet het juiste <mark>moment</mark>.",
+      "Geniet van elk <mark>moment</mark>."
+    ],
+    "options": [
+      "een lange periode van meerdere jaren",
+      "een heel kort tijdstip",
+      "een vaste afspraak in de agenda",
+      "een terugkerend tijdstip"
+    ],
+    "correct": 1,
+    "explanation": "'Moment' = een heel kort punt in de tijd. Van het Latijnse 'momentum'. Ook gebruikt voor 'nu': 'op dit moment' = nu.",
+    "hint": "Niet een uur, niet een dag — maar een heel kort tijdstip. Een..."
+  },
+  {
+    "word": "eeuw",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De Gouden <mark>Eeuw</mark> was een bloeiperiode voor Nederland in de 17e <mark>eeuw</mark>.",
+      "Het duurt nog een halve <mark>eeuw</mark> voor dit project af is — dat is 50 jaar.",
+      "In de 21e <mark>eeuw</mark> speelt technologie een steeds grotere rol."
+    ],
+    "options": [
+      "een periode van tien jaar",
+      "een periode van honderd jaar",
+      "een periode van duizend jaar",
+      "een onbepaalde lange periode"
+    ],
+    "correct": 1,
+    "explanation": "'Eeuw' = 100 jaar. De 21e eeuw loopt van 2001 tot 2100. Van het Latijn 'saeculum'. Meervoud: 'eeuwen'.",
+    "hint": "Tien jaar = decennium. Honderd jaar = ..."
+  },
+  {
+    "word": "afstand",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>afstand</mark> tussen Amsterdam en Rotterdam is ongeveer 75 kilometer.",
+      "Ze hield emotioneel <mark>afstand</mark> van haar collega's.",
+      "Op welke <mark>afstand</mark> staat de volgende benzinepomp?"
+    ],
+    "options": [
+      "de tijd die een reis duurt",
+      "de ruimte tussen twee punten",
+      "de richting van een route",
+      "de snelheid waarmee je reist"
+    ],
+    "correct": 1,
+    "explanation": "'Afstand' = de ruimte of meting tussen twee punten. Ook figuurlijk: emotionele afstand. Van 'af' + 'staan' = hoe ver iets van je vandaan staat.",
+    "hint": "Als je meet hoe ver Amsterdam van Rotterdam is, meet je de..."
+  },
+  {
+    "word": "verleden",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het is beter om naar de toekomst te kijken dan in het <mark>verleden</mark> te blijven.",
+      "Nederland heeft een rijke maritiem <mark>verleden</mark>.",
+      "In haar <mark>verleden</mark> had ze moeilijke tijden doorgemaakt."
+    ],
+    "options": [
+      "de komende tijd, de toekomst",
+      "het heden, dit moment",
+      "de tijd die al geweest is",
+      "een onbepaalde, verre toekomst"
+    ],
+    "correct": 2,
+    "explanation": "'Verleden' = de tijd die achter ons ligt. Tegendelen: 'heden' (nu) en 'toekomst' (later). Als grammaticale term: 'verleden tijd' = past tense.",
+    "hint": "Heden is nu. Toekomst is later. En het... is wat al geweest is."
+  },
+  {
+    "word": "tijdstip",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Om welk <mark>tijdstip</mark> begint de vergadering?",
+      "Dit is niet het juiste <mark>tijdstip</mark> voor die discussie.",
+      "Op hetzelfde <mark>tijdstip</mark> elke dag eten is goed voor de gezondheid."
+    ],
+    "options": [
+      "een lange periode van weken of maanden",
+      "een specifiek punt op de klok of in de dag",
+      "de duur van een activiteit",
+      "een terugkerende gewoonte"
+    ],
+    "correct": 1,
+    "explanation": "'Tijdstip' = een specifiek, bepaald moment op de klok. Samengesteld van 'tijd' + 'stip' (punt). Bijna synoniem met 'moment', maar concreter.",
+    "hint": "Niet de duur, maar het exacte punt. Hoe laat? Op welk..."
+  },
+  {
+    "word": "omgeving",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>omgeving</mark> van Amsterdam is groen en waterrijk.",
+      "Hij groeide op in een veilige, warme <mark>omgeving</mark>.",
+      "Het bedrijf heeft veel invloed op de lokale <mark>omgeving</mark>."
+    ],
+    "options": [
+      "de binnenruimte van een gebouw",
+      "de ruimte en situatie rondom iets of iemand",
+      "de afstand tot het stadscentrum",
+      "de mensen in een team of groep"
+    ],
+    "correct": 1,
+    "explanation": "'Omgeving' = alles wat rondom je is — ruimtelijk of sociaal. Van 'omgeven' = omringen. Synoniemen: 'buurt', 'context', 'milieu'.",
+    "hint": "Wat je rondom je ziet, hoort en voelt — je directe..."
+  },
+  {
+    "word": "gelijktijdig",
+    "pos": "bijwoord / bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Twee evenementen vonden <mark>gelijktijdig</mark> plaats, wat problemen gaf.",
+      "Ze probeerde <mark>gelijktijdig</mark> te werken en te studeren.",
+      "De <mark>gelijktijdige</mark> aankomst van drie treinen zorgde voor drukte."
+    ],
+    "options": [
+      "één voor één, achter elkaar",
+      "op hetzelfde moment tegelijk",
+      "op gezette tijden, periodiek",
+      "later dan gepland"
+    ],
+    "correct": 1,
+    "explanation": "'Gelijktijdig' = op hetzelfde moment, tegelijkertijd. Samengesteld van 'gelijk' (hetzelfde) + 'tijdig' (op tijd, tijdgerelateerd). Synoniem: 'simultaan'.",
+    "hint": "Niet na elkaar, maar op precies hetzelfde moment. Dat noem je..."
+  },
+  {
+    "word": "grens",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>grens</mark> tussen Nederland en België is hier bijna onzichtbaar.",
+      "Ze gaf aan dat dit de <mark>grens</mark> van haar geduld was.",
+      "Over de <mark>grens</mark> met Duitsland zijn de regels anders."
+    ],
+    "options": [
+      "het midden van een gebied",
+      "de lijn of scheiding tussen twee gebieden of zaken",
+      "de hoofdstad van een land",
+      "de afstand tussen twee steden"
+    ],
+    "correct": 1,
+    "explanation": "'Grens' = de scheiding of limiet tussen twee gebieden, landen of concepten. Ook figuurlijk: 'grenzen stellen' = limieten bepalen.",
+    "hint": "Wat scheidt Nederland van België? Dat is een..."
+  },
+  {
+    "word": "interval",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "De treinen rijden met een <mark>interval</mark> van tien minuten.",
+      "Het <mark>interval</mark> tussen twee hartslagen kan worden gemeten.",
+      "Hij traint met korte <mark>intervallen</mark> van hoge intensiteit."
+    ],
+    "options": [
+      "de totale duur van een activiteit",
+      "de pauze of tussentijd tussen twee momenten",
+      "het begin van een tijdperiode",
+      "een terugkerende afspraak"
+    ],
+    "correct": 1,
+    "explanation": "'Interval' = de tijd of ruimte tussen twee momenten of gebeurtenissen. Van het Latijn 'intervallum'. Gebruikt in sport, muziek en tijdplanning.",
+    "hint": "De tijd tússen twee treinen of twee hartslagen — dat is het..."
+  },
+  {
+    "word": "vluchtig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Ze wierp een <mark>vluchtige</mark> blik op haar telefoon tijdens de vergadering.",
+      "Het was slechts een <mark>vluchtige</mark> ontmoeting — ze spraken maar vijf minuten.",
+      "De <mark>vluchtige</mark> schoonheid van een zonsondergang maakt hem bijzonder."
+    ],
+    "options": [
+      "langdurig en grondig",
+      "heel kort en oppervlakkig, snel voorbijgaand",
+      "regelmatig en voorspelbaar",
+      "intens en diepgaand"
+    ],
+    "correct": 1,
+    "explanation": "'Vluchtig' = snel voorbijgaand, kort en oppervlakkig. Van 'vlucht' (het snel gaan). Vergelijkbaar met 'kort' maar met de nadruk op het vergankelijke karakter.",
+    "hint": "Een vluchtige blik — niet lang, niet diep. Heel..."
+  },
+  {
+    "word": "eeuwigdurend",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "Ze waren het beu van de <mark>eeuwigdurende</mark> vergaderingen.",
+      "De <mark>eeuwigdurende</mark> discussie over dit onderwerp kent geen einde.",
+      "De natuur lijkt in <mark>eeuwigdurende</mark> verandering."
+    ],
+    "options": [
+      "plotseling eindigend",
+      "nooit eindigend, altijd doorgaand",
+      "elk jaar terugkerend",
+      "langzaam verlopend"
+    ],
+    "correct": 1,
+    "explanation": "'Eeuwigdurend' = dat nooit ophoudt, voor altijd doorgaat. Samengesteld van 'eeuwig' (voor altijd) + 'durend' (gaande). Synoniem: 'eindeloos', 'voortdurend'.",
+    "hint": "'Eeuwig' + 'durend'. Iets wat altijd maar doorgaat en nooit stopt."
+  },
+  {
+    "word": "begrensd",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "De tijd is <mark>begrensd</mark> — we moeten prioriteiten stellen.",
+      "Zijn kennis van het onderwerp is <mark>begrensd</mark>.",
+      "De <mark>begrensde</mark> ruimte van het appartement maakte grote meubels onmogelijk."
+    ],
+    "options": [
+      "oneindig groot of ruim",
+      "met een limiet, eindig",
+      "vaag en onbepaald",
+      "tijdelijk en wisselend"
+    ],
+    "correct": 1,
+    "explanation": "'Begrensd' = gelimiteerd, met grenzen. Van 'begrenzen' = grenzen stellen. Tegendeel: 'onbegrensd' (zonder grenzen).",
+    "hint": "Als iets grenzen heeft — niet oneindig is — dan is het..."
+  },
+  {
+    "word": "hedendaags",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "De <mark>hedendaagse</mark> kunst is heel anders dan die uit de 17e eeuw.",
+      "In de <mark>hedendaagse</mark> maatschappij speelt social media een grote rol.",
+      "<mark>Hedendaagse</mark> architectuur maakt veel gebruik van glas en staal."
+    ],
+    "options": [
+      "uit een ver verleden",
+      "van de toekomst, nog niet bestaand",
+      "van nu, van deze tijd",
+      "klassiek en tijdloos"
+    ],
+    "correct": 2,
+    "explanation": "'Hedendaags' = van deze tijd, modern, actueel. Samengesteld van 'heden' (nu) + 'daags' (van de dag). Synoniem: 'modern', 'eigentijds'.",
+    "hint": "'Heden' = nu. 'Daags' = van de dag. Dus 'hedendaags' betekent van..."
+  }
+]

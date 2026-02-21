@@ -1,0 +1,287 @@
+[
+  {
+    "word": "angst",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze had <mark>angst</mark> voor honden na een bijtincident in haar jeugd.",
+      "De <mark>angst</mark> voor het onbekende houdt mensen soms tegen.",
+      "Hij voelde een golf van <mark>angst</mark> toen de lift bleef steken."
+    ],
+    "options": [
+      "een gevoel van blijdschap en opwinding",
+      "een gevoel van dreiging of gevaar",
+      "een gevoel van rust en tevredenheid",
+      "een gevoel van woede"
+    ],
+    "correct": 1,
+    "explanation": "'Angst' = een onaangenaam gevoel van dreiging of gevaar, reëel of ingebeeld. Bijvoeglijk naamwoord: 'angstig'. Synoniem: 'vrees'.",
+    "hint": "Als je bang bent — voor spinnen, voor de donkere, voor de toekomst — voel je..."
+  },
+  {
+    "word": "verdriet",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Na de dood van haar moeder was haar <mark>verdriet</mark> overweldigend.",
+      "Hij verborg zijn <mark>verdriet</mark> achter een glimlach.",
+      "De film was zo mooi dat ze <mark>verdriet</mark> voelde."
+    ],
+    "options": [
+      "intense blijdschap en geluk",
+      "diepe droefheid, pijn of gemis",
+      "boosheid en frustratie",
+      "teleurstelling over een fout"
+    ],
+    "correct": 1,
+    "explanation": "'Verdriet' = een diep gevoel van droefheid, pijn of gemis. Van 'verdrieten' = iemand leed bezorgen. Bijvoeglijk naamwoord: 'verdrietig'.",
+    "hint": "Als iemand overlijdt of iets ernstigs verliest, voel je..."
+  },
+  {
+    "word": "trots",
+    "pos": "zelfstandig naamwoord · de / bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze voelde <mark>trots</mark> toen haar kind voor het eerst liep.",
+      "De coach was <mark>trots</mark> op het team na de overwinning.",
+      "Nationale <mark>trots</mark> is een sterk gevoel bij grote sportevenementen."
+    ],
+    "options": [
+      "een gevoel van schaamte en schuldgevoel",
+      "een gevoel van tevredenheid over eigen of andermans prestaties",
+      "een gevoel van jaloezie",
+      "een gevoel van twijfel en onzekerheid"
+    ],
+    "correct": 1,
+    "explanation": "'Trots' = een gevoel van tevredenheid en voldoening over prestaties — van jezelf of anderen. Bijvoeglijk naamwoord: 'trots'. Werkwoord: 'trots zijn op'.",
+    "hint": "Als je kind zijn eerste stappen zet, ben je als ouder..."
+  },
+  {
+    "word": "liefde",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>liefde</mark> voor zijn kinderen gaf hem kracht.",
+      "Ze hadden na dertig jaar huwelijk nog steeds <mark>liefde</mark> voor elkaar.",
+      "Zijn <mark>liefde</mark> voor muziek begon al op jonge leeftijd."
+    ],
+    "options": [
+      "een gevoel van vriendschap",
+      "een diep gevoel van genegenheid, verbondenheid of passie",
+      "een gevoel van respect zonder emotie",
+      "een gevoel van verantwoordelijkheid"
+    ],
+    "correct": 1,
+    "explanation": "'Liefde' = een diep gevoel van genegenheid, toewijding of passie — voor een persoon, dier of activiteit. Werkwoord: 'liefhebben' of 'houden van'.",
+    "hint": "Het diepste gevoel van verbondenheid. Ouders voelen het voor kinderen. Partners voor elkaar. Het heet..."
+  },
+  {
+    "word": "jaloezie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze voelde <mark>jaloezie</mark> toen haar zus een promotie kreeg.",
+      "Zijn <mark>jaloezie</mark> maakte hem onredelijk en achterdochtig.",
+      "Een beetje <mark>jaloezie</mark> is normaal, maar teveel is schadelijk."
+    ],
+    "options": [
+      "een gevoel van bewondering voor iemand",
+      "een gevoel van afgunst of begeerte naar wat een ander heeft",
+      "een gevoel van medeleven met iemand",
+      "een gevoel van tevredenheid met eigen bezit"
+    ],
+    "correct": 1,
+    "explanation": "'Jaloezie' = een gevoel van afgunst of begeerte, gecombineerd met vrees het te verliezen. Bijvoeglijk naamwoord: 'jaloers'. Synoniem: 'afgunst', 'naijver'.",
+    "hint": "Als je wilt hebben wat een ander heeft, of bang bent iemand te verliezen, voel je..."
+  },
+  {
+    "word": "opluchting",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze voelde grote <mark>opluchting</mark> toen ze hoorde dat de operatie gelukt was.",
+      "Na het examen was de <mark>opluchting</mark> op alle gezichten te zien.",
+      "Met een zucht van <mark>opluchting</mark> legde hij de telefoon neer."
+    ],
+    "options": [
+      "een gevoel van spanning en opwinding",
+      "het gevoel dat een druk of zorgen zijn weggenomen",
+      "een gevoel van teleurstelling",
+      "een gevoel van trots na succes"
+    ],
+    "correct": 1,
+    "explanation": "'Opluchting' = het gevoel dat een spanning of zorg wegvalt. Van 'oplucht' (letterlijk: lucht er op). Werkwoord: 'opluchten'. 'Ik ben opgelucht' = ik voel opluchting.",
+    "hint": "Na een spannend moment dat goed afliep, adem je diep uit. Dat gevoel is..."
+  },
+  {
+    "word": "twijfel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze had <mark>twijfels</mark> over haar beslissing om te verhuizen.",
+      "Zonder <mark>twijfel</mark> was dit de beste vakantie ooit.",
+      "Zijn <mark>twijfel</mark> groeide naarmate de deadline naderde."
+    ],
+    "options": [
+      "sterke overtuiging en zekerheid",
+      "onzekerheid of iets waar of goed is",
+      "het nemen van een snelle beslissing",
+      "angst voor een concreet gevaar"
+    ],
+    "correct": 1,
+    "explanation": "'Twijfel' = onzekerheid over een beslissing of overtuiging. Werkwoord: 'twijfelen'. 'Buiten twijfel staan' = zeker zijn. Tegendeel: 'zekerheid'.",
+    "hint": "Als je niet zeker weet of iets goed is en je wikt en weegt, heb je..."
+  },
+  {
+    "word": "frustratie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De voortdurende vertragingen leidden tot grote <mark>frustratie</mark> bij de passagiers.",
+      "Ze voelde <mark>frustratie</mark> omdat niemand naar haar luisterde.",
+      "Zijn <mark>frustratie</mark> uitte hij door hard met de deur te slaan."
+    ],
+    "options": [
+      "een gevoel van tevredenheid als iets soepel verloopt",
+      "een gevoel van irritatie als iets niet lukt of wordt tegengehouden",
+      "een diep verdriet om een verlies",
+      "angst voor het onbekende"
+    ],
+    "correct": 1,
+    "explanation": "'Frustratie' = het gevoel dat ontstaat als iets belemmerd wordt of niet lukt. Van het Latijn 'frustratio'. Werkwoord: 'frustreren'. Bijvoeglijk: 'gefrustreerd'.",
+    "hint": "Je probeert iets, maar het lukt steeds niet. De computer doet het niet. Je voelt..."
+  },
+  {
+    "word": "empathie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Een goede hulpverlener heeft veel <mark>empathie</mark> voor de mensen die ze helpt.",
+      "Kinderen leren <mark>empathie</mark> door te zien hoe anderen reageren op pijn.",
+      "Zonder <mark>empathie</mark> is het moeilijk om goede relaties te onderhouden."
+    ],
+    "options": [
+      "het vermogen om anderen te manipuleren",
+      "het vermogen om de gevoelens van anderen te begrijpen en te delen",
+      "het hebben van veel vrienden",
+      "het rationeel oplossen van conflicten"
+    ],
+    "correct": 1,
+    "explanation": "'Empathie' = het vermogen om mee te voelen met anderen, je in te leven in hun situatie. Van het Grieks 'empatheia'. Bijvoeglijk: 'empathisch'. Synoniem: 'inlevingsvermogen'.",
+    "hint": "Je kunt je in iemand anders inleven en hun gevoel begrijpen. Dat vermogen heet..."
+  },
+  {
+    "word": "teleurstelling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Het verlies van de finale was een grote <mark>teleurstelling</mark> voor het team.",
+      "Ze probeerde haar <mark>teleurstelling</mark> te verbergen, maar haar ogen verrieden haar.",
+      "Na de <mark>teleurstelling</mark> nam ze zich voor om harder te werken."
+    ],
+    "options": [
+      "vreugde over een onverwacht succes",
+      "het gevoel dat de werkelijkheid niet aan de verwachtingen voldoet",
+      "boosheid over onrecht",
+      "schaamte over eigen gedrag"
+    ],
+    "correct": 1,
+    "explanation": "'Teleurstelling' = het gevoel als de werkelijkheid slechter uitpakt dan verwacht. Van 'teleurstellen' = iemand ontgoochelen. Bijvoeglijk naamwoord: 'teleurgesteld'.",
+    "hint": "Je hoopte op een goed resultaat, maar het was slecht. Je voelt een..."
+  },
+  {
+    "word": "wanhoop",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "In zijn <mark>wanhoop</mark> belde hij midden in de nacht zijn vriend.",
+      "De <mark>wanhoop</mark> op haar gezicht was pijnlijk om te zien.",
+      "Pas in <mark>wanhoop</mark> vroeg hij om hulp."
+    ],
+    "options": [
+      "een gevoel van hoop en verwachting",
+      "een gevoel van totale hopeloosheid en radeloosheid",
+      "een gevoel van lichte teleurstelling",
+      "bezorgdheid over de toekomst"
+    ],
+    "correct": 1,
+    "explanation": "'Wanhoop' = een gevoel van totale hopeloosheid. Samengesteld van 'wan-' (slecht, mis) + 'hoop'. Bijvoeglijk naamwoord: 'wanhopig'. Tegendeel: 'hoop'.",
+    "hint": "'Wan-' = slecht, negatief. 'Hoop' = verwachting. Als alle hoop weg is, voel je..."
+  },
+  {
+    "word": "berusting",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Na jaren van strijd aanvaardde ze de situatie met <mark>berusting</mark>.",
+      "Zijn toon was er een van <mark>berusting</mark> — hij had er vrede mee.",
+      "<mark>Berusting</mark> is niet hetzelfde als geluk, maar het geeft rust."
+    ],
+    "options": [
+      "actieve strijd tegen een moeilijke situatie",
+      "het aanvaarden van iets onveranderlijks met rust",
+      "het vermijden van een moeilijk probleem",
+      "teleurstelling over een gemiste kans"
+    ],
+    "correct": 1,
+    "explanation": "'Berusting' = het rustig aanvaarden van iets wat niet te veranderen is. Van 'berusten in' = accepteren. Niet passief opgeven, maar actief accepteren.",
+    "hint": "Als je iets niet kunt veranderen en je accepteert het met rust — dat gevoel heet..."
+  },
+  {
+    "word": "nostalgie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Oude muziek wekte een gevoel van <mark>nostalgie</mark> bij haar op.",
+      "Hij keek met <mark>nostalgie</mark> terug op zijn jeugd.",
+      "<mark>Nostalgie</mark> is het verlangen naar een vroeger die misschien mooier leek dan het was."
+    ],
+    "options": [
+      "angst voor de toekomst",
+      "een weemoedig verlangen naar een mooi verleden",
+      "vreugde over een herinnering",
+      "spijt over een fout uit het verleden"
+    ],
+    "correct": 1,
+    "explanation": "'Nostalgie' = een weemoedig gevoel van verlangen naar het verleden. Van het Grieks 'nostos' (thuiskomen) + 'algos' (pijn). Bijvoeglijk: 'nostalgisch'.",
+    "hint": "Een weemoedig gevoel als je terugdenkt aan vroeger en het terug wilt — dat is..."
+  },
+  {
+    "word": "euforie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 4,
+    "examples": [
+      "Na de overwinning was er pure <mark>euforie</mark> in het stadion.",
+      "De <mark>euforie</mark> na de bevrijding was onbeschrijfelijk.",
+      "Sommige medicijnen kunnen <mark>euforie</mark> veroorzaken."
+    ],
+    "options": [
+      "een gevoel van diepe vermoeidheid",
+      "een gevoel van intense, overweldigende vreugde",
+      "een toestand van rust en kalmte",
+      "een gevoel van tevredenheid en rust"
+    ],
+    "correct": 1,
+    "explanation": "'Euforie' = een intens gevoel van vreugde en geluk, sterker dan normaal. Van het Grieks 'euphoria'. Bijvoeglijk naamwoord: 'euforisch'.",
+    "hint": "Meer dan gewoon blij — een overweldigend gevoel van geluk en vreugde. Dat is..."
+  },
+  {
+    "word": "ambivalent",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "Ze had <mark>ambivalente</mark> gevoelens over de nieuwe baan — spannend maar ook eng.",
+      "Hij was <mark>ambivalent</mark> over het vertrek van zijn baas.",
+      "<mark>Ambivalentie</mark> is normaal bij grote veranderingen."
+    ],
+    "options": [
+      "heel zeker en overtuigd van iets",
+      "tegenstrijdige gevoelens hebben over iets tegelijkertijd",
+      "neutraal en onverschillig",
+      "wisselend van mening zonder reden"
+    ],
+    "correct": 1,
+    "explanation": "'Ambivalent' = twee tegenstrijdige gevoelens of meningen tegelijkertijd hebben. Van het Latijn 'ambi' (beide) + 'valere' (waard zijn). Zelfstandig naamwoord: 'ambivalentie'.",
+    "hint": "Blij én bang tegelijk. Enthousiast én terughoudend. Dat noem je..."
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "word": "groot",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het nieuwe stadion is zo <mark>groot</mark> dat er 50.000 mensen in passen.",
+      "Ze heeft een <mark>grote</mark> tuin achter het huis.",
+      "Dit is een <mark>groot</mark> probleem dat snel opgelost moet worden."
+    ],
+    "options": [
+      "klein van afmeting of omvang",
+      "met veel ruimte of omvang, niet klein",
+      "zwaar in gewicht",
+      "ver weg gelegen"
+    ],
+    "correct": 1,
+    "explanation": "'Groot' = met een grote omvang of afmeting. Tegendeel: 'klein'. Ook figuurlijk: 'een groot probleem' = een ernstig probleem.",
+    "hint": "Het tegendeel van klein. Een olifant is... een muis is klein."
+  },
+  {
+    "word": "snel",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De trein is <mark>sneller</mark> dan de bus voor lange afstanden.",
+      "Ze werkt <mark>snel</mark> en maakt weinig fouten.",
+      "Een <mark>snelle</mark> reactie kan levens redden."
+    ],
+    "options": [
+      "langzaam en voorzichtig",
+      "met veel kracht",
+      "in korte tijd, met hoge snelheid",
+      "stil en onopvallend"
+    ],
+    "correct": 2,
+    "explanation": "'Snel' = met hoge snelheid, in korte tijd. Tegendeel: 'langzaam'. Zelfstandig naamwoord: 'snelheid'.",
+    "hint": "Een raceauto rijdt... en een schildpad beweegt langzaam."
+  },
+  {
+    "word": "leeg",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De fles was <mark>leeg</mark> — er zat geen water meer in.",
+      "De straten zijn <mark>leeg</mark> op zondagochtend vroeg.",
+      "Zijn blik was <mark>leeg</mark>, alsof hij nergens aan dacht."
+    ],
+    "options": [
+      "vol met mensen of dingen",
+      "zonder inhoud, niets erin of erop",
+      "vies en onopgeruimd",
+      "kapot of beschadigd"
+    ],
+    "correct": 1,
+    "explanation": "'Leeg' = zonder inhoud of mensen. Tegendeel: 'vol'. Ook figuurlijk: 'een leeg gevoel' = een gevoel van leegte of zinloosheid.",
+    "hint": "Een fles zonder water is... Een volle fles is het tegendeel."
+  },
+  {
+    "word": "zwaar",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De doos was zo <mark>zwaar</mark> dat ze hem niet alleen kon tillen.",
+      "Het was een <mark>zware</mark> dag — ze was uitgeput.",
+      "Dit vak staat bekend als <mark>zwaar</mark> en veeleisend."
+    ],
+    "options": [
+      "licht in gewicht, makkelijk te tillen",
+      "veel wegende, of moeilijk en inspannend",
+      "gevaarlijk en risicovol",
+      "duur en kostbaar"
+    ],
+    "correct": 1,
+    "explanation": "'Zwaar' = veel wogend, of figuurlijk: moeilijk en veeleisend. Tegendeel: 'licht'. 'Een zware taak' = een moeilijke taak.",
+    "hint": "Een steen is... Een veertje is licht. Ook een moeilijke dag kan... zijn."
+  },
+  {
+    "word": "mooi",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De zonsondergang was zo <mark>mooi</mark> dat iedereen bleef kijken.",
+      "Ze droeg een <mark>mooie</mark> jurk naar het feest.",
+      "Wat een <mark>mooi</mark> verhaal — ik was helemaal geroerd."
+    ],
+    "options": [
+      "lelijk en onaantrekkelijk",
+      "aangenaam voor het oog of gevoel, aantrekkelijk",
+      "duur en exclusief",
+      "nieuw en ongebruikt"
+    ],
+    "correct": 1,
+    "explanation": "'Mooi' = esthetisch aantrekkelijk, aangenaam. Tegendeel: 'lelijk'. Ook figuurlijk: 'een mooi gebaar' = iets vriendelijks doen.",
+    "hint": "Een prachtige zonsondergang of een mooie schilderij is... Het tegendeel is lelijk."
+  },
+  {
+    "word": "rustig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Na de drukte van de stad was het heerlijk <mark>rustig</mark> op het platteland.",
+      "Ze heeft een <mark>rustige</mark> persoonlijkheid — ze raakt nooit gestresst.",
+      "De zee was <mark>rustig</mark> en er waren geen golven."
+    ],
+    "options": [
+      "luidruchtig en druk",
+      "zonder drukte, lawaai of onrust",
+      "saai en oninteressant",
+      "traag en inefficiënt"
+    ],
+    "correct": 1,
+    "explanation": "'Rustig' = kalm, zonder drukte of lawaai. Tegendeel: 'druk' of 'lawaaierig'. Zelfstandig naamwoord: 'rust'.",
+    "hint": "Een stille, kalme plek zonder drukte. Het tegendeel van druk en lawaaierig."
+  },
+  {
+    "word": "scherp",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Het mes was zo <mark>scherp</mark> dat het door het vlees sneed als boter.",
+      "Ze stelde een <mark>scherpe</mark> vraag die niemand had verwacht.",
+      "Zijn <mark>scherpe</mark> verstand maakte hem een uitstekende advocaat."
+    ],
+    "options": [
+      "bot en niet snijdend",
+      "met een puntige rand die snijdt, of bijdehand en precies",
+      "helder en duidelijk zichtbaar",
+      "pijnlijk en onaangenaam"
+    ],
+    "correct": 1,
+    "explanation": "'Scherp' = snijdend of puntig, ook figuurlijk: intelligent en precies. Tegendeel: 'bot'. 'Een scherp verstand' = een snel, analytisch denkvermogen.",
+    "hint": "Een goed geslepen mes is... Het tegendeel is bot. Ook een slimme opmerking kan... zijn."
+  },
+  {
+    "word": "glad",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "De weg was <mark>glad</mark> door de ijzel en er gebeurden veel ongelukken.",
+      "Het oppervlak van het glas was perfect <mark>glad</mark>.",
+      "Hij is een <mark>gladde</mark> verkoper — je koopt altijd meer dan je wilt."
+    ],
+    "options": [
+      "ruw en oneffen van oppervlak",
+      "effen zonder hobbels, of te glad van tong",
+      "nat en doorweekt",
+      "koud en bevroren"
+    ],
+    "correct": 1,
+    "explanation": "'Glad' = effen, zonder hobbels. Ook figuurlijk: te vriendelijk en onbetrouwbaar — 'een gladde vent'. Tegendeel: 'ruw'.",
+    "hint": "IJzel maakt de weg gevaarlijk... Een ruw oppervlak is het tegendeel."
+  },
+  {
+    "word": "vaag",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Zijn uitleg was zo <mark>vaag</mark> dat niemand begreep wat hij bedoelde.",
+      "Ze had een <mark>vaag</mark> gevoel dat er iets niet klopte.",
+      "Het plan was nog <mark>vaag</mark> — er waren geen concrete stappen."
+    ],
+    "options": [
+      "heel duidelijk en precies omschreven",
+      "onduidelijk, niet concreet of moeilijk te begrijpen",
+      "onwaar en misleidend",
+      "simpel en makkelijk te begrijpen"
+    ],
+    "correct": 1,
+    "explanation": "'Vaag' = onduidelijk, niet concreet. Tegendeel: 'duidelijk' of 'concreet'. Ook: 'vaag kijken' = een afwezige blik hebben.",
+    "hint": "Een uitleg die niemand begrijpt omdat er geen details in zitten, is..."
+  },
+  {
+    "word": "duurzaam",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "<mark>Duurzame</mark> energie zoals zonne- en windenergie vervangt fossiele brandstoffen.",
+      "Ze kocht een <mark>duurzame</mark> jas die twintig jaar mee zou gaan.",
+      "Het bedrijf werkt aan een <mark>duurzamere</mark> productiewijze."
+    ],
+    "options": [
+      "goedkoop en makkelijk te vervangen",
+      "lang meegaand of milieuvriendelijk en toekomstbestendig",
+      "modern en innovatief",
+      "biologisch en naturlijk geteeld"
+    ],
+    "correct": 1,
+    "explanation": "'Duurzaam' = lang meegaand, of milieuvriendelijk en toekomstbestendig. Van 'duren' = lang voortbestaan. Zelfstandig naamwoord: 'duurzaamheid'.",
+    "hint": "Zonne-energie is... voor het milieu. Een goede jas die jaren meegaat is ook..."
+  },
+  {
+    "word": "kwetsbaar",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Ouderen en kinderen zijn <mark>kwetsbare</mark> groepen tijdens een epidemie.",
+      "Ze voelde zich <mark>kwetsbaar</mark> na het delen van haar persoonlijke verhaal.",
+      "Het ecosysteem is <mark>kwetsbaar</mark> voor veranderingen in het klimaat."
+    ],
+    "options": [
+      "sterk en goed beschermd",
+      "gemakkelijk te beschadigen of te raken",
+      "onzeker en wisselvallig",
+      "ziek en verzwakt"
+    ],
+    "correct": 1,
+    "explanation": "'Kwetsbaar' = gemakkelijk te beschadigen, verwonden of raken — fysiek of emotioneel. Van 'kwetsen' = pijn doen. Zelfstandig naamwoord: 'kwetsbaarheid'.",
+    "hint": "Iemand die makkelijk geraakt of beschadigd kan worden — fysiek of emotioneel — is..."
+  },
+  {
+    "word": "aanzienlijk",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 3,
+    "examples": [
+      "De kosten zijn <mark>aanzienlijk</mark> gestegen het afgelopen jaar.",
+      "Er is een <mark>aanzienlijk</mark> verschil tussen de twee aanbiedingen.",
+      "Ze heeft een <mark>aanzienlijke</mark> bijdrage geleverd aan het project."
+    ],
+    "options": [
+      "heel klein en nauwelijks merkbaar",
+      "groot en opmerkelijk, meer dan gemiddeld",
+      "precies gelijk aan het gemiddelde",
+      "onverwacht en verrassend"
+    ],
+    "correct": 1,
+    "explanation": "'Aanzienlijk' = behoorlijk groot, opvallend veel. Synoniem: 'aanzienlijk', 'flink', 'significant'. Van 'aanzien' = belang.",
+    "hint": "Niet een beetje, maar behoorlijk veel. Een... stijging is een grote stijging."
+  },
+  {
+    "word": "vluchtig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Ze wierp een <mark>vluchtige</mark> blik op de klok voor ze de kamer uitliep.",
+      "Het was een <mark>vluchtige</mark> ontmoeting — ze spraken maar twee minuten.",
+      "De <mark>vluchtige</mark> geur van koffie deed hem aan thuis denken."
+    ],
+    "options": [
+      "langdurig en grondig",
+      "heel kort en snel voorbijgaand",
+      "intens en overweldigend",
+      "regelmatig terugkerend"
+    ],
+    "correct": 1,
+    "explanation": "'Vluchtig' = snel voorbijgaand, oppervlakkig. Van 'vlucht'. Tegendeel: 'grondig' of 'langdurig'.",
+    "hint": "Een blik die maar een seconde duurt. Niet diep, niet lang — heel..."
+  },
+  {
+    "word": "subtiel",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "Er was een <mark>subtiel</mark> verschil in kleur dat alleen experts konden zien.",
+      "Ze maakte een <mark>subtiele</mark> opmerking die niet iedereen oppakte.",
+      "Zijn <mark>subtiele</mark> humor was niet voor iedereen."
+    ],
+    "options": [
+      "luid en overduidelijk aanwezig",
+      "fijn en niet meteen opvallend, indirect",
+      "ingewikkeld en moeilijk te begrijpen",
+      "zacht en stil"
+    ],
+    "correct": 1,
+    "explanation": "'Subtiel' = fijn, niet overduidelijk, vereist aandacht om op te merken. Van het Latijn 'subtilis'. Tegendeel: 'opvallend' of 'grof'.",
+    "hint": "Iets wat er is maar niet meteen opvalt. Een klein, fijn verschil. Dat is..."
+  },
+  {
+    "word": "eigenzinnig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "Ze was een <mark>eigenzinnige</mark> ontwerper die nooit trends volgde.",
+      "Het kind was <mark>eigenzinnig</mark> en deed altijd precies wat het zelf wilde.",
+      "Zijn <mark>eigenzinnige</mark> aanpak leverde verrassende resultaten op."
+    ],
+    "options": [
+      "gehoorzaam en volgzaam",
+      "met een sterk eigen wil en mening, onafhankelijk denkend",
+      "verward en onzeker",
+      "creatief maar ongeorganiseerd"
+    ],
+    "correct": 1,
+    "explanation": "'Eigenzinnig' = met een sterke eigen mening, die je niet snel laat beïnvloeden. Samengesteld van 'eigen' + 'zin' (wil, mening). Kan positief of negatief zijn.",
+    "hint": "'Eigen' + 'zin'. Iemand die altijd zijn eigen wil volgt en zich niets aantrekt van anderen."
+  }
+]

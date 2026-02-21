@@ -1,0 +1,287 @@
+[
+  {
+    "word": "deadline",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>deadline</mark> voor het project is vrijdag om 17:00 uur.",
+      "Ze werkte dag en nacht om de <mark>deadline</mark> te halen.",
+      "Door ziekte miste hij de <mark>deadline</mark> en moest hij uitstel vragen."
+    ],
+    "options": [
+      "een bijeenkomst met collega's",
+      "de uiterste datum waarop iets af moet zijn",
+      "een contract met een werkgever",
+      "het budget voor een project"
+    ],
+    "correct": 1,
+    "explanation": "'Deadline' = de uiterste datum of tijd voor het inleveren of afmaken van iets. Van het Engels. Synoniem in het Nederlands: 'inleverdatum' of 'uiterste termijn'.",
+    "hint": "Je hebt tot vrijdag de tijd om het af te hebben. Die vrijdag is je..."
+  },
+  {
+    "word": "bevoegdheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Als manager heb je de <mark>bevoegdheid</mark> om personeel aan te nemen.",
+      "Buiten zijn <mark>bevoegdheid</mark> kan hij geen beslissingen nemen.",
+      "De rechter heeft de <mark>bevoegdheid</mark> om een straf op te leggen."
+    ],
+    "options": [
+      "de kennis die je hebt verworven",
+      "het officiële recht om iets te mogen doen",
+      "de verantwoordelijkheid voor een fout",
+      "de ervaring in een bepaald vakgebied"
+    ],
+    "correct": 1,
+    "explanation": "'Bevoegdheid' = het officiële recht of de macht om iets te doen. Van 'bevoegd' = gemachtigd. Synoniemen: 'macht', 'mandaat', 'jurisdictie'.",
+    "hint": "Niet wat je kúnt, maar wat je officieel mágt doen — dat is je..."
+  },
+  {
+    "word": "prestatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Het behalen van zijn master was een grote <mark>prestatie</mark>.",
+      "De sportploeg leverde een uitstekende <mark>prestatie</mark> tijdens het toernooi.",
+      "Ze werd beloond voor haar <mark>prestaties</mark> op het werk."
+    ],
+    "options": [
+      "een doel dat nog bereikt moet worden",
+      "iets wat succesvol is gedaan of bereikt",
+      "een fout die is gemaakt",
+      "een plan voor de toekomst"
+    ],
+    "correct": 1,
+    "explanation": "'Prestatie' = iets wat met inspanning bereikt is. Van 'presteren' = leveren. 'Hoge prestaties' = goed resultaten. Synoniem: 'verwezenlijking', 'resultaat'.",
+    "hint": "Na hard werken en succes — wat heb je dan geleverd? Een..."
+  },
+  {
+    "word": "samenwerking",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>samenwerking</mark> tussen de twee afdelingen verliep soepel.",
+      "Succes is vaak het resultaat van goede <mark>samenwerking</mark>.",
+      "Ze zijn een <mark>samenwerking</mark> gestart om het project te voltooien."
+    ],
+    "options": [
+      "het alleen werken aan een project",
+      "het gezamenlijk werken aan een doel",
+      "het verdelen van taken zonder overleg",
+      "concurrentie tussen collega's"
+    ],
+    "correct": 1,
+    "explanation": "'Samenwerking' = het gezamenlijk werken van mensen of organisaties aan een gemeenschappelijk doel. Van 'samenwerken'. Synoniem: 'co-operatie'.",
+    "hint": "Niet alleen, maar samen. Dat noem je..."
+  },
+  {
+    "word": "verantwoordelijkheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Als manager draag je <mark>verantwoordelijkheid</mark> voor je team.",
+      "Het is jouw <mark>verantwoordelijkheid</mark> om op tijd te zijn.",
+      "Hij nam <mark>verantwoordelijkheid</mark> voor de fout en bood excuses aan."
+    ],
+    "options": [
+      "het recht om iemand te controleren",
+      "de plicht om ergens voor in te staan en te zorgen",
+      "de bevoegdheid om beslissingen te nemen",
+      "de kennis die bij een functie hoort"
+    ],
+    "correct": 1,
+    "explanation": "'Verantwoordelijkheid' = de plicht om voor iets of iemand in te staan. Van 'verantwoorden' = uitleg geven. 'Verantwoordelijk zijn voor' = borg staan voor.",
+    "hint": "Als iets fout gaat en jij moest erover waken, dien jij rekenschap af te leggen — dat is jouw..."
+  },
+  {
+    "word": "opdracht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De leraar gaf een <mark>opdracht</mark> die voor maandag af moest zijn.",
+      "Ze kreeg de <mark>opdracht</mark> om het rapport te schrijven.",
+      "Het uitvoeren van die <mark>opdracht</mark> kostte hem drie dagen."
+    ],
+    "options": [
+      "een vergadering met collega's",
+      "een taak die je moet uitvoeren",
+      "een aanbeveling voor iemand",
+      "een beloning na goed werk"
+    ],
+    "correct": 1,
+    "explanation": "'Opdracht' = een taak of instructie die je van iemand krijgt om uit te voeren. Van 'opdragen' = toevertrouwen. 'In opdracht van' = namens.",
+    "hint": "De leraar of baas geeft je iets te doen. Dat is een..."
+  },
+  {
+    "word": "diploma",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Na vier jaar studie ontving ze haar <mark>diploma</mark>.",
+      "Voor deze baan heb je een <mark>diploma</mark> HBO nodig.",
+      "Hij hing zijn <mark>diploma</mark> trots aan de muur."
+    ],
+    "options": [
+      "een werkervaring die je hebt opgedaan",
+      "een officieel certificaat dat aantoont dat je een opleiding hebt voltooid",
+      "een aanbevelingsbrief van een werkgever",
+      "een lijst van vakken die je hebt gevolgd"
+    ],
+    "correct": 1,
+    "explanation": "'Diploma' = een officieel document dat bewijst dat je een opleiding of examen met succes hebt afgerond. Van het Grieks 'diploma' (gevouwen document).",
+    "hint": "Een document dat je na je studie krijgt als bewijs dat je geslaagd bent, heet een..."
+  },
+  {
+    "word": "leerling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>leerling</mark> vroeg zijn docent om uitleg.",
+      "Op deze school zitten 800 <mark>leerlingen</mark>.",
+      "Als jonge <mark>leerling</mark> was hij altijd nieuwsgierig."
+    ],
+    "options": [
+      "een leraar in het onderwijs",
+      "iemand die onderwijs volgt, een scholier",
+      "een medewerker van een school",
+      "een ouder van een schoolkind"
+    ],
+    "correct": 1,
+    "explanation": "'Leerling' = iemand die onderwijs volgt, vooral in het basis- of voortgezet onderwijs. Van 'leren'. Synoniemen: 'scholier', 'student' (hoger onderwijs).",
+    "hint": "Een kind of jongere die op school zit en les krijgt is een..."
+  },
+  {
+    "word": "bijscholing",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "De verpleegkundige volgde <mark>bijscholing</mark> om haar kennis up-to-date te houden.",
+      "Werkgevers vergoeden vaak de kosten van <mark>bijscholing</mark>.",
+      "Technologische ontwikkelingen vragen voortdurende <mark>bijscholing</mark>."
+    ],
+    "options": [
+      "een tweede studie aan een universiteit",
+      "aanvullende opleiding om kennis en vaardigheden te verbeteren",
+      "een verplichte cursus bij aanvang van een nieuwe baan",
+      "onderwijs dat je na je pensioen volgt"
+    ],
+    "correct": 1,
+    "explanation": "'Bijscholing' = aanvullende opleiding die je volgt naast of na je werk om bij te blijven. 'Bij-' = extra, aanvullend. Synoniem: 'nascholing', 'professionele ontwikkeling'.",
+    "hint": "'Bij-' = extra. 'Scholing' = opleiding. Je bent al opgeleid, maar volgt toch extra cursussen. Dat heet..."
+  },
+  {
+    "word": "portfolio",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "De ontwerper liet haar <mark>portfolio</mark> zien tijdens het sollicitatiegesprek.",
+      "Een sterk <mark>portfolio</mark> is essentieel voor creatieve beroepen.",
+      "Hij bouwde zijn <mark>portfolio</mark> op door vrijwilligerswerk te doen."
+    ],
+    "options": [
+      "een samenvatting van je werkervaring in een brief",
+      "een verzameling van je beste werk of projecten",
+      "een lijst van referenties van vorige werkgevers",
+      "een document met je salarisverwachting"
+    ],
+    "correct": 1,
+    "explanation": "'Portfolio' = een verzameling van je beste werk, projecten of prestaties, bedoeld om te tonen aan werkgevers of klanten. Van het Italiaans 'portafoglio'.",
+    "hint": "Een ontwerper toont zijn beste ontwerpen in een... Dat is zijn bewijs van kunnen."
+  },
+  {
+    "word": "onderhandelen",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>onderhandelde</mark> over haar salaris voor de nieuwe functie.",
+      "De vakbond <mark>onderhandelt</mark> namens de werknemers.",
+      "Na uren <mark>onderhandelen</mark> kwamen ze tot een akkoord."
+    ],
+    "options": [
+      "een beslissing zonder overleg opleggen",
+      "overleggen om tot een wederzijds aanvaardbaar resultaat te komen",
+      "het weigeren van een aanbod",
+      "het accepteren van een eerste voorstel"
+    ],
+    "correct": 1,
+    "explanation": "'Onderhandelen' = overleggen met als doel overeenstemming te bereiken, waarbij beide partijen geven en nemen. Zelfstandig naamwoord: 'onderhandeling'.",
+    "hint": "Je wilt meer salaris. Je bespreekt dit met je werkgever totdat jullie het eens zijn. Dat is..."
+  },
+  {
+    "word": "competentie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Communicatievaardigheid is een belangrijke <mark>competentie</mark> voor deze rol.",
+      "In zijn functieprofiel staan de vereiste <mark>competenties</mark>.",
+      "Ze heeft de <mark>competentie</mark> om dit project te leiden."
+    ],
+    "options": [
+      "de formele bevoegdheid om iets te mogen doen",
+      "de kennis, vaardigheden en houding die nodig zijn voor een taak",
+      "de ervaring in jaren die iemand heeft opgebouwd",
+      "het diploma dat bij een functie hoort"
+    ],
+    "correct": 1,
+    "explanation": "'Competentie' = de combinatie van kennis, vaardigheden en houding om een taak goed uit te voeren. Van het Latijn 'competere'. Synoniem: 'bekwaamheid'.",
+    "hint": "Niet alleen weten, maar ook kunnen en durven. Alles wat je nodig hebt voor een taak heet een..."
+  },
+  {
+    "word": "stagebegeleider",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Zijn <mark>stagebegeleider</mark> hielp hem de eerste weken wegwijs te worden.",
+      "De <mark>stagebegeleider</mark> beoordeelt de student aan het einde van de stage.",
+      "Ze besprak haar voortgang wekelijks met haar <mark>stagebegeleider</mark>."
+    ],
+    "options": [
+      "de manager van het bedrijf waar je stage loopt",
+      "de persoon die een stagiair begeleidt en beoordeelt",
+      "de persoon die de stageplaats heeft geregeld",
+      "de docent die de stage begeleidt vanuit school"
+    ],
+    "correct": 1,
+    "explanation": "'Stagebegeleider' = de ervaren medewerker die een stagiair begeleidt op de werkplek. Samengesteld van 'stage' + 'begeleider'.",
+    "hint": "Op je stageplek is er iemand die jou helpt en coacht. Dat is je..."
+  },
+  {
+    "word": "arbeidscontract",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze tekende haar <mark>arbeidscontract</mark> op de eerste werkdag.",
+      "In het <mark>arbeidscontract</mark> staan de taken, het salaris en de werktijden.",
+      "Een <mark>arbeidscontract</mark> voor onbepaalde tijd geeft meer zekerheid."
+    ],
+    "options": [
+      "een belastingdocument voor werknemers",
+      "een officieel schriftelijk akkoord over werk, salaris en voorwaarden",
+      "een pensioenregeling",
+      "een document over ziekteverlof"
+    ],
+    "correct": 1,
+    "explanation": "'Arbeidscontract' = een schriftelijke overeenkomst tussen werkgever en werknemer over werk, beloning en arbeidsvoorwaarden. Samengesteld van 'arbeid' + 'contract'.",
+    "hint": "Een juridisch document dat je tekent als je een baan krijgt, met alle afspraken erin — dat is een..."
+  },
+  {
+    "word": "evaluatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Na het project volgde een <mark>evaluatie</mark> van de aanpak en resultaten.",
+      "Medewerkers ontvangen jaarlijks een formele <mark>evaluatie</mark>.",
+      "De <mark>evaluatie</mark> toonde aan dat het project te laat was afgerond."
+    ],
+    "options": [
+      "het plannen van toekomstige projecten",
+      "een beoordeling van prestaties of resultaten",
+      "een training om vaardigheden te verbeteren",
+      "een vergadering om problemen op te lossen"
+    ],
+    "correct": 1,
+    "explanation": "'Evaluatie' = een systematische beoordeling van prestaties, resultaten of een werkwijze. Van het Frans 'évaluation'. Werkwoord: 'evalueren'.",
+    "hint": "Aan het einde van een project of jaar kijk je terug en beoordeelt hoe het ging. Dat is een..."
+  }
+]

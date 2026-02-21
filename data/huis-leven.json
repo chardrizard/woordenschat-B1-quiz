@@ -1,0 +1,287 @@
+[
+  {
+    "word": "huurder",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>huurder</mark> betaalt elke maand huur aan de verhuurder.",
+      "Als <mark>huurder</mark> ben je verantwoordelijk voor kleine reparaties.",
+      "De <mark>huurder</mark> vroeg of hij een kat mocht houden."
+    ],
+    "options": [
+      "iemand die een huis bezit en verhuurt",
+      "iemand die een huis of appartement huurt van een ander",
+      "iemand die een huis koopt",
+      "iemand die een woning beheert"
+    ],
+    "correct": 1,
+    "explanation": "'Huurder' = iemand die een woning huurt. De eigenaar heet 'verhuurder'. Van 'huren' = betalen voor tijdelijk gebruik. Meervoud: 'huurders'.",
+    "hint": "Je betaalt maandelijks geld om in een huis te mogen wonen dat van iemand anders is. Dan ben je een..."
+  },
+  {
+    "word": "verwarming",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In de winter zet ze de <mark>verwarming</mark> op 20 graden.",
+      "De <mark>verwarming</mark> was stuk en het werd ijskoud in huis.",
+      "Hij draaide de <mark>verwarming</mark> lager om energie te besparen."
+    ],
+    "options": [
+      "het koelsysteem van een gebouw",
+      "het systeem dat een gebouw warm houdt",
+      "de isolatie van muren en ramen",
+      "de waterinstallatie in een woning"
+    ],
+    "correct": 1,
+    "explanation": "'Verwarming' = het systeem dat warmte produceert in een gebouw, zoals een cv-installatie. Van 'verwarmen' = warm maken.",
+    "hint": "In de winter zet je dit aan zodat het warm blijft in huis. Dat is de..."
+  },
+  {
+    "word": "boodschappen",
+    "pos": "zelfstandig naamwoord · meervoud",
+    "level": 1,
+    "examples": [
+      "Ze deed elke vrijdag <mark>boodschappen</mark> in de supermarkt.",
+      "Hij vergat melk op de <mark>boodschappenlijst</mark> te zetten.",
+      "Na het werk haalde ze snel de <mark>boodschappen</mark> op."
+    ],
+    "options": [
+      "berichten die je aan iemand doorstuurt",
+      "inkopen die je doet voor dagelijks gebruik",
+      "cadeaus die je koopt voor anderen",
+      "facturen die je moet betalen"
+    ],
+    "correct": 1,
+    "explanation": "'Boodschappen' = de inkopen voor dagelijks gebruik, zoals eten en drinken. 'Boodschappen doen' = naar de winkel gaan. Enkelvoud: 'boodschap' (ook: bericht).",
+    "hint": "Naar de supermarkt gaan voor eten en drinken — dat noem je..."
+  },
+  {
+    "word": "schoonmaken",
+    "pos": "werkwoord · scheidbaar",
+    "level": 1,
+    "examples": [
+      "Ze <mark>maakt</mark> elk weekend het huis <mark>schoon</mark>.",
+      "Na het feest moest hij alles <mark>schoonmaken</mark>.",
+      "Het toilet <mark>schoonmaken</mark> is niet zijn lievelingsklusje."
+    ],
+    "options": [
+      "de vloer verven of bekleden",
+      "vuil of stof verwijderen om iets hygiënisch te maken",
+      "meubels repareren",
+      "de tuin onderhouden"
+    ],
+    "correct": 1,
+    "explanation": "'Schoonmaken' = vuil verwijderen, reinigen. Scheidbaar: 'maak schoon', 'maakte schoon', 'schoongemaakt'. Synoniem: 'reinigen', 'poetsen'.",
+    "hint": "Je haalt een doekje en verwijdert stof en vuil. Je bent het huis aan het..."
+  },
+  {
+    "word": "hypotheek",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze sloten een <mark>hypotheek</mark> af om hun eerste huis te kopen.",
+      "De maandelijkse <mark>hypotheek</mark> bedraagt 1.200 euro.",
+      "Na dertig jaar is de <mark>hypotheek</mark> volledig afbetaald."
+    ],
+    "options": [
+      "de maandelijkse huurprijs van een woning",
+      "een lening om een huis te kopen, waarbij het huis als onderpand dient",
+      "een verzekering voor schade aan het huis",
+      "de kosten van het onderhoud van een huis"
+    ],
+    "correct": 1,
+    "explanation": "'Hypotheek' = een lening van de bank voor het kopen van een woning, waarbij het huis als zekerheid geldt. Van het Grieks 'hypotheke' (onderpand).",
+    "hint": "Je leent geld van de bank om een huis te kopen. Die lening heet een..."
+  },
+  {
+    "word": "slaapkamer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen delen een <mark>slaapkamer</mark>.",
+      "Haar <mark>slaapkamer</mark> heeft uitzicht op de tuin.",
+      "Hij verfde de <mark>slaapkamer</mark> lichtblauw."
+    ],
+    "options": [
+      "de kamer waar je eet en kookt",
+      "de kamer die is ingericht om in te slapen",
+      "de kamer om gasten te ontvangen",
+      "de ruimte om kleding op te slaan"
+    ],
+    "correct": 1,
+    "explanation": "'Slaapkamer' = de kamer in een woning die bestemd is om in te slapen. Samengesteld van 'slapen' + 'kamer'. Synoniem: 'slaapvertrek' (formeler).",
+    "hint": "Waar staat je bed en slaap je 's nachts? Dat is de..."
+  },
+  {
+    "word": "onderhoud",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het <mark>onderhoud</mark> van een koophuis kost gemiddeld 1% van de woningwaarde per jaar.",
+      "De cv-ketel heeft regelmatig <mark>onderhoud</mark> nodig.",
+      "Slecht <mark>onderhoud</mark> kan leiden tot grote schade."
+    ],
+    "options": [
+      "het kopen van nieuwe meubels",
+      "het regelmatig verzorgen en repareren om iets in goede staat te houden",
+      "het verbouwen van een woning",
+      "het afsluiten van een verzekering"
+    ],
+    "correct": 1,
+    "explanation": "'Onderhoud' = het geheel van activiteiten om iets in goede staat te houden. Van 'onderhouden' = in stand houden. Werkwoord: 'onderhouden'.",
+    "hint": "Schilderen, kleine reparaties, de ketel laten controleren — dat zijn allemaal vormen van..."
+  },
+  {
+    "word": "woningcorporatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Ze huurde haar appartement via een <mark>woningcorporatie</mark>.",
+      "<mark>Woningcorporaties</mark> verhuren sociale huurwoningen voor een lage prijs.",
+      "De wachtlijst bij de <mark>woningcorporatie</mark> is soms wel tien jaar."
+    ],
+    "options": [
+      "een makelaardij die huizen verkoopt",
+      "een organisatie die betaalbare huurwoningen beheert voor mensen met een laag inkomen",
+      "een bank die hypotheken verstrekt",
+      "een gemeente-instelling voor woningtoewijzing"
+    ],
+    "correct": 1,
+    "explanation": "'Woningcorporatie' = een non-profitorganisatie die sociale huurwoningen beheert en verhuurt aan mensen met een laag inkomen. Synoniem: 'corporatie', 'woningbouwvereniging'.",
+    "hint": "Een organisatie die goedkope huurwoningen aanbiedt aan mensen die niet zoveel verdienen — dat heet een..."
+  },
+  {
+    "word": "inboedel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Bij een brand raakte de familie zijn hele <mark>inboedel</mark> kwijt.",
+      "De <mark>inboedelverzekering</mark> dekt schade aan meubels en apparaten.",
+      "Bij de verhuizing moest de hele <mark>inboedel</mark> worden ingepakt."
+    ],
+    "options": [
+      "de structuur van een gebouw",
+      "alle spullen en meubels in een woning",
+      "de tuin en buitenruimte van een huis",
+      "de technische installaties in een woning"
+    ],
+    "correct": 1,
+    "explanation": "'Inboedel' = alle roerende goederen in een woning: meubels, apparaten, kleding, enzovoort. Van 'boedel' (bezit).",
+    "hint": "Alle meubels, apparaten en persoonlijke spullen in je huis bij elkaar — dat is je..."
+  },
+  {
+    "word": "ventilatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Goede <mark>ventilatie</mark> is belangrijk om schimmel te voorkomen.",
+      "De <mark>ventilatie</mark> in het appartement werkte niet goed.",
+      "Zet een raam open voor natuurlijke <mark>ventilatie</mark>."
+    ],
+    "options": [
+      "de verwarming van een ruimte",
+      "het vernieuwen van de lucht in een ruimte",
+      "het isoleren van een gebouw",
+      "het koelen van een ruimte in de zomer"
+    ],
+    "correct": 1,
+    "explanation": "'Ventilatie' = het verversen van de lucht in een ruimte door verse lucht aan te voeren en verbruikte lucht af te voeren. Van het Latijn 'ventilare'.",
+    "hint": "Zonder dit wordt de lucht in een kamer muf en vochtig. Je hebt goede... nodig."
+  },
+  {
+    "word": "energierekening",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Na de winter was zijn <mark>energierekening</mark> veel hoger dan verwacht.",
+      "Door zonnepanelen is zijn <mark>energierekening</mark> bijna nul.",
+      "Ze besparen bewust om de <mark>energierekening</mark> laag te houden."
+    ],
+    "options": [
+      "een rekening van de watermaatschappij",
+      "een rekening voor het verbruik van gas en elektriciteit",
+      "een belastingaanslag voor woningbezitters",
+      "kosten voor reparaties aan een woning"
+    ],
+    "correct": 1,
+    "explanation": "'Energierekening' = de rekening van de energieleverancier voor gas en elektriciteitsverbruik. Samengesteld van 'energie' + 'rekening'.",
+    "hint": "Elke maand of elk kwartaal ontvang je een rekening van je energieleverancier. Dat is de..."
+  },
+  {
+    "word": "servicekosten",
+    "pos": "zelfstandig naamwoord · meervoud",
+    "level": 3,
+    "examples": [
+      "De huur is 900 euro exclusief <mark>servicekosten</mark>.",
+      "<mark>Servicekosten</mark> kunnen betrekking hebben op schoonmaak en onderhoud van gemeenschappelijke ruimtes.",
+      "Zijn verhuurder rekende te hoge <mark>servicekosten</mark>."
+    ],
+    "options": [
+      "de huurprijs voor een woning",
+      "extra kosten bovenop de huur voor gedeelde diensten en voorzieningen",
+      "kosten voor internet en televisie",
+      "belasting die je als huurder betaalt"
+    ],
+    "correct": 1,
+    "explanation": "'Servicekosten' = extra kosten bovenop de kale huur voor diensten zoals schoonmaak, lift en tuinonderhoud in gemeenschappelijke ruimtes.",
+    "hint": "Naast de kale huur betaal je ook... voor het onderhoud van de gedeelde ruimtes."
+  },
+  {
+    "word": "bewoning",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Het pand was al jaren niet meer geschikt voor <mark>bewoning</mark>.",
+      "De <mark>bewoning</mark> van het huis begint op 1 mei.",
+      "Na de renovatie was de woning klaar voor <mark>bewoning</mark>."
+    ],
+    "options": [
+      "het te koop zetten van een woning",
+      "het bewonen of in gebruik nemen van een woning",
+      "het renoveren van een gebouw",
+      "het verhuren van een woning aan anderen"
+    ],
+    "correct": 1,
+    "explanation": "'Bewoning' = het feit of de staat van bewonen — dat er mensen wonen. Van 'bewonen' = in wonen. 'Ongeschikt voor bewoning' = te gevaarlijk of slecht om in te wonen.",
+    "hint": "Als mensen in een woning leven, is er sprake van..."
+  },
+  {
+    "word": "renovatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Na de <mark>renovatie</mark> was het oude gebouw niet meer te herkennen.",
+      "De <mark>renovatie</mark> van de keuken kostte 15.000 euro.",
+      "Tijdens de <mark>renovatie</mark> woonden ze tijdelijk bij haar ouders."
+    ],
+    "options": [
+      "het slopen van een gebouw",
+      "het grootschalig vernieuwen of opknappen van een gebouw",
+      "het verkopen van een woning",
+      "het kleine reparaties uitvoeren"
+    ],
+    "correct": 1,
+    "explanation": "'Renovatie' = het ingrijpend vernieuwen of opknappen van een gebouw. Van het Latijn 'renovatio'. Werkwoord: 'renoveren'.",
+    "hint": "Het hele huis opknappen — nieuwe keuken, badkamer, dak — dat is een..."
+  },
+  {
+    "word": "klusjesman",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>klusjesman</mark> repareerde de lekkende kraan.",
+      "Ze belde een <mark>klusjesman</mark> voor de kapotte deur.",
+      "Als <mark>klusjesman</mark> kan hij aan de slag in de hele buurt."
+    ],
+    "options": [
+      "een architect die huizen ontwerpt",
+      "iemand die kleine reparaties en klussen in en om het huis uitvoert",
+      "een aannemer die grote bouwprojecten leidt",
+      "een makelaar die huizen verkoopt"
+    ],
+    "correct": 1,
+    "explanation": "'Klusjesman' = iemand die handige kleine reparaties en klussen uitvoert. Van 'klusje' (kleine taak). Samengesteld van 'klus' + 'man'. Vrouwelijk: 'klusjesvrouw'.",
+    "hint": "De kraan lekt, het slot is kapot. Je belt een..."
+  }
+]
