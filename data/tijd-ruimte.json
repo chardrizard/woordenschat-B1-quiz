@@ -1,287 +1,287 @@
 [
   {
-    "word": "angst",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "tijdelijk",
+    "pos": "bijvoeglijk naamwoord",
     "level": 1,
     "examples": [
-      "Ze had <mark>angst</mark> voor honden na een bijtincident in haar jeugd.",
-      "De <mark>angst</mark> voor het onbekende houdt mensen soms tegen.",
-      "Hij voelde een golf van <mark>angst</mark> toen de lift bleef steken."
+      "Dit is slechts een <mark>tijdelijke</mark> oplossing — we zoeken iets permanents.",
+      "Ze heeft een <mark>tijdelijk</mark> contract van drie maanden.",
+      "De storing was <mark>tijdelijk</mark> en werd snel verholpen."
     ],
     "options": [
-      "een gevoel van rust en tevredenheid",
-      "een gevoel van blijdschap en opwinding",
-      "een gevoel van woede",
-      "een gevoel van dreiging of gevaar"
+      "voor een beperkte periode, niet permanent",
+      "voor altijd, zonder einde",
+      "onmiddellijk, zonder wachten",
+      "regelmatig terugkerend"
     ],
-    "correct": 3,
-    "explanation": "'Angst' = een onaangenaam gevoel van dreiging of gevaar, reëel of ingebeeld. Bijvoeglijk naamwoord: 'angstig'. Synoniem: 'vrees'.",
-    "hint": "Als je bang bent — voor spinnen, voor de donkere, voor de toekomst — voel je..."
+    "correct": 0,
+    "explanation": "'Tijdelijk' = voor een beperkte periode, niet voor altijd. Tegendeel: 'permanent' of 'blijvend'. Van 'tijd'.",
+    "hint": "Het tegendeel van 'permanent'. Niet voor altijd, maar voor een..."
   },
   {
-    "word": "verdriet",
+    "word": "vroeger",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Vroeger</mark> fietste hij elke dag naar school, maar nu neemt hij de trein.",
+      "<mark>Vroeger</mark> was dit een klein dorp — nu is het een grote stad.",
+      "Dat was <mark>vroeger</mark> anders."
+    ],
+    "options": [
+      "op dit moment",
+      "in de toekomst",
+      "in het verleden",
+      "af en toe, soms"
+    ],
+    "correct": 2,
+    "explanation": "'Vroeger' verwijst naar een tijd in het verleden — niet heel recent, maar ooit. Vergelijkbaar met 'in het verleden' of 'destijds'.",
+    "hint": "Niet nu, niet straks, maar... toen. In het verleden."
+  },
+  {
+    "word": "moment",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Na de dood van haar moeder was haar <mark>verdriet</mark> overweldigend.",
-      "Hij verborg zijn <mark>verdriet</mark> achter een glimlach.",
-      "De film was zo mooi dat ze <mark>verdriet</mark> voelde."
+      "Op dat <mark>moment</mark> realiseerde ze zich dat ze haar sleutels vergeten was.",
+      "Wacht even — dit is niet het juiste <mark>moment</mark>.",
+      "Geniet van elk <mark>moment</mark>."
     ],
     "options": [
-      "teleurstelling over een fout",
-      "diepe droefheid, pijn of gemis",
-      "boosheid en frustratie",
-      "intense blijdschap en geluk"
+      "een terugkerend tijdstip",
+      "een heel kort tijdstip",
+      "een lange periode van meerdere jaren",
+      "een vaste afspraak in de agenda"
     ],
     "correct": 1,
-    "explanation": "'Verdriet' = een diep gevoel van droefheid, pijn of gemis. Van 'verdrieten' = iemand leed bezorgen. Bijvoeglijk naamwoord: 'verdrietig'.",
-    "hint": "Als iemand overlijdt of iets ernstigs verliest, voel je..."
+    "explanation": "'Moment' = een heel kort punt in de tijd. Van het Latijnse 'momentum'. Ook gebruikt voor 'nu': 'op dit moment' = nu.",
+    "hint": "Niet een uur, niet een dag — maar een heel kort tijdstip. Een..."
   },
   {
-    "word": "trots",
-    "pos": "zelfstandig naamwoord · de / bijvoeglijk naamwoord",
-    "level": 1,
-    "examples": [
-      "Ze voelde <mark>trots</mark> toen haar kind voor het eerst liep.",
-      "De coach was <mark>trots</mark> op het team na de overwinning.",
-      "Nationale <mark>trots</mark> is een sterk gevoel bij grote sportevenementen."
-    ],
-    "options": [
-      "een gevoel van tevredenheid over eigen of andermans prestaties",
-      "een gevoel van jaloezie",
-      "een gevoel van schaamte en schuldgevoel",
-      "een gevoel van twijfel en onzekerheid"
-    ],
-    "correct": 0,
-    "explanation": "'Trots' = een gevoel van tevredenheid en voldoening over prestaties — van jezelf of anderen. Bijvoeglijk naamwoord: 'trots'. Werkwoord: 'trots zijn op'.",
-    "hint": "Als je kind zijn eerste stappen zet, ben je als ouder..."
-  },
-  {
-    "word": "liefde",
+    "word": "eeuw",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De <mark>liefde</mark> voor zijn kinderen gaf hem kracht.",
-      "Ze hadden na dertig jaar huwelijk nog steeds <mark>liefde</mark> voor elkaar.",
-      "Zijn <mark>liefde</mark> voor muziek begon al op jonge leeftijd."
+      "De Gouden <mark>Eeuw</mark> was een bloeiperiode voor Nederland in de 17e <mark>eeuw</mark>.",
+      "Het duurt nog een halve <mark>eeuw</mark> voor dit project af is — dat is 50 jaar.",
+      "In de 21e <mark>eeuw</mark> speelt technologie een steeds grotere rol."
     ],
     "options": [
-      "een gevoel van verantwoordelijkheid",
-      "een gevoel van vriendschap",
-      "een diep gevoel van genegenheid, verbondenheid of passie",
-      "een gevoel van respect zonder emotie"
-    ],
-    "correct": 2,
-    "explanation": "'Liefde' = een diep gevoel van genegenheid, toewijding of passie — voor een persoon, dier of activiteit. Werkwoord: 'liefhebben' of 'houden van'.",
-    "hint": "Het diepste gevoel van verbondenheid. Ouders voelen het voor kinderen. Partners voor elkaar. Het heet..."
-  },
-  {
-    "word": "jaloezie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Ze voelde <mark>jaloezie</mark> toen haar zus een promotie kreeg.",
-      "Zijn <mark>jaloezie</mark> maakte hem onredelijk en achterdochtig.",
-      "Een beetje <mark>jaloezie</mark> is normaal, maar teveel is schadelijk."
-    ],
-    "options": [
-      "een gevoel van afgunst of begeerte naar wat een ander heeft",
-      "een gevoel van medeleven met iemand",
-      "een gevoel van tevredenheid met eigen bezit",
-      "een gevoel van bewondering voor iemand"
+      "een periode van honderd jaar",
+      "een onbepaalde lange periode",
+      "een periode van duizend jaar",
+      "een periode van tien jaar"
     ],
     "correct": 0,
-    "explanation": "'Jaloezie' = een gevoel van afgunst of begeerte, gecombineerd met vrees het te verliezen. Bijvoeglijk naamwoord: 'jaloers'. Synoniem: 'afgunst', 'naijver'.",
-    "hint": "Als je wilt hebben wat een ander heeft, of bang bent iemand te verliezen, voel je..."
+    "explanation": "'Eeuw' = 100 jaar. De 21e eeuw loopt van 2001 tot 2100. Van het Latijn 'saeculum'. Meervoud: 'eeuwen'.",
+    "hint": "Tien jaar = decennium. Honderd jaar = ..."
   },
   {
-    "word": "opluchting",
+    "word": "afstand",
     "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "level": 1,
     "examples": [
-      "Ze voelde grote <mark>opluchting</mark> toen ze hoorde dat de operatie gelukt was.",
-      "Na het examen was de <mark>opluchting</mark> op alle gezichten te zien.",
-      "Met een zucht van <mark>opluchting</mark> legde hij de telefoon neer."
+      "De <mark>afstand</mark> tussen Amsterdam en Rotterdam is ongeveer 75 kilometer.",
+      "Ze hield emotioneel <mark>afstand</mark> van haar collega's.",
+      "Op welke <mark>afstand</mark> staat de volgende benzinepomp?"
     ],
     "options": [
-      "een gevoel van trots na succes",
-      "het gevoel dat een druk of zorgen zijn weggenomen",
-      "een gevoel van teleurstelling",
-      "een gevoel van spanning en opwinding"
+      "de snelheid waarmee je reist",
+      "de tijd die een reis duurt",
+      "de ruimte tussen twee punten",
+      "de richting van een route"
+    ],
+    "correct": 2,
+    "explanation": "'Afstand' = de ruimte of meting tussen twee punten. Ook figuurlijk: emotionele afstand. Van 'af' + 'staan' = hoe ver iets van je vandaan staat.",
+    "hint": "Als je meet hoe ver Amsterdam van Rotterdam is, meet je de..."
+  },
+  {
+    "word": "verleden",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het is beter om naar de toekomst te kijken dan in het <mark>verleden</mark> te blijven.",
+      "Nederland heeft een rijke maritiem <mark>verleden</mark>.",
+      "In haar <mark>verleden</mark> had ze moeilijke tijden doorgemaakt."
+    ],
+    "options": [
+      "de komende tijd, de toekomst",
+      "het heden, dit moment",
+      "een onbepaalde, verre toekomst",
+      "de tijd die al geweest is"
+    ],
+    "correct": 3,
+    "explanation": "'Verleden' = de tijd die achter ons ligt. Tegendelen: 'heden' (nu) en 'toekomst' (later). Als grammaticale term: 'verleden tijd' = past tense.",
+    "hint": "Heden is nu. Toekomst is later. En het... is wat al geweest is."
+  },
+  {
+    "word": "tijdstip",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Om welk <mark>tijdstip</mark> begint de vergadering?",
+      "Dit is niet het juiste <mark>tijdstip</mark> voor die discussie.",
+      "Op hetzelfde <mark>tijdstip</mark> elke dag eten is goed voor de gezondheid."
+    ],
+    "options": [
+      "een terugkerende gewoonte",
+      "een specifiek punt op de klok of in de dag",
+      "de duur van een activiteit",
+      "een lange periode van weken of maanden"
     ],
     "correct": 1,
-    "explanation": "'Opluchting' = het gevoel dat een spanning of zorg wegvalt. Van 'oplucht' (letterlijk: lucht er op). Werkwoord: 'opluchten'. 'Ik ben opgelucht' = ik voel opluchting.",
-    "hint": "Na een spannend moment dat goed afliep, adem je diep uit. Dat gevoel is..."
+    "explanation": "'Tijdstip' = een specifiek, bepaald moment op de klok. Samengesteld van 'tijd' + 'stip' (punt). Bijna synoniem met 'moment', maar concreter.",
+    "hint": "Niet de duur, maar het exacte punt. Hoe laat? Op welk..."
   },
   {
-    "word": "twijfel",
+    "word": "omgeving",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Ze had <mark>twijfels</mark> over haar beslissing om te verhuizen.",
-      "Zonder <mark>twijfel</mark> was dit de beste vakantie ooit.",
-      "Zijn <mark>twijfel</mark> groeide naarmate de deadline naderde."
+      "De <mark>omgeving</mark> van Amsterdam is groen en waterrijk.",
+      "Hij groeide op in een veilige, warme <mark>omgeving</mark>.",
+      "Het bedrijf heeft veel invloed op de lokale <mark>omgeving</mark>."
     ],
     "options": [
-      "onzekerheid of iets waar of goed is",
-      "angst voor een concreet gevaar",
-      "het nemen van een snelle beslissing",
-      "sterke overtuiging en zekerheid"
-    ],
-    "correct": 0,
-    "explanation": "'Twijfel' = onzekerheid over een beslissing of overtuiging. Werkwoord: 'twijfelen'. 'Buiten twijfel staan' = zeker zijn. Tegendeel: 'zekerheid'.",
-    "hint": "Als je niet zeker weet of iets goed is en je wikt en weegt, heb je..."
-  },
-  {
-    "word": "frustratie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De voortdurende vertragingen leidden tot grote <mark>frustratie</mark> bij de passagiers.",
-      "Ze voelde <mark>frustratie</mark> omdat niemand naar haar luisterde.",
-      "Zijn <mark>frustratie</mark> uitte hij door hard met de deur te slaan."
-    ],
-    "options": [
-      "een gevoel van tevredenheid als iets soepel verloopt",
-      "angst voor het onbekende",
-      "een diep verdriet om een verlies",
-      "een gevoel van irritatie als iets niet lukt of wordt tegengehouden"
-    ],
-    "correct": 3,
-    "explanation": "'Frustratie' = het gevoel dat ontstaat als iets belemmerd wordt of niet lukt. Van het Latijn 'frustratio'. Werkwoord: 'frustreren'. Bijvoeglijk: 'gefrustreerd'.",
-    "hint": "Je probeert iets, maar het lukt steeds niet. De computer doet het niet. Je voelt..."
-  },
-  {
-    "word": "empathie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Een goede hulpverlener heeft veel <mark>empathie</mark> voor de mensen die ze helpt.",
-      "Kinderen leren <mark>empathie</mark> door te zien hoe anderen reageren op pijn.",
-      "Zonder <mark>empathie</mark> is het moeilijk om goede relaties te onderhouden."
-    ],
-    "options": [
-      "het vermogen om anderen te manipuleren",
-      "het hebben van veel vrienden",
-      "het rationeel oplossen van conflicten",
-      "het vermogen om de gevoelens van anderen te begrijpen en te delen"
-    ],
-    "correct": 3,
-    "explanation": "'Empathie' = het vermogen om mee te voelen met anderen, je in te leven in hun situatie. Van het Grieks 'empatheia'. Bijvoeglijk: 'empathisch'. Synoniem: 'inlevingsvermogen'.",
-    "hint": "Je kunt je in iemand anders inleven en hun gevoel begrijpen. Dat vermogen heet..."
-  },
-  {
-    "word": "teleurstelling",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Het verlies van de finale was een grote <mark>teleurstelling</mark> voor het team.",
-      "Ze probeerde haar <mark>teleurstelling</mark> te verbergen, maar haar ogen verrieden haar.",
-      "Na de <mark>teleurstelling</mark> nam ze zich voor om harder te werken."
-    ],
-    "options": [
-      "schaamte over eigen gedrag",
-      "vreugde over een onverwacht succes",
-      "boosheid over onrecht",
-      "het gevoel dat de werkelijkheid niet aan de verwachtingen voldoet"
-    ],
-    "correct": 3,
-    "explanation": "'Teleurstelling' = het gevoel als de werkelijkheid slechter uitpakt dan verwacht. Van 'teleurstellen' = iemand ontgoochelen. Bijvoeglijk naamwoord: 'teleurgesteld'.",
-    "hint": "Je hoopte op een goed resultaat, maar het was slecht. Je voelt een..."
-  },
-  {
-    "word": "wanhoop",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "In zijn <mark>wanhoop</mark> belde hij midden in de nacht zijn vriend.",
-      "De <mark>wanhoop</mark> op haar gezicht was pijnlijk om te zien.",
-      "Pas in <mark>wanhoop</mark> vroeg hij om hulp."
-    ],
-    "options": [
-      "een gevoel van hoop en verwachting",
-      "bezorgdheid over de toekomst",
-      "een gevoel van totale hopeloosheid en radeloosheid",
-      "een gevoel van lichte teleurstelling"
-    ],
-    "correct": 2,
-    "explanation": "'Wanhoop' = een gevoel van totale hopeloosheid. Samengesteld van 'wan-' (slecht, mis) + 'hoop'. Bijvoeglijk naamwoord: 'wanhopig'. Tegendeel: 'hoop'.",
-    "hint": "'Wan-' = slecht, negatief. 'Hoop' = verwachting. Als alle hoop weg is, voel je..."
-  },
-  {
-    "word": "berusting",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Na jaren van strijd aanvaardde ze de situatie met <mark>berusting</mark>.",
-      "Zijn toon was er een van <mark>berusting</mark> — hij had er vrede mee.",
-      "<mark>Berusting</mark> is niet hetzelfde als geluk, maar het geeft rust."
-    ],
-    "options": [
-      "actieve strijd tegen een moeilijke situatie",
-      "het aanvaarden van iets onveranderlijks met rust",
-      "het vermijden van een moeilijk probleem",
-      "teleurstelling over een gemiste kans"
+      "de binnenruimte van een gebouw",
+      "de ruimte en situatie rondom iets of iemand",
+      "de mensen in een team of groep",
+      "de afstand tot het stadscentrum"
     ],
     "correct": 1,
-    "explanation": "'Berusting' = het rustig aanvaarden van iets wat niet te veranderen is. Van 'berusten in' = accepteren. Niet passief opgeven, maar actief accepteren.",
-    "hint": "Als je iets niet kunt veranderen en je accepteert het met rust — dat gevoel heet..."
+    "explanation": "'Omgeving' = alles wat rondom je is — ruimtelijk of sociaal. Van 'omgeven' = omringen. Synoniemen: 'buurt', 'context', 'milieu'.",
+    "hint": "Wat je rondom je ziet, hoort en voelt — je directe..."
   },
   {
-    "word": "nostalgie",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "gelijktijdig",
+    "pos": "bijwoord / bijvoeglijk naamwoord",
     "level": 3,
     "examples": [
-      "Oude muziek wekte een gevoel van <mark>nostalgie</mark> bij haar op.",
-      "Hij keek met <mark>nostalgie</mark> terug op zijn jeugd.",
-      "<mark>Nostalgie</mark> is het verlangen naar een vroeger die misschien mooier leek dan het was."
+      "Twee evenementen vonden <mark>gelijktijdig</mark> plaats, wat problemen gaf.",
+      "Ze probeerde <mark>gelijktijdig</mark> te werken en te studeren.",
+      "De <mark>gelijktijdige</mark> aankomst van drie treinen zorgde voor drukte."
     ],
     "options": [
-      "een weemoedig verlangen naar een mooi verleden",
-      "vreugde over een herinnering",
-      "spijt over een fout uit het verleden",
-      "angst voor de toekomst"
-    ],
-    "correct": 0,
-    "explanation": "'Nostalgie' = een weemoedig gevoel van verlangen naar het verleden. Van het Grieks 'nostos' (thuiskomen) + 'algos' (pijn). Bijvoeglijk: 'nostalgisch'.",
-    "hint": "Een weemoedig gevoel als je terugdenkt aan vroeger en het terug wilt — dat is..."
-  },
-  {
-    "word": "euforie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 4,
-    "examples": [
-      "Na de overwinning was er pure <mark>euforie</mark> in het stadion.",
-      "De <mark>euforie</mark> na de bevrijding was onbeschrijfelijk.",
-      "Sommige medicijnen kunnen <mark>euforie</mark> veroorzaken."
-    ],
-    "options": [
-      "een toestand van rust en kalmte",
-      "een gevoel van tevredenheid en rust",
-      "een gevoel van intense, overweldigende vreugde",
-      "een gevoel van diepe vermoeidheid"
+      "één voor één, achter elkaar",
+      "later dan gepland",
+      "op hetzelfde moment tegelijk",
+      "op gezette tijden, periodiek"
     ],
     "correct": 2,
-    "explanation": "'Euforie' = een intens gevoel van vreugde en geluk, sterker dan normaal. Van het Grieks 'euphoria'. Bijvoeglijk naamwoord: 'euforisch'.",
-    "hint": "Meer dan gewoon blij — een overweldigend gevoel van geluk en vreugde. Dat is..."
+    "explanation": "'Gelijktijdig' = op hetzelfde moment, tegelijkertijd. Samengesteld van 'gelijk' (hetzelfde) + 'tijdig' (op tijd, tijdgerelateerd). Synoniem: 'simultaan'.",
+    "hint": "Niet na elkaar, maar op precies hetzelfde moment. Dat noem je..."
   },
   {
-    "word": "ambivalent",
+    "word": "grens",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>grens</mark> tussen Nederland en België is hier bijna onzichtbaar.",
+      "Ze gaf aan dat dit de <mark>grens</mark> van haar geduld was.",
+      "Over de <mark>grens</mark> met Duitsland zijn de regels anders."
+    ],
+    "options": [
+      "de hoofdstad van een land",
+      "de afstand tussen twee steden",
+      "het midden van een gebied",
+      "de lijn of scheiding tussen twee gebieden of zaken"
+    ],
+    "correct": 3,
+    "explanation": "'Grens' = de scheiding of limiet tussen twee gebieden, landen of concepten. Ook figuurlijk: 'grenzen stellen' = limieten bepalen.",
+    "hint": "Wat scheidt Nederland van België? Dat is een..."
+  },
+  {
+    "word": "interval",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "De treinen rijden met een <mark>interval</mark> van tien minuten.",
+      "Het <mark>interval</mark> tussen twee hartslagen kan worden gemeten.",
+      "Hij traint met korte <mark>intervallen</mark> van hoge intensiteit."
+    ],
+    "options": [
+      "de pauze of tussentijd tussen twee momenten",
+      "de totale duur van een activiteit",
+      "het begin van een tijdperiode",
+      "een terugkerende afspraak"
+    ],
+    "correct": 0,
+    "explanation": "'Interval' = de tijd of ruimte tussen twee momenten of gebeurtenissen. Van het Latijn 'intervallum'. Gebruikt in sport, muziek en tijdplanning.",
+    "hint": "De tijd tússen twee treinen of twee hartslagen — dat is het..."
+  },
+  {
+    "word": "vluchtig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 3,
+    "examples": [
+      "Ze wierp een <mark>vluchtige</mark> blik op haar telefoon tijdens de vergadering.",
+      "Het was slechts een <mark>vluchtige</mark> ontmoeting — ze spraken maar vijf minuten.",
+      "De <mark>vluchtige</mark> schoonheid van een zonsondergang maakt hem bijzonder."
+    ],
+    "options": [
+      "intens en diepgaand",
+      "langdurig en grondig",
+      "heel kort en oppervlakkig, snel voorbijgaand",
+      "regelmatig en voorspelbaar"
+    ],
+    "correct": 2,
+    "explanation": "'Vluchtig' = snel voorbijgaand, kort en oppervlakkig. Van 'vlucht' (het snel gaan). Vergelijkbaar met 'kort' maar met de nadruk op het vergankelijke karakter.",
+    "hint": "Een vluchtige blik — niet lang, niet diep. Heel..."
+  },
+  {
+    "word": "eeuwigdurend",
     "pos": "bijvoeglijk naamwoord",
     "level": 4,
     "examples": [
-      "Ze had <mark>ambivalente</mark> gevoelens over de nieuwe baan — spannend maar ook eng.",
-      "Hij was <mark>ambivalent</mark> over het vertrek van zijn baas.",
-      "<mark>Ambivalentie</mark> is normaal bij grote veranderingen."
+      "Ze waren het beu van de <mark>eeuwigdurende</mark> vergaderingen.",
+      "De <mark>eeuwigdurende</mark> discussie over dit onderwerp kent geen einde.",
+      "De natuur lijkt in <mark>eeuwigdurende</mark> verandering."
     ],
     "options": [
-      "wisselend van mening zonder reden",
-      "heel zeker en overtuigd van iets",
-      "neutraal en onverschillig",
-      "tegenstrijdige gevoelens hebben over iets tegelijkertijd"
+      "langzaam verlopend",
+      "plotseling eindigend",
+      "nooit eindigend, altijd doorgaand",
+      "elk jaar terugkerend"
     ],
-    "correct": 3,
-    "explanation": "'Ambivalent' = twee tegenstrijdige gevoelens of meningen tegelijkertijd hebben. Van het Latijn 'ambi' (beide) + 'valere' (waard zijn). Zelfstandig naamwoord: 'ambivalentie'.",
-    "hint": "Blij én bang tegelijk. Enthousiast én terughoudend. Dat noem je..."
+    "correct": 2,
+    "explanation": "'Eeuwigdurend' = dat nooit ophoudt, voor altijd doorgaat. Samengesteld van 'eeuwig' (voor altijd) + 'durend' (gaande). Synoniem: 'eindeloos', 'voortdurend'.",
+    "hint": "'Eeuwig' + 'durend'. Iets wat altijd maar doorgaat en nooit stopt."
+  },
+  {
+    "word": "begrensd",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "De tijd is <mark>begrensd</mark> — we moeten prioriteiten stellen.",
+      "Zijn kennis van het onderwerp is <mark>begrensd</mark>.",
+      "De <mark>begrensde</mark> ruimte van het appartement maakte grote meubels onmogelijk."
+    ],
+    "options": [
+      "oneindig groot of ruim",
+      "met een limiet, eindig",
+      "vaag en onbepaald",
+      "tijdelijk en wisselend"
+    ],
+    "correct": 1,
+    "explanation": "'Begrensd' = gelimiteerd, met grenzen. Van 'begrenzen' = grenzen stellen. Tegendeel: 'onbegrensd' (zonder grenzen).",
+    "hint": "Als iets grenzen heeft — niet oneindig is — dan is het..."
+  },
+  {
+    "word": "hedendaags",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 4,
+    "examples": [
+      "De <mark>hedendaagse</mark> kunst is heel anders dan die uit de 17e eeuw.",
+      "In de <mark>hedendaagse</mark> maatschappij speelt social media een grote rol.",
+      "<mark>Hedendaagse</mark> architectuur maakt veel gebruik van glas en staal."
+    ],
+    "options": [
+      "uit een ver verleden",
+      "van nu, van deze tijd",
+      "van de toekomst, nog niet bestaand",
+      "klassiek en tijdloos"
+    ],
+    "correct": 1,
+    "explanation": "'Hedendaags' = van deze tijd, modern, actueel. Samengesteld van 'heden' (nu) + 'daags' (van de dag). Synoniem: 'modern', 'eigentijds'.",
+    "hint": "'Heden' = nu. 'Daags' = van de dag. Dus 'hedendaags' betekent van..."
   }
 ]
