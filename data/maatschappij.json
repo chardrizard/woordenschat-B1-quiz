@@ -9,12 +9,12 @@
       "Een goede <mark>burger</mark> betaalt belasting en stemt bij verkiezingen."
     ],
     "options": [
-      "een soldaat in het leger",
-      "een persoon met officieel lidmaatschap van een staat of stad",
       "een medewerker van de overheid",
-      "iemand die in een dorp woont"
+      "iemand die in een dorp woont",
+      "een persoon met officieel lidmaatschap van een staat of stad",
+      "een soldaat in het leger"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Burger' = een persoon die officieel lid is van een staat en daarmee rechten en plichten heeft. Van het Middelhollandse 'borgher'. Burgerrechten = rechten die hierbij horen.",
     "hint": "Als je de nationaliteit van een land hebt, ben je een... van dat land."
   },
@@ -28,12 +28,12 @@
       "Je bent verplicht de <mark>wet</mark> te volgen."
     ],
     "options": [
-      "een advies van de overheid",
       "een officiële regel die door de overheid is vastgesteld en moet worden gevolgd",
+      "een verzoek van een politieke partij",
       "een akkoord tussen twee landen",
-      "een verzoek van een politieke partij"
+      "een advies van de overheid"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Wet' = een officieel vastgestelde regel die verplicht is. Meervoud: 'wetten'. 'Wetgeving' = het geheel van wetten. Overtreding is strafbaar.",
     "hint": "Je mag niet door rood rijden — dat staat in de..."
   },
@@ -47,12 +47,12 @@
       "Na jaren van <mark>oorlog</mark> tekenden de landen een vredesakkoord."
     ],
     "options": [
-      "een diplomatieke onderhandeling tussen landen",
       "een gewapend conflict tussen landen of groepen",
       "een economische crisis in een land",
-      "een politieke verkiezing"
+      "een politieke verkiezing",
+      "een diplomatieke onderhandeling tussen landen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Oorlog' = een gewapend conflict op grote schaal, meestal tussen staten. Tegendeel: 'vrede'. 'Oorlogvoering' = hoe een oorlog gevoerd wordt.",
     "hint": "Landen die met wapens tegen elkaar strijden, zijn in..."
   },
@@ -67,11 +67,11 @@
     ],
     "options": [
       "een vergadering van politici",
-      "een proces waarbij burgers stemmen om leiders of vertegenwoordigers te kiezen",
       "de benoeming van een minister",
+      "een proces waarbij burgers stemmen om leiders of vertegenwoordigers te kiezen",
       "een volksstemming over een wet"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Verkiezing' = het democratische proces waarbij burgers stemmen. Van 'kiezen' = selecteren. 'Verkiezingscampagne' = de periode voor de stemming.",
     "hint": "Elke vier jaar gaan Nederlanders naar het stemhokje. Dat is een..."
   },
@@ -85,12 +85,12 @@
       "De vergrijzing heeft grote gevolgen voor de <mark>bevolking</mark>."
     ],
     "options": [
-      "de regering van een land",
-      "alle mensen die in een bepaald gebied wonen",
       "de migranten die naar een land komen",
-      "de werkende mensen in een land"
+      "de regering van een land",
+      "de werkende mensen in een land",
+      "alle mensen die in een bepaald gebied wonen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Bevolking' = alle inwoners van een bepaald gebied gezamenlijk. Van 'bevolken' = bewonen. Synoniem: 'inwoners', 'bevolkingsgroep'.",
     "hint": "Alle mensen die in Nederland wonen vormen de Nederlandse..."
   },
@@ -104,12 +104,12 @@
       "Veel burgers zijn het niet eens met het huidige <mark>beleid</mark>."
     ],
     "options": [
-      "een wet die door het parlement is aangenomen",
-      "een plan van aanpak of koers die een organisatie of overheid volgt",
       "een debat in de politiek",
-      "een akkoord tussen twee partijen"
+      "een wet die door het parlement is aangenomen",
+      "een akkoord tussen twee partijen",
+      "een plan van aanpak of koers die een organisatie of overheid volgt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Beleid' = het geheel van plannen, keuzes en maatregelen dat een overheid of organisatie voert. Van 'beleiden' = leiden, sturen.",
     "hint": "De plannen en keuzes die de overheid maakt om een doel te bereiken — dat is haar..."
   },
@@ -124,11 +124,11 @@
     ],
     "options": [
       "het gelijk behandelen van alle mensen",
-      "het verschil in kansen, bezit of rechten tussen mensen",
       "de samenwerking tussen verschillende landen",
+      "het verschil in kansen, bezit of rechten tussen mensen",
       "het verbod op discriminatie"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Ongelijkheid' = het bestaan van grote verschillen in inkomen, kansen of macht. 'On-' = niet, 'gelijkheid' = gelijke situatie. Synoniem: 'inequaliteit'.",
     "hint": "Als sommigen veel meer hebben dan anderen, en de kansen niet gelijk zijn, is er..."
   },
@@ -143,11 +143,11 @@
     ],
     "options": [
       "een bestuursvorm waarbij één persoon alle macht heeft",
+      "een bestuursvorm waarbij de kerk de wet bepaalt",
       "een bestuursvorm waarbij burgers meebeslissen via verkiezingen",
-      "een systeem waarbij experts de beslissingen nemen",
-      "een bestuursvorm waarbij de kerk de wet bepaalt"
+      "een systeem waarbij experts de beslissingen nemen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Democratie' = bestuursvorm waarbij burgers via stemmen invloed uitoefenen op beslissingen. Van het Grieks: 'demos' (volk) + 'kratos' (macht).",
     "hint": "De macht bij het volk. Burgers stemmen. Dat systeem heet..."
   },
@@ -161,12 +161,12 @@
       "De omstandigheden in het <mark>vluchtelingenkamp</mark> waren erg slecht."
     ],
     "options": [
-      "een tijdelijk kamp voor toeristen",
-      "een voorziening waar vluchtelingen tijdelijk worden opgevangen",
       "een militaire basis",
-      "een centrum voor arbeidsmigranten"
+      "een centrum voor arbeidsmigranten",
+      "een tijdelijk kamp voor toeristen",
+      "een voorziening waar vluchtelingen tijdelijk worden opgevangen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Vluchtelingenkamp' = een tijdelijke opvanglocatie voor mensen die gevlucht zijn voor oorlog, geweld of vervolging. Samengesteld van 'vluchteling' + 'kamp'.",
     "hint": "Mensen die door oorlog hun land ontvluchten, wonen vaak tijdelijk in een..."
   },
@@ -180,12 +180,12 @@
       "EU-lidstaten dragen een deel van hun <mark>soevereiniteit</mark> over aan Brussel."
     ],
     "options": [
-      "de militaire macht van een land",
-      "het recht van een staat om zichzelf te besturen zonder inmenging",
+      "de culturele identiteit van een volk",
       "de economische onafhankelijkheid van een land",
-      "de culturele identiteit van een volk"
+      "de militaire macht van een land",
+      "het recht van een staat om zichzelf te besturen zonder inmenging"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Soevereiniteit' = het recht en de macht van een staat om zichzelf volledig te besturen. Van het Frans 'souveraineté'. Bijvoeglijk naamwoord: 'soeverein'.",
     "hint": "Een land dat zelf zijn wetten maakt en niet door anderen wordt bestuurd, heeft..."
   },
@@ -199,12 +199,12 @@
       "De <mark>grondwet</mark> is de hoogste wet in het land."
     ],
     "options": [
-      "de eerste wet die een parlement aanneemt",
       "de fundamentele wet die de rechten van burgers en de structuur van de staat vastlegt",
-      "een verdrag tussen twee landen",
-      "een wet over grondbezit en eigendom"
+      "een wet over grondbezit en eigendom",
+      "de eerste wet die een parlement aanneemt",
+      "een verdrag tussen twee landen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Grondwet' = de fundamentele, hoogste wet van een staat. Samengesteld van 'grond' (basis) + 'wet'. Legt burgerrechten en staatsinrichting vast.",
     "hint": "'Grond' = basis. De meest fundamentele wet van een land is de..."
   },
@@ -218,12 +218,12 @@
       "De <mark>lobbyisten</mark> spraken de ministers aan in de wandelgangen."
     ],
     "options": [
-      "een openbare protestmars",
       "het beïnvloeden van politici door georganiseerde belangengroepen",
+      "een openbare protestmars",
       "een officieel debat in het parlement",
       "een campagne voor het grote publiek"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Lobby' = het beïnvloeden van politieke beslissingen door belangengroepen, vaak achter de schermen. Van het Engelse 'lobby' (gang, hal van parlement).",
     "hint": "Bedrijven of organisaties die politici proberen te beïnvloeden buiten officiële debatten doen aan..."
   },
@@ -237,12 +237,12 @@
       "De <mark>subsidie</mark> voor het theater werd gekort wegens bezuinigingen."
     ],
     "options": [
-      "een belasting die bedrijven moeten betalen",
       "financiële steun van de overheid voor een activiteit of organisatie",
+      "een boete voor het overtreden van regels",
       "een lening van een bank",
-      "een boete voor het overtreden van regels"
+      "een belasting die bedrijven moeten betalen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Subsidie' = financiële steun die de overheid verstrekt aan organisaties of personen om bepaalde activiteiten te stimuleren. Van het Latijn 'subsidium'.",
     "hint": "Geld dat de overheid geeft — niet als lening — om iets te stimuleren. Dat heet een..."
   },
@@ -256,12 +256,12 @@
       "Corruptie ondermijnt de <mark>rechtsstaat</mark>."
     ],
     "options": [
-      "een land met een sterk leger",
-      "een staat waarbij macht wordt beperkt door wetten en onafhankelijke rechtspraak",
+      "een land zonder corruptie",
       "een democratie met algemeen stemrecht",
-      "een land zonder corruptie"
+      "een land met een sterk leger",
+      "een staat waarbij macht wordt beperkt door wetten en onafhankelijke rechtspraak"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Rechtsstaat' = een staat waarbij de overheid gebonden is aan de wet en burgers onafhankelijke rechtspraak hebben. Kernwaarden: scheiding der machten en grondrechten.",
     "hint": "Niet alleen burgers, maar ook de overheid moet zich aan de wet houden. Dat is de essentie van de..."
   },
@@ -275,12 +275,12 @@
       "De <mark>polarisatie</mark> tussen voor- en tegenstanders was groot."
     ],
     "options": [
-      "de samenwerking tussen verschillende groepen",
-      "het verscherpen van tegenstellingen waardoor groepen verder uit elkaar groeien",
       "de groei van de middenklasse in de samenleving",
-      "de invloed van de media op de politiek"
+      "de samenwerking tussen verschillende groepen",
+      "de invloed van de media op de politiek",
+      "het verscherpen van tegenstellingen waardoor groepen verder uit elkaar groeien"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Polarisatie' = het proces waarbij groepen in de samenleving steeds verder tegenover elkaar komen te staan. Van 'pool' (uiterste punt). Werkwoord: 'polariseren'.",
     "hint": "Als groepen steeds verder uit elkaar groeien en tegenover elkaar komen te staan, is er..."
   }
