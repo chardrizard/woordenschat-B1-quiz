@@ -9,12 +9,12 @@
       "Ze voelde zich moe — haar hele <mark>lichaam</mark> deed pijn."
     ],
     "options": [
+      "het gewicht van een persoon",
       "de geest of het gevoel van een persoon",
-      "het fysieke omhulsel van een levend wezen",
       "de gezondheid van een persoon",
-      "het gewicht van een persoon"
+      "het fysieke omhulsel van een levend wezen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Lichaam' is het fysieke, materiële deel van een mens of dier — de tegenhanger van 'geest' of 'ziel'.",
     "hint": "Niet je gedachten, maar het fysieke deel van jou. Je armen, benen, hoofd — dat is je..."
   },
@@ -28,12 +28,12 @@
       "Op haar <mark>gezicht</mark> was een brede glimlach te zien."
     ],
     "options": [
-      "de achterkant van het hoofd",
-      "de voorkant van het hoofd met ogen, neus en mond",
+      "het bovenstuk van het lichaam",
       "de uitdrukking van een emotie",
-      "het bovenstuk van het lichaam"
+      "de voorkant van het hoofd met ogen, neus en mond",
+      "de achterkant van het hoofd"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Gezicht' is het voorste deel van het hoofd, met ogen, neus en mond. Ook gebruikt voor uitdrukking: 'een blij gezicht trekken'.",
     "hint": "Als je in de spiegel kijkt, zie je je..."
   },
@@ -47,10 +47,10 @@
       "In de kou zie je je <mark>adem</mark> als een wolkje."
     ],
     "options": [
-      "het bloed dat door het lichaam stroomt",
+      "de hartslag van het lichaam",
       "de lucht die je in- en uitademt",
-      "het geluid van je stem",
-      "de hartslag van het lichaam"
+      "het bloed dat door het lichaam stroomt",
+      "het geluid van je stem"
     ],
     "correct": 1,
     "explanation": "'Adem' is de lucht die je inademt en uitademt. Werkwoord: 'ademen'. 'Adem inhouden' = stoppen met ademen.",
@@ -67,11 +67,11 @@
     ],
     "options": [
       "ziek zijn door een infectie",
-      "een baby verwachten",
       "overgewicht hebben",
-      "te moe zijn om te werken"
+      "te moe zijn om te werken",
+      "een baby verwachten"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Zwanger' beschrijft een vrouw die een kind verwacht. Zelfstandig naamwoord: 'zwangerschap'. Na de bevalling is ze niet meer zwanger.",
     "hint": "Een vrouw die een baby in haar buik draagt, is..."
   },
@@ -86,11 +86,11 @@
     ],
     "options": [
       "de druk in de bloedvaten",
-      "het aantal keren dat het hart per minuut klopt",
+      "het gewicht van het hart",
       "de temperatuur van het bloed",
-      "het gewicht van het hart"
+      "het aantal keren dat het hart per minuut klopt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Hartslag' = hoe vaak het hart per minuut klopt. Samengesteld van 'hart' + 'slag' (klap). Ook: 'polsslag' als je het bij de pols meet.",
     "hint": "Als je je hand op je borst legt, voel je de... van je hart."
   },
@@ -104,12 +104,12 @@
       "Bij een <mark>beenbreuk</mark> zit je been in het gips."
     ],
     "options": [
+      "een ontsteking van de knie",
       "pijn in de spieren na het sporten",
       "een gebroken bot in het been",
-      "een ontsteking van de knie",
       "een wond aan de buitenkant van het been"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Beenbreuk' = een gebroken bot in het been. Samengesteld van 'been' (bot of lichaamsdeel) + 'breuk' (het breken). Synonieem: 'fractuur'.",
     "hint": "Na een val of ongeluk kan een bot breken. Als dat in je been is, heb je een..."
   },
@@ -123,12 +123,12 @@
       "De <mark>spier</mark> in zijn rug was gespannen door de stress."
     ],
     "options": [
-      "een bot in het skelet",
-      "weefsel dat het lichaam laat bewegen door samen te trekken",
       "een bloedvat in het lichaam",
-      "de huid die het lichaam bedekt"
+      "de huid die het lichaam bedekt",
+      "weefsel dat het lichaam laat bewegen door samen te trekken",
+      "een bot in het skelet"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Spier' is het weefsel dat samentrekt om het lichaam te bewegen. Je hebt meer dan 600 spieren. Bijvoeglijk naamwoord: 'gespierd' (met grote spieren).",
     "hint": "Wat train je in de sportschool om sterker te worden?"
   },
@@ -142,12 +142,12 @@
       "Hij was te <mark>vermoeid</mark> om nog te eten."
     ],
     "options": [
-      "blij en energiek",
       "uitgeput, zonder energie",
+      "hongerig en dorstig",
       "ziek door een infectie",
-      "hongerig en dorstig"
+      "blij en energiek"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Vermoeid' = moe, zonder energie. Sterker dan 'moe'. Van 'vermoeien' = moe maken. Zelfstandig naamwoord: 'vermoeidheid'.",
     "hint": "Na een hele lange dag zonder slaap voel je je..."
   },
@@ -161,10 +161,10 @@
       "Een kleine <mark>verwonding</mark> kan met een pleister worden behandeld."
     ],
     "options": [
-      "een ziekte die door bacteriën wordt veroorzaakt",
+      "een chronische aandoening",
       "letsel aan het lichaam door een externe oorzaak",
-      "pijn zonder zichtbare oorzaak",
-      "een chronische aandoening"
+      "een ziekte die door bacteriën wordt veroorzaakt",
+      "pijn zonder zichtbare oorzaak"
     ],
     "correct": 1,
     "explanation": "'Verwonding' = letsel, een wond aan het lichaam. Van 'verwonden' = verwonden. Synoniemen: 'letsel', 'blessure', 'wond'.",
@@ -180,10 +180,10 @@
       "Bij een storing in de <mark>bloedsomloop</mark> kan een hartaanval optreden."
     ],
     "options": [
-      "het systeem waarmee de longen werken",
-      "het systeem van hart en bloedvaten dat bloed door het lichaam pompt",
       "de manier waarop voedsel wordt verwerkt",
-      "de beweging van zenuwen in het lichaam"
+      "het systeem van hart en bloedvaten dat bloed door het lichaam pompt",
+      "de beweging van zenuwen in het lichaam",
+      "het systeem waarmee de longen werken"
     ],
     "correct": 1,
     "explanation": "'Bloedsomloop' = het systeem van hart en bloedvaten. Het hart pompt bloed rond door de bloedvaten. Samengesteld van 'bloed' + 'omloop' (het rondgaan).",
@@ -199,10 +199,10 @@
       "Stress heeft invloed op het <mark>zenuwstelsel</mark>."
     ],
     "options": [
-      "de botten en gewrichten van het lichaam",
+      "het systeem van hormonen in het bloed",
       "het netwerk van zenuwen dat signalen door het lichaam stuurt",
-      "de spieren die het lichaam bewegen",
-      "het systeem van hormonen in het bloed"
+      "de botten en gewrichten van het lichaam",
+      "de spieren die het lichaam bewegen"
     ],
     "correct": 1,
     "explanation": "'Zenuwstelsel' = het netwerk van hersenen, ruggenmerg en zenuwen dat alle lichaamsfuncties coördineert. Samengesteld van 'zenuw' + 'stelsel' (systeem).",
@@ -218,12 +218,12 @@
       "<mark>Erfelijke</mark> aanleg speelt een rol bij hart- en vaatziekten."
     ],
     "options": [
-      "aangeleerd door opvoeding en omgeving",
       "overgedragen van ouder op kind via genen",
-      "veroorzaakt door een infectie",
-      "ontstaan door een ongezonde leefstijl"
+      "aangeleerd door opvoeding en omgeving",
+      "ontstaan door een ongezonde leefstijl",
+      "veroorzaakt door een infectie"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Erfelijk' = overgedragen via genen van ouder op kind. Van 'erfenis' (wat je erft). Synonieem: 'genetisch'.",
     "hint": "Als een eigenschap of ziekte via genen van ouders op kinderen overgaat, is het..."
   },
@@ -237,12 +237,12 @@
       "Zuigelingen hebben tijdelijke <mark>immuniteit</mark> door de moedermelk."
     ],
     "options": [
-      "de gevoeligheid van het lichaam voor ziekten",
       "de weerstand van het lichaam tegen ziekteverwekkers",
-      "het vermogen om pijn te verdragen",
-      "de snelheid waarmee het lichaam herstelt"
+      "de gevoeligheid van het lichaam voor ziekten",
+      "de snelheid waarmee het lichaam herstelt",
+      "het vermogen om pijn te verdragen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Immuniteit' = de weerstand van het immuunsysteem tegen ziekten. Van het Latijn 'immunitas'. Bijvoeglijk naamwoord: 'immuun'.",
     "hint": "Als je lichaam een ziekteverwekker herkent en aanvalt, heb je er... voor opgebouwd."
   },
@@ -256,12 +256,12 @@
       "Sport versnelt de <mark>stofwisseling</mark>."
     ],
     "options": [
-      "het verteren van voedsel in de maag",
-      "het geheel van chemische processen waarmee het lichaam energie aanmaakt en verbruikt",
       "de opname van vitamines door de darmen",
-      "de aanmaak van hormonen in de klieren"
+      "het verteren van voedsel in de maag",
+      "de aanmaak van hormonen in de klieren",
+      "het geheel van chemische processen waarmee het lichaam energie aanmaakt en verbruikt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Stofwisseling' = het metabolisme: alle chemische processen waarmee het lichaam voedsel omzet in energie. Samengesteld van 'stof' (materiaal) + 'wisseling' (omzetting).",
     "hint": "Het metabolisme — hoe snel je calorieën verbrandt — is je..."
   },
@@ -275,12 +275,12 @@
       "Sommige behandelingen kunnen mensen tijdelijk <mark>onvruchtbaar</mark> maken."
     ],
     "options": [
-      "niet in staat om ziek te worden",
       "niet in staat om kinderen te verwekken of te baren",
+      "niet in staat om voedsel te verteren",
       "niet in staat om te bewegen",
-      "niet in staat om voedsel te verteren"
+      "niet in staat om ziek te worden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Onvruchtbaar' = niet in staat om kinderen te krijgen. 'On-' = niet, 'vruchtbaar' = in staat om te reproduceren. Zelfstandig naamwoord: 'onvruchtbaarheid'.",
     "hint": "'On-' + 'vruchtbaar'. 'Vrucht' verwijst naar nageslacht. Als je geen kinderen kunt krijgen, ben je..."
   }
