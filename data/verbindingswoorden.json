@@ -10,9 +10,9 @@
     ],
     "options": [
       "geeft een tegenstelling aan",
-      "geeft een tijdstip aan",
+      "geeft een gevolg aan",
       "geeft een reden of oorzaak aan",
-      "geeft een gevolg aan"
+      "geeft een tijdstip aan"
     ],
     "correct": 2,
     "explanation": "'Omdat' = voegwoord dat een reden of oorzaak aangeeft. Na 'omdat' staat de persoonsvorm achteraan in de bijzin: 'omdat ze ziek wás'. Vraagwoord: 'waarom?'.",
@@ -28,12 +28,12 @@
       "<mark>Hoewel</mark> het bewolkt was, gingen ze toch het strand op."
     ],
     "options": [
+      "geeft een voorwaarde aan",
       "geeft een reden aan",
-      "geeft een tegenstelling of concessie aan",
       "geeft een tijd aan",
-      "geeft een voorwaarde aan"
+      "geeft een tegenstelling of concessie aan"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Hoewel' = concessief voegwoord: iets is waar, maar het tegenovergestelde wordt ook gedaan of is ook waar. Synoniemen: 'ofschoon', 'al', 'ook al'.",
     "hint": "Je verwacht dat iets niet doorgaat, maar toch gebeurt het. 'Moe, maar toch doorgaan' — dat verbind je met..."
   },
@@ -49,8 +49,8 @@
     "options": [
       "geeft aan dat iets niet mogelijk is",
       "geeft aan dat iets ondanks verwachting of tegenwerking wél gebeurt",
-      "geeft een reden of oorzaak aan",
-      "geeft een tijdsvolgorde aan"
+      "geeft een tijdsvolgorde aan",
+      "geeft een reden of oorzaak aan"
     ],
     "correct": 1,
     "explanation": "'Toch' = versterkend woord dat aangeeft dat iets ondanks een belemmering of verwachting wél zo is. Vergelijkbaar met 'toch nog', 'desondanks'.",
@@ -66,12 +66,12 @@
       "<mark>Tijdens</mark> haar verblijf in Amsterdam bezocht ze alle musea."
     ],
     "options": [
-      "geeft aan wat er na een bepaald moment gebeurt",
-      "geeft aan wat er voor een bepaald moment gebeurt",
       "geeft aan wat er op hetzelfde moment als iets anders gebeurt",
-      "geeft aan hoe lang iets duurt"
+      "geeft aan wat er voor een bepaald moment gebeurt",
+      "geeft aan hoe lang iets duurt",
+      "geeft aan wat er na een bepaald moment gebeurt"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "'Tijdens' = gelijktijdig met, in de periode van. Voorzetsel gevolgd door een zelfstandig naamwoord. Synoniem: 'gedurende', 'in de loop van'.",
     "hint": "De actie en de andere gebeurtenis vinden op hetzelfde moment plaats. In de film = ... de film."
   },
@@ -85,12 +85,12 @@
       "Ze is heel goed in haar werk, <mark>namelijk</mark> omdat ze elke dag oefent."
     ],
     "options": [
-      "geeft een tegenstelling aan",
-      "geeft een gevolg aan van de vorige zin",
+      "geeft een tijdsvolgorde aan",
       "geeft een uitleg of reden voor het vorige aan",
-      "geeft een tijdsvolgorde aan"
+      "geeft een tegenstelling aan",
+      "geeft een gevolg aan van de vorige zin"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "'Namelijk' = woord dat een verklaring of reden geeft voor wat eerder is gezegd. Staat nooit aan het begin van een zin. Vergelijkbaar met 'want' maar staat later in de zin.",
     "hint": "Je hebt net iets gezegd, en nu leg je uit waarom. 'Ik kom niet — ik ben... ziek.' Welk woord past hier?"
   },
@@ -104,12 +104,12 @@
       "Het werk is interessant, en <mark>bovendien</mark> verdien je er goed aan."
     ],
     "options": [
-      "geeft een tegenstelling aan met wat eerder is gezegd",
       "voegt een extra positief punt toe bovenop wat al is gezegd",
       "geeft de reden aan van de vorige zin",
-      "geeft een voorwaarde aan"
+      "geeft een voorwaarde aan",
+      "geeft een tegenstelling aan met wat eerder is gezegd"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Bovendien' = toevoeging die iets extra's aangeeft bovenop wat al is vermeld. Synoniem: 'daarnaast', 'ook nog'. Van 'boven' + 'dien' (dit).",
     "hint": "Je hebt al een voordeel genoemd, en nu noem je nóg een voordeel. Je zegt..."
   },
@@ -123,12 +123,12 @@
       "Ze komt zeker, <mark>tenzij</mark> er iets onverwachts gebeurt."
     ],
     "options": [
-      "geeft een reden aan",
       "geeft een uitzondering of voorwaarde aan waaronder iets niet doorgaat",
+      "geeft een reden aan",
       "geeft een tegenstelling aan",
       "geeft twee gelijke opties aan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Tenzij' = behalve als, alleen niet als. Geeft de uitzondering aan waaronder iets anders geldt. Vergelijkbaar met 'als... niet'.",
     "hint": "Het plan gaat door, maar er is één uitzondering. 'We gaan, ... het regent.' Welk woord past?"
   },
@@ -142,12 +142,12 @@
       "Ze trainde elke dag, <mark>waardoor</mark> haar prestaties sterk verbeterden."
     ],
     "options": [
+      "geeft een tegenstelling aan",
       "geeft de reden aan van de vorige zin",
       "geeft het gevolg aan van de vorige zin",
-      "geeft een tegenstelling aan",
       "geeft een tijdstip aan"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Waardoor' = verbindingswoord dat het gevolg aangeeft. De eerste zin is de oorzaak, 'waardoor' verbindt met het gevolg. Synoniem: 'daardoor', 'waarmee'.",
     "hint": "Oorzaak → gevolg. 'Hij sliep slecht, ... hij moe was.' Wat verbindt oorzaak met gevolg?"
   },
@@ -162,11 +162,11 @@
     ],
     "options": [
       "geeft een tegenstelling aan",
-      "geeft een conclusie of samenvatting aan, of citeert iemand",
       "geeft een tijdstip aan",
+      "geeft een conclusie of samenvatting aan, of citeert iemand",
       "geeft een reden aan"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Aldus' = formeel woord voor 'zo', 'op deze manier', of om een citaat toe te schrijven. Van het Latijn 'aldus'. Gebruikt in formele of literaire teksten.",
     "hint": "Een formeel woord voor 'zo' of 'op deze manier'. Je ziet het vaak na een citaat: '...', ... de minister."
   },
@@ -180,12 +180,12 @@
       "Er waren grote bezwaren; <mark>desondanks</mark> werd het plan goedgekeurd."
     ],
     "options": [
-      "geeft een reden aan voor het volgende",
-      "geeft aan dat iets ondanks een belemmering toch gebeurt",
+      "geeft een tijdsvolgorde aan",
       "geeft een gevolg aan",
-      "geeft een tijdsvolgorde aan"
+      "geeft een reden aan voor het volgende",
+      "geeft aan dat iets ondanks een belemmering toch gebeurt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Desondanks' = ondanks dat, toch. Formeler dan 'toch'. Van 'des' (door) + 'ondanks'. Synoniemen: 'toch', 'niettemin', 'ondanks dat'.",
     "hint": "Er waren problemen, maar het ging toch door. Formeler dan 'toch'. Het woord is..."
   },
@@ -199,12 +199,12 @@
       "Ze helpt je graag, <mark>mits</mark> je het zelf ook probeert."
     ],
     "options": [
-      "geeft een tegenstelling aan",
-      "geeft een reden aan",
       "geeft een voorwaarde aan waaronder iets mag of kan",
-      "geeft een uitzondering aan"
+      "geeft een uitzondering aan",
+      "geeft een reden aan",
+      "geeft een tegenstelling aan"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "'Mits' = op voorwaarde dat, alleen als. Geeft een vereiste aan waaraan voldaan moet worden. Vergelijkbaar met 'als' maar sterker. Formeler dan 'als'.",
     "hint": "Je stelt een eis. Het mag alleen als aan die eis is voldaan. 'Je mag, ... je om tien uur thuis bent.'"
   },
@@ -219,9 +219,9 @@
     ],
     "options": [
       "altijd, zonder uitzondering",
-      "nooit, in geen enkel geval",
+      "soms, af en toe",
       "in de meeste gevallen, gewoonlijk",
-      "soms, af en toe"
+      "nooit, in geen enkel geval"
     ],
     "correct": 2,
     "explanation": "'Doorgaans' = gewoonlijk, in de meeste gevallen. Formeler dan 'meestal'. Van 'doorgaan' = normaal verlopen. Synoniemen: 'gewoonlijk', 'in de regel'.",
@@ -237,12 +237,12 @@
       "Het bewijs is onvoldoende; <mark>derhalve</mark> wordt de verdachte vrijgesproken."
     ],
     "options": [
-      "geeft een tegenstelling aan",
       "geeft een conclusie of gevolg aan op formele toon",
+      "geeft een tijdstip aan",
       "geeft een reden aan",
-      "geeft een tijdstip aan"
+      "geeft een tegenstelling aan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Derhalve' = daarom, dus. Formeel en schrijftalig. Van het Latijn 'de re halve'. Gebruik je in juridische, academische of officiële teksten.",
     "hint": "Een heel formeel woord voor 'daarom' of 'dus'. Je ziet het in rechtbankverslagen en officiële brieven."
   },
@@ -256,12 +256,12 @@
       "Zij werkte hard, <mark>evenals</mark> haar collega's."
     ],
     "options": [
-      "geeft een tegenstelling aan met de vorige zin",
-      "geeft aan dat iets ook voor de genoemde persoon of zaak geldt",
       "geeft een uitzondering aan",
-      "geeft een reden aan"
+      "geeft een reden aan",
+      "geeft aan dat iets ook voor de genoemde persoon of zaak geldt",
+      "geeft een tegenstelling aan met de vorige zin"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Evenals' = net als, ook. Geeft aan dat iets in gelijke mate van toepassing is. Formeler dan 'net als'. Van 'even' (gelijk) + 'als'.",
     "hint": "Net als, ook. Maar formeler. 'Zij werkt hard, ... haar collega's.' Welk woord past?"
   },
