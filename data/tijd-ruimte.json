@@ -9,12 +9,12 @@
       "De storing was <mark>tijdelijk</mark> en werd snel verholpen."
     ],
     "options": [
-      "voor altijd, zonder einde",
       "voor een beperkte periode, niet permanent",
+      "voor altijd, zonder einde",
       "onmiddellijk, zonder wachten",
       "regelmatig terugkerend"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Tijdelijk' = voor een beperkte periode, niet voor altijd. Tegendeel: 'permanent' of 'blijvend'. Van 'tijd'.",
     "hint": "Het tegendeel van 'permanent'. Niet voor altijd, maar voor een..."
   },
@@ -28,8 +28,8 @@
       "Dat was <mark>vroeger</mark> anders."
     ],
     "options": [
-      "in de toekomst",
       "op dit moment",
+      "in de toekomst",
       "in het verleden",
       "af en toe, soms"
     ],
@@ -47,10 +47,10 @@
       "Geniet van elk <mark>moment</mark>."
     ],
     "options": [
-      "een lange periode van meerdere jaren",
+      "een terugkerend tijdstip",
       "een heel kort tijdstip",
-      "een vaste afspraak in de agenda",
-      "een terugkerend tijdstip"
+      "een lange periode van meerdere jaren",
+      "een vaste afspraak in de agenda"
     ],
     "correct": 1,
     "explanation": "'Moment' = een heel kort punt in de tijd. Van het Latijnse 'momentum'. Ook gebruikt voor 'nu': 'op dit moment' = nu.",
@@ -66,12 +66,12 @@
       "In de 21e <mark>eeuw</mark> speelt technologie een steeds grotere rol."
     ],
     "options": [
-      "een periode van tien jaar",
       "een periode van honderd jaar",
+      "een onbepaalde lange periode",
       "een periode van duizend jaar",
-      "een onbepaalde lange periode"
+      "een periode van tien jaar"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Eeuw' = 100 jaar. De 21e eeuw loopt van 2001 tot 2100. Van het Latijn 'saeculum'. Meervoud: 'eeuwen'.",
     "hint": "Tien jaar = decennium. Honderd jaar = ..."
   },
@@ -85,12 +85,12 @@
       "Op welke <mark>afstand</mark> staat de volgende benzinepomp?"
     ],
     "options": [
+      "de snelheid waarmee je reist",
       "de tijd die een reis duurt",
       "de ruimte tussen twee punten",
-      "de richting van een route",
-      "de snelheid waarmee je reist"
+      "de richting van een route"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Afstand' = de ruimte of meting tussen twee punten. Ook figuurlijk: emotionele afstand. Van 'af' + 'staan' = hoe ver iets van je vandaan staat.",
     "hint": "Als je meet hoe ver Amsterdam van Rotterdam is, meet je de..."
   },
@@ -106,10 +106,10 @@
     "options": [
       "de komende tijd, de toekomst",
       "het heden, dit moment",
-      "de tijd die al geweest is",
-      "een onbepaalde, verre toekomst"
+      "een onbepaalde, verre toekomst",
+      "de tijd die al geweest is"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Verleden' = de tijd die achter ons ligt. Tegendelen: 'heden' (nu) en 'toekomst' (later). Als grammaticale term: 'verleden tijd' = past tense.",
     "hint": "Heden is nu. Toekomst is later. En het... is wat al geweest is."
   },
@@ -123,10 +123,10 @@
       "Op hetzelfde <mark>tijdstip</mark> elke dag eten is goed voor de gezondheid."
     ],
     "options": [
-      "een lange periode van weken of maanden",
+      "een terugkerende gewoonte",
       "een specifiek punt op de klok of in de dag",
       "de duur van een activiteit",
-      "een terugkerende gewoonte"
+      "een lange periode van weken of maanden"
     ],
     "correct": 1,
     "explanation": "'Tijdstip' = een specifiek, bepaald moment op de klok. Samengesteld van 'tijd' + 'stip' (punt). Bijna synoniem met 'moment', maar concreter.",
@@ -144,8 +144,8 @@
     "options": [
       "de binnenruimte van een gebouw",
       "de ruimte en situatie rondom iets of iemand",
-      "de afstand tot het stadscentrum",
-      "de mensen in een team of groep"
+      "de mensen in een team of groep",
+      "de afstand tot het stadscentrum"
     ],
     "correct": 1,
     "explanation": "'Omgeving' = alles wat rondom je is — ruimtelijk of sociaal. Van 'omgeven' = omringen. Synoniemen: 'buurt', 'context', 'milieu'.",
@@ -162,11 +162,11 @@
     ],
     "options": [
       "één voor één, achter elkaar",
+      "later dan gepland",
       "op hetzelfde moment tegelijk",
-      "op gezette tijden, periodiek",
-      "later dan gepland"
+      "op gezette tijden, periodiek"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Gelijktijdig' = op hetzelfde moment, tegelijkertijd. Samengesteld van 'gelijk' (hetzelfde) + 'tijdig' (op tijd, tijdgerelateerd). Synoniem: 'simultaan'.",
     "hint": "Niet na elkaar, maar op precies hetzelfde moment. Dat noem je..."
   },
@@ -180,12 +180,12 @@
       "Over de <mark>grens</mark> met Duitsland zijn de regels anders."
     ],
     "options": [
-      "het midden van een gebied",
-      "de lijn of scheiding tussen twee gebieden of zaken",
       "de hoofdstad van een land",
-      "de afstand tussen twee steden"
+      "de afstand tussen twee steden",
+      "het midden van een gebied",
+      "de lijn of scheiding tussen twee gebieden of zaken"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Grens' = de scheiding of limiet tussen twee gebieden, landen of concepten. Ook figuurlijk: 'grenzen stellen' = limieten bepalen.",
     "hint": "Wat scheidt Nederland van België? Dat is een..."
   },
@@ -199,12 +199,12 @@
       "Hij traint met korte <mark>intervallen</mark> van hoge intensiteit."
     ],
     "options": [
-      "de totale duur van een activiteit",
       "de pauze of tussentijd tussen twee momenten",
+      "de totale duur van een activiteit",
       "het begin van een tijdperiode",
       "een terugkerende afspraak"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Interval' = de tijd of ruimte tussen twee momenten of gebeurtenissen. Van het Latijn 'intervallum'. Gebruikt in sport, muziek en tijdplanning.",
     "hint": "De tijd tússen twee treinen of twee hartslagen — dat is het..."
   },
@@ -218,12 +218,12 @@
       "De <mark>vluchtige</mark> schoonheid van een zonsondergang maakt hem bijzonder."
     ],
     "options": [
+      "intens en diepgaand",
       "langdurig en grondig",
       "heel kort en oppervlakkig, snel voorbijgaand",
-      "regelmatig en voorspelbaar",
-      "intens en diepgaand"
+      "regelmatig en voorspelbaar"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Vluchtig' = snel voorbijgaand, kort en oppervlakkig. Van 'vlucht' (het snel gaan). Vergelijkbaar met 'kort' maar met de nadruk op het vergankelijke karakter.",
     "hint": "Een vluchtige blik — niet lang, niet diep. Heel..."
   },
@@ -237,12 +237,12 @@
       "De natuur lijkt in <mark>eeuwigdurende</mark> verandering."
     ],
     "options": [
+      "langzaam verlopend",
       "plotseling eindigend",
       "nooit eindigend, altijd doorgaand",
-      "elk jaar terugkerend",
-      "langzaam verlopend"
+      "elk jaar terugkerend"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Eeuwigdurend' = dat nooit ophoudt, voor altijd doorgaat. Samengesteld van 'eeuwig' (voor altijd) + 'durend' (gaande). Synoniem: 'eindeloos', 'voortdurend'.",
     "hint": "'Eeuwig' + 'durend'. Iets wat altijd maar doorgaat en nooit stopt."
   },
@@ -276,11 +276,11 @@
     ],
     "options": [
       "uit een ver verleden",
-      "van de toekomst, nog niet bestaand",
       "van nu, van deze tijd",
+      "van de toekomst, nog niet bestaand",
       "klassiek en tijdloos"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "'Hedendaags' = van deze tijd, modern, actueel. Samengesteld van 'heden' (nu) + 'daags' (van de dag). Synoniem: 'modern', 'eigentijds'.",
     "hint": "'Heden' = nu. 'Daags' = van de dag. Dus 'hedendaags' betekent van..."
   }
