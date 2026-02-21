@@ -102,18 +102,35 @@ button{font-family:inherit;cursor:pointer;border:none;background:none;color:inhe
 .ring-pct{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;font-family:var(--mono);color:var(--ink-2)}
 
 /* ════ COUNT SELECT ════ */
-.count-sel{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px 20px calc(24px + env(safe-area-inset-bottom,0px));text-align:center}
+.count-sel{flex:1;display:flex;flex-direction:column;align-items:center;padding:28px 20px calc(28px + env(safe-area-inset-bottom,0px));text-align:center;overflow-y:auto;-webkit-overflow-scrolling:touch}
 .count-theme-lbl{font-size:16px;font-weight:600;margin-bottom:6px}
-.count-title{font-size:28px;font-weight:700;letter-spacing:-.3px;margin-bottom:6px}
-.count-desc{font-size:16px;color:var(--ink-2);margin-bottom:32px}
-.count-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;width:100%;max-width:340px}
-.count-btn{background:var(--surface);border:1px solid var(--border);padding:20px;border-radius:var(--radius-lg);font-size:22px;font-weight:600;font-family:var(--mono);color:var(--ink);transition:all .15s;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px;cursor:pointer}
-.count-btn span{font-size:13px;font-weight:400;color:var(--ink-3);font-family:var(--font)}
+.count-title{font-size:22px;font-weight:700;letter-spacing:-.3px;margin-bottom:14px}
+.count-desc{font-size:15px;color:var(--ink-2);margin-bottom:20px}
+.count-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;width:100%;max-width:340px}
+.count-btn{background:var(--surface);border:1px solid var(--border);padding:18px 16px;border-radius:var(--radius-lg);font-size:20px;font-weight:600;font-family:var(--mono);color:var(--ink);transition:all .15s;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px;cursor:pointer}
+.count-btn span{font-size:12px;font-weight:400;color:var(--ink-3);font-family:var(--font)}
 .count-btn:hover{background:var(--surface-2);border-color:var(--border-2)}
 .count-btn:active{transform:scale(.96)}
 .count-btn.full{grid-column:span 2}
-.back-btn-sm{background:var(--surface);border:1px solid var(--border-2);color:var(--ink-2);font-size:15px;padding:0 20px;height:44px;border-radius:var(--radius);display:inline-flex;align-items:center;gap:6px;margin-top:28px;transition:all .15s;cursor:pointer}
+.back-btn-sm{background:var(--surface);border:1px solid var(--border-2);color:var(--ink-2);font-size:15px;padding:0 20px;height:44px;border-radius:var(--radius);display:inline-flex;align-items:center;gap:6px;margin-top:24px;transition:all .15s;cursor:pointer}
 .back-btn-sm:hover{background:var(--surface-2)}
+/* ── Level selector ── */
+.cs-section-lbl{font-size:10px;font-weight:700;letter-spacing:1.8px;text-transform:uppercase;font-family:var(--mono);color:var(--ink-3);margin-bottom:10px;margin-top:24px;align-self:flex-start;width:100%;max-width:340px;text-align:left}
+.cs-section-lbl:first-child{margin-top:8px}
+.level-grid{display:flex;flex-direction:column;gap:8px;width:100%;max-width:340px}
+.level-btn{width:100%;background:var(--surface);border:1.5px solid var(--border);border-radius:var(--radius);padding:12px 16px;display:flex;align-items:center;justify-content:space-between;gap:12px;cursor:pointer;transition:all .15s var(--ease);text-align:left}
+.level-btn:hover{background:var(--surface-2);border-color:var(--border-2)}
+.level-btn:active{transform:scale(.99)}
+.level-btn.selected{background:var(--surface-3);border-color:var(--focus-ring)}
+.lv-left{display:flex;align-items:center;gap:10px}
+.lv-pip{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.lv-name{font-size:15px;font-weight:600;color:var(--ink)}
+.lv-range{font-size:12px;color:var(--ink-3);font-family:var(--mono);margin-top:1px}
+.lv-ct{font-size:12px;font-family:var(--mono);color:var(--ink-3);flex-shrink:0;text-align:right}
+.lv-check{font-size:14px;color:var(--focus-ring);flex-shrink:0;opacity:0;transition:opacity .13s}
+.level-btn.selected .lv-check{opacity:1}
+/* ── Level badge in quiz nav ── */
+.level-badge{font-size:10px;font-weight:700;font-family:var(--mono);padding:2px 7px;border-radius:4px;letter-spacing:.5px;flex-shrink:0}
 
 /* ════ QUIZ ════ */
 .quiz{flex:1;display:flex;flex-direction:column;min-height:0;overflow:hidden}
@@ -279,214 +296,214 @@ const THEMES = [
 
 const QUESTIONS = {
   reizen: [
-    { word:"vertrekhal", pos:"zelfstandig naamwoord · de",
-      examples:["De <mark>vertrekhal</mark> was vol met reizigers die hun vlucht afwachtten.","Je vindt de incheckbalies aan het begin van de <mark>vertrekhal</mark>.","We liepen snel door de <mark>vertrekhal</mark> richting gate B7."],
-      options:["aankomsthal van een vliegveld","hal waar reizigers vertrekken","wachtruimte bij het station","ruimte voor bagage ophalen"],
-      correct:1, explanation:"'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.", hint:"Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?" },
-    { word:"douane", pos:"zelfstandig naamwoord · de",
-      examples:["Bij de <mark>douane</mark> moest hij zijn koffer openmaken voor inspectie.","Sommige goederen mag je niet door de <mark>douane</mark> meenemen.","Ze had niets aan te geven bij de <mark>douane</mark>."],
-      options:["dienst die paspoorten controleert","dienst die goederen en bagage controleert bij de grens","loket voor vliegtickets","beveiligingspersoneel op de luchthaven"],
-      correct:1, explanation:"De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.", hint:"De douane staat bij de grens. Ze kijken niet naar je gezicht, maar naar wat je bij je hebt." },
-    { word:"overstappen", pos:"werkwoord · scheidbaar",
-      examples:["We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.","Hij stapte in Brussel <mark>over</mark> op een andere trein.","Bij <mark>overstappen</mark> heb je soms maar twintig minuten."],
-      options:["je bagage checken","van vervoersmiddel wisselen tijdens een reis","inchecken op de luchthaven","een ticket omboeken"],
-      correct:1, explanation:"'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.", hint:"Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen." },
-    { word:"handbagage", pos:"zelfstandig naamwoord · de/het",
-      examples:["Mijn <mark>handbagage</mark> paste precies in het bagagevak boven de stoel.","Vloeistoffen in <mark>handbagage</mark> mogen maximaal 100 ml zijn.","Ze nam alleen <mark>handbagage</mark> mee voor haar weekendreis."],
-      options:["koffer die je inchekt bij de balie","bagage die je zelf meeneemt in het vliegtuig","tas die je opgeeft bij de balie","bagage die apart in het ruim wordt vervoerd"],
-      correct:1, explanation:"'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.", hint:"Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig." },
-    { word:"verblijf", pos:"zelfstandig naamwoord · het",
+    { word:"verblijf", pos:"zelfstandig naamwoord · het", level:1,
       examples:["Haar <mark>verblijf</mark> in Amsterdam duurde drie weken.","Tijdens ons <mark>verblijf</mark> bezochten we alle musea in de stad.","Voor een langer <mark>verblijf</mark> heb je een visum nodig."],
       options:["het reizen naar een bestemming","het ergens zijn of wonen voor een periode","een hotelkamer reserveren","de terugreis naar huis"],
       correct:1, explanation:"'Verblijf' is de periode dat je ergens bent of tijdelijk woont. Werkwoord: 'verblijven'. Denk aan 'verblijfsvergunning' = toestemming om ergens te wonen.", hint:"Niet de reis, maar de tijd die je doorbrengt op de bestemming." },
-    { word:"bestemming", pos:"zelfstandig naamwoord · de",
+    { word:"bestemming", pos:"zelfstandig naamwoord · de", level:1,
       examples:["Lissabon was onze uiteindelijke <mark>bestemming</mark>.","Wat is de <mark>bestemming</mark> van je volgende reis?","De trein reed naar zijn eindstation als <mark>bestemming</mark>."],
       options:["het vertrekpunt van een reis","de plek waar je naartoe gaat","de reisplanning of het schema","de duur van de reis"],
       correct:1, explanation:"'Bestemming' is de plek waarheen je onderweg bent — je eindpunt. Van 'bestemmen' = bepalen waarvoor iets bedoeld is.", hint:"Waar ga je naartoe? Dat is je...?" },
-    { word:"annuleren", pos:"werkwoord",
-      examples:["Door het slechte weer werd de vlucht <mark>geannuleerd</mark>.","Hij moest zijn reservering <mark>annuleren</mark> omdat hij ziek was.","Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."],
-      options:["een boeking bevestigen","een reservering of vlucht officieel afzeggen","je vlucht verzekeren","inchecken via de telefoon"],
-      correct:1, explanation:"'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.", hint:"Je had iets geboekt, maar het gaat niet door. Je...?" },
-    { word:"toeslag", pos:"zelfstandig naamwoord · de",
-      examples:["Voor een extra koffer betaal je een <mark>toeslag</mark> van 30 euro.","Er geldt een <mark>toeslag</mark> voor stoelen bij het raam.","De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."],
-      options:["korting op de basisprijs","extra bedrag bovenop de basisprijs","de totaalprijs van een ticket","een terugbetaling"],
-      correct:1, explanation:"'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.", hint:"Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij." },
-    { word:"reisdocument", pos:"zelfstandig naamwoord · het",
-      examples:["Een paspoort is het bekendste <mark>reisdocument</mark>.","Controleer altijd of je <mark>reisdocument</mark> nog geldig is voor vertrek.","Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."],
-      options:["een vliegticket","officieel document waarmee je je identiteit bewijst en mag reizen","een lijst van bezienswaardigheden","een reisverzekering"],
-      correct:1, explanation:"'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.", hint:"Zonder dit mag je de grens niet over. Het bewijst wie je bent." },
-    { word:"instappen", pos:"werkwoord · scheidbaar",
+    { word:"instappen", pos:"werkwoord · scheidbaar", level:1,
       examples:["Passagiers met kleine kinderen mogen als eerste <mark>instappen</mark>.","Hij stapte vlak voor vertrek snel <mark>in</mark>.","Iedereen was al <mark>ingestapt</mark> toen de deuren sloten."],
       options:["je koffer inpakken","een voertuig binnengaan","je ticket laten zien","je stoel zoeken"],
       correct:1, explanation:"'Instappen' betekent een voertuig (vliegtuig, trein, bus) binnengaan. Scheidbaar: 'stap in', 'stapte in', 'ingestapt'. Tegendeel: 'uitstappen'.", hint:"Wat doe je als je aan boord gaat van een vliegtuig of trein?" },
+    { word:"annuleren", pos:"werkwoord", level:2,
+      examples:["Door het slechte weer werd de vlucht <mark>geannuleerd</mark>.","Hij moest zijn reservering <mark>annuleren</mark> omdat hij ziek was.","Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."],
+      options:["een boeking bevestigen","een reservering of vlucht officieel afzeggen","je vlucht verzekeren","inchecken via de telefoon"],
+      correct:1, explanation:"'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.", hint:"Je had iets geboekt, maar het gaat niet door. Je...?" },
+    { word:"overstappen", pos:"werkwoord · scheidbaar", level:2,
+      examples:["We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.","Hij stapte in Brussel <mark>over</mark> op een andere trein.","Bij <mark>overstappen</mark> heb je soms maar twintig minuten."],
+      options:["je bagage checken","van vervoersmiddel wisselen tijdens een reis","inchecken op de luchthaven","een ticket omboeken"],
+      correct:1, explanation:"'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.", hint:"Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen." },
+    { word:"douane", pos:"zelfstandig naamwoord · de", level:2,
+      examples:["Bij de <mark>douane</mark> moest hij zijn koffer openmaken voor inspectie.","Sommige goederen mag je niet door de <mark>douane</mark> meenemen.","Ze had niets aan te geven bij de <mark>douane</mark>."],
+      options:["dienst die paspoorten controleert","dienst die goederen en bagage controleert bij de grens","loket voor vliegtickets","beveiligingspersoneel op de luchthaven"],
+      correct:1, explanation:"De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.", hint:"De douane staat bij de grens. Ze kijken niet naar je gezicht, maar naar wat je bij je hebt." },
+    { word:"handbagage", pos:"zelfstandig naamwoord · de/het", level:2,
+      examples:["Mijn <mark>handbagage</mark> paste precies in het bagagevak boven de stoel.","Vloeistoffen in <mark>handbagage</mark> mogen maximaal 100 ml zijn.","Ze nam alleen <mark>handbagage</mark> mee voor haar weekendreis."],
+      options:["koffer die je inchekt bij de balie","bagage die je zelf meeneemt in het vliegtuig","tas die je opgeeft bij de balie","bagage die apart in het ruim wordt vervoerd"],
+      correct:1, explanation:"'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.", hint:"Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig." },
+    { word:"toeslag", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["Voor een extra koffer betaal je een <mark>toeslag</mark> van 30 euro.","Er geldt een <mark>toeslag</mark> voor stoelen bij het raam.","De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."],
+      options:["korting op de basisprijs","extra bedrag bovenop de basisprijs","de totaalprijs van een ticket","een terugbetaling"],
+      correct:1, explanation:"'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.", hint:"Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij." },
+    { word:"reisdocument", pos:"zelfstandig naamwoord · het", level:3,
+      examples:["Een paspoort is het bekendste <mark>reisdocument</mark>.","Controleer altijd of je <mark>reisdocument</mark> nog geldig is voor vertrek.","Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."],
+      options:["een vliegticket","officieel document waarmee je je identiteit bewijst en mag reizen","een lijst van bezienswaardigheden","een reisverzekering"],
+      correct:1, explanation:"'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.", hint:"Zonder dit mag je de grens niet over. Het bewijst wie je bent." },
+    { word:"vertrekhal", pos:"zelfstandig naamwoord · de", level:4,
+      examples:["De <mark>vertrekhal</mark> was vol met reizigers die hun vlucht afwachtten.","Je vindt de incheckbalies aan het begin van de <mark>vertrekhal</mark>.","We liepen snel door de <mark>vertrekhal</mark> richting gate B7."],
+      options:["aankomsthal van een vliegveld","hal waar reizigers vertrekken","wachtruimte bij het station","ruimte voor bagage ophalen"],
+      correct:1, explanation:"'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.", hint:"Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?" },
   ],
   school: [
-    { word:"beoordelen", pos:"werkwoord",
+    { word:"beoordelen", pos:"werkwoord", level:1,
       examples:["De docent <mark>beoordeelt</mark> de opdrachten op inhoud en stijl.","Hoe wordt dit vak <mark>beoordeeld</mark> — met een cijfer of voldoende/onvoldoende?","Hij werd streng <mark>beoordeeld</mark> voor zijn presentatie."],
       options:["een opdracht inleveren","iets een oordeel geven, evalueren","een toets maken","iets uitleggen aan de klas"],
       correct:1, explanation:"'Beoordelen' betekent een oordeel vormen over iets of iemand. In schoolcontext: een cijfer of evaluatie geven. Zelfstandig naamwoord: 'beoordeling'.", hint:"Wat doet een docent als hij een werkstuk nakijkt en een cijfer geeft?" },
-    { word:"rooster", pos:"zelfstandig naamwoord · het",
+    { word:"rooster", pos:"zelfstandig naamwoord · het", level:1,
       examples:["Volgens mijn <mark>rooster</mark> heb ik dinsdag drie uur wiskunde.","Het nieuwe <mark>rooster</mark> voor volgend semester hangt op het prikbord.","Mijn <mark>rooster</mark> is deze week erg vol."],
       options:["een lijst van klasgenoten","een schema met lessen en tijden","een overzicht van cijfers","een lijst van schoolregels"],
       correct:1, explanation:"'Rooster' (in schoolcontext) is het lesrooster: een schema dat aangeeft welke lessen er wanneer zijn. Ook gebruikt voor werktijden.", hint:"Je kijkt hierop om te zien wanneer welk vak is. Het is een schema." },
-    { word:"herkansen", pos:"werkwoord",
-      examples:["Als je zakt, mag je het examen <mark>herkansen</mark>.","Ze had geluk: ze mocht haar toets <mark>herkansen</mark> na ziekte.","Niet iedereen krijgt de kans om te <mark>herkansen</mark>."],
-      options:["een toets voor de eerste keer maken","een toets of examen opnieuw afleggen","een opdracht opnieuw inleveren","een vak kiezen"],
-      correct:1, explanation:"'Herkansen' betekent een toets of examen opnieuw afleggen na een eerder mislukte poging. 'Her-' = opnieuw, 'kansen' van 'kans' = gelegenheid.", hint:"Je hebt de eerste keer niet gehaald. Nu mag je het nog eens proberen. Je..." },
-    { word:"slagen", pos:"werkwoord",
+    { word:"slagen", pos:"werkwoord", level:1,
       examples:["Ze <mark>slaagde</mark> voor haar eindexamen met een gemiddelde van 8,2.","Hij hoopt dit jaar te <mark>slagen</mark> voor zijn rijexamen.","Niet iedereen <mark>slaagt</mark> de eerste keer."],
       options:["zakken voor een examen","een examen of toets met goed gevolg afleggen","een vak kiezen","een diploma ontvangen"],
       correct:1, explanation:"'Slagen' betekent een examen of toets halen. Tegendeel: 'zakken'. 'Geslaagd' gebruik je ook voor succes in het algemeen.", hint:"Het tegendeel van zakken. Je hebt het examen..." },
-    { word:"stage", pos:"zelfstandig naamwoord · de",
+    { word:"stage", pos:"zelfstandig naamwoord · de", level:2,
       examples:["In het derde jaar loopt ze een <mark>stage</mark> bij een marketingbureau.","Tijdens zijn <mark>stage</mark> leerde hij veel praktische vaardigheden.","Een goede <mark>stage</mark> kan leiden tot een echte baan."],
       options:["een schooluitje of excursie","een werkperiode als onderdeel van de opleiding","een tussentoets halverwege het jaar","een extra cursus na schooltijd"],
       correct:1, explanation:"'Stage' is een praktijkperiode waarbij studenten werkervaring opdoen als onderdeel van hun opleiding. Afgeleid van het Franse 'stage'.", hint:"Je gaat tijdelijk werken bij een bedrijf als onderdeel van je studie." },
-    { word:"scriptie", pos:"zelfstandig naamwoord · de",
-      examples:["Voor zijn bachelor schreef hij een <mark>scriptie</mark> over klimaatverandering.","De <mark>scriptie</mark> moet minimaal 15.000 woorden bevatten.","Ze werkt al maanden aan haar <mark>scriptie</mark>."],
-      options:["een kort verslag van een les","een uitgebreid onderzoeksverslag als afsluiting van een studie","een presentatie voor de klas","een opdracht die je wekelijks inlevert"],
-      correct:1, explanation:"'Scriptie' is een uitgebreid onderzoeksverslag dat studenten schrijven als onderdeel van hun bachelor- of masteropleiding. Synoniem voor master: 'thesis'.", hint:"Een lang onderzoeksdocument dat je schrijft aan het einde van je studie." },
-    { word:"absentie", pos:"zelfstandig naamwoord · de",
-      examples:["Na drie dagen <mark>absentie</mark> vroeg de school om een doktersbrief.","Zijn hoge <mark>absentie</mark> beïnvloedde zijn cijfers negatief.","<mark>Absentie</mark> zonder melding wordt gezien als spijbelen."],
-      options:["aanwezig zijn bij de les","afwezig zijn, niet op school zijn","te laat komen in de klas","een dag vrij vragen"],
-      correct:1, explanation:"'Absentie' betekent afwezigheid. Van het Latijn 'absentia'. Het tegenovergestelde is 'aanwezigheid' of 'presentie'.", hint:"Je bent niet op school — je hebt..." },
-    { word:"begeleiding", pos:"zelfstandig naamwoord · de",
+    { word:"herkansen", pos:"werkwoord", level:2,
+      examples:["Als je zakt, mag je het examen <mark>herkansen</mark>.","Ze had geluk: ze mocht haar toets <mark>herkansen</mark> na ziekte.","Niet iedereen krijgt de kans om te <mark>herkansen</mark>."],
+      options:["een toets voor de eerste keer maken","een toets of examen opnieuw afleggen","een opdracht opnieuw inleveren","een vak kiezen"],
+      correct:1, explanation:"'Herkansen' betekent een toets of examen opnieuw afleggen na een eerder mislukte poging. 'Her-' = opnieuw, 'kansen' van 'kans' = gelegenheid.", hint:"Je hebt de eerste keer niet gehaald. Nu mag je het nog eens proberen. Je..." },
+    { word:"begeleiding", pos:"zelfstandig naamwoord · de", level:2,
       examples:["Hij krijgt extra <mark>begeleiding</mark> van een tutor voor wiskunde.","De studenten kregen <mark>begeleiding</mark> bij het schrijven van hun scriptie.","Goede <mark>begeleiding</mark> is belangrijk voor leerlingen met dyslexie."],
       options:["zelfstandig werken aan een opdracht","hulp en ondersteuning bij leren of werken","het beoordelen van een prestatie","het geven van een cijfer"],
       correct:1, explanation:"'Begeleiding' is de hulp en ondersteuning die iemand krijgt bij een taak. Werkwoord: 'begeleiden'. Een begeleider helpt maar doet het niet over.", hint:"Iemand die naast je staat en je ondersteunt terwijl jij het zelf doet." },
-    { word:"inschrijven", pos:"werkwoord · scheidbaar",
+    { word:"inschrijven", pos:"werkwoord · scheidbaar", level:2,
       examples:["Je moet je <mark>inschrijven</mark> voor de cursus voor 1 september.","Ze schreef zich <mark>in</mark> voor drie vakken tegelijk.","Ben je al <mark>ingeschreven</mark> aan de universiteit?"],
       options:["een vak afronden","je officieel aanmelden voor een opleiding of vak","een tentamen afleggen","een rapport ontvangen"],
       correct:1, explanation:"'Inschrijven' betekent je officieel aanmelden voor een opleiding, cursus of vak. Scheidbaar: 'schrijf in', 'schreef in', 'ingeschreven'.", hint:"Wat doe je om officieel lid te worden van een opleiding of cursus?" },
-    { word:"nakijken", pos:"werkwoord · scheidbaar",
+    { word:"nakijken", pos:"werkwoord · scheidbaar", level:2,
       examples:["De docent <mark>keek</mark> de toetsen <mark>na</mark> en gaf iedereen een cijfer.","Heb je je huiswerk al <mark>nagekeken</mark> op fouten?","Het <mark>nakijken</mark> van 30 scripties kost veel tijd."],
       options:["een toets plannen","antwoorden of werk controleren en beoordelen","een les voorbereiden","een opdracht inleveren"],
       correct:1, explanation:"'Nakijken' betekent iets controleren op fouten of beoordelen. Scheidbaar: 'kijk na', 'keek na', 'nagekeken'.", hint:"Wat doet een docent met toetsen nadat leerlingen ze hebben gemaakt?" },
+    { word:"absentie", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["Na drie dagen <mark>absentie</mark> vroeg de school om een doktersbrief.","Zijn hoge <mark>absentie</mark> beïnvloedde zijn cijfers negatief.","<mark>Absentie</mark> zonder melding wordt gezien als spijbelen."],
+      options:["aanwezig zijn bij de les","afwezig zijn, niet op school zijn","te laat komen in de klas","een dag vrij vragen"],
+      correct:1, explanation:"'Absentie' betekent afwezigheid. Van het Latijn 'absentia'. Het tegenovergestelde is 'aanwezigheid' of 'presentie'.", hint:"Je bent niet op school — je hebt..." },
+    { word:"scriptie", pos:"zelfstandig naamwoord · de", level:4,
+      examples:["Voor zijn bachelor schreef hij een <mark>scriptie</mark> over klimaatverandering.","De <mark>scriptie</mark> moet minimaal 15.000 woorden bevatten.","Ze werkt al maanden aan haar <mark>scriptie</mark>."],
+      options:["een kort verslag van een les","een uitgebreid onderzoeksverslag als afsluiting van een studie","een presentatie voor de klas","een opdracht die je wekelijks inlevert"],
+      correct:1, explanation:"'Scriptie' is een uitgebreid onderzoeksverslag dat studenten schrijven als onderdeel van hun bachelor- of masteropleiding. Synoniem voor master: 'thesis'.", hint:"Een lang onderzoeksdocument dat je schrijft aan het einde van je studie." },
   ],
   aardrijkskunde: [
-    { word:"bevolkingsdichtheid", pos:"zelfstandig naamwoord · de",
-      examples:["Nederland heeft een hoge <mark>bevolkingsdichtheid</mark> van ruim 500 mensen per km².","De <mark>bevolkingsdichtheid</mark> in de Sahara is extreem laag.","Steden hebben een hogere <mark>bevolkingsdichtheid</mark> dan het platteland."],
-      options:["het totale aantal inwoners van een land","het aantal mensen per oppervlakte-eenheid","de groeisnelheid van een bevolking","de verdeling van leeftijdsgroepen"],
-      correct:1, explanation:"'Bevolkingsdichtheid' is het aantal mensen per km². Bestaat uit 'bevolking' (mensen in een gebied) + 'dichtheid' (hoe dicht op elkaar).", hint:"Niet het totaal, maar hoeveel mensen er per vierkante kilometer wonen." },
-    { word:"klimaatzone", pos:"zelfstandig naamwoord · de",
-      examples:["De Amazone ligt in een tropische <mark>klimaatzone</mark>.","Europa heeft grotendeels een gematigde <mark>klimaatzone</mark>.","In welke <mark>klimaatzone</mark> ligt Egypte?"],
-      options:["een beschermd natuurgebied","een gebied met een bepaald type klimaat","een zone met extreme temperaturen","een regio langs de evenaar"],
-      correct:1, explanation:"'Klimaatzone' is een geografisch gebied met een specifiek klimaattype, bepaald door temperatuur, neerslag en seizoenen. Denk aan tropisch, gematigd, polair.", hint:"De wereld is verdeeld in gebieden op basis van weer en temperatuur. Elk gebied is een..." },
-    { word:"grondstof", pos:"zelfstandig naamwoord · de",
-      examples:["Olie is een belangrijke <mark>grondstof</mark> voor de chemische industrie.","Landen met veel <mark>grondstoffen</mark> zijn vaak economisch sterk.","Hout, ijzererts en koper zijn voorbeelden van <mark>grondstoffen</mark>."],
-      options:["een afgewerkt product","een natuurlijk materiaal dat verwerkt wordt in productie","landbouwgrond voor akkerbouw","een chemische stof in de bodem"],
-      correct:1, explanation:"'Grondstof' is een natuurlijk materiaal — zoals olie, hout, koper — dat als basis dient voor het maken van producten. 'Grond' = basis, 'stof' = materiaal.", hint:"Olie, hout, en ijzererts zijn voorbeelden. Ze komen uit de natuur en worden verwerkt." },
-    { word:"zeeniveau", pos:"zelfstandig naamwoord · het",
-      examples:["Nederland ligt grotendeels onder het <mark>zeeniveau</mark>.","De stad ligt 3.000 meter boven het <mark>zeeniveau</mark>.","Door klimaatverandering stijgt het <mark>zeeniveau</mark>."],
-      options:["de temperatuur van het zeewater","de gemiddelde hoogte van het zeeoppervlak als referentiepunt","de diepte van de oceaan","de grens tussen land en zee"],
-      correct:1, explanation:"'Zeeniveau' is de gemiddelde hoogte van het zeeoppervlak, gebruikt als referentiepunt voor hoogtemetingen.", hint:"Bergen zijn hoger dan dit. Nederland ligt er deels onder. Het is een referentiepunt." },
-    { word:"delta", pos:"zelfstandig naamwoord · de",
-      examples:["De Nijl-<mark>delta</mark> is een van de vruchtbaarste gebieden ter wereld.","In een <mark>delta</mark> splitst een rivier zich in meerdere armen.","Rotterdam ligt in de Rijn-<mark>delta</mark>."],
-      options:["de bron van een rivier in de bergen","het gebied waar een rivier in zee uitmondt en vertakt","een breed gedeelte van een rivier","een kunstmatig kanaal"],
-      correct:1, explanation:"Een 'delta' is het gebied waar een rivier in zee uitmondt en zich vertakt. De driehoekige vorm lijkt op de Griekse letter Δ.", hint:"Denk aan de monding van een grote rivier, waar ze uitspreidt als een waaier." },
-    { word:"urbanisatie", pos:"zelfstandig naamwoord · de",
-      examples:["Door <mark>urbanisatie</mark> groeien steden in Afrika snel.","<mark>Urbanisatie</mark> leidt tot meer verkeer en druk op de woningmarkt.","In de 20e eeuw zorgde <mark>urbanisatie</mark> voor enorme stadsgroei."],
-      options:["de afname van het aantal stadsbewoners","het proces waarbij mensen van platteland naar stad trekken","het bouwen van nieuwe wijken buiten de stad","de groei van de landbouw"],
-      correct:1, explanation:"'Urbanisatie' is het proces waarbij steeds meer mensen in steden gaan wonen. Van het Latijnse 'urbs' = stad.", hint:"Mensen verlaten het platteland en gaan in de stad wonen. Dit proces heet..." },
-    { word:"evenaar", pos:"zelfstandig naamwoord · de",
-      examples:["De <mark>evenaar</mark> ligt op 0 graden breedtegraad.","Landen op de <mark>evenaar</mark> hebben een tropisch klimaat.","De <mark>evenaar</mark> verdeelt de aarde in een noordelijk en zuidelijk halfrond."],
-      options:["de lijn om de aarde op de poolhoogte","de denkbeeldige lijn om het midden van de aarde","de grens tussen twee klimaatzones","de lijn die door Greenwich loopt"],
-      correct:1, explanation:"'Evenaar' is de denkbeeldige cirkel om het midden van de aarde, op gelijke afstand van beide polen. Op de evenaar zijn de dagen het hele jaar even lang.", hint:"Deze lijn ligt precies in het midden van de aarde, op 0° breedtegraad." },
-    { word:"migratie", pos:"zelfstandig naamwoord · de",
+    { word:"migratie", pos:"zelfstandig naamwoord · de", level:1,
       examples:["<mark>Migratie</mark> van mensen uit Syrië naar Europa nam toe na 2015.","Economische <mark>migratie</mark> is gedreven door werk en welvaart.","Vogels vertonen ook <mark>migratie</mark>, maar dat noemen we 'trek'."],
       options:["de groei van de bevolking door geboorte","het verplaatsen van mensen van het ene naar het andere gebied","het uitwisselen van culturen tussen landen","het afnemen van de bevolking"],
       correct:1, explanation:"'Migratie' is het verplaatsen van mensen (of dieren) van de ene naar de andere plek. Werkwoord: 'migreren'. Persoon: 'migrant'.", hint:"Mensen die van het ene land naar het andere verhuizen, doen aan..." },
-    { word:"grondwater", pos:"zelfstandig naamwoord · het",
+    { word:"zeeniveau", pos:"zelfstandig naamwoord · het", level:1,
+      examples:["Nederland ligt grotendeels onder het <mark>zeeniveau</mark>.","De stad ligt 3.000 meter boven het <mark>zeeniveau</mark>.","Door klimaatverandering stijgt het <mark>zeeniveau</mark>."],
+      options:["de temperatuur van het zeewater","de gemiddelde hoogte van het zeeoppervlak als referentiepunt","de diepte van de oceaan","de grens tussen land en zee"],
+      correct:1, explanation:"'Zeeniveau' is de gemiddelde hoogte van het zeeoppervlak, gebruikt als referentiepunt voor hoogtemetingen.", hint:"Bergen zijn hoger dan dit. Nederland ligt er deels onder. Het is een referentiepunt." },
+    { word:"delta", pos:"zelfstandig naamwoord · de", level:2,
+      examples:["De Nijl-<mark>delta</mark> is een van de vruchtbaarste gebieden ter wereld.","In een <mark>delta</mark> splitst een rivier zich in meerdere armen.","Rotterdam ligt in de Rijn-<mark>delta</mark>."],
+      options:["de bron van een rivier in de bergen","het gebied waar een rivier in zee uitmondt en vertakt","een breed gedeelte van een rivier","een kunstmatig kanaal"],
+      correct:1, explanation:"Een 'delta' is het gebied waar een rivier in zee uitmondt en zich vertakt. De driehoekige vorm lijkt op de Griekse letter Δ.", hint:"Denk aan de monding van een grote rivier, waar ze uitspreidt als een waaier." },
+    { word:"grondwater", pos:"zelfstandig naamwoord · het", level:2,
       examples:["<mark>Grondwater</mark> is een belangrijke bron van drinkwater.","Door de droogte daalt het <mark>grondwater</mark>peil.","Boeren pompen <mark>grondwater</mark> op voor het besproeien van gewassen."],
       options:["regenwater dat over de grond stroomt","water dat zich onder de grond bevindt","water in meren en rivieren","gezuiverd drinkwater"],
       correct:1, explanation:"'Grondwater' is water onder het aardoppervlak, in de poriën van gesteente en grond. Het wordt opgepompt voor drinkwater en landbouw.", hint:"Dit water zit niet in rivieren of meren, maar diep onder de grond." },
-    { word:"continentaal", pos:"bijvoeglijk naamwoord",
+    { word:"grondstof", pos:"zelfstandig naamwoord · de", level:2,
+      examples:["Olie is een belangrijke <mark>grondstof</mark> voor de chemische industrie.","Landen met veel <mark>grondstoffen</mark> zijn vaak economisch sterk.","Hout, ijzererts en koper zijn voorbeelden van <mark>grondstoffen</mark>."],
+      options:["een afgewerkt product","een natuurlijk materiaal dat verwerkt wordt in productie","landbouwgrond voor akkerbouw","een chemische stof in de bodem"],
+      correct:1, explanation:"'Grondstof' is een natuurlijk materiaal — zoals olie, hout, koper — dat als basis dient voor het maken van producten. 'Grond' = basis, 'stof' = materiaal.", hint:"Olie, hout, en ijzererts zijn voorbeelden. Ze komen uit de natuur en worden verwerkt." },
+    { word:"urbanisatie", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["Door <mark>urbanisatie</mark> groeien steden in Afrika snel.","<mark>Urbanisatie</mark> leidt tot meer verkeer en druk op de woningmarkt.","In de 20e eeuw zorgde <mark>urbanisatie</mark> voor enorme stadsgroei."],
+      options:["de afname van het aantal stadsbewoners","het proces waarbij mensen van platteland naar stad trekken","het bouwen van nieuwe wijken buiten de stad","de groei van de landbouw"],
+      correct:1, explanation:"'Urbanisatie' is het proces waarbij steeds meer mensen in steden gaan wonen. Van het Latijnse 'urbs' = stad.", hint:"Mensen verlaten het platteland en gaan in de stad wonen. Dit proces heet..." },
+    { word:"evenaar", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["De <mark>evenaar</mark> ligt op 0 graden breedtegraad.","Landen op de <mark>evenaar</mark> hebben een tropisch klimaat.","De <mark>evenaar</mark> verdeelt de aarde in een noordelijk en zuidelijk halfrond."],
+      options:["de lijn om de aarde op de poolhoogte","de denkbeeldige lijn om het midden van de aarde","de grens tussen twee klimaatzones","de lijn die door Greenwich loopt"],
+      correct:1, explanation:"'Evenaar' is de denkbeeldige cirkel om het midden van de aarde, op gelijke afstand van beide polen. Op de evenaar zijn de dagen het hele jaar even lang.", hint:"Deze lijn ligt precies in het midden van de aarde, op 0° breedtegraad." },
+    { word:"klimaatzone", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["De Amazone ligt in een tropische <mark>klimaatzone</mark>.","Europa heeft grotendeels een gematigde <mark>klimaatzone</mark>.","In welke <mark>klimaatzone</mark> ligt Egypte?"],
+      options:["een beschermd natuurgebied","een gebied met een bepaald type klimaat","een zone met extreme temperaturen","een regio langs de evenaar"],
+      correct:1, explanation:"'Klimaatzone' is een geografisch gebied met een specifiek klimaattype, bepaald door temperatuur, neerslag en seizoenen. Denk aan tropisch, gematigd, polair.", hint:"De wereld is verdeeld in gebieden op basis van weer en temperatuur. Elk gebied is een..." },
+    { word:"bevolkingsdichtheid", pos:"zelfstandig naamwoord · de", level:4,
+      examples:["Nederland heeft een hoge <mark>bevolkingsdichtheid</mark> van ruim 500 mensen per km².","De <mark>bevolkingsdichtheid</mark> in de Sahara is extreem laag.","Steden hebben een hogere <mark>bevolkingsdichtheid</mark> dan het platteland."],
+      options:["het totale aantal inwoners van een land","het aantal mensen per oppervlakte-eenheid","de groeisnelheid van een bevolking","de verdeling van leeftijdsgroepen"],
+      correct:1, explanation:"'Bevolkingsdichtheid' is het aantal mensen per km². Bestaat uit 'bevolking' (mensen in een gebied) + 'dichtheid' (hoe dicht op elkaar).", hint:"Niet het totaal, maar hoeveel mensen er per vierkante kilometer wonen." },
+    { word:"continentaal", pos:"bijvoeglijk naamwoord", level:4,
       examples:["Het <mark>continentale</mark> klimaat in Rusland kenmerkt zich door strenge winters.","Europa heeft zowel een <mark>continentaal</mark> als een zeeklimaat.","Een <mark>continentaal</mark> plat is een ondiepe zee aan de rand van een continent."],
       options:["te maken hebbend met de oceaan of zee","te maken hebbend met een continent of vasteland","te maken hebbend met een eiland","te maken hebbend met gebergtes"],
       correct:1, explanation:"'Continentaal' = gerelateerd aan een continent (vasteland). Een continentaal klimaat is droog met grote temperatuurverschillen, ver van zee.", hint:"Afgeleid van 'continent'. Het tegendeel is 'maritiem' (zeeklimaat)." },
   ],
   werk: [
-    { word:"solliciteren", pos:"werkwoord",
+    { word:"solliciteren", pos:"werkwoord", level:1,
       examples:["Ze <mark>solliciteerde</mark> bij drie bedrijven tegelijk.","Hij <mark>solliciteert</mark> naar de functie van projectmanager.","Je kunt online <mark>solliciteren</mark> via de website van het bedrijf."],
       options:["ontslag nemen bij een bedrijf","je formeel aanmelden voor een vacature","een zakelijk voorstel doen","een contract ondertekenen"],
       correct:1, explanation:"'Solliciteren' = formeel je interesse tonen voor een vacature door een brief en cv in te sturen. Zelfstandig naamwoord: 'sollicitatie'. Persoon: 'sollicitant'.", hint:"Je wilt een bepaalde baan. Wat doe je om kans te maken op die baan?" },
-    { word:"vergadering", pos:"zelfstandig naamwoord · de",
+    { word:"vergadering", pos:"zelfstandig naamwoord · de", level:1,
       examples:["De <mark>vergadering</mark> begon om 9 uur en duurde twee uur.","Tijdens de <mark>vergadering</mark> werden de kwartaalcijfers besproken.","Hij kon de <mark>vergadering</mark> niet bijwonen omdat hij ziek was."],
       options:["een informele koffiepauze op het werk","een formele bijeenkomst om zaken te bespreken en beslissingen te nemen","een individueel gesprek met een leidinggevende","een bedrijfsfeest"],
       correct:1, explanation:"'Vergadering' is een formele bijeenkomst waarbij een groep mensen beslissingen neemt of zaken bespreekt. Werkwoord: 'vergaderen'.", hint:"Collega's komen bij elkaar om zaken te bespreken. Dat heet een..." },
-    { word:"leidinggevende", pos:"zelfstandig naamwoord",
-      examples:["Mijn <mark>leidinggevende</mark> beoordeelt mij elk jaar in een functioneringsgesprek.","Ze vroeg haar <mark>leidinggevende</mark> om een dag vrij.","Een goede <mark>leidinggevende</mark> motiveert zijn team."],
-      options:["een nieuwe collega op de werkvloer","iemand die anderen aanstuurt en verantwoordelijk is","een externe consultant","iemand die de administratie doet"],
-      correct:1, explanation:"'Leidinggevende' = iemand die leiding geeft aan anderen, een manager of teamleider. Van 'leiding geven'. Synoniemen: 'manager', 'baas', 'chef'.", hint:"Deze persoon stuurt jou aan op het werk. Wie is dat?" },
-    { word:"proeftijd", pos:"zelfstandig naamwoord · de",
-      examples:["Zijn contract heeft een <mark>proeftijd</mark> van twee maanden.","Tijdens de <mark>proeftijd</mark> kunnen beide partijen het contract opzeggen.","Ze werd na haar <mark>proeftijd</mark> aangenomen als vaste medewerker."],
-      options:["de periode na het ontslag","een beginperiode waarbij beide partijen het contract makkelijk kunnen beëindigen","de tijd om een beslissing te nemen","de duur van een tijdelijk contract"],
-      correct:1, explanation:"'Proeftijd' is de beginperiode van een dienstverband waarin zowel werkgever als werknemer het contract eenvoudig kan beëindigen.", hint:"Aan het begin van een nieuwe baan is er een periode om te 'proberen'. Dat is de..." },
-    { word:"arbeidsmarkt", pos:"zelfstandig naamwoord · de",
-      examples:["De <mark>arbeidsmarkt</mark> in de technologie is momenteel erg krap.","Door de vergrijzing verandert de <mark>arbeidsmarkt</mark> sterk.","Veel afgestudeerden zoeken werk op de <mark>arbeidsmarkt</mark>."],
-      options:["een fysieke markt waar producten worden verkocht","het geheel van vraag en aanbod van werk en werknemers","een beurs voor ondernemers","een platform voor freelancers"],
-      correct:1, explanation:"'Arbeidsmarkt' is het systeem van vraag (werkgevers) en aanbod (werkzoekenden). 'Arbeid' = werk, 'markt' = plek van uitwisseling.", hint:"Niet een echte markt, maar het systeem van vraag en aanbod rondom werk." },
-    { word:"overuren", pos:"zelfstandig naamwoord · meervoud",
-      examples:["Hij maakte elke week <mark>overuren</mark> om het project op tijd af te krijgen.","Voor <mark>overuren</mark> krijg je extra betaald of vrije tijd terug.","Ze was moe van al die <mark>overuren</mark> de afgelopen maanden."],
-      options:["uren die je ziek bent geweest","uren die je extra werkt buiten je normale werktijd","vakantiedagen die je niet hebt opgenomen","uren die je thuis werkt"],
-      correct:1, explanation:"'Overuren' zijn extra gewerkte uren buiten de normale werktijd. 'Over-' = meer dan normaal. Ze worden soms uitbetaald of gecompenseerd met vrije tijd.", hint:"Je werktijd is 8 uur per dag, maar je werkt 10 uur. Die 2 extra uren zijn..." },
-    { word:"functieomschrijving", pos:"zelfstandig naamwoord · de",
-      examples:["De <mark>functieomschrijving</mark> vermeldde dat ervaring vereist was.","Lees de <mark>functieomschrijving</mark> goed door voor je solliciteert.","Haar taken gaan verder dan wat in de <mark>functieomschrijving</mark> staat."],
-      options:["het salaris dat bij een functie hoort","een beschrijving van de taken en verantwoordelijkheden van een baan","het vereiste opleidingsniveau","een evaluatie van prestaties"],
-      correct:1, explanation:"'Functieomschrijving' = beschrijving van de taken, verantwoordelijkheden en eisen van een baan. Vaak in een vacature.", hint:"In een vacature staat dit: het legt uit wat je precies moet doen in de baan." },
-    { word:"bedrijfscultuur", pos:"zelfstandig naamwoord · de",
-      examples:["De <mark>bedrijfscultuur</mark> bij dat bedrijf is informeel en open.","Een goede <mark>bedrijfscultuur</mark> zorgt voor tevreden medewerkers.","Nieuwe medewerkers moeten wennen aan de <mark>bedrijfscultuur</mark>."],
-      options:["de producten die een bedrijf maakt","de waarden, normen en gewoonten binnen een organisatie","de manier waarop een bedrijf zijn klanten behandelt","de trainingen die een bedrijf aanbiedt"],
-      correct:1, explanation:"'Bedrijfscultuur' = het geheel van normen, waarden en gedragspatronen binnen een organisatie. Engels: 'company culture'.", hint:"De sfeer, waarden en ongeschreven regels op een werkplek vormen de..." },
-    { word:"ziekteverzuim", pos:"zelfstandig naamwoord · het",
-      examples:["Het hoge <mark>ziekteverzuim</mark> kostte het bedrijf veel geld.","Stress is een van de grootste oorzaken van <mark>ziekteverzuim</mark>.","Het <mark>ziekteverzuim</mark> daalde nadat betere arbeidsomstandigheden werden ingevoerd."],
-      options:["het aantal beschikbare ziektedagen per jaar","het percentage werknemers dat afwezig is door ziekte","de kosten van ziektekostenverzekering","het ziek melden bij de werkgever"],
-      correct:1, explanation:"'Ziekteverzuim' = het percentage of de tijd dat werknemers afwezig zijn door ziekte. Hoog ziekteverzuim signaleert problemen.", hint:"Als veel medewerkers ziek zijn en niet werken, is er een hoog..." },
-    { word:"pensioen", pos:"zelfstandig naamwoord · het",
+    { word:"pensioen", pos:"zelfstandig naamwoord · het", level:1,
       examples:["Ze gaat volgend jaar met <mark>pensioen</mark> na 40 jaar werken.","In Nederland bouw je <mark>pensioen</mark> op via je werkgever.","Het <mark>pensioen</mark>stelsel in Nederland staat onder druk."],
       options:["een bonus bij goed presteren","een uitkering na het bereiken van de pensioenleeftijd","een spaarpot voor noodgevallen","een ziektekostenverzekering"],
       correct:1, explanation:"'Pensioen' is de uitkering die iemand ontvangt nadat hij/zij gestopt is met werken wegens leeftijd. In Nederland is de AOW-leeftijd momenteel 67 jaar.", hint:"Als je oud bent en stopt met werken, ontvang je dit elke maand." },
+    { word:"leidinggevende", pos:"zelfstandig naamwoord", level:2,
+      examples:["Mijn <mark>leidinggevende</mark> beoordeelt mij elk jaar in een functioneringsgesprek.","Ze vroeg haar <mark>leidinggevende</mark> om een dag vrij.","Een goede <mark>leidinggevende</mark> motiveert zijn team."],
+      options:["een nieuwe collega op de werkvloer","iemand die anderen aanstuurt en verantwoordelijk is","een externe consultant","iemand die de administratie doet"],
+      correct:1, explanation:"'Leidinggevende' = iemand die leiding geeft aan anderen, een manager of teamleider. Van 'leiding geven'. Synoniemen: 'manager', 'baas', 'chef'.", hint:"Deze persoon stuurt jou aan op het werk. Wie is dat?" },
+    { word:"overuren", pos:"zelfstandig naamwoord · meervoud", level:2,
+      examples:["Hij maakte elke week <mark>overuren</mark> om het project op tijd af te krijgen.","Voor <mark>overuren</mark> krijg je extra betaald of vrije tijd terug.","Ze was moe van al die <mark>overuren</mark> de afgelopen maanden."],
+      options:["uren die je ziek bent geweest","uren die je extra werkt buiten je normale werktijd","vakantiedagen die je niet hebt opgenomen","uren die je thuis werkt"],
+      correct:1, explanation:"'Overuren' zijn extra gewerkte uren buiten de normale werktijd. 'Over-' = meer dan normaal. Ze worden soms uitbetaald of gecompenseerd met vrije tijd.", hint:"Je werktijd is 8 uur per dag, maar je werkt 10 uur. Die 2 extra uren zijn..." },
+    { word:"proeftijd", pos:"zelfstandig naamwoord · de", level:2,
+      examples:["Zijn contract heeft een <mark>proeftijd</mark> van twee maanden.","Tijdens de <mark>proeftijd</mark> kunnen beide partijen het contract opzeggen.","Ze werd na haar <mark>proeftijd</mark> aangenomen als vaste medewerker."],
+      options:["de periode na het ontslag","een beginperiode waarbij beide partijen het contract makkelijk kunnen beëindigen","de tijd om een beslissing te nemen","de duur van een tijdelijk contract"],
+      correct:1, explanation:"'Proeftijd' is de beginperiode van een dienstverband waarin zowel werkgever als werknemer het contract eenvoudig kan beëindigen.", hint:"Aan het begin van een nieuwe baan is er een periode om te 'proberen'. Dat is de..." },
+    { word:"arbeidsmarkt", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["De <mark>arbeidsmarkt</mark> in de technologie is momenteel erg krap.","Door de vergrijzing verandert de <mark>arbeidsmarkt</mark> sterk.","Veel afgestudeerden zoeken werk op de <mark>arbeidsmarkt</mark>."],
+      options:["een fysieke markt waar producten worden verkocht","het geheel van vraag en aanbod van werk en werknemers","een beurs voor ondernemers","een platform voor freelancers"],
+      correct:1, explanation:"'Arbeidsmarkt' is het systeem van vraag (werkgevers) en aanbod (werkzoekenden). 'Arbeid' = werk, 'markt' = plek van uitwisseling.", hint:"Niet een echte markt, maar het systeem van vraag en aanbod rondom werk." },
+    { word:"bedrijfscultuur", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["De <mark>bedrijfscultuur</mark> bij dat bedrijf is informeel en open.","Een goede <mark>bedrijfscultuur</mark> zorgt voor tevreden medewerkers.","Nieuwe medewerkers moeten wennen aan de <mark>bedrijfscultuur</mark>."],
+      options:["de producten die een bedrijf maakt","de waarden, normen en gewoonten binnen een organisatie","de manier waarop een bedrijf zijn klanten behandelt","de trainingen die een bedrijf aanbiedt"],
+      correct:1, explanation:"'Bedrijfscultuur' = het geheel van normen, waarden en gedragspatronen binnen een organisatie. Engels: 'company culture'.", hint:"De sfeer, waarden en ongeschreven regels op een werkplek vormen de..." },
+    { word:"ziekteverzuim", pos:"zelfstandig naamwoord · het", level:4,
+      examples:["Het hoge <mark>ziekteverzuim</mark> kostte het bedrijf veel geld.","Stress is een van de grootste oorzaken van <mark>ziekteverzuim</mark>.","Het <mark>ziekteverzuim</mark> daalde nadat betere arbeidsomstandigheden werden ingevoerd."],
+      options:["het aantal beschikbare ziektedagen per jaar","het percentage werknemers dat afwezig is door ziekte","de kosten van ziektekostenverzekering","het ziek melden bij de werkgever"],
+      correct:1, explanation:"'Ziekteverzuim' = het percentage of de tijd dat werknemers afwezig zijn door ziekte. Hoog ziekteverzuim signaleert problemen.", hint:"Als veel medewerkers ziek zijn en niet werken, is er een hoog..." },
+    { word:"functieomschrijving", pos:"zelfstandig naamwoord · de", level:4,
+      examples:["De <mark>functieomschrijving</mark> vermeldde dat ervaring vereist was.","Lees de <mark>functieomschrijving</mark> goed door voor je solliciteert.","Haar taken gaan verder dan wat in de <mark>functieomschrijving</mark> staat."],
+      options:["het salaris dat bij een functie hoort","een beschrijving van de taken en verantwoordelijkheden van een baan","het vereiste opleidingsniveau","een evaluatie van prestaties"],
+      correct:1, explanation:"'Functieomschrijving' = beschrijving van de taken, verantwoordelijkheden en eisen van een baan. Vaak in een vacature.", hint:"In een vacature staat dit: het legt uit wat je precies moet doen in de baan." },
   ],
   gezondheid: [
-    { word:"symptoom", pos:"zelfstandig naamwoord · het",
+    { word:"symptoom", pos:"zelfstandig naamwoord · het", level:1,
       examples:["Koorts en hoesten zijn typische <mark>symptomen</mark> van een griep.","Het eerste <mark>symptoom</mark> was een hevige hoofdpijn.","De dokter vroeg naar alle <mark>symptomen</mark> voor hij een diagnose stelde."],
       options:["een medicijn dat de dokter voorschrijft","een teken dat wijst op een ziekte","een medisch onderzoek","de oorzaak van een ziekte"],
       correct:1, explanation:"'Symptoom' is een verschijnsel dat kan wijzen op een ziekte. Meervoud: 'symptomen'. Van het Griekse 'symptoma'.", hint:"Koorts, hoofdpijn en hoesten zijn voorbeelden. Ze wijzen op iets dat mis is." },
-    { word:"diagnose", pos:"zelfstandig naamwoord · de",
-      examples:["Na uitgebreid onderzoek stelde de dokter de <mark>diagnose</mark>: hartfalen.","Ze wachtte gespannen op de <mark>diagnose</mark> na haar bloedonderzoek.","Een vroege <mark>diagnose</mark> vergroot de kans op herstel."],
-      options:["een behandeling die de dokter voorschrijft","de vaststelling van een ziekte door een arts","een medisch advies over leefstijl","het resultaat van een operatie"],
-      correct:1, explanation:"'Diagnose' = de vaststelling van een ziekte door een arts, op basis van symptomen en onderzoek. Werkwoord: 'diagnosticeren'.", hint:"Nadat de dokter je heeft onderzocht en weet wat je hebt, geeft hij deze." },
-    { word:"recept", pos:"zelfstandig naamwoord · het",
-      examples:["De huisarts schreef een <mark>recept</mark> uit voor antibiotica.","Bij de apotheek moet je een <mark>recept</mark> laten zien voor dit medicijn.","Zonder <mark>recept</mark> mag de apotheek dit middel niet verkopen."],
-      options:["een lijst van ingrediënten voor een gerecht","een officieel document van een arts voor medicijnen","een factuur van de apotheek","een verwijsbrief naar het ziekenhuis"],
-      correct:1, explanation:"In medische context is een 'recept' een officieel document van een arts waarmee je medicijnen kunt ophalen bij de apotheek.", hint:"De dokter schrijft dit uit zodat je bij de apotheek je medicijnen kunt ophalen." },
-    { word:"verwijzing", pos:"zelfstandig naamwoord · de",
-      examples:["De huisarts gaf haar een <mark>verwijzing</mark> naar een specialist.","Met een <mark>verwijzing</mark> van de dokter kun je naar de fysiotherapeut.","Zonder <mark>verwijzing</mark> vergoedt de verzekering de specialist niet."],
-      options:["een beschrijving van je ziektegeschiedenis","een officieel document waarmee je naar een specialist wordt doorgestuurd","een medicijnlijst van de dokter","een behandelplan"],
-      correct:1, explanation:"'Verwijzing' = een officieel document van de huisarts waarmee je naar een specialist of therapeut wordt doorgestuurd. Werkwoord: 'verwijzen'.", hint:"Je huisarts stuurt je door naar een specialist. Daarvoor geeft hij je dit document." },
-    { word:"herstel", pos:"zelfstandig naamwoord · het",
+    { word:"herstel", pos:"zelfstandig naamwoord · het", level:1,
       examples:["Na de operatie had ze drie weken nodig voor haar <mark>herstel</mark>.","Het <mark>herstel</mark> verliep sneller dan verwacht.","Rust en goede voeding zijn essentieel voor <mark>herstel</mark>."],
       options:["het ziek worden","het beter worden na ziekte of een ingreep","het resultaat van een medisch onderzoek","de diagnose na een onderzoek"],
       correct:1, explanation:"'Herstel' is het proces van beter worden na ziekte, blessure of operatie. Werkwoord: 'herstellen'.", hint:"Je was ziek, maar nu word je beter. Dit proces heet..." },
-    { word:"bijwerking", pos:"zelfstandig naamwoord · de",
-      examples:["Misselijkheid is een bekende <mark>bijwerking</mark> van dit medicijn.","Lees altijd de bijsluiter voor informatie over <mark>bijwerkingen</mark>.","Bij ernstige <mark>bijwerkingen</mark> moet je direct contact opnemen met een arts."],
-      options:["het gewenste effect van een medicijn","een ongewenst effect van een medicijn","de dosering van een medicijn","de werking in het bloed"],
-      correct:1, explanation:"'Bijwerking' = een onbedoeld, ongewenst effect van een medicijn of behandeling. Engels: 'side effect'. 'Bij-' = naast de hoofdwerking.", hint:"Je neemt medicijnen voor één reden, maar er is ook een ongewenst extra effect. Dat is een..." },
-    { word:"bloeddruk", pos:"zelfstandig naamwoord · de",
+    { word:"bloeddruk", pos:"zelfstandig naamwoord · de", level:1,
       examples:["De dokter mat zijn <mark>bloeddruk</mark> en constateerde dat die te hoog was.","Stress kan je <mark>bloeddruk</mark> verhogen.","Een normale <mark>bloeddruk</mark> is ongeveer 120/80."],
       options:["het aantal hartslagen per minuut","de druk die bloed uitoefent op de wanden van de bloedvaten","het zuurstofgehalte in het bloed","het cholesterolgehalte"],
       correct:1, explanation:"'Bloeddruk' = de kracht waarmee het hart bloed door de bloedvaten pompt. Te hoge bloeddruk ('hypertensie') is een risicofactor voor hart- en vaatziekten.", hint:"Dit meet de dokter met een band om je arm. Het zegt iets over de druk in je bloedvaten." },
-    { word:"chronisch", pos:"bijvoeglijk naamwoord",
-      examples:["Ze lijdt aan <mark>chronische</mark> rugpijn die al jaren aanhoudt.","<mark>Chronische</mark> ziekten vereisen langdurige behandeling.","Astma is een <mark>chronische</mark> aandoening die beheersbaar maar niet genezen is."],
-      options:["plotseling opkomend en snel verdwijnend","langdurig aanhoudend, niet snel overgaand","besmettelijk","goedaardig en niet ernstig"],
-      correct:1, explanation:"'Chronisch' = langdurig aanhoudend. Van het Griekse 'chronos' = tijd. Tegendeel: 'acuut' (plotseling en kortdurend).", hint:"Een ziekte die al jaren duurt en niet snel overgaat, is een... ziekte." },
-    { word:"vaccinatie", pos:"zelfstandig naamwoord · de",
+    { word:"recept", pos:"zelfstandig naamwoord · het", level:2,
+      examples:["De huisarts schreef een <mark>recept</mark> uit voor antibiotica.","Bij de apotheek moet je een <mark>recept</mark> laten zien voor dit medicijn.","Zonder <mark>recept</mark> mag de apotheek dit middel niet verkopen."],
+      options:["een lijst van ingrediënten voor een gerecht","een officieel document van een arts voor medicijnen","een factuur van de apotheek","een verwijsbrief naar het ziekenhuis"],
+      correct:1, explanation:"In medische context is een 'recept' een officieel document van een arts waarmee je medicijnen kunt ophalen bij de apotheek.", hint:"De dokter schrijft dit uit zodat je bij de apotheek je medicijnen kunt ophalen." },
+    { word:"vaccinatie", pos:"zelfstandig naamwoord · de", level:2,
       examples:["Kinderen krijgen in Nederland gratis een <mark>vaccinatie</mark> tegen mazelen.","Voor sommige landen is een <mark>vaccinatie</mark> verplicht voor inreis.","Na de <mark>vaccinatie</mark> was zijn arm een dag pijnlijk."],
       options:["een bloedtest","een inenting om het lichaam te beschermen tegen een ziekte","een operatie om een infectie te verwijderen","een medicijn dat je slikt"],
       correct:1, explanation:"'Vaccinatie' = het toedienen van een vaccin om het immuunsysteem te trainen een ziekte te bestrijden. Van het Latijnse 'vacca' (koe — bij de eerste koepokvaccinatie).", hint:"Een injectie die je beschermt tegen een infectieziekte, zoals griep of mazelen." },
-    { word:"aandoening", pos:"zelfstandig naamwoord · de",
+    { word:"aandoening", pos:"zelfstandig naamwoord · de", level:2,
       examples:["Diabetes is een veelvoorkomende <mark>aandoening</mark> in Nederland.","Hij heeft een erfelijke <mark>aandoening</mark> die zijn spieren aantast.","Met de juiste behandeling is de <mark>aandoening</mark> goed te beheersen."],
       options:["een tijdelijk gevoel van onwel zijn","een medische conditie of ziekte","een verwonding door een ongeluk","een bijwerking van medicijnen"],
       correct:1, explanation:"'Aandoening' = een medische conditie, ziekte of stoornis. Neutraal woord voor zowel ernstige als minder ernstige ziekten. Synoniemen: 'conditie', 'kwaal'.", hint:"Een breed medisch woord voor een ziekte of conditie, zoals diabetes of astma." },
+    { word:"diagnose", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["Na uitgebreid onderzoek stelde de dokter de <mark>diagnose</mark>: hartfalen.","Ze wachtte gespannen op de <mark>diagnose</mark> na haar bloedonderzoek.","Een vroege <mark>diagnose</mark> vergroot de kans op herstel."],
+      options:["een behandeling die de dokter voorschrijft","de vaststelling van een ziekte door een arts","een medisch advies over leefstijl","het resultaat van een operatie"],
+      correct:1, explanation:"'Diagnose' = de vaststelling van een ziekte door een arts, op basis van symptomen en onderzoek. Werkwoord: 'diagnosticeren'.", hint:"Nadat de dokter je heeft onderzocht en weet wat je hebt, geeft hij deze." },
+    { word:"verwijzing", pos:"zelfstandig naamwoord · de", level:3,
+      examples:["De huisarts gaf haar een <mark>verwijzing</mark> naar een specialist.","Met een <mark>verwijzing</mark> van de dokter kun je naar de fysiotherapeut.","Zonder <mark>verwijzing</mark> vergoedt de verzekering de specialist niet."],
+      options:["een beschrijving van je ziektegeschiedenis","een officieel document waarmee je naar een specialist wordt doorgestuurd","een medicijnlijst van de dokter","een behandelplan"],
+      correct:1, explanation:"'Verwijzing' = een officieel document van de huisarts waarmee je naar een specialist of therapeut wordt doorgestuurd. Werkwoord: 'verwijzen'.", hint:"Je huisarts stuurt je door naar een specialist. Daarvoor geeft hij je dit document." },
+    { word:"chronisch", pos:"bijvoeglijk naamwoord", level:4,
+      examples:["Ze lijdt aan <mark>chronische</mark> rugpijn die al jaren aanhoudt.","<mark>Chronische</mark> ziekten vereisen langdurige behandeling.","Astma is een <mark>chronische</mark> aandoening die beheersbaar maar niet genezen is."],
+      options:["plotseling opkomend en snel verdwijnend","langdurig aanhoudend, niet snel overgaand","besmettelijk","goedaardig en niet ernstig"],
+      correct:1, explanation:"'Chronisch' = langdurig aanhoudend. Van het Griekse 'chronos' = tijd. Tegendeel: 'acuut' (plotseling en kortdurend).", hint:"Een ziekte die al jaren duurt en niet snel overgaat, is een... ziekte." },
+    { word:"bijwerking", pos:"zelfstandig naamwoord · de", level:4,
+      examples:["Misselijkheid is een bekende <mark>bijwerking</mark> van dit medicijn.","Lees altijd de bijsluiter voor informatie over <mark>bijwerkingen</mark>.","Bij ernstige <mark>bijwerkingen</mark> moet je direct contact opnemen met een arts."],
+      options:["het gewenste effect van een medicijn","een ongewenst effect van een medicijn","de dosering van een medicijn","de werking in het bloed"],
+      correct:1, explanation:"'Bijwerking' = een onbedoeld, ongewenst effect van een medicijn of behandeling. Engels: 'side effect'. 'Bij-' = naast de hoofdwerking.", hint:"Je neemt medicijnen voor één reden, maar er is ook een ongewenst extra effect. Dat is een..." },
   ],
 };
 
@@ -555,6 +572,8 @@ const INIT_STATE = {
   screen: "home",       // home | count-select | quiz | results
   theme: null,
   pendingTheme: null,
+  pendingLevel: "all",  // "1"|"2"|"3"|"4"|"all" — Hazenberg & Hulstijn level filter
+  activeLevel: "all",   // level that was used to start the current quiz
   questions: [],
   qIdx: 0,
   scoreOk: 0,
@@ -611,20 +630,39 @@ function goHome() {
 }
 
 function openCountSelect(themeId) {
+  // Preserve pendingLevel if re-entering the same theme, else reset to "all"
+  const prevLevel = S.pendingTheme === themeId ? S.pendingLevel : "all";
   S.pendingTheme = themeId;
+  S.pendingLevel = prevLevel;
   S.screen = "count-select";
-  pendingFocus = "count-10";
+  pendingFocus = "level-all";
   render();
+}
+
+function setLevel(level) {
+  S.pendingLevel = level;
+  render();
+  // Keep focus on the selected level button after re-render
+  requestAnimationFrame(() => {
+    const el = document.getElementById("level-" + level);
+    if (el) el.focus();
+  });
 }
 
 function startQuiz(themeId, count) {
   const all = QUESTIONS[themeId] || [];
-  const shuffled = shuffle(all);
+  // Filter by Hazenberg & Hulstijn level
+  const lvl = S.pendingLevel;
+  const filtered = lvl === "all" ? all : all.filter(q => String(q.level) === String(lvl));
+  // Graceful fallback: if filter yields nothing, use all words
+  const pool = filtered.length > 0 ? filtered : all;
+  const shuffled = shuffle(pool);
   const subset = count === "all" ? shuffled : shuffled.slice(0, Math.min(count, shuffled.length));
   S = {
     ...INIT_STATE,
     screen: "quiz",
     theme: themeId,
+    activeLevel: lvl,
     questions: subset,
     sessionResults: [],
   };
@@ -644,6 +682,11 @@ function selectAnswer(idx) {
   else     { S.scoreBad++; S.wrongAnswers.push({ word:q.word, selected:q.options[idx], correct:q.options[q.correct], explanation:q.explanation }); announce("Fout. " + q.options[q.correct]); }
   pendingFocus = "btn-next";
   render();
+  // Auto-scroll so the Volgende button is in reach — runs after render settles
+  requestAnimationFrame(() => {
+    const foot = document.querySelector(".quiz-foot");
+    if (foot) foot.scrollIntoView({ behavior: "smooth", block: "end" });
+  });
 }
 
 function nextQ() {
@@ -765,16 +808,61 @@ function renderHome() {
 function renderCountSelect() {
   const t = THEMES.find(x=>x.id===S.pendingTheme);
   if (!t) return renderHome();
-  const total = themeWordCount(t.id);
+  const all = QUESTIONS[S.pendingTheme] || [];
+
+  // Level definitions
+  const LEVELS = [
+    { id:"1",   name:"Niveau 1",  range:"woorden 1–500",    label:"Basis",      pip:"#52B788" },
+    { id:"2",   name:"Niveau 2",  range:"woorden 501–1000", label:"Gemiddeld",  pip:"#E09F3E" },
+    { id:"3",   name:"Niveau 3",  range:"woorden 1001–1500",label:"Gevorderd",  pip:"#5B8CFF" },
+    { id:"4",   name:"Niveau 4",  range:"woorden 1501–2000",label:"Expert",     pip:"#B47FE8" },
+    { id:"all", name:"Alles",     range:"mix alle niveaus", label:"Mix",        pip:"var(--ink-3)" },
+  ];
+
+  const selLvl = S.pendingLevel || "all";
+  const filteredCount = selLvl === "all"
+    ? all.length
+    : all.filter(q => String(q.level) === selLvl).length;
+
+  const lvlBtns = LEVELS.map(lv => {
+    const ct = lv.id === "all" ? all.length : all.filter(q => String(q.level) === lv.id).length;
+    const sel = selLvl === lv.id;
+    return `<button class="level-btn ${sel?"selected":""}" id="level-${lv.id}" onclick="setLevel('${lv.id}')" aria-pressed="${sel}">
+      <div class="lv-left">
+        <div class="lv-pip" style="background:${lv.pip}"></div>
+        <div>
+          <div class="lv-name">${lv.name} <span style="font-size:11px;font-weight:400;color:var(--ink-3);margin-left:4px">${lv.label}</span></div>
+          <div class="lv-range">${lv.range}</div>
+        </div>
+      </div>
+      <div style="display:flex;align-items:center;gap:8px">
+        <div class="lv-ct">${ct} ${ct===1?"woord":"woorden"}</div>
+        <div class="lv-check">✓</div>
+      </div>
+    </button>`;
+  }).join("");
+
+  // Count buttons — based on how many words the current filter yields
+  const n = filteredCount;
+  const countBtns = [
+    n >= 10  ? `<button class="count-btn" id="count-10" onclick="startQuiz('${t.id}',10)">10<span>vragen</span></button>` : "",
+    n >= 20  ? `<button class="count-btn" onclick="startQuiz('${t.id}',20)">20<span>vragen</span></button>` : "",
+    `<button class="count-btn full" onclick="startQuiz('${t.id}','all')">Alles<span>${n} ${selLvl==="all"?"":"niveau "+selLvl+" "}woord${n===1?"":"en"}</span></button>`,
+  ].join("");
+
+  const noWords = n === 0
+    ? `<div style="font-size:14px;color:var(--ink-3);text-align:center;padding:12px 0">Geen woorden op dit niveau in dit thema.</div>` : "";
+
   return `<div class="count-sel">
     <div class="count-theme-lbl" style="color:${t.color}">${t.emoji} ${esc(t.label)}</div>
-    <div class="count-title">Hoeveel vragen?</div>
-    <div class="count-desc">Woorden worden elke sessie opnieuw gerandomiseerd.</div>
-    <div class="count-grid">
-      ${total >= 10 ? `<button class="count-btn" id="count-10" onclick="startQuiz('${t.id}',10)">10<span>vragen</span></button>` : ""}
-      ${total >= 20 ? `<button class="count-btn" onclick="startQuiz('${t.id}',20)">20<span>vragen</span></button>` : ""}
-      <button class="count-btn full" onclick="startQuiz('${t.id}','all')">Alles<span>alle ${total} vragen</span></button>
-    </div>
+
+    <div class="cs-section-lbl" style="margin-top:12px">Kies je niveau</div>
+    <div class="level-grid" role="radiogroup" aria-label="Niveau">${lvlBtns}</div>
+
+    <div class="cs-section-lbl">Aantal vragen</div>
+    ${noWords}
+    ${n > 0 ? `<div class="count-grid">${countBtns}</div>` : ""}
+
     <button class="back-btn-sm" onclick="goHome()">← Terug naar thema's</button>
   </div>`;
 }
@@ -841,11 +929,17 @@ function renderQuiz() {
   const isLast = S.qIdx >= total - 1;
   const nextLbl = isLast && S.answered ? "Resultaten bekijken" : "Volgende →";
 
+  const LV_COLORS = {"1":"#52B788","2":"#E09F3E","3":"#5B8CFF","4":"#B47FE8","all":"var(--ink-3)"};
+  const LV_NAMES  = {"1":"N1","2":"N2","3":"N3","4":"N4","all":"Mix"};
+  const lvColor = LV_COLORS[S.activeLevel] || "var(--ink-3)";
+  const lvName  = LV_NAMES[S.activeLevel]  || "Mix";
+
   return `<div class="quiz">
     <div class="quiz-top">
       <div class="quiz-nav">
         <button class="nav-back" onclick="goHome()" aria-label="Terug naar thema's">←</button>
         <div class="quiz-theme-lbl" style="color:${t.color}">${t.emoji} ${esc(t.label)}</div>
+        <div class="level-badge" style="background:${lvColor}18;color:${lvColor};border:1px solid ${lvColor}40">${lvName}</div>
         <div class="quiz-ctr" aria-label="Voortgang">${S.qIdx+1} / ${total}</div>
       </div>
       <div class="prog-wrap">
