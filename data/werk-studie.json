@@ -28,9 +28,9 @@
       "De rechter heeft de <mark>bevoegdheid</mark> om een straf op te leggen."
     ],
     "options": [
-      "de kennis die je hebt verworven",
-      "het officiële recht om iets te mogen doen",
       "de verantwoordelijkheid voor een fout",
+      "het officiële recht om iets te mogen doen",
+      "de kennis die je hebt verworven",
       "de ervaring in een bepaald vakgebied"
     ],
     "correct": 1,
@@ -47,12 +47,12 @@
       "Ze werd beloond voor haar <mark>prestaties</mark> op het werk."
     ],
     "options": [
+      "een fout die is gemaakt",
       "een doel dat nog bereikt moet worden",
       "iets wat succesvol is gedaan of bereikt",
-      "een fout die is gemaakt",
       "een plan voor de toekomst"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Prestatie' = iets wat met inspanning bereikt is. Van 'presteren' = leveren. 'Hoge prestaties' = goed resultaten. Synoniem: 'verwezenlijking', 'resultaat'.",
     "hint": "Na hard werken en succes — wat heb je dan geleverd? Een..."
   },
@@ -68,8 +68,8 @@
     "options": [
       "het alleen werken aan een project",
       "het gezamenlijk werken aan een doel",
-      "het verdelen van taken zonder overleg",
-      "concurrentie tussen collega's"
+      "concurrentie tussen collega's",
+      "het verdelen van taken zonder overleg"
     ],
     "correct": 1,
     "explanation": "'Samenwerking' = het gezamenlijk werken van mensen of organisaties aan een gemeenschappelijk doel. Van 'samenwerken'. Synoniem: 'co-operatie'.",
@@ -86,11 +86,11 @@
     ],
     "options": [
       "het recht om iemand te controleren",
-      "de plicht om ergens voor in te staan en te zorgen",
       "de bevoegdheid om beslissingen te nemen",
-      "de kennis die bij een functie hoort"
+      "de kennis die bij een functie hoort",
+      "de plicht om ergens voor in te staan en te zorgen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Verantwoordelijkheid' = de plicht om voor iets of iemand in te staan. Van 'verantwoorden' = uitleg geven. 'Verantwoordelijk zijn voor' = borg staan voor.",
     "hint": "Als iets fout gaat en jij moest erover waken, dien jij rekenschap af te leggen — dat is jouw..."
   },
@@ -104,10 +104,10 @@
       "Het uitvoeren van die <mark>opdracht</mark> kostte hem drie dagen."
     ],
     "options": [
-      "een vergadering met collega's",
+      "een beloning na goed werk",
       "een taak die je moet uitvoeren",
       "een aanbeveling voor iemand",
-      "een beloning na goed werk"
+      "een vergadering met collega's"
     ],
     "correct": 1,
     "explanation": "'Opdracht' = een taak of instructie die je van iemand krijgt om uit te voeren. Van 'opdragen' = toevertrouwen. 'In opdracht van' = namens.",
@@ -124,11 +124,11 @@
     ],
     "options": [
       "een werkervaring die je hebt opgedaan",
-      "een officieel certificaat dat aantoont dat je een opleiding hebt voltooid",
       "een aanbevelingsbrief van een werkgever",
-      "een lijst van vakken die je hebt gevolgd"
+      "een lijst van vakken die je hebt gevolgd",
+      "een officieel certificaat dat aantoont dat je een opleiding hebt voltooid"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Diploma' = een officieel document dat bewijst dat je een opleiding of examen met succes hebt afgerond. Van het Grieks 'diploma' (gevouwen document).",
     "hint": "Een document dat je na je studie krijgt als bewijs dat je geslaagd bent, heet een..."
   },
@@ -142,12 +142,12 @@
       "Als jonge <mark>leerling</mark> was hij altijd nieuwsgierig."
     ],
     "options": [
-      "een leraar in het onderwijs",
       "iemand die onderwijs volgt, een scholier",
-      "een medewerker van een school",
-      "een ouder van een schoolkind"
+      "een leraar in het onderwijs",
+      "een ouder van een schoolkind",
+      "een medewerker van een school"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Leerling' = iemand die onderwijs volgt, vooral in het basis- of voortgezet onderwijs. Van 'leren'. Synoniemen: 'scholier', 'student' (hoger onderwijs).",
     "hint": "Een kind of jongere die op school zit en les krijgt is een..."
   },
@@ -161,12 +161,12 @@
       "Technologische ontwikkelingen vragen voortdurende <mark>bijscholing</mark>."
     ],
     "options": [
-      "een tweede studie aan een universiteit",
-      "aanvullende opleiding om kennis en vaardigheden te verbeteren",
+      "onderwijs dat je na je pensioen volgt",
       "een verplichte cursus bij aanvang van een nieuwe baan",
-      "onderwijs dat je na je pensioen volgt"
+      "een tweede studie aan een universiteit",
+      "aanvullende opleiding om kennis en vaardigheden te verbeteren"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Bijscholing' = aanvullende opleiding die je volgt naast of na je werk om bij te blijven. 'Bij-' = extra, aanvullend. Synoniem: 'nascholing', 'professionele ontwikkeling'.",
     "hint": "'Bij-' = extra. 'Scholing' = opleiding. Je bent al opgeleid, maar volgt toch extra cursussen. Dat heet..."
   },
@@ -180,12 +180,12 @@
       "Hij bouwde zijn <mark>portfolio</mark> op door vrijwilligerswerk te doen."
     ],
     "options": [
-      "een samenvatting van je werkervaring in een brief",
       "een verzameling van je beste werk of projecten",
+      "een samenvatting van je werkervaring in een brief",
       "een lijst van referenties van vorige werkgevers",
       "een document met je salarisverwachting"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Portfolio' = een verzameling van je beste werk, projecten of prestaties, bedoeld om te tonen aan werkgevers of klanten. Van het Italiaans 'portafoglio'.",
     "hint": "Een ontwerper toont zijn beste ontwerpen in een... Dat is zijn bewijs van kunnen."
   },
@@ -199,12 +199,12 @@
       "Na uren <mark>onderhandelen</mark> kwamen ze tot een akkoord."
     ],
     "options": [
-      "een beslissing zonder overleg opleggen",
-      "overleggen om tot een wederzijds aanvaardbaar resultaat te komen",
       "het weigeren van een aanbod",
-      "het accepteren van een eerste voorstel"
+      "het accepteren van een eerste voorstel",
+      "een beslissing zonder overleg opleggen",
+      "overleggen om tot een wederzijds aanvaardbaar resultaat te komen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Onderhandelen' = overleggen met als doel overeenstemming te bereiken, waarbij beide partijen geven en nemen. Zelfstandig naamwoord: 'onderhandeling'.",
     "hint": "Je wilt meer salaris. Je bespreekt dit met je werkgever totdat jullie het eens zijn. Dat is..."
   },
@@ -219,11 +219,11 @@
     ],
     "options": [
       "de formele bevoegdheid om iets te mogen doen",
-      "de kennis, vaardigheden en houding die nodig zijn voor een taak",
       "de ervaring in jaren die iemand heeft opgebouwd",
+      "de kennis, vaardigheden en houding die nodig zijn voor een taak",
       "het diploma dat bij een functie hoort"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Competentie' = de combinatie van kennis, vaardigheden en houding om een taak goed uit te voeren. Van het Latijn 'competere'. Synoniem: 'bekwaamheid'.",
     "hint": "Niet alleen weten, maar ook kunnen en durven. Alles wat je nodig hebt voor een taak heet een..."
   },
@@ -237,12 +237,12 @@
       "Ze besprak haar voortgang wekelijks met haar <mark>stagebegeleider</mark>."
     ],
     "options": [
-      "de manager van het bedrijf waar je stage loopt",
       "de persoon die een stagiair begeleidt en beoordeelt",
       "de persoon die de stageplaats heeft geregeld",
+      "de manager van het bedrijf waar je stage loopt",
       "de docent die de stage begeleidt vanuit school"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Stagebegeleider' = de ervaren medewerker die een stagiair begeleidt op de werkplek. Samengesteld van 'stage' + 'begeleider'.",
     "hint": "Op je stageplek is er iemand die jou helpt en coacht. Dat is je..."
   },
@@ -256,12 +256,12 @@
       "Een <mark>arbeidscontract</mark> voor onbepaalde tijd geeft meer zekerheid."
     ],
     "options": [
+      "een pensioenregeling",
       "een belastingdocument voor werknemers",
       "een officieel schriftelijk akkoord over werk, salaris en voorwaarden",
-      "een pensioenregeling",
       "een document over ziekteverlof"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Arbeidscontract' = een schriftelijke overeenkomst tussen werkgever en werknemer over werk, beloning en arbeidsvoorwaarden. Samengesteld van 'arbeid' + 'contract'.",
     "hint": "Een juridisch document dat je tekent als je een baan krijgt, met alle afspraken erin — dat is een..."
   },
@@ -275,12 +275,12 @@
       "De <mark>evaluatie</mark> toonde aan dat het project te laat was afgerond."
     ],
     "options": [
+      "een training om vaardigheden te verbeteren",
       "het plannen van toekomstige projecten",
       "een beoordeling van prestaties of resultaten",
-      "een training om vaardigheden te verbeteren",
       "een vergadering om problemen op te lossen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Evaluatie' = een systematische beoordeling van prestaties, resultaten of een werkwijze. Van het Frans 'évaluation'. Werkwoord: 'evalueren'.",
     "hint": "Aan het einde van een project of jaar kijk je terug en beoordeelt hoe het ging. Dat is een..."
   }
