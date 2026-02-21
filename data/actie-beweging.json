@@ -9,10 +9,10 @@
       "Probeer de manager te <mark>bereiken</mark> via e-mail of telefoon."
     ],
     "options": [
-      "van iets weglopen",
-      "aankomen bij een plek of het behalen van een doel",
       "iets achterlaten",
-      "stoppen met een activiteit"
+      "aankomen bij een plek of het behalen van een doel",
+      "stoppen met een activiteit",
+      "van iets weglopen"
     ],
     "correct": 1,
     "explanation": "'Bereiken' = ergens naartoe gaan en er aankomen, of een doel behalen. Van 'reiken' = strekken. Ook figuurlijk: 'iets bereiken' = succes hebben.",
@@ -28,12 +28,12 @@
       "<mark>Draai</mark> het formulier <mark>om</mark> en vul ook de achterkant in."
     ],
     "options": [
-      "iets op zijn plek laten",
-      "iets of jezelf 180 graden wenden",
+      "iets in stukken breken",
       "iets langzaam vooruit bewegen",
-      "iets in stukken breken"
+      "iets op zijn plek laten",
+      "iets of jezelf 180 graden wenden"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Omdraaien' = iets 180 graden wenden, de andere kant op richten. Scheidbaar: 'draai om', 'draaide om', 'omgedraaid'. Ook figuurlijk: 'de situatie omdraaien'.",
     "hint": "Je kijkt naar voren en wendt je naar achteren — je..."
   },
@@ -47,12 +47,12 @@
       "Je kunt je <mark>verplaatsen</mark> in de situatie van een ander."
     ],
     "options": [
-      "iets op zijn plek laten staan",
       "iets of iemand naar een andere plek brengen",
+      "iets snel laten bewegen",
       "iets tijdelijk opslaan",
-      "iets snel laten bewegen"
+      "iets op zijn plek laten staan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Verplaatsen' = iets van de ene naar de andere plek bewegen. Scheidbaar: 'verplaats', 'verplaatste', 'verplaatst'. Ook figuurlijk: 'je verplaatsen in iemand' = empathie.",
     "hint": "De stoel staat niet goed — je wilt hem ergens anders zetten. Je gaat hem..."
   },
@@ -66,12 +66,12 @@
       "Hij <mark>vluchtte</mark> de kamer uit zonder een woord te zeggen."
     ],
     "options": [
-      "langzaam weglopen",
       "snel weggaan om gevaar of onplezierig iets te ontwijken",
       "naar een bestemming reizen",
+      "langzaam weglopen",
       "iemand achterna lopen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Vluchten' = snel weggaan uit angst of om gevaar te ontkomen. Van 'vlucht'. Zelfstandig naamwoord: 'vluchteling'. Synoniem: 'ontvluchten', 'wegrennen'.",
     "hint": "Als er gevaar is, ga je snel weg. Je..."
   },
@@ -85,12 +85,12 @@
       "Hij <mark>naderde</mark> haar voorzichtig en vroeg of hij kon helpen."
     ],
     "options": [
-      "van iets weggaan",
       "dichter bij komen",
       "plotseling stoppen",
-      "op iemand wachten"
+      "op iemand wachten",
+      "van iets weggaan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Naderen' = dichter bij komen, dichterbij bewegen. Van 'na' (dichtbij) + '-deren'. Zelfstandig naamwoord: 'nadering'. Synoniem: 'dichterbij komen'.",
     "hint": "De auto rijdt richting het stoplicht. Hij komt dichterbij — hij..."
   },
@@ -104,12 +104,12 @@
       "De politie <mark>omringde</mark> het gebouw na de melding."
     ],
     "options": [
-      "iets van zich afduwen",
       "iets of iemand aan alle kanten omgeven",
+      "iets van boven naar beneden bewegen",
       "iets in het midden plaatsen",
-      "iets van boven naar beneden bewegen"
+      "iets van zich afduwen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Omringen' = aan alle kanten omgeven of insluiten. Samengesteld van 'om' + 'ringen' (cirkels trekken). Synoniem: 'omgeven', 'insluiten'.",
     "hint": "Als iets aan alle kanten door iets anders is ingesloten — omgeven — dan wordt het..."
   },
@@ -123,9 +123,9 @@
       "<mark>Doorzetten</mark> is een belangrijke eigenschap in sport."
     ],
     "options": [
-      "iets opgeven als het moeilijk wordt",
-      "volharden en doorgaan ondanks moeilijkheden",
       "iets snel afronden",
+      "volharden en doorgaan ondanks moeilijkheden",
+      "iets opgeven als het moeilijk wordt",
       "iets naar een andere persoon doorgeven"
     ],
     "correct": 1,
@@ -142,12 +142,12 @@
       "Hij hoopte de achterstand op zijn concurrent <mark>in te halen</mark>."
     ],
     "options": [
-      "langzamer worden dan iemand anders",
       "voorbijgaan aan iemand of iets, of iets wat gemist is alsnog doen",
-      "achter iemand aanlopen",
-      "iets voor de eerste keer doen"
+      "iets voor de eerste keer doen",
+      "langzamer worden dan iemand anders",
+      "achter iemand aanlopen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Inhalen' = voorbijgaan (in verkeer) of achterstanden compenseren. Scheidbaar: 'haal in', 'haalde in', 'ingehaald'. Dubbele betekenis: letterlijk en figuurlijk.",
     "hint": "Op de snelweg rijd jij sneller dan de auto voor je. Je... die auto."
   },
@@ -162,11 +162,11 @@
     ],
     "options": [
       "gaan zitten of liggen",
-      "vanuit liggende of zittende positie gaan staan",
       "ergens naartoe lopen",
+      "vanuit liggende of zittende positie gaan staan",
       "met iemand in discussie gaan"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Opstaan' = vanuit een liggende of zittende positie overeind komen. Scheidbaar: 'sta op', 'stond op', 'opgestaan'. Ook figuurlijk: 'opstaan voor je rechten'.",
     "hint": "Je hebt de nacht geslapen. De wekker gaat. Je..."
   },
@@ -180,12 +180,12 @@
       "De veer <mark>zweefde</mark> langzaam naar de grond."
     ],
     "options": [
-      "snel vallen naar beneden",
-      "bewegen in de lucht zonder grond te raken",
       "snel door de lucht bewegen",
-      "op het water drijven"
+      "op het water drijven",
+      "snel vallen naar beneden",
+      "bewegen in de lucht zonder grond te raken"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Zweven' = langzaam en licht bewegen in de lucht, zonder neer te storten. Bijvoeglijk naamwoord: 'zwevend'. Figuurlijk: 'met je hoofd in de wolken'.",
     "hint": "Een veer of ballon beweegt langzaam in de lucht zonder te vallen. Het..."
   },
@@ -199,10 +199,10 @@
       "De wedstrijd werd <mark>uitgesteld</mark> wegens slecht weer."
     ],
     "options": [
-      "iets eerder dan gepland doen",
-      "iets naar een later moment verschuiven",
       "iets definitief annuleren",
-      "iets snel afhandelen"
+      "iets naar een later moment verschuiven",
+      "iets snel afhandelen",
+      "iets eerder dan gepland doen"
     ],
     "correct": 1,
     "explanation": "'Uitstellen' = iets naar een later tijdstip verschuiven. Scheidbaar: 'stel uit', 'stelde uit', 'uitgesteld'. Zelfstandig naamwoord: 'uitstel'. Synoniem: 'postponeren'.",
@@ -218,12 +218,12 @@
       "De machtsverhoudingen in de wereld <mark>verschuiven</mark> voortdurend."
     ],
     "options": [
-      "iets op zijn plek laten",
-      "iets naar een andere positie of tijdstip brengen",
+      "iets groter of kleiner te maken",
       "iets weg te gooien",
-      "iets groter of kleiner te maken"
+      "iets naar een andere positie of tijdstip brengen",
+      "iets op zijn plek laten"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Verschuiven' = iets langzaam naar een andere positie of een ander tijdstip brengen. Scheidbaar: 'verschuif', 'verschoof', 'verschoven'. Synoniem: 'verplaatsen', 'uitstellen'.",
     "hint": "Je raakt de stoel lichtjes aan en hij glijdt een stukje opzij. Je... hem."
   },
@@ -237,10 +237,10 @@
       "Hij <mark>gaat</mark> vriendelijk <mark>om</mark> met iedereen."
     ],
     "options": [
-      "iets helemaal vermijden",
+      "ergens omheen lopen",
       "met iets of iemand te handelen of te reageren",
-      "iets voor een ander doen",
-      "ergens omheen lopen"
+      "iets helemaal vermijden",
+      "iets voor een ander doen"
     ],
     "correct": 1,
     "explanation": "'Omgaan met' = reageren op of omgaan met een situatie, persoon of probleem. Scheidbaar: 'ga om', 'ging om', 'omgegaan'. Synoniem: 'hanteren', 'behandelen'.",
@@ -256,12 +256,12 @@
       "Hij wil nooit meer <mark>terugkeren</mark> naar zijn oude gewoontes."
     ],
     "options": [
-      "een nieuwe richting kiezen",
-      "naar een eerder punt of situatie gaan",
       "definitief ergens naartoe gaan",
-      "langzaam ergens naartoe bewegen"
+      "langzaam ergens naartoe bewegen",
+      "naar een eerder punt of situatie gaan",
+      "een nieuwe richting kiezen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Terugkeren' = naar een eerder vertrekpunt of situatie gaan. Scheidbaar: 'keer terug', 'keerde terug', 'teruggekeerd'. Synoniem: 'terugkomen', 'weerkeren'.",
     "hint": "Je was weg en nu ga je weer naar de plek waar je vandaan komt. Je..."
   },
@@ -277,8 +277,8 @@
     "options": [
       "iets volledig veranderen",
       "iets of zichzelf wijzigen om beter te passen",
-      "iets te accepteren zoals het is",
-      "iets te weigeren"
+      "iets te weigeren",
+      "iets te accepteren zoals het is"
     ],
     "correct": 1,
     "explanation": "'Aanpassen' = iets of zichzelf wijzigen zodat het beter past in een situatie. Scheidbaar: 'pas aan', 'paste aan', 'aangepast'. Zelfstandig naamwoord: 'aanpassing'.",
