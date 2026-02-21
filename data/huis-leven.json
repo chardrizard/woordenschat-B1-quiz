@@ -9,12 +9,12 @@
       "De <mark>huurder</mark> vroeg of hij een kat mocht houden."
     ],
     "options": [
-      "iemand die een huis bezit en verhuurt",
       "iemand die een huis of appartement huurt van een ander",
       "iemand die een huis koopt",
-      "iemand die een woning beheert"
+      "iemand die een woning beheert",
+      "iemand die een huis bezit en verhuurt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Huurder' = iemand die een woning huurt. De eigenaar heet 'verhuurder'. Van 'huren' = betalen voor tijdelijk gebruik. Meervoud: 'huurders'.",
     "hint": "Je betaalt maandelijks geld om in een huis te mogen wonen dat van iemand anders is. Dan ben je een..."
   },
@@ -28,12 +28,12 @@
       "Hij draaide de <mark>verwarming</mark> lager om energie te besparen."
     ],
     "options": [
-      "het koelsysteem van een gebouw",
-      "het systeem dat een gebouw warm houdt",
+      "de waterinstallatie in een woning",
       "de isolatie van muren en ramen",
-      "de waterinstallatie in een woning"
+      "het koelsysteem van een gebouw",
+      "het systeem dat een gebouw warm houdt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Verwarming' = het systeem dat warmte produceert in een gebouw, zoals een cv-installatie. Van 'verwarmen' = warm maken.",
     "hint": "In de winter zet je dit aan zodat het warm blijft in huis. Dat is de..."
   },
@@ -47,12 +47,12 @@
       "Na het werk haalde ze snel de <mark>boodschappen</mark> op."
     ],
     "options": [
-      "berichten die je aan iemand doorstuurt",
       "inkopen die je doet voor dagelijks gebruik",
-      "cadeaus die je koopt voor anderen",
-      "facturen die je moet betalen"
+      "facturen die je moet betalen",
+      "berichten die je aan iemand doorstuurt",
+      "cadeaus die je koopt voor anderen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Boodschappen' = de inkopen voor dagelijks gebruik, zoals eten en drinken. 'Boodschappen doen' = naar de winkel gaan. Enkelvoud: 'boodschap' (ook: bericht).",
     "hint": "Naar de supermarkt gaan voor eten en drinken — dat noem je..."
   },
@@ -68,8 +68,8 @@
     "options": [
       "de vloer verven of bekleden",
       "vuil of stof verwijderen om iets hygiënisch te maken",
-      "meubels repareren",
-      "de tuin onderhouden"
+      "de tuin onderhouden",
+      "meubels repareren"
     ],
     "correct": 1,
     "explanation": "'Schoonmaken' = vuil verwijderen, reinigen. Scheidbaar: 'maak schoon', 'maakte schoon', 'schoongemaakt'. Synoniem: 'reinigen', 'poetsen'.",
@@ -85,12 +85,12 @@
       "Na dertig jaar is de <mark>hypotheek</mark> volledig afbetaald."
     ],
     "options": [
+      "de kosten van het onderhoud van een huis",
       "de maandelijkse huurprijs van een woning",
-      "een lening om een huis te kopen, waarbij het huis als onderpand dient",
       "een verzekering voor schade aan het huis",
-      "de kosten van het onderhoud van een huis"
+      "een lening om een huis te kopen, waarbij het huis als onderpand dient"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Hypotheek' = een lening van de bank voor het kopen van een woning, waarbij het huis als zekerheid geldt. Van het Grieks 'hypotheke' (onderpand).",
     "hint": "Je leent geld van de bank om een huis te kopen. Die lening heet een..."
   },
@@ -104,9 +104,9 @@
       "Hij verfde de <mark>slaapkamer</mark> lichtblauw."
     ],
     "options": [
-      "de kamer waar je eet en kookt",
-      "de kamer die is ingericht om in te slapen",
       "de kamer om gasten te ontvangen",
+      "de kamer die is ingericht om in te slapen",
+      "de kamer waar je eet en kookt",
       "de ruimte om kleding op te slaan"
     ],
     "correct": 1,
@@ -123,12 +123,12 @@
       "Slecht <mark>onderhoud</mark> kan leiden tot grote schade."
     ],
     "options": [
-      "het kopen van nieuwe meubels",
       "het regelmatig verzorgen en repareren om iets in goede staat te houden",
       "het verbouwen van een woning",
+      "het kopen van nieuwe meubels",
       "het afsluiten van een verzekering"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Onderhoud' = het geheel van activiteiten om iets in goede staat te houden. Van 'onderhouden' = in stand houden. Werkwoord: 'onderhouden'.",
     "hint": "Schilderen, kleine reparaties, de ketel laten controleren — dat zijn allemaal vormen van..."
   },
@@ -142,10 +142,10 @@
       "De wachtlijst bij de <mark>woningcorporatie</mark> is soms wel tien jaar."
     ],
     "options": [
-      "een makelaardij die huizen verkoopt",
+      "een gemeente-instelling voor woningtoewijzing",
       "een organisatie die betaalbare huurwoningen beheert voor mensen met een laag inkomen",
       "een bank die hypotheken verstrekt",
-      "een gemeente-instelling voor woningtoewijzing"
+      "een makelaardij die huizen verkoopt"
     ],
     "correct": 1,
     "explanation": "'Woningcorporatie' = een non-profitorganisatie die sociale huurwoningen beheert en verhuurt aan mensen met een laag inkomen. Synoniem: 'corporatie', 'woningbouwvereniging'.",
@@ -162,11 +162,11 @@
     ],
     "options": [
       "de structuur van een gebouw",
+      "de technische installaties in een woning",
       "alle spullen en meubels in een woning",
-      "de tuin en buitenruimte van een huis",
-      "de technische installaties in een woning"
+      "de tuin en buitenruimte van een huis"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Inboedel' = alle roerende goederen in een woning: meubels, apparaten, kleding, enzovoort. Van 'boedel' (bezit).",
     "hint": "Alle meubels, apparaten en persoonlijke spullen in je huis bij elkaar — dat is je..."
   },
@@ -180,12 +180,12 @@
       "Zet een raam open voor natuurlijke <mark>ventilatie</mark>."
     ],
     "options": [
-      "de verwarming van een ruimte",
       "het vernieuwen van de lucht in een ruimte",
+      "de verwarming van een ruimte",
       "het isoleren van een gebouw",
       "het koelen van een ruimte in de zomer"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Ventilatie' = het verversen van de lucht in een ruimte door verse lucht aan te voeren en verbruikte lucht af te voeren. Van het Latijn 'ventilare'.",
     "hint": "Zonder dit wordt de lucht in een kamer muf en vochtig. Je hebt goede... nodig."
   },
@@ -199,10 +199,10 @@
       "Ze besparen bewust om de <mark>energierekening</mark> laag te houden."
     ],
     "options": [
-      "een rekening van de watermaatschappij",
-      "een rekening voor het verbruik van gas en elektriciteit",
       "een belastingaanslag voor woningbezitters",
-      "kosten voor reparaties aan een woning"
+      "een rekening voor het verbruik van gas en elektriciteit",
+      "kosten voor reparaties aan een woning",
+      "een rekening van de watermaatschappij"
     ],
     "correct": 1,
     "explanation": "'Energierekening' = de rekening van de energieleverancier voor gas en elektriciteitsverbruik. Samengesteld van 'energie' + 'rekening'.",
@@ -218,12 +218,12 @@
       "Zijn verhuurder rekende te hoge <mark>servicekosten</mark>."
     ],
     "options": [
-      "de huurprijs voor een woning",
       "extra kosten bovenop de huur voor gedeelde diensten en voorzieningen",
-      "kosten voor internet en televisie",
-      "belasting die je als huurder betaalt"
+      "belasting die je als huurder betaalt",
+      "de huurprijs voor een woning",
+      "kosten voor internet en televisie"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Servicekosten' = extra kosten bovenop de kale huur voor diensten zoals schoonmaak, lift en tuinonderhoud in gemeenschappelijke ruimtes.",
     "hint": "Naast de kale huur betaal je ook... voor het onderhoud van de gedeelde ruimtes."
   },
@@ -237,12 +237,12 @@
       "Na de renovatie was de woning klaar voor <mark>bewoning</mark>."
     ],
     "options": [
-      "het te koop zetten van een woning",
-      "het bewonen of in gebruik nemen van een woning",
       "het renoveren van een gebouw",
-      "het verhuren van een woning aan anderen"
+      "het verhuren van een woning aan anderen",
+      "het te koop zetten van een woning",
+      "het bewonen of in gebruik nemen van een woning"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Bewoning' = het feit of de staat van bewonen — dat er mensen wonen. Van 'bewonen' = in wonen. 'Ongeschikt voor bewoning' = te gevaarlijk of slecht om in te wonen.",
     "hint": "Als mensen in een woning leven, is er sprake van..."
   },
@@ -256,12 +256,12 @@
       "Tijdens de <mark>renovatie</mark> woonden ze tijdelijk bij haar ouders."
     ],
     "options": [
-      "het slopen van een gebouw",
-      "het grootschalig vernieuwen of opknappen van een gebouw",
       "het verkopen van een woning",
-      "het kleine reparaties uitvoeren"
+      "het slopen van een gebouw",
+      "het kleine reparaties uitvoeren",
+      "het grootschalig vernieuwen of opknappen van een gebouw"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Renovatie' = het ingrijpend vernieuwen of opknappen van een gebouw. Van het Latijn 'renovatio'. Werkwoord: 'renoveren'.",
     "hint": "Het hele huis opknappen — nieuwe keuken, badkamer, dak — dat is een..."
   },
@@ -275,12 +275,12 @@
       "Als <mark>klusjesman</mark> kan hij aan de slag in de hele buurt."
     ],
     "options": [
+      "een makelaar die huizen verkoopt",
       "een architect die huizen ontwerpt",
       "iemand die kleine reparaties en klussen in en om het huis uitvoert",
-      "een aannemer die grote bouwprojecten leidt",
-      "een makelaar die huizen verkoopt"
+      "een aannemer die grote bouwprojecten leidt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Klusjesman' = iemand die handige kleine reparaties en klussen uitvoert. Van 'klusje' (kleine taak). Samengesteld van 'klus' + 'man'. Vrouwelijk: 'klusjesvrouw'.",
     "hint": "De kraan lekt, het slot is kapot. Je belt een..."
   }
