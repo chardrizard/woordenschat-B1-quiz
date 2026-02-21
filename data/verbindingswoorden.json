@@ -1,287 +1,287 @@
 [
   {
-    "word": "beoordelen",
-    "pos": "werkwoord",
+    "word": "omdat",
+    "pos": "voegwoord",
     "level": 1,
     "examples": [
-      "De docent <mark>beoordeelt</mark> de opdrachten op inhoud en stijl.",
-      "Hoe wordt dit vak <mark>beoordeeld</mark> — met een cijfer of voldoende/onvoldoende?",
-      "Hij werd streng <mark>beoordeeld</mark> voor zijn presentatie."
+      "Ze bleef thuis <mark>omdat</mark> ze ziek was.",
+      "Hij leerde hard <mark>omdat</mark> hij wilde slagen voor zijn examen.",
+      "<mark>Omdat</mark> het regende, gingen ze niet fietsen."
     ],
     "options": [
-      "een toets maken",
-      "een opdracht inleveren",
-      "iets uitleggen aan de klas",
-      "iets een oordeel geven, evalueren"
+      "geeft een tegenstelling aan",
+      "geeft een gevolg aan",
+      "geeft een reden of oorzaak aan",
+      "geeft een tijdstip aan"
     ],
-    "correct": 3,
-    "explanation": "'Beoordelen' betekent een oordeel vormen over iets of iemand. In schoolcontext: een cijfer of evaluatie geven. Zelfstandig naamwoord: 'beoordeling'.",
-    "hint": "Wat doet een docent als hij een werkstuk nakijkt en een cijfer geeft?"
+    "correct": 2,
+    "explanation": "'Omdat' = voegwoord dat een reden of oorzaak aangeeft. Na 'omdat' staat de persoonsvorm achteraan in de bijzin: 'omdat ze ziek wás'. Vraagwoord: 'waarom?'.",
+    "hint": "Waarom bleef ze thuis? Vraag naar de reden. Het antwoord begint met 'ze bleef thuis...' wat?"
   },
   {
-    "word": "rooster",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 1,
-    "examples": [
-      "Volgens mijn <mark>rooster</mark> heb ik dinsdag drie uur wiskunde.",
-      "Het nieuwe <mark>rooster</mark> voor volgend semester hangt op het prikbord.",
-      "Mijn <mark>rooster</mark> is deze week erg vol."
-    ],
-    "options": [
-      "een lijst van klasgenoten",
-      "een lijst van schoolregels",
-      "een overzicht van cijfers",
-      "een schema met lessen en tijden"
-    ],
-    "correct": 3,
-    "explanation": "'Rooster' (in schoolcontext) is het lesrooster: een schema dat aangeeft welke lessen er wanneer zijn. Ook gebruikt voor werktijden.",
-    "hint": "Je kijkt hierop om te zien wanneer welk vak is. Het is een schema."
-  },
-  {
-    "word": "slagen",
-    "pos": "werkwoord",
-    "level": 1,
-    "examples": [
-      "Ze <mark>slaagde</mark> voor haar eindexamen met een gemiddelde van 8,2.",
-      "Hij hoopt dit jaar te <mark>slagen</mark> voor zijn rijexamen.",
-      "Niet iedereen <mark>slaagt</mark> de eerste keer."
-    ],
-    "options": [
-      "een examen of toets met goed gevolg afleggen",
-      "zakken voor een examen",
-      "een vak kiezen",
-      "een diploma ontvangen"
-    ],
-    "correct": 0,
-    "explanation": "'Slagen' betekent een examen of toets halen. Tegendeel: 'zakken'. 'Geslaagd' gebruik je ook voor succes in het algemeen.",
-    "hint": "Het tegendeel van zakken. Je hebt het examen..."
-  },
-  {
-    "word": "stage",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "hoewel",
+    "pos": "voegwoord",
     "level": 2,
     "examples": [
-      "In het derde jaar loopt ze een <mark>stage</mark> bij een marketingbureau.",
-      "Tijdens zijn <mark>stage</mark> leerde hij veel praktische vaardigheden.",
-      "Een goede <mark>stage</mark> kan leiden tot een echte baan."
+      "<mark>Hoewel</mark> hij moe was, werkte hij door tot middernacht.",
+      "Ze kocht de jas, <mark>hoewel</mark> die erg duur was.",
+      "<mark>Hoewel</mark> het bewolkt was, gingen ze toch het strand op."
     ],
     "options": [
-      "een werkperiode als onderdeel van de opleiding",
-      "een extra cursus na schooltijd",
-      "een schooluitje of excursie",
-      "een tussentoets halverwege het jaar"
+      "geeft een voorwaarde aan",
+      "geeft een reden aan",
+      "geeft een tijd aan",
+      "geeft een tegenstelling of concessie aan"
     ],
-    "correct": 0,
-    "explanation": "'Stage' is een praktijkperiode waarbij studenten werkervaring opdoen als onderdeel van hun opleiding. Afgeleid van het Franse 'stage'.",
-    "hint": "Je gaat tijdelijk werken bij een bedrijf als onderdeel van je studie."
+    "correct": 3,
+    "explanation": "'Hoewel' = concessief voegwoord: iets is waar, maar het tegenovergestelde wordt ook gedaan of is ook waar. Synoniemen: 'ofschoon', 'al', 'ook al'.",
+    "hint": "Je verwacht dat iets niet doorgaat, maar toch gebeurt het. 'Moe, maar toch doorgaan' — dat verbind je met..."
   },
   {
-    "word": "herkansen",
-    "pos": "werkwoord",
-    "level": 2,
+    "word": "toch",
+    "pos": "bijwoord / voegwoord",
+    "level": 1,
     "examples": [
-      "Als je zakt, mag je het examen <mark>herkansen</mark>.",
-      "Ze had geluk: ze mocht haar toets <mark>herkansen</mark> na ziekte.",
-      "Niet iedereen krijgt de kans om te <mark>herkansen</mark>."
+      "Het regende, maar ze gingen <mark>toch</mark> wandelen.",
+      "Ik dacht dat hij niet zou komen, maar hij was er <mark>toch</mark>.",
+      "Je kunt het <mark>toch</mark> proberen — je verliest niets."
     ],
     "options": [
-      "een opdracht opnieuw inleveren",
-      "een toets of examen opnieuw afleggen",
-      "een toets voor de eerste keer maken",
-      "een vak kiezen"
+      "geeft aan dat iets niet mogelijk is",
+      "geeft aan dat iets ondanks verwachting of tegenwerking wél gebeurt",
+      "geeft een tijdsvolgorde aan",
+      "geeft een reden of oorzaak aan"
     ],
     "correct": 1,
-    "explanation": "'Herkansen' betekent een toets of examen opnieuw afleggen na een eerder mislukte poging. 'Her-' = opnieuw, 'kansen' van 'kans' = gelegenheid.",
-    "hint": "Je hebt de eerste keer niet gehaald. Nu mag je het nog eens proberen. Je..."
+    "explanation": "'Toch' = versterkend woord dat aangeeft dat iets ondanks een belemmering of verwachting wél zo is. Vergelijkbaar met 'toch nog', 'desondanks'.",
+    "hint": "Je verwachtte het niet, of er was een reden om het niet te doen — maar het gebeurde..."
   },
   {
-    "word": "begeleiding",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "word": "tijdens",
+    "pos": "voorzetsel",
+    "level": 1,
     "examples": [
-      "Hij krijgt extra <mark>begeleiding</mark> van een tutor voor wiskunde.",
-      "De studenten kregen <mark>begeleiding</mark> bij het schrijven van hun scriptie.",
-      "Goede <mark>begeleiding</mark> is belangrijk voor leerlingen met dyslexie."
+      "<mark>Tijdens</mark> de vergadering mochten ze hun telefoon niet gebruiken.",
+      "Hij viel in slaap <mark>tijdens</mark> de film.",
+      "<mark>Tijdens</mark> haar verblijf in Amsterdam bezocht ze alle musea."
     ],
     "options": [
-      "het beoordelen van een prestatie",
-      "het geven van een cijfer",
-      "zelfstandig werken aan een opdracht",
-      "hulp en ondersteuning bij leren of werken"
+      "geeft aan wat er op hetzelfde moment als iets anders gebeurt",
+      "geeft aan wat er voor een bepaald moment gebeurt",
+      "geeft aan hoe lang iets duurt",
+      "geeft aan wat er na een bepaald moment gebeurt"
     ],
-    "correct": 3,
-    "explanation": "'Begeleiding' is de hulp en ondersteuning die iemand krijgt bij een taak. Werkwoord: 'begeleiden'. Een begeleider helpt maar doet het niet over.",
-    "hint": "Iemand die naast je staat en je ondersteunt terwijl jij het zelf doet."
+    "correct": 0,
+    "explanation": "'Tijdens' = gelijktijdig met, in de periode van. Voorzetsel gevolgd door een zelfstandig naamwoord. Synoniem: 'gedurende', 'in de loop van'.",
+    "hint": "De actie en de andere gebeurtenis vinden op hetzelfde moment plaats. In de film = ... de film."
   },
   {
-    "word": "inschrijven",
-    "pos": "werkwoord · scheidbaar",
+    "word": "namelijk",
+    "pos": "bijwoord",
     "level": 2,
     "examples": [
-      "Je moet je <mark>inschrijven</mark> voor de cursus voor 1 september.",
-      "Ze schreef zich <mark>in</mark> voor drie vakken tegelijk.",
-      "Ben je al <mark>ingeschreven</mark> aan de universiteit?"
+      "Ik kan niet komen vanavond — ik ben <mark>namelijk</mark> ziek.",
+      "De prijs is hoog, en dat heeft een reden: het product is <mark>namelijk</mark> handgemaakt.",
+      "Ze is heel goed in haar werk, <mark>namelijk</mark> omdat ze elke dag oefent."
     ],
     "options": [
-      "een rapport ontvangen",
-      "een vak afronden",
-      "je officieel aanmelden voor een opleiding of vak",
-      "een tentamen afleggen"
+      "geeft een tijdsvolgorde aan",
+      "geeft een uitleg of reden voor het vorige aan",
+      "geeft een tegenstelling aan",
+      "geeft een gevolg aan van de vorige zin"
+    ],
+    "correct": 1,
+    "explanation": "'Namelijk' = woord dat een verklaring of reden geeft voor wat eerder is gezegd. Staat nooit aan het begin van een zin. Vergelijkbaar met 'want' maar staat later in de zin.",
+    "hint": "Je hebt net iets gezegd, en nu leg je uit waarom. 'Ik kom niet — ik ben... ziek.' Welk woord past hier?"
+  },
+  {
+    "word": "bovendien",
+    "pos": "bijwoord",
+    "level": 2,
+    "examples": [
+      "Het appartement is groot en mooi; <mark>bovendien</mark> is de huur betaalbaar.",
+      "Ze spreekt drie talen en is <mark>bovendien</mark> een uitstekende schrijver.",
+      "Het werk is interessant, en <mark>bovendien</mark> verdien je er goed aan."
+    ],
+    "options": [
+      "voegt een extra positief punt toe bovenop wat al is gezegd",
+      "geeft de reden aan van de vorige zin",
+      "geeft een voorwaarde aan",
+      "geeft een tegenstelling aan met wat eerder is gezegd"
+    ],
+    "correct": 0,
+    "explanation": "'Bovendien' = toevoeging die iets extra's aangeeft bovenop wat al is vermeld. Synoniem: 'daarnaast', 'ook nog'. Van 'boven' + 'dien' (dit).",
+    "hint": "Je hebt al een voordeel genoemd, en nu noem je nóg een voordeel. Je zegt..."
+  },
+  {
+    "word": "tenzij",
+    "pos": "voegwoord",
+    "level": 2,
+    "examples": [
+      "We gaan picknicken, <mark>tenzij</mark> het regent.",
+      "<mark>Tenzij</mark> je een betere oplossing hebt, doen we het op deze manier.",
+      "Ze komt zeker, <mark>tenzij</mark> er iets onverwachts gebeurt."
+    ],
+    "options": [
+      "geeft een uitzondering of voorwaarde aan waaronder iets niet doorgaat",
+      "geeft een reden aan",
+      "geeft een tegenstelling aan",
+      "geeft twee gelijke opties aan"
+    ],
+    "correct": 0,
+    "explanation": "'Tenzij' = behalve als, alleen niet als. Geeft de uitzondering aan waaronder iets anders geldt. Vergelijkbaar met 'als... niet'.",
+    "hint": "Het plan gaat door, maar er is één uitzondering. 'We gaan, ... het regent.' Welk woord past?"
+  },
+  {
+    "word": "waardoor",
+    "pos": "betrekkelijk bijwoord",
+    "level": 2,
+    "examples": [
+      "Hij sliep slecht, <mark>waardoor</mark> hij de volgende dag erg moe was.",
+      "Het systeem crashte, <mark>waardoor</mark> alle gegevens verloren gingen.",
+      "Ze trainde elke dag, <mark>waardoor</mark> haar prestaties sterk verbeterden."
+    ],
+    "options": [
+      "geeft een tegenstelling aan",
+      "geeft de reden aan van de vorige zin",
+      "geeft het gevolg aan van de vorige zin",
+      "geeft een tijdstip aan"
     ],
     "correct": 2,
-    "explanation": "'Inschrijven' betekent je officieel aanmelden voor een opleiding, cursus of vak. Scheidbaar: 'schrijf in', 'schreef in', 'ingeschreven'.",
-    "hint": "Wat doe je om officieel lid te worden van een opleiding of cursus?"
+    "explanation": "'Waardoor' = verbindingswoord dat het gevolg aangeeft. De eerste zin is de oorzaak, 'waardoor' verbindt met het gevolg. Synoniem: 'daardoor', 'waarmee'.",
+    "hint": "Oorzaak → gevolg. 'Hij sliep slecht, ... hij moe was.' Wat verbindt oorzaak met gevolg?"
   },
   {
-    "word": "nakijken",
-    "pos": "werkwoord · scheidbaar",
-    "level": 2,
-    "examples": [
-      "De docent <mark>keek</mark> de toetsen <mark>na</mark> en gaf iedereen een cijfer.",
-      "Heb je je huiswerk al <mark>nagekeken</mark> op fouten?",
-      "Het <mark>nakijken</mark> van 30 scripties kost veel tijd."
-    ],
-    "options": [
-      "een opdracht inleveren",
-      "een les voorbereiden",
-      "een toets plannen",
-      "antwoorden of werk controleren en beoordelen"
-    ],
-    "correct": 3,
-    "explanation": "'Nakijken' betekent iets controleren op fouten of beoordelen. Scheidbaar: 'kijk na', 'keek na', 'nagekeken'.",
-    "hint": "Wat doet een docent met toetsen nadat leerlingen ze hebben gemaakt?"
-  },
-  {
-    "word": "absentie",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "aldus",
+    "pos": "bijwoord",
     "level": 3,
     "examples": [
-      "Na drie dagen <mark>absentie</mark> vroeg de school om een doktersbrief.",
-      "Zijn hoge <mark>absentie</mark> beïnvloedde zijn cijfers negatief.",
-      "<mark>Absentie</mark> zonder melding wordt gezien als spijbelen."
+      "'Het is een kwestie van oefening', <mark>aldus</mark> de trainer.",
+      "<mark>Aldus</mark> werd besloten dat het project zou worden stopgezet.",
+      "De minister sprak: '<mark>Aldus</mark> zullen wij handelen.'"
     ],
     "options": [
-      "aanwezig zijn bij de les",
-      "te laat komen in de klas",
-      "afwezig zijn, niet op school zijn",
-      "een dag vrij vragen"
+      "geeft een tegenstelling aan",
+      "geeft een tijdstip aan",
+      "geeft een conclusie of samenvatting aan, of citeert iemand",
+      "geeft een reden aan"
     ],
     "correct": 2,
-    "explanation": "'Absentie' betekent afwezigheid. Van het Latijn 'absentia'. Het tegenovergestelde is 'aanwezigheid' of 'presentie'.",
-    "hint": "Je bent niet op school — je hebt..."
+    "explanation": "'Aldus' = formeel woord voor 'zo', 'op deze manier', of om een citaat toe te schrijven. Van het Latijn 'aldus'. Gebruikt in formele of literaire teksten.",
+    "hint": "Een formeel woord voor 'zo' of 'op deze manier'. Je ziet het vaak na een citaat: '...', ... de minister."
   },
   {
-    "word": "scriptie",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "desondanks",
+    "pos": "bijwoord",
+    "level": 3,
+    "examples": [
+      "Hij had weinig geslapen; <mark>desondanks</mark> presteerde hij uitstekend.",
+      "De omstandigheden waren moeilijk, maar <mark>desondanks</mark> gaven ze niet op.",
+      "Er waren grote bezwaren; <mark>desondanks</mark> werd het plan goedgekeurd."
+    ],
+    "options": [
+      "geeft een tijdsvolgorde aan",
+      "geeft een gevolg aan",
+      "geeft een reden aan voor het volgende",
+      "geeft aan dat iets ondanks een belemmering toch gebeurt"
+    ],
+    "correct": 3,
+    "explanation": "'Desondanks' = ondanks dat, toch. Formeler dan 'toch'. Van 'des' (door) + 'ondanks'. Synoniemen: 'toch', 'niettemin', 'ondanks dat'.",
+    "hint": "Er waren problemen, maar het ging toch door. Formeler dan 'toch'. Het woord is..."
+  },
+  {
+    "word": "mits",
+    "pos": "voegwoord",
+    "level": 3,
+    "examples": [
+      "Je mag gaan, <mark>mits</mark> je om tien uur thuis bent.",
+      "Het plan wordt goedgekeurd, <mark>mits</mark> er voldoende budget is.",
+      "Ze helpt je graag, <mark>mits</mark> je het zelf ook probeert."
+    ],
+    "options": [
+      "geeft een voorwaarde aan waaronder iets mag of kan",
+      "geeft een uitzondering aan",
+      "geeft een reden aan",
+      "geeft een tegenstelling aan"
+    ],
+    "correct": 0,
+    "explanation": "'Mits' = op voorwaarde dat, alleen als. Geeft een vereiste aan waaraan voldaan moet worden. Vergelijkbaar met 'als' maar sterker. Formeler dan 'als'.",
+    "hint": "Je stelt een eis. Het mag alleen als aan die eis is voldaan. 'Je mag, ... je om tien uur thuis bent.'"
+  },
+  {
+    "word": "doorgaans",
+    "pos": "bijwoord",
+    "level": 3,
+    "examples": [
+      "<mark>Doorgaans</mark> begint de les om negen uur, maar vandaag was het later.",
+      "Ze is <mark>doorgaans</mark> vroeg op de hoogte van het laatste nieuws.",
+      "<mark>Doorgaans</mark> zijn de prijzen in de zomer hoger."
+    ],
+    "options": [
+      "altijd, zonder uitzondering",
+      "soms, af en toe",
+      "in de meeste gevallen, gewoonlijk",
+      "nooit, in geen enkel geval"
+    ],
+    "correct": 2,
+    "explanation": "'Doorgaans' = gewoonlijk, in de meeste gevallen. Formeler dan 'meestal'. Van 'doorgaan' = normaal verlopen. Synoniemen: 'gewoonlijk', 'in de regel'.",
+    "hint": "Niet altijd, maar wel in de meeste gevallen. Formeler dan 'meestal'."
+  },
+  {
+    "word": "derhalve",
+    "pos": "bijwoord",
     "level": 4,
     "examples": [
-      "Voor zijn bachelor schreef hij een <mark>scriptie</mark> over klimaatverandering.",
-      "De <mark>scriptie</mark> moet minimaal 15.000 woorden bevatten.",
-      "Ze werkt al maanden aan haar <mark>scriptie</mark>."
+      "De kosten zijn te hoog; wij zullen de samenwerking <mark>derhalve</mark> beëindigen.",
+      "Hij heeft de deadline gemist en zal <mark>derhalve</mark> worden uitgesloten.",
+      "Het bewijs is onvoldoende; <mark>derhalve</mark> wordt de verdachte vrijgesproken."
     ],
     "options": [
-      "een opdracht die je wekelijks inlevert",
-      "een presentatie voor de klas",
-      "een uitgebreid onderzoeksverslag als afsluiting van een studie",
-      "een kort verslag van een les"
+      "geeft een conclusie of gevolg aan op formele toon",
+      "geeft een tijdstip aan",
+      "geeft een reden aan",
+      "geeft een tegenstelling aan"
+    ],
+    "correct": 0,
+    "explanation": "'Derhalve' = daarom, dus. Formeel en schrijftalig. Van het Latijn 'de re halve'. Gebruik je in juridische, academische of officiële teksten.",
+    "hint": "Een heel formeel woord voor 'daarom' of 'dus'. Je ziet het in rechtbankverslagen en officiële brieven."
+  },
+  {
+    "word": "evenals",
+    "pos": "voegwoord / voorzetsel",
+    "level": 4,
+    "examples": [
+      "<mark>Evenals</mark> zijn broer studeerde hij aan de Universiteit van Amsterdam.",
+      "De nieuwe wet geldt voor bedrijven, <mark>evenals</mark> voor zelfstandigen.",
+      "Zij werkte hard, <mark>evenals</mark> haar collega's."
+    ],
+    "options": [
+      "geeft een uitzondering aan",
+      "geeft een reden aan",
+      "geeft aan dat iets ook voor de genoemde persoon of zaak geldt",
+      "geeft een tegenstelling aan met de vorige zin"
     ],
     "correct": 2,
-    "explanation": "'Scriptie' is een uitgebreid onderzoeksverslag dat studenten schrijven als onderdeel van hun bachelor- of masteropleiding. Synoniem voor master: 'thesis'.",
-    "hint": "Een lang onderzoeksdocument dat je schrijft aan het einde van je studie."
+    "explanation": "'Evenals' = net als, ook. Geeft aan dat iets in gelijke mate van toepassing is. Formeler dan 'net als'. Van 'even' (gelijk) + 'als'.",
+    "hint": "Net als, ook. Maar formeler. 'Zij werkt hard, ... haar collega's.' Welk woord past?"
   },
   {
-    "word": "studiebeurs",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "word": "zowel...als",
+    "pos": "correlerende voegwoorden",
+    "level": 4,
     "examples": [
-      "Ze ontving een <mark>studiebeurs</mark> vanwege haar uitstekende cijfers.",
-      "Zonder <mark>studiebeurs</mark> had hij de opleiding nooit kunnen betalen.",
-      "De <mark>studiebeurs</mark> dekt de collegegelden en een deel van de woonkosten."
+      "<mark>Zowel</mark> kinderen <mark>als</mark> volwassenen kunnen meedoen aan het programma.",
+      "De maatregel geldt <mark>zowel</mark> voor werkgevers <mark>als</mark> voor werknemers.",
+      "Ze spreekt <mark>zowel</mark> Nederlands <mark>als</mark> Engels vloeiend."
     ],
     "options": [
-      "een lening die je na je studie terugbetaalt",
-      "financiële ondersteuning die je niet hoeft terug te betalen",
-      "een korting op de collegegelden",
-      "een vergoeding voor stages"
+      "geeft een tegenstelling aan tussen twee zaken",
+      "geeft een keuze aan tussen twee opties",
+      "geeft aan dat twee zaken allebei gelden",
+      "geeft aan dat geen van twee zaken geldt"
     ],
-    "correct": 1,
-    "explanation": "'Studiebeurs' = een geldbedrag dat aan studenten wordt gegeven — niet als lening. Samengesteld van 'studie' + 'beurs' (geldzak). Engels: 'scholarship' of 'grant'.",
-    "hint": "Geld dat je krijgt om te studeren en dat je niet hoeft terug te betalen. Dat is een..."
-  },
-  {
-    "word": "bijles",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "Ze neemt <mark>bijles</mark> wiskunde omdat ze het op school niet goed begrijpt.",
-      "De <mark>bijles</mark>leraar legde de stof rustig en duidelijk uit.",
-      "Na een paar maanden <mark>bijles</mark> gingen zijn cijfers sterk omhoog."
-    ],
-    "options": [
-      "een herhaling van de reguliere les",
-      "extra privéonderwijs buiten de reguliere lessen",
-      "een groepsoefening na schooltijd",
-      "een extra verplicht vak op school"
-    ],
-    "correct": 1,
-    "explanation": "'Bijles' = extra privéonderwijs voor een leerling die extra hulp nodig heeft. Van 'bij' (extra) + 'les'. Vergelijkbaar met 'tutoring' in het Engels.",
-    "hint": "Je haalt een extra leraar in de huis omdat je een vak niet begrijpt. Dat noem je..."
-  },
-  {
-    "word": "leerplicht",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "In Nederland geldt <mark>leerplicht</mark> vanaf vijf jaar tot zestien jaar.",
-      "Ouders die hun kinderen thuishouden, overtreden de <mark>leerplicht</mark>.",
-      "De <mark>leerplichtambtenaar</mark> controleert of alle kinderen naar school gaan."
-    ],
-    "options": [
-      "het recht om gratis onderwijs te volgen",
-      "de verplichting om een diploma te halen",
-      "de keuze om thuis les te krijgen",
-      "de wettelijke verplichting om naar school te gaan"
-    ],
-    "correct": 3,
-    "explanation": "'Leerplicht' = de wettelijke verplichting voor kinderen om onderwijs te volgen. Samengesteld van 'leren' + 'plicht'. Geldt in Nederland van 5 tot 16 jaar.",
-    "hint": "Kinderen zijn verplicht om naar school te gaan. Die verplichting heet de..."
-  },
-  {
-    "word": "cijfer",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 1,
-    "examples": [
-      "Ze kreeg een <mark>cijfer</mark> van 8,5 voor haar werkstuk.",
-      "In Nederland gaan <mark>cijfers</mark> van 1 tot 10.",
-      "Hij was blij met zijn <mark>cijfer</mark> voor het mondeling examen."
-    ],
-    "options": [
-      "een certificaat na het afronden van een vak",
-      "een getal dat een prestatie beoordeelt",
-      "een rangschikking in de klas",
-      "een schriftelijk commentaar van de docent"
-    ],
-    "correct": 1,
-    "explanation": "'Cijfer' = een getal dat de prestatie van een leerling weergeeft. In Nederland van 1 (slecht) tot 10 (uitstekend). Een 6 is het minimum om te slagen.",
-    "hint": "In Nederland beoordelen docenten met een getal van 1 tot 10. Dat getal heet een..."
-  },
-  {
-    "word": "tentamen",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 2,
-    "examples": [
-      "Ze studeerde drie dagen voor haar <mark>tentamen</mark> statistiek.",
-      "Het <mark>tentamen</mark> bestond uit 40 meerkeuzevragen.",
-      "Als je het <mark>tentamen</mark> niet haalt, mag je herkansen."
-    ],
-    "options": [
-      "een klein huiswerkopdracht",
-      "een formeel examen aan een universiteit of hogeschool",
-      "een tussentijdse beoordeling zonder cijfer",
-      "een mondeling gesprek met de docent"
-    ],
-    "correct": 1,
-    "explanation": "'Tentamen' = een formeel examen aan een hogeschool of universiteit. Van het Latijn 'tentamen' (poging). Op school heet het 'toets' of 'examen'.",
-    "hint": "Op de universiteit heet een examen geen 'toets' maar een..."
+    "correct": 2,
+    "explanation": "'Zowel...als' = correlatief voegwoord dat aangeeft dat beide zaken van toepassing zijn. Synoniem: 'én...én'. Tegendeel: 'noch...noch' (geen van beide).",
+    "hint": "Niet A of B — maar A én B. Beide gelden. 'Zowel kinderen... volwassenen mogen meedoen.'"
   }
 ]
