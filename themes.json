@@ -1,0 +1,42 @@
+[
+  {
+    "id": "reizen",
+    "label": "Reizen & Vervoer",
+    "description": "vliegtuig · trein · hotel · grens · bagage",
+    "emoji": "✈️",
+    "color": "#5B8CFF",
+    "wordCount": 10
+  },
+  {
+    "id": "school",
+    "label": "School & Onderwijs",
+    "description": "toets · cijfer · opdracht · docent · rooster",
+    "emoji": "📚",
+    "color": "#52B788",
+    "wordCount": 10
+  },
+  {
+    "id": "aardrijkskunde",
+    "label": "Aardrijkskunde",
+    "description": "hoofdstad · grens · klimaat · bevolking · rivier",
+    "emoji": "🌍",
+    "color": "#E09F3E",
+    "wordCount": 10
+  },
+  {
+    "id": "werk",
+    "label": "Werk & Carrière",
+    "description": "solliciteren · vergadering · functie · salaris · collega",
+    "emoji": "💼",
+    "color": "#B47FE8",
+    "wordCount": 10
+  },
+  {
+    "id": "gezondheid",
+    "label": "Gezondheid & Lichaam",
+    "description": "symptoom · medicijn · klacht · behandeling · herstel",
+    "emoji": "🏥",
+    "color": "#E87F7F",
+    "wordCount": 10
+  }
+]
