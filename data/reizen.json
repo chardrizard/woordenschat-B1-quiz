@@ -9,12 +9,12 @@
       "Voor een langer <mark>verblijf</mark> heb je een visum nodig."
     ],
     "options": [
+      "de terugreis naar huis",
       "het reizen naar een bestemming",
       "het ergens zijn of wonen voor een periode",
-      "een hotelkamer reserveren",
-      "de terugreis naar huis"
+      "een hotelkamer reserveren"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Verblijf' is de periode dat je ergens bent of tijdelijk woont. Werkwoord: 'verblijven'. Denk aan 'verblijfsvergunning' = toestemming om ergens te wonen.",
     "hint": "Niet de reis, maar de tijd die je doorbrengt op de bestemming."
   },
@@ -28,10 +28,10 @@
       "De trein reed naar zijn eindstation als <mark>bestemming</mark>."
     ],
     "options": [
-      "het vertrekpunt van een reis",
+      "de duur van de reis",
       "de plek waar je naartoe gaat",
-      "de reisplanning of het schema",
-      "de duur van de reis"
+      "het vertrekpunt van een reis",
+      "de reisplanning of het schema"
     ],
     "correct": 1,
     "explanation": "'Bestemming' is de plek waarheen je onderweg bent — je eindpunt. Van 'bestemmen' = bepalen waarvoor iets bedoeld is.",
@@ -47,12 +47,12 @@
       "Iedereen was al <mark>ingestapt</mark> toen de deuren sloten."
     ],
     "options": [
+      "je ticket laten zien",
       "je koffer inpakken",
       "een voertuig binnengaan",
-      "je ticket laten zien",
       "je stoel zoeken"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Instappen' betekent een voertuig (vliegtuig, trein, bus) binnengaan. Scheidbaar: 'stap in', 'stapte in', 'ingestapt'. Tegendeel: 'uitstappen'.",
     "hint": "Wat doe je als je aan boord gaat van een vliegtuig of trein?"
   },
@@ -66,10 +66,10 @@
       "Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."
     ],
     "options": [
-      "een boeking bevestigen",
+      "inchecken via de telefoon",
       "een reservering of vlucht officieel afzeggen",
       "je vlucht verzekeren",
-      "inchecken via de telefoon"
+      "een boeking bevestigen"
     ],
     "correct": 1,
     "explanation": "'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.",
@@ -85,12 +85,12 @@
       "Bij <mark>overstappen</mark> heb je soms maar twintig minuten."
     ],
     "options": [
-      "je bagage checken",
       "van vervoersmiddel wisselen tijdens een reis",
-      "inchecken op de luchthaven",
-      "een ticket omboeken"
+      "een ticket omboeken",
+      "je bagage checken",
+      "inchecken op de luchthaven"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.",
     "hint": "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
   },
@@ -104,10 +104,10 @@
       "Ze had niets aan te geven bij de <mark>douane</mark>."
     ],
     "options": [
-      "dienst die paspoorten controleert",
+      "beveiligingspersoneel op de luchthaven",
       "dienst die goederen en bagage controleert bij de grens",
-      "loket voor vliegtickets",
-      "beveiligingspersoneel op de luchthaven"
+      "dienst die paspoorten controleert",
+      "loket voor vliegtickets"
     ],
     "correct": 1,
     "explanation": "De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.",
@@ -124,11 +124,11 @@
     ],
     "options": [
       "koffer die je inchekt bij de balie",
-      "bagage die je zelf meeneemt in het vliegtuig",
+      "bagage die apart in het ruim wordt vervoerd",
       "tas die je opgeeft bij de balie",
-      "bagage die apart in het ruim wordt vervoerd"
+      "bagage die je zelf meeneemt in het vliegtuig"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.",
     "hint": "Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig."
   },
@@ -142,12 +142,12 @@
       "De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."
     ],
     "options": [
-      "korting op de basisprijs",
       "extra bedrag bovenop de basisprijs",
+      "korting op de basisprijs",
       "de totaalprijs van een ticket",
       "een terugbetaling"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.",
     "hint": "Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij."
   },
@@ -161,12 +161,12 @@
       "Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."
     ],
     "options": [
-      "een vliegticket",
       "officieel document waarmee je je identiteit bewijst en mag reizen",
       "een lijst van bezienswaardigheden",
-      "een reisverzekering"
+      "een reisverzekering",
+      "een vliegticket"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.",
     "hint": "Zonder dit mag je de grens niet over. Het bewijst wie je bent."
   },
@@ -180,12 +180,12 @@
       "We liepen snel door de <mark>vertrekhal</mark> richting gate B7."
     ],
     "options": [
-      "aankomsthal van een vliegveld",
-      "hal waar reizigers vertrekken",
       "wachtruimte bij het station",
-      "ruimte voor bagage ophalen"
+      "ruimte voor bagage ophalen",
+      "hal waar reizigers vertrekken",
+      "aankomsthal van een vliegveld"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.",
     "hint": "Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?"
   },
@@ -199,12 +199,12 @@
       "Na het <mark>inchecken</mark> gaf de baliemedewerker hem zijn boardingpass."
     ],
     "options": [
-      "je bagage ophalen na de vlucht",
       "je aanmelden voor een vlucht of hotel bij aankomst",
       "door de paspoortcontrole gaan",
+      "je bagage ophalen na de vlucht",
       "je ticket omboeken"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Inchecken' = je officieel aanmelden voor een vlucht of bij een hotel. Geleend uit het Engels 'check in'. Tegendeel bij hotel: 'uitchecken'.",
     "hint": "Wat doe je bij de balie of online voor je naar de gate gaat?"
   },
@@ -218,12 +218,12 @@
       "Het <mark>oponthoud</mark> was frustrerend, maar onvermijdelijk."
     ],
     "options": [
+      "een extra kosten voor de reis",
       "een geplande tussenstop tijdens een reis",
       "een onverwachte of ongewenste vertraging",
-      "een verlenging van de reis",
-      "een extra kosten voor de reis"
+      "een verlenging van de reis"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Oponthoud' = een onverwachte vertraging of het langer wachten dan gepland. Van 'op' + 'onthoud' (verblijf). Synoniem: 'vertraging'.",
     "hint": "Je was van plan door te reizen, maar iets houdt je tegen. Je hebt..."
   },
@@ -237,12 +237,12 @@
       "Een <mark>reisverzekering</mark> dekt ook annuleringskosten."
     ],
     "options": [
-      "een document dat je identiteit bewijst",
       "een verzekering die kosten dekt bij problemen tijdens een reis",
-      "een service om tickets goedkoper te boeken",
-      "een geldig visum voor het buitenland"
+      "een geldig visum voor het buitenland",
+      "een document dat je identiteit bewijst",
+      "een service om tickets goedkoper te boeken"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Reisverzekering' = een verzekering die kosten vergoedt bij ziekte, ongeval of annulering tijdens een reis. Samengesteld van 'reis' + 'verzekering'.",
     "hint": "Als je ziek wordt in het buitenland, betaalt dit de rekeningen. Het is een..."
   },
@@ -256,12 +256,12 @@
       "Voor <mark>doorvoer</mark> via sommige landen is toch een transitvisum vereist."
     ],
     "options": [
-      "het ophalen van bagage na een vlucht",
-      "het reizen door een land of luchthaven zonder er officieel in te reizen",
+      "het verlengen van een visum",
       "het overstappen naar een andere vliegtuigmaatschappij",
-      "het verlengen van een visum"
+      "het reizen door een land of luchthaven zonder er officieel in te reizen",
+      "het ophalen van bagage na een vlucht"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Doorvoer' = het passeren van een land of luchthaven zonder er in te reizen. Van 'door' + 'voer' (het voeren, vervoeren). Engels: 'transit'.",
     "hint": "Je vliegt via Amsterdam maar je reist niet naar Nederland. Je bent in..."
   },
@@ -275,12 +275,12 @@
       "Heb je al een tafel <mark>geboekt</mark> voor vanavond?"
     ],
     "options": [
-      "een reis of plek annuleren",
-      "een reis, kamer of plek officieel reserveren",
+      "informatie opzoeken over een bestemming",
       "betalen voor een ticket",
-      "informatie opzoeken over een bestemming"
+      "een reis of plek annuleren",
+      "een reis, kamer of plek officieel reserveren"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Boeken' = officieel reserveren van een vlucht, hotel of activiteit. Van 'boek' — vroeger schreef je reserveringen op in een boek. Zelfstandig naamwoord: 'boeking'.",
     "hint": "Voor je op reis gaat, moet je je vluchten en hotel..."
   }
