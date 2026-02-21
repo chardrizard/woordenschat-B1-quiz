@@ -1,287 +1,287 @@
 [
   {
-    "word": "verblijf",
+    "word": "beoordelen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "De docent <mark>beoordeelt</mark> de opdrachten op inhoud en stijl.",
+      "Hoe wordt dit vak <mark>beoordeeld</mark> — met een cijfer of voldoende/onvoldoende?",
+      "Hij werd streng <mark>beoordeeld</mark> voor zijn presentatie."
+    ],
+    "options": [
+      "een toets maken",
+      "een opdracht inleveren",
+      "iets uitleggen aan de klas",
+      "iets een oordeel geven, evalueren"
+    ],
+    "correct": 3,
+    "explanation": "'Beoordelen' betekent een oordeel vormen over iets of iemand. In schoolcontext: een cijfer of evaluatie geven. Zelfstandig naamwoord: 'beoordeling'.",
+    "hint": "Wat doet een docent als hij een werkstuk nakijkt en een cijfer geeft?"
+  },
+  {
+    "word": "rooster",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Haar <mark>verblijf</mark> in Amsterdam duurde drie weken.",
-      "Tijdens ons <mark>verblijf</mark> bezochten we alle musea in de stad.",
-      "Voor een langer <mark>verblijf</mark> heb je een visum nodig."
+      "Volgens mijn <mark>rooster</mark> heb ik dinsdag drie uur wiskunde.",
+      "Het nieuwe <mark>rooster</mark> voor volgend semester hangt op het prikbord.",
+      "Mijn <mark>rooster</mark> is deze week erg vol."
     ],
     "options": [
-      "de terugreis naar huis",
-      "het reizen naar een bestemming",
-      "het ergens zijn of wonen voor een periode",
-      "een hotelkamer reserveren"
+      "een lijst van klasgenoten",
+      "een lijst van schoolregels",
+      "een overzicht van cijfers",
+      "een schema met lessen en tijden"
     ],
-    "correct": 2,
-    "explanation": "'Verblijf' is de periode dat je ergens bent of tijdelijk woont. Werkwoord: 'verblijven'. Denk aan 'verblijfsvergunning' = toestemming om ergens te wonen.",
-    "hint": "Niet de reis, maar de tijd die je doorbrengt op de bestemming."
+    "correct": 3,
+    "explanation": "'Rooster' (in schoolcontext) is het lesrooster: een schema dat aangeeft welke lessen er wanneer zijn. Ook gebruikt voor werktijden.",
+    "hint": "Je kijkt hierop om te zien wanneer welk vak is. Het is een schema."
   },
   {
-    "word": "bestemming",
+    "word": "slagen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>slaagde</mark> voor haar eindexamen met een gemiddelde van 8,2.",
+      "Hij hoopt dit jaar te <mark>slagen</mark> voor zijn rijexamen.",
+      "Niet iedereen <mark>slaagt</mark> de eerste keer."
+    ],
+    "options": [
+      "een examen of toets met goed gevolg afleggen",
+      "zakken voor een examen",
+      "een vak kiezen",
+      "een diploma ontvangen"
+    ],
+    "correct": 0,
+    "explanation": "'Slagen' betekent een examen of toets halen. Tegendeel: 'zakken'. 'Geslaagd' gebruik je ook voor succes in het algemeen.",
+    "hint": "Het tegendeel van zakken. Je hebt het examen..."
+  },
+  {
+    "word": "stage",
     "pos": "zelfstandig naamwoord · de",
-    "level": 1,
+    "level": 2,
     "examples": [
-      "Lissabon was onze uiteindelijke <mark>bestemming</mark>.",
-      "Wat is de <mark>bestemming</mark> van je volgende reis?",
-      "De trein reed naar zijn eindstation als <mark>bestemming</mark>."
+      "In het derde jaar loopt ze een <mark>stage</mark> bij een marketingbureau.",
+      "Tijdens zijn <mark>stage</mark> leerde hij veel praktische vaardigheden.",
+      "Een goede <mark>stage</mark> kan leiden tot een echte baan."
     ],
     "options": [
-      "de duur van de reis",
-      "de plek waar je naartoe gaat",
-      "het vertrekpunt van een reis",
-      "de reisplanning of het schema"
+      "een werkperiode als onderdeel van de opleiding",
+      "een extra cursus na schooltijd",
+      "een schooluitje of excursie",
+      "een tussentoets halverwege het jaar"
     ],
-    "correct": 1,
-    "explanation": "'Bestemming' is de plek waarheen je onderweg bent — je eindpunt. Van 'bestemmen' = bepalen waarvoor iets bedoeld is.",
-    "hint": "Waar ga je naartoe? Dat is je...?"
+    "correct": 0,
+    "explanation": "'Stage' is een praktijkperiode waarbij studenten werkervaring opdoen als onderdeel van hun opleiding. Afgeleid van het Franse 'stage'.",
+    "hint": "Je gaat tijdelijk werken bij een bedrijf als onderdeel van je studie."
   },
   {
-    "word": "instappen",
-    "pos": "werkwoord · scheidbaar",
-    "level": 1,
-    "examples": [
-      "Passagiers met kleine kinderen mogen als eerste <mark>instappen</mark>.",
-      "Hij stapte vlak voor vertrek snel <mark>in</mark>.",
-      "Iedereen was al <mark>ingestapt</mark> toen de deuren sloten."
-    ],
-    "options": [
-      "je ticket laten zien",
-      "je koffer inpakken",
-      "een voertuig binnengaan",
-      "je stoel zoeken"
-    ],
-    "correct": 2,
-    "explanation": "'Instappen' betekent een voertuig (vliegtuig, trein, bus) binnengaan. Scheidbaar: 'stap in', 'stapte in', 'ingestapt'. Tegendeel: 'uitstappen'.",
-    "hint": "Wat doe je als je aan boord gaat van een vliegtuig of trein?"
-  },
-  {
-    "word": "annuleren",
+    "word": "herkansen",
     "pos": "werkwoord",
     "level": 2,
     "examples": [
-      "Door het slechte weer werd de vlucht <mark>geannuleerd</mark>.",
-      "Hij moest zijn reservering <mark>annuleren</mark> omdat hij ziek was.",
-      "Als je te laat <mark>annuleert</mark>, betaal je annuleringskosten."
+      "Als je zakt, mag je het examen <mark>herkansen</mark>.",
+      "Ze had geluk: ze mocht haar toets <mark>herkansen</mark> na ziekte.",
+      "Niet iedereen krijgt de kans om te <mark>herkansen</mark>."
     ],
     "options": [
-      "inchecken via de telefoon",
-      "een reservering of vlucht officieel afzeggen",
-      "je vlucht verzekeren",
-      "een boeking bevestigen"
+      "een opdracht opnieuw inleveren",
+      "een toets of examen opnieuw afleggen",
+      "een toets voor de eerste keer maken",
+      "een vak kiezen"
     ],
     "correct": 1,
-    "explanation": "'Annuleren' betekent een afspraak, reservering of vlucht officieel afzeggen. Uit het Frans: 'annuler'. Zelfstandig naamwoord: 'annulering'.",
-    "hint": "Je had iets geboekt, maar het gaat niet door. Je...?"
+    "explanation": "'Herkansen' betekent een toets of examen opnieuw afleggen na een eerder mislukte poging. 'Her-' = opnieuw, 'kansen' van 'kans' = gelegenheid.",
+    "hint": "Je hebt de eerste keer niet gehaald. Nu mag je het nog eens proberen. Je..."
   },
   {
-    "word": "overstappen",
+    "word": "begeleiding",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Hij krijgt extra <mark>begeleiding</mark> van een tutor voor wiskunde.",
+      "De studenten kregen <mark>begeleiding</mark> bij het schrijven van hun scriptie.",
+      "Goede <mark>begeleiding</mark> is belangrijk voor leerlingen met dyslexie."
+    ],
+    "options": [
+      "het beoordelen van een prestatie",
+      "het geven van een cijfer",
+      "zelfstandig werken aan een opdracht",
+      "hulp en ondersteuning bij leren of werken"
+    ],
+    "correct": 3,
+    "explanation": "'Begeleiding' is de hulp en ondersteuning die iemand krijgt bij een taak. Werkwoord: 'begeleiden'. Een begeleider helpt maar doet het niet over.",
+    "hint": "Iemand die naast je staat en je ondersteunt terwijl jij het zelf doet."
+  },
+  {
+    "word": "inschrijven",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
     "examples": [
-      "We moesten in Frankfurt <mark>overstappen</mark> voor onze vlucht naar Bangkok.",
-      "Hij stapte in Brussel <mark>over</mark> op een andere trein.",
-      "Bij <mark>overstappen</mark> heb je soms maar twintig minuten."
+      "Je moet je <mark>inschrijven</mark> voor de cursus voor 1 september.",
+      "Ze schreef zich <mark>in</mark> voor drie vakken tegelijk.",
+      "Ben je al <mark>ingeschreven</mark> aan de universiteit?"
     ],
     "options": [
-      "van vervoersmiddel wisselen tijdens een reis",
-      "een ticket omboeken",
-      "je bagage checken",
-      "inchecken op de luchthaven"
+      "een rapport ontvangen",
+      "een vak afronden",
+      "je officieel aanmelden voor een opleiding of vak",
+      "een tentamen afleggen"
     ],
-    "correct": 0,
-    "explanation": "'Overstappen' betekent tijdens een reis wisselen van vliegtuig, trein of bus. Scheidbaar: 'stap over', 'stapte over', 'overgestapt'.",
-    "hint": "Je bent al onderweg maar moet ergens tussenstop maken en een ander vervoer nemen."
+    "correct": 2,
+    "explanation": "'Inschrijven' betekent je officieel aanmelden voor een opleiding, cursus of vak. Scheidbaar: 'schrijf in', 'schreef in', 'ingeschreven'.",
+    "hint": "Wat doe je om officieel lid te worden van een opleiding of cursus?"
   },
   {
-    "word": "douane",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "nakijken",
+    "pos": "werkwoord · scheidbaar",
     "level": 2,
     "examples": [
-      "Bij de <mark>douane</mark> moest hij zijn koffer openmaken voor inspectie.",
-      "Sommige goederen mag je niet door de <mark>douane</mark> meenemen.",
-      "Ze had niets aan te geven bij de <mark>douane</mark>."
+      "De docent <mark>keek</mark> de toetsen <mark>na</mark> en gaf iedereen een cijfer.",
+      "Heb je je huiswerk al <mark>nagekeken</mark> op fouten?",
+      "Het <mark>nakijken</mark> van 30 scripties kost veel tijd."
     ],
     "options": [
-      "beveiligingspersoneel op de luchthaven",
-      "dienst die goederen en bagage controleert bij de grens",
-      "dienst die paspoorten controleert",
-      "loket voor vliegtickets"
-    ],
-    "correct": 1,
-    "explanation": "De douane is een overheidsinstelling die goederen en bagage controleert bij de grens. Ze controleren ook of er illegale of belastbare spullen worden ingevoerd.",
-    "hint": "De douane staat bij de grens. Ze kijken niet naar je gezicht, maar naar wat je bij je hebt."
-  },
-  {
-    "word": "handbagage",
-    "pos": "zelfstandig naamwoord · de/het",
-    "level": 2,
-    "examples": [
-      "Mijn <mark>handbagage</mark> paste precies in het bagagevak boven de stoel.",
-      "Vloeistoffen in <mark>handbagage</mark> mogen maximaal 100 ml zijn.",
-      "Ze nam alleen <mark>handbagage</mark> mee voor haar weekendreis."
-    ],
-    "options": [
-      "koffer die je inchekt bij de balie",
-      "bagage die apart in het ruim wordt vervoerd",
-      "tas die je opgeeft bij de balie",
-      "bagage die je zelf meeneemt in het vliegtuig"
+      "een opdracht inleveren",
+      "een les voorbereiden",
+      "een toets plannen",
+      "antwoorden of werk controleren en beoordelen"
     ],
     "correct": 3,
-    "explanation": "'Handbagage' is de bagage die je bij je hebt in het vliegtuig — niet de koffer die je inchekt. 'Hand' verwijst naar het dragen met de hand.",
-    "hint": "Dit type bagage gaat mee in de cabine, niet in het bagageruim van het vliegtuig."
+    "explanation": "'Nakijken' betekent iets controleren op fouten of beoordelen. Scheidbaar: 'kijk na', 'keek na', 'nagekeken'.",
+    "hint": "Wat doet een docent met toetsen nadat leerlingen ze hebben gemaakt?"
   },
   {
-    "word": "toeslag",
+    "word": "absentie",
     "pos": "zelfstandig naamwoord · de",
     "level": 3,
     "examples": [
-      "Voor een extra koffer betaal je een <mark>toeslag</mark> van 30 euro.",
-      "Er geldt een <mark>toeslag</mark> voor stoelen bij het raam.",
-      "De <mark>toeslag</mark> voor bagage staat apart vermeld op het ticket."
+      "Na drie dagen <mark>absentie</mark> vroeg de school om een doktersbrief.",
+      "Zijn hoge <mark>absentie</mark> beïnvloedde zijn cijfers negatief.",
+      "<mark>Absentie</mark> zonder melding wordt gezien als spijbelen."
     ],
     "options": [
-      "extra bedrag bovenop de basisprijs",
-      "korting op de basisprijs",
-      "de totaalprijs van een ticket",
-      "een terugbetaling"
+      "aanwezig zijn bij de les",
+      "te laat komen in de klas",
+      "afwezig zijn, niet op school zijn",
+      "een dag vrij vragen"
     ],
-    "correct": 0,
-    "explanation": "'Toeslag' is een extra bedrag dat je bovenop de basisprijs betaalt voor een extra dienst of optie. 'Toe' = extra, 'slag' = bedrag/heffing.",
-    "hint": "Je betaalt de normale prijs, maar dan ook nog dit extra bedrag erbij."
+    "correct": 2,
+    "explanation": "'Absentie' betekent afwezigheid. Van het Latijn 'absentia'. Het tegenovergestelde is 'aanwezigheid' of 'presentie'.",
+    "hint": "Je bent niet op school — je hebt..."
   },
   {
-    "word": "reisdocument",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 3,
-    "examples": [
-      "Een paspoort is het bekendste <mark>reisdocument</mark>.",
-      "Controleer altijd of je <mark>reisdocument</mark> nog geldig is voor vertrek.",
-      "Sommige landen accepteren een ID-kaart als <mark>reisdocument</mark>."
-    ],
-    "options": [
-      "officieel document waarmee je je identiteit bewijst en mag reizen",
-      "een lijst van bezienswaardigheden",
-      "een reisverzekering",
-      "een vliegticket"
-    ],
-    "correct": 0,
-    "explanation": "'Reisdocument' is een officieel document waarmee je je identiteit bewijst en mag reizen, zoals een paspoort of identiteitskaart.",
-    "hint": "Zonder dit mag je de grens niet over. Het bewijst wie je bent."
-  },
-  {
-    "word": "vertrekhal",
+    "word": "scriptie",
     "pos": "zelfstandig naamwoord · de",
     "level": 4,
     "examples": [
-      "De <mark>vertrekhal</mark> was vol met reizigers die hun vlucht afwachtten.",
-      "Je vindt de incheckbalies aan het begin van de <mark>vertrekhal</mark>.",
-      "We liepen snel door de <mark>vertrekhal</mark> richting gate B7."
+      "Voor zijn bachelor schreef hij een <mark>scriptie</mark> over klimaatverandering.",
+      "De <mark>scriptie</mark> moet minimaal 15.000 woorden bevatten.",
+      "Ze werkt al maanden aan haar <mark>scriptie</mark>."
     ],
     "options": [
-      "wachtruimte bij het station",
-      "ruimte voor bagage ophalen",
-      "hal waar reizigers vertrekken",
-      "aankomsthal van een vliegveld"
+      "een opdracht die je wekelijks inlevert",
+      "een presentatie voor de klas",
+      "een uitgebreid onderzoeksverslag als afsluiting van een studie",
+      "een kort verslag van een les"
     ],
     "correct": 2,
-    "explanation": "'Vertrekhal' is de hal van waaruit reizigers vertrekken. 'Vertrek' = het weggaan, 'hal' = grote ruimte. Het tegenovergestelde is de aankomsthal.",
-    "hint": "Split het woord: 'vertrek' + 'hal'. Waar gaan mensen die vertrekken naartoe?"
+    "explanation": "'Scriptie' is een uitgebreid onderzoeksverslag dat studenten schrijven als onderdeel van hun bachelor- of masteropleiding. Synoniem voor master: 'thesis'.",
+    "hint": "Een lang onderzoeksdocument dat je schrijft aan het einde van je studie."
   },
   {
-    "word": "inchecken",
-    "pos": "werkwoord",
-    "level": 1,
-    "examples": [
-      "Je kunt online <mark>inchecken</mark> tot 24 uur voor vertrek.",
-      "Bij de balie moest hij eerst <mark>inchecken</mark> voor de vlucht.",
-      "Na het <mark>inchecken</mark> gaf de baliemedewerker hem zijn boardingpass."
-    ],
-    "options": [
-      "je aanmelden voor een vlucht of hotel bij aankomst",
-      "door de paspoortcontrole gaan",
-      "je bagage ophalen na de vlucht",
-      "je ticket omboeken"
-    ],
-    "correct": 0,
-    "explanation": "'Inchecken' = je officieel aanmelden voor een vlucht of bij een hotel. Geleend uit het Engels 'check in'. Tegendeel bij hotel: 'uitchecken'.",
-    "hint": "Wat doe je bij de balie of online voor je naar de gate gaat?"
-  },
-  {
-    "word": "oponthoud",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 3,
-    "examples": [
-      "Door <mark>oponthoud</mark> op de luchthaven miste ze haar aansluitende vlucht.",
-      "We hadden een uur <mark>oponthoud</mark> in Parijs vanwege technische problemen.",
-      "Het <mark>oponthoud</mark> was frustrerend, maar onvermijdelijk."
-    ],
-    "options": [
-      "een extra kosten voor de reis",
-      "een geplande tussenstop tijdens een reis",
-      "een onverwachte of ongewenste vertraging",
-      "een verlenging van de reis"
-    ],
-    "correct": 2,
-    "explanation": "'Oponthoud' = een onverwachte vertraging of het langer wachten dan gepland. Van 'op' + 'onthoud' (verblijf). Synoniem: 'vertraging'.",
-    "hint": "Je was van plan door te reizen, maar iets houdt je tegen. Je hebt..."
-  },
-  {
-    "word": "reisverzekering",
+    "word": "studiebeurs",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Met een goede <mark>reisverzekering</mark> word je geholpen als je ziek wordt in het buitenland.",
-      "Ze vergat een <mark>reisverzekering</mark> af te sluiten en moest de ziekenhuiskosten zelf betalen.",
-      "Een <mark>reisverzekering</mark> dekt ook annuleringskosten."
+      "Ze ontving een <mark>studiebeurs</mark> vanwege haar uitstekende cijfers.",
+      "Zonder <mark>studiebeurs</mark> had hij de opleiding nooit kunnen betalen.",
+      "De <mark>studiebeurs</mark> dekt de collegegelden en een deel van de woonkosten."
     ],
     "options": [
-      "een verzekering die kosten dekt bij problemen tijdens een reis",
-      "een geldig visum voor het buitenland",
-      "een document dat je identiteit bewijst",
-      "een service om tickets goedkoper te boeken"
+      "een lening die je na je studie terugbetaalt",
+      "financiële ondersteuning die je niet hoeft terug te betalen",
+      "een korting op de collegegelden",
+      "een vergoeding voor stages"
     ],
-    "correct": 0,
-    "explanation": "'Reisverzekering' = een verzekering die kosten vergoedt bij ziekte, ongeval of annulering tijdens een reis. Samengesteld van 'reis' + 'verzekering'.",
-    "hint": "Als je ziek wordt in het buitenland, betaalt dit de rekeningen. Het is een..."
+    "correct": 1,
+    "explanation": "'Studiebeurs' = een geldbedrag dat aan studenten wordt gegeven — niet als lening. Samengesteld van 'studie' + 'beurs' (geldzak). Engels: 'scholarship' of 'grant'.",
+    "hint": "Geld dat je krijgt om te studeren en dat je niet hoeft terug te betalen. Dat is een..."
   },
   {
-    "word": "doorvoer",
+    "word": "bijles",
     "pos": "zelfstandig naamwoord · de",
-    "level": 4,
-    "examples": [
-      "De passagiers waren in <mark>doorvoer</mark> en hoefden geen visum aan te vragen.",
-      "Amsterdam Schiphol is een belangrijk <mark>doorvoer</mark>knooppunt in Europa.",
-      "Voor <mark>doorvoer</mark> via sommige landen is toch een transitvisum vereist."
-    ],
-    "options": [
-      "het verlengen van een visum",
-      "het overstappen naar een andere vliegtuigmaatschappij",
-      "het reizen door een land of luchthaven zonder er officieel in te reizen",
-      "het ophalen van bagage na een vlucht"
-    ],
-    "correct": 2,
-    "explanation": "'Doorvoer' = het passeren van een land of luchthaven zonder er in te reizen. Van 'door' + 'voer' (het voeren, vervoeren). Engels: 'transit'.",
-    "hint": "Je vliegt via Amsterdam maar je reist niet naar Nederland. Je bent in..."
-  },
-  {
-    "word": "boeken",
-    "pos": "werkwoord",
     "level": 1,
     "examples": [
-      "Ze <mark>boekte</mark> vroeg een hotel om de beste prijs te krijgen.",
-      "Hij <mark>boekte</mark> zijn vlucht online via een vergelijkingssite.",
-      "Heb je al een tafel <mark>geboekt</mark> voor vanavond?"
+      "Ze neemt <mark>bijles</mark> wiskunde omdat ze het op school niet goed begrijpt.",
+      "De <mark>bijles</mark>leraar legde de stof rustig en duidelijk uit.",
+      "Na een paar maanden <mark>bijles</mark> gingen zijn cijfers sterk omhoog."
     ],
     "options": [
-      "informatie opzoeken over een bestemming",
-      "betalen voor een ticket",
-      "een reis of plek annuleren",
-      "een reis, kamer of plek officieel reserveren"
+      "een herhaling van de reguliere les",
+      "extra privéonderwijs buiten de reguliere lessen",
+      "een groepsoefening na schooltijd",
+      "een extra verplicht vak op school"
+    ],
+    "correct": 1,
+    "explanation": "'Bijles' = extra privéonderwijs voor een leerling die extra hulp nodig heeft. Van 'bij' (extra) + 'les'. Vergelijkbaar met 'tutoring' in het Engels.",
+    "hint": "Je haalt een extra leraar in de huis omdat je een vak niet begrijpt. Dat noem je..."
+  },
+  {
+    "word": "leerplicht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "In Nederland geldt <mark>leerplicht</mark> vanaf vijf jaar tot zestien jaar.",
+      "Ouders die hun kinderen thuishouden, overtreden de <mark>leerplicht</mark>.",
+      "De <mark>leerplichtambtenaar</mark> controleert of alle kinderen naar school gaan."
+    ],
+    "options": [
+      "het recht om gratis onderwijs te volgen",
+      "de verplichting om een diploma te halen",
+      "de keuze om thuis les te krijgen",
+      "de wettelijke verplichting om naar school te gaan"
     ],
     "correct": 3,
-    "explanation": "'Boeken' = officieel reserveren van een vlucht, hotel of activiteit. Van 'boek' — vroeger schreef je reserveringen op in een boek. Zelfstandig naamwoord: 'boeking'.",
-    "hint": "Voor je op reis gaat, moet je je vluchten en hotel..."
+    "explanation": "'Leerplicht' = de wettelijke verplichting voor kinderen om onderwijs te volgen. Samengesteld van 'leren' + 'plicht'. Geldt in Nederland van 5 tot 16 jaar.",
+    "hint": "Kinderen zijn verplicht om naar school te gaan. Die verplichting heet de..."
+  },
+  {
+    "word": "cijfer",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze kreeg een <mark>cijfer</mark> van 8,5 voor haar werkstuk.",
+      "In Nederland gaan <mark>cijfers</mark> van 1 tot 10.",
+      "Hij was blij met zijn <mark>cijfer</mark> voor het mondeling examen."
+    ],
+    "options": [
+      "een certificaat na het afronden van een vak",
+      "een getal dat een prestatie beoordeelt",
+      "een rangschikking in de klas",
+      "een schriftelijk commentaar van de docent"
+    ],
+    "correct": 1,
+    "explanation": "'Cijfer' = een getal dat de prestatie van een leerling weergeeft. In Nederland van 1 (slecht) tot 10 (uitstekend). Een 6 is het minimum om te slagen.",
+    "hint": "In Nederland beoordelen docenten met een getal van 1 tot 10. Dat getal heet een..."
+  },
+  {
+    "word": "tentamen",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze studeerde drie dagen voor haar <mark>tentamen</mark> statistiek.",
+      "Het <mark>tentamen</mark> bestond uit 40 meerkeuzevragen.",
+      "Als je het <mark>tentamen</mark> niet haalt, mag je herkansen."
+    ],
+    "options": [
+      "een klein huiswerkopdracht",
+      "een formeel examen aan een universiteit of hogeschool",
+      "een tussentijdse beoordeling zonder cijfer",
+      "een mondeling gesprek met de docent"
+    ],
+    "correct": 1,
+    "explanation": "'Tentamen' = een formeel examen aan een hogeschool of universiteit. Van het Latijn 'tentamen' (poging). Op school heet het 'toets' of 'examen'.",
+    "hint": "Op de universiteit heet een examen geen 'toets' maar een..."
   }
 ]
