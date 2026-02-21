@@ -9,12 +9,12 @@
       "Dit is een <mark>groot</mark> probleem dat snel opgelost moet worden."
     ],
     "options": [
-      "klein van afmeting of omvang",
-      "met veel ruimte of omvang, niet klein",
       "zwaar in gewicht",
-      "ver weg gelegen"
+      "klein van afmeting of omvang",
+      "ver weg gelegen",
+      "met veel ruimte of omvang, niet klein"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Groot' = met een grote omvang of afmeting. Tegendeel: 'klein'. Ook figuurlijk: 'een groot probleem' = een ernstig probleem.",
     "hint": "Het tegendeel van klein. Een olifant is... een muis is klein."
   },
@@ -29,9 +29,9 @@
     ],
     "options": [
       "langzaam en voorzichtig",
-      "met veel kracht",
+      "stil en onopvallend",
       "in korte tijd, met hoge snelheid",
-      "stil en onopvallend"
+      "met veel kracht"
     ],
     "correct": 2,
     "explanation": "'Snel' = met hoge snelheid, in korte tijd. Tegendeel: 'langzaam'. Zelfstandig naamwoord: 'snelheid'.",
@@ -66,12 +66,12 @@
       "Dit vak staat bekend als <mark>zwaar</mark> en veeleisend."
     ],
     "options": [
-      "licht in gewicht, makkelijk te tillen",
       "veel wegende, of moeilijk en inspannend",
-      "gevaarlijk en risicovol",
-      "duur en kostbaar"
+      "duur en kostbaar",
+      "licht in gewicht, makkelijk te tillen",
+      "gevaarlijk en risicovol"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Zwaar' = veel wogend, of figuurlijk: moeilijk en veeleisend. Tegendeel: 'licht'. 'Een zware taak' = een moeilijke taak.",
     "hint": "Een steen is... Een veertje is licht. Ook een moeilijke dag kan... zijn."
   },
@@ -85,12 +85,12 @@
       "Wat een <mark>mooi</mark> verhaal — ik was helemaal geroerd."
     ],
     "options": [
-      "lelijk en onaantrekkelijk",
       "aangenaam voor het oog of gevoel, aantrekkelijk",
       "duur en exclusief",
+      "lelijk en onaantrekkelijk",
       "nieuw en ongebruikt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Mooi' = esthetisch aantrekkelijk, aangenaam. Tegendeel: 'lelijk'. Ook figuurlijk: 'een mooi gebaar' = iets vriendelijks doen.",
     "hint": "Een prachtige zonsondergang of een mooie schilderij is... Het tegendeel is lelijk."
   },
@@ -104,12 +104,12 @@
       "De zee was <mark>rustig</mark> en er waren geen golven."
     ],
     "options": [
-      "luidruchtig en druk",
       "zonder drukte, lawaai of onrust",
       "saai en oninteressant",
-      "traag en inefficiënt"
+      "traag en inefficiënt",
+      "luidruchtig en druk"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Rustig' = kalm, zonder drukte of lawaai. Tegendeel: 'druk' of 'lawaaierig'. Zelfstandig naamwoord: 'rust'.",
     "hint": "Een stille, kalme plek zonder drukte. Het tegendeel van druk en lawaaierig."
   },
@@ -123,12 +123,12 @@
       "Zijn <mark>scherpe</mark> verstand maakte hem een uitstekende advocaat."
     ],
     "options": [
-      "bot en niet snijdend",
       "met een puntige rand die snijdt, of bijdehand en precies",
+      "bot en niet snijdend",
       "helder en duidelijk zichtbaar",
       "pijnlijk en onaangenaam"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Scherp' = snijdend of puntig, ook figuurlijk: intelligent en precies. Tegendeel: 'bot'. 'Een scherp verstand' = een snel, analytisch denkvermogen.",
     "hint": "Een goed geslepen mes is... Het tegendeel is bot. Ook een slimme opmerking kan... zijn."
   },
@@ -143,11 +143,11 @@
     ],
     "options": [
       "ruw en oneffen van oppervlak",
-      "effen zonder hobbels, of te glad van tong",
       "nat en doorweekt",
+      "effen zonder hobbels, of te glad van tong",
       "koud en bevroren"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Glad' = effen, zonder hobbels. Ook figuurlijk: te vriendelijk en onbetrouwbaar — 'een gladde vent'. Tegendeel: 'ruw'.",
     "hint": "IJzel maakt de weg gevaarlijk... Een ruw oppervlak is het tegendeel."
   },
@@ -161,12 +161,12 @@
       "Het plan was nog <mark>vaag</mark> — er waren geen concrete stappen."
     ],
     "options": [
-      "heel duidelijk en precies omschreven",
       "onduidelijk, niet concreet of moeilijk te begrijpen",
-      "onwaar en misleidend",
-      "simpel en makkelijk te begrijpen"
+      "heel duidelijk en precies omschreven",
+      "simpel en makkelijk te begrijpen",
+      "onwaar en misleidend"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Vaag' = onduidelijk, niet concreet. Tegendeel: 'duidelijk' of 'concreet'. Ook: 'vaag kijken' = een afwezige blik hebben.",
     "hint": "Een uitleg die niemand begrijpt omdat er geen details in zitten, is..."
   },
@@ -180,10 +180,10 @@
       "Het bedrijf werkt aan een <mark>duurzamere</mark> productiewijze."
     ],
     "options": [
-      "goedkoop en makkelijk te vervangen",
+      "biologisch en naturlijk geteeld",
       "lang meegaand of milieuvriendelijk en toekomstbestendig",
       "modern en innovatief",
-      "biologisch en naturlijk geteeld"
+      "goedkoop en makkelijk te vervangen"
     ],
     "correct": 1,
     "explanation": "'Duurzaam' = lang meegaand, of milieuvriendelijk en toekomstbestendig. Van 'duren' = lang voortbestaan. Zelfstandig naamwoord: 'duurzaamheid'.",
@@ -199,10 +199,10 @@
       "Het ecosysteem is <mark>kwetsbaar</mark> voor veranderingen in het klimaat."
     ],
     "options": [
-      "sterk en goed beschermd",
+      "ziek en verzwakt",
       "gemakkelijk te beschadigen of te raken",
-      "onzeker en wisselvallig",
-      "ziek en verzwakt"
+      "sterk en goed beschermd",
+      "onzeker en wisselvallig"
     ],
     "correct": 1,
     "explanation": "'Kwetsbaar' = gemakkelijk te beschadigen, verwonden of raken — fysiek of emotioneel. Van 'kwetsen' = pijn doen. Zelfstandig naamwoord: 'kwetsbaarheid'.",
@@ -218,9 +218,9 @@
       "Ze heeft een <mark>aanzienlijke</mark> bijdrage geleverd aan het project."
     ],
     "options": [
-      "heel klein en nauwelijks merkbaar",
-      "groot en opmerkelijk, meer dan gemiddeld",
       "precies gelijk aan het gemiddelde",
+      "groot en opmerkelijk, meer dan gemiddeld",
+      "heel klein en nauwelijks merkbaar",
       "onverwacht en verrassend"
     ],
     "correct": 1,
@@ -237,10 +237,10 @@
       "De <mark>vluchtige</mark> geur van koffie deed hem aan thuis denken."
     ],
     "options": [
-      "langdurig en grondig",
+      "regelmatig terugkerend",
       "heel kort en snel voorbijgaand",
       "intens en overweldigend",
-      "regelmatig terugkerend"
+      "langdurig en grondig"
     ],
     "correct": 1,
     "explanation": "'Vluchtig' = snel voorbijgaand, oppervlakkig. Van 'vlucht'. Tegendeel: 'grondig' of 'langdurig'.",
@@ -256,12 +256,12 @@
       "Zijn <mark>subtiele</mark> humor was niet voor iedereen."
     ],
     "options": [
+      "zacht en stil",
       "luid en overduidelijk aanwezig",
-      "fijn en niet meteen opvallend, indirect",
       "ingewikkeld en moeilijk te begrijpen",
-      "zacht en stil"
+      "fijn en niet meteen opvallend, indirect"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Subtiel' = fijn, niet overduidelijk, vereist aandacht om op te merken. Van het Latijn 'subtilis'. Tegendeel: 'opvallend' of 'grof'.",
     "hint": "Iets wat er is maar niet meteen opvalt. Een klein, fijn verschil. Dat is..."
   },
@@ -275,12 +275,12 @@
       "Zijn <mark>eigenzinnige</mark> aanpak leverde verrassende resultaten op."
     ],
     "options": [
-      "gehoorzaam en volgzaam",
       "met een sterk eigen wil en mening, onafhankelijk denkend",
-      "verward en onzeker",
-      "creatief maar ongeorganiseerd"
+      "gehoorzaam en volgzaam",
+      "creatief maar ongeorganiseerd",
+      "verward en onzeker"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Eigenzinnig' = met een sterke eigen mening, die je niet snel laat beïnvloeden. Samengesteld van 'eigen' + 'zin' (wil, mening). Kan positief of negatief zijn.",
     "hint": "'Eigen' + 'zin'. Iemand die altijd zijn eigen wil volgt en zich niets aantrekt van anderen."
   }
