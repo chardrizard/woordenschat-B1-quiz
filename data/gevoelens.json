@@ -4,284 +4,1367 @@
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "Ze had <mark>angst</mark> voor honden na een bijtincident in haar jeugd.",
-      "De <mark>angst</mark> voor het onbekende houdt mensen soms tegen.",
-      "Hij voelde een golf van <mark>angst</mark> toen de lift bleef steken."
+      "Ze heeft een intense <mark>angst</mark> voor spinnen die haar leven beperkt.",
+      "De <mark>angst</mark> voor mislukking hield hem ervan af om het te proberen.",
+      "Er heerst <mark>angst</mark> in de bevolking na de aankondiging van bezuinigingen."
     ],
     "options": [
-      "een gevoel van rust en tevredenheid",
-      "een gevoel van blijdschap en opwinding",
-      "een gevoel van woede",
-      "een gevoel van dreiging of gevaar"
+      "een gevoel van intense blijdschap bij een positieve verrassing",
+      "een gevoel van woede dat ontstaat bij onrechtvaardigheid",
+      "een onaangenaam gevoel van onzekerheid en onbehagen bij dreigend gevaar",
+      "een gevoel van verdriet na het verlies van iets of iemand"
     ],
-    "correct": 3,
-    "explanation": "'Angst' = een onaangenaam gevoel van dreiging of gevaar, reëel of ingebeeld. Bijvoeglijk naamwoord: 'angstig'. Synoniem: 'vrees'.",
-    "hint": "Als je bang bent — voor spinnen, voor de donkere, voor de toekomst — voel je..."
+    "correct": 2,
+    "explanation": "'Angst' = een sterk onaangenaam gevoel bij dreigend gevaar of onzekerheid. Meervoud: 'angsten'. Synoniem: 'vrees', 'schrik'. Figuurlijk: 'angst aanjagen' = iemand bewust bang maken; 'met angst en beven' = met grote spanning.",
+    "hint": "Angst, woede en verdriet zijn drie negatieve basisemoties. Angst is specifiek de reactie op gevaar of dreiging. Wat onderscheidt het van verdriet?",
+    "collocations": [
+      "angst hebben voor",
+      "angst aanjagen",
+      "met angst en beven"
+    ]
   },
   {
-    "word": "verdriet",
+    "word": "bang",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is <mark>bang</mark> voor het donker en laat altijd een lampje aan.",
+      "Hij was <mark>bang</mark> dat hij te laat zou zijn voor de trein.",
+      "Wees niet <mark>bang</mark> om fouten te maken — dat is hoe je leert."
+    ],
+    "options": [
+      "een gevoel van angst of vrees voor iets of iemand",
+      "een gevoel van verwarring bij onduidelijke situaties",
+      "een gevoel van intense vreugde bij goed nieuws",
+      "een gevoel van woede door oneerlijke behandeling"
+    ],
+    "correct": 0,
+    "explanation": "'Bang' = angstig, bevreesd. Antonym: 'moedig', 'dapper'. Synoniem: 'angstig', 'bevreesd'. Figuurlijk: 'bang zijn dat' = vrezen dat iets negatiefs gebeurt; 'ergens bang voor zijn' = iets vrezen.",
+    "hint": "Bang en angst zijn nauw verwant: angst is het zelfstandig naamwoord, bang is het bijvoeglijk naamwoord. Wanneer gebruik je 'ik ben bang' versus 'ik heb angst'?",
+    "collocations": [
+      "bang zijn voor",
+      "bang dat",
+      "niet bang zijn om"
+    ]
+  },
+  {
+    "word": "belangstelling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze toonde grote <mark>belangstelling</mark> voor het project en stelde veel vragen.",
+      "Er was weinig <mark>belangstelling</mark> voor de lezing — slechts tien mensen kwamen.",
+      "Zijn <mark>belangstelling</mark> voor kunst groeide nadat hij Italië bezocht."
+    ],
+    "options": [
+      "een sterke afkeer van iets of iemand die men wil vermijden",
+      "een gevoel van trots op de prestaties van een ander persoon",
+      "een gevoel van nieuwsgierigheid en aandacht voor iets of iemand",
+      "een gevoel van verplichting om iets te doen voor een ander"
+    ],
+    "correct": 2,
+    "explanation": "'Belangstelling' = nieuwsgierigheid en aandacht voor iets. Synoniem: 'interesse', 'interesse'. Antonym: 'desinteresse'. Figuurlijk: 'belangstelling tonen' = actief interesse tonen; 'in de belangstelling staan' = veel aandacht krijgen.",
+    "hint": "Belangstelling en interesse zijn bijna synoniemen. Wat is het verschil tussen 'ik heb interesse' en 'ik toon belangstelling'?",
+    "collocations": [
+      "belangstelling tonen",
+      "in de belangstelling staan",
+      "grote belangstelling"
+    ]
+  },
+  {
+    "word": "besluit",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze nam het <mark>besluit</mark> om haar baan op te zeggen na lang nadenken.",
+      "Het <mark>besluit</mark> van de rechter viel in haar voordeel.",
+      "Aan het <mark>besluit</mark> van de vergadering werd een motie aangenomen."
+    ],
+    "options": [
+      "een wens of verlangen dat men graag wil realiseren",
+      "een definitieve keuze of uitspraak na afweging van opties",
+      "een plan dat nog niet definitief is vastgesteld maar overwogen wordt",
+      "een advies dat een expert geeft maar dat niet bindend is"
+    ],
+    "correct": 1,
+    "explanation": "'Besluit' = een definitieve keuze of officiële uitspraak. Meervoud: 'besluiten'. Werkwoord: 'besluiten'. Synoniem: 'beslissing', 'keuze'. Figuurlijk: 'een besluit nemen' = definitief kiezen; 'bij zijn besluit blijven' = niet van mening veranderen.",
+    "hint": "Besluit, plan en wens zijn allemaal intenties. Alleen het besluit is al definitief genomen. Wat maakt het finaler dan een plan?",
+    "collocations": [
+      "een besluit nemen",
+      "bij zijn besluit blijven",
+      "een officieel besluit"
+    ]
+  },
+  {
+    "word": "blij",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was zo <mark>blij</mark> met het nieuws dat ze begon te huilen van vreugde.",
+      "Hij is <mark>blij</mark> dat de vergadering is afgelast — hij had geen zin.",
+      "Wees <mark>blij</mark> met wat je hebt — niet iedereen heeft zoveel geluk."
+    ],
+    "options": [
+      "een gevoel van diepe vermoeidheid na lang werken",
+      "een gevoel van trots op eigen prestaties of die van een ander",
+      "een gevoel van ongemak door een onverwachte situatie",
+      "een gevoel van tevredenheid en vreugde over iets positiefs"
+    ],
+    "correct": 3,
+    "explanation": "'Blij' = gelukkig, verheugd. Synoniem: 'gelukkig', 'verheugd', 'vrolijk'. Antonym: 'verdrietig', 'treurig'. Figuurlijk: 'blij zijn met' = tevreden zijn met iets; 'blij verrast zijn' = aangenaam verrast.",
+    "hint": "Blij, gelukkig en vrolijk zijn positieve gemoedstoestanden. Blij beschrijft een specifieke reactie op iets goeds — wat is het verschil met 'gelukkig'?",
+    "collocations": [
+      "blij zijn met",
+      "blij verrast",
+      "blij dat"
+    ]
+  },
+  {
+    "word": "boos",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was <mark>boos</mark> op hem omdat hij zijn belofte niet was nagekomen.",
+      "De manager werd <mark>boos</mark> toen hij de fout zag in het rapport.",
+      "Wees niet <mark>boos</mark> — het was een vergissing, geen opzet."
+    ],
+    "options": [
+      "een gevoel van angst bij een dreigend gevaar",
+      "een gevoel van kwaadheid of woede op iemand of iets",
+      "een gevoel van vreugde bij onverwacht goed nieuws",
+      "een gevoel van verdriet door het missen van iemand"
+    ],
+    "correct": 1,
+    "explanation": "'Boos' = kwaad, geërgerd. Synoniem: 'kwaad', 'geërgerd', 'woedend' (sterker). Antonym: 'vriendelijk', 'kalm'. Figuurlijk: 'boos zijn op' = kwaad zijn op iemand; 'kwaad bloed zetten' = woede opwekken.",
+    "hint": "Boos, woedend en geïrriteerd zijn gradaties van hetzelfde gevoel. Boos is de neutrale term — welke is sterker?",
+    "collocations": [
+      "boos zijn op",
+      "boos worden",
+      "kwaad en boos"
+    ]
+  },
+  {
+    "word": "denken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>dacht</mark> lang na voordat ze antwoord gaf op de moeilijke vraag.",
+      "Ik <mark>denk</mark> dat hij gelijk heeft — maar ik ben er niet zeker van.",
+      "Daar moet ik eens goed over <mark>nadenken</mark> — het is een ingrijpende beslissing."
+    ],
+    "options": [
+      "iets uitspreken of communiceren aan een ander persoon",
+      "iets onthouden uit het verleden via het geheugen",
+      "iets waarnemen via de zintuigen zonder er actief over na te denken",
+      "cognitief verwerken, redeneren of een mening vormen"
+    ],
+    "correct": 3,
+    "explanation": "'Denken' = cognitief verwerken of een mening hebben. Verleden tijd: 'dacht', voltooid deelwoord: 'gedacht'. Synoniem: 'nadenken', 'redeneren', 'menen'. Figuurlijk: 'dat dacht ik ook' = ik had dezelfde gedachte; 'denken aan' = iemand in gedachten hebben.",
+    "hint": "Denken, voelen en weten zijn drie manieren om iets te verwerken. Denken is de cognitieve — wat is het verschil met 'weten'?",
+    "collocations": [
+      "nadenken over",
+      "ik denk dat",
+      "denken aan iemand"
+    ]
+  },
+  {
+    "word": "droom",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze had een levendige <mark>droom</mark> over vliegen boven wolken.",
+      "Zijn grootste <mark>droom</mark> is een eigen restaurant openen.",
+      "Het werd een <mark>droom</mark> die uitkwam — na jaren van hard werken."
+    ],
+    "options": [
+      "een herinnering uit het verleden die men koestert",
+      "beelden die men ervaart tijdens de slaap, of een vurig verlangen",
+      "een gevoel van nostalgie naar een periode die voorbij is",
+      "een concrete planning voor de komende weken of maanden"
+    ],
+    "correct": 1,
+    "explanation": "'Droom' = beelden tijdens de slaap, of een diep verlangen. Meervoud: 'dromen'. Werkwoord: 'dromen'. Synoniem: 'wens', 'ideaal'. Figuurlijk: 'een droom die uitkomt' = een langgekoesterd verlangen dat realiteit wordt.",
+    "hint": "Droom heeft een letterlijke (slaap) en figuurlijke (verlangen) betekenis. Wat is de gemeenschappelijke kern tussen de twee?",
+    "collocations": [
+      "een droom hebben",
+      "een droom die uitkomt",
+      "zijn droom najagen"
+    ]
+  },
+  {
+    "word": "eenzaam",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Na de verhuizing voelde ze zich <mark>eenzaam</mark> in de nieuwe stad.",
+      "Hij is <mark>eenzaam</mark> ondanks zijn grote vriendenkring — oppervlakkig contact volstaat niet.",
+      "Een <mark>eenzame</mark> wandeling door de winter mist inspireerde haar tot schrijven."
+    ],
+    "options": [
+      "een gevoel van tevredenheid met de eigen situatie",
+      "een gevoel van vrijheid dat ontstaat wanneer men zonder gezelschap is",
+      "een gevoel van isolatie en gemis aan echte verbinding met anderen",
+      "een gevoel van rust en vrede doordat men alleen is"
+    ],
+    "correct": 2,
+    "explanation": "'Eenzaam' = het gevoel van isolatie en gebrek aan verbinding. Synoniem: 'alleen', 'geïsoleerd'. Antonym: 'verbonden', 'gezellig'. Figuurlijk: 'een eenzame strijd voeren' = iets alleen doen zonder steun.",
+    "hint": "Eenzaam en alleen zijn zijn niet hetzelfde — je kunt alleen zijn zonder je eenzaam te voelen. Wat is het verschil?",
+    "collocations": [
+      "eenzaam voelen",
+      "een eenzame strijd",
+      "eenzaam zijn"
+    ]
+  },
+  {
+    "word": "eenzaamheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "<mark>Eenzaamheid</mark> is een groeiend maatschappelijk probleem, ook onder jongeren.",
+      "Ze ervoer diepe <mark>eenzaamheid</mark> na het overlijden van haar partner.",
+      "De <mark>eenzaamheid</mark> van het leven in een grote stad kan overweldigend zijn."
+    ],
+    "options": [
+      "de toestand van rust en stilte die men opzoekt voor herstel",
+      "de toestand van volledig tevreden zijn met de eigen situatie",
+      "de toestand van het gevoel van isolatie en gemis aan echte verbinding",
+      "de toestand van onafhankelijkheid van anderen in het dagelijks leven"
+    ],
+    "correct": 2,
+    "explanation": "'Eenzaamheid' = de toestand of het gevoel van isolatie. Altijd ontelbaar. Synoniem: 'isolement', 'vereenzaming'. Figuurlijk: 'in eenzaamheid leven' = afgezonderd van anderen leven.",
+    "hint": "Eenzaam is het bijvoeglijk naamwoord; eenzaamheid is het zelfstandig naamwoord. Wat is het verschil in gebruik: 'ik ben eenzaam' versus 'ik lijd aan eenzaamheid'?",
+    "collocations": [
+      "eenzaamheid bestrijden",
+      "in eenzaamheid leven",
+      "diep eenzaamheid"
+    ]
+  },
+  {
+    "word": "eer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "Het was een grote <mark>eer</mark> voor haar om de prijs te mogen ontvangen.",
+      "Hij verdedigde zijn <mark>eer</mark> met hart en ziel na de beschuldigingen.",
+      "Ze deed het uit <mark>eer</mark> en geweten — niet voor het geld."
+    ],
+    "options": [
+      "het aanzien en de waardigheid die men geniet of verdient",
+      "de officiële erkenning van de overheid voor bijzondere verdienste",
+      "de financiële beloning voor goed geleverd werk of een prestatie",
+      "het gevoel van tevredenheid na het voltooien van een taak"
+    ],
+    "correct": 0,
+    "explanation": "'Eer' = het aanzien, de waardigheid en het respect dat iemand geniet. Synoniem: 'eer betonen', 'eerbetoon'. Figuurlijk: 'uit eer en geweten' = naar beste eer en geweten handelen; 'iemand eer bewijzen' = iemand respect betonen.",
+    "hint": "Eer, respect en prestige zijn verwante begrippen. Eer heeft een sterkere morele lading — wat is het verschil met gewone erkenning?",
+    "collocations": [
+      "eer bewijzen",
+      "uit eer en geweten",
+      "voor zijn eer opkomen"
+    ]
+  },
+  {
+    "word": "geloof",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Haar <mark>geloof</mark> in God geeft haar kracht in moeilijke tijden.",
+      "Hij heeft een sterk <mark>geloof</mark> in de kracht van samenwerking.",
+      "Het <mark>geloof</mark> in de toekomst van het bedrijf is er nog steeds."
+    ],
+    "options": [
+      "de zekerheid die men heeft door directe waarneming of meting",
+      "het vertrouwen in of de overtuiging over iets zonder bewijs",
+      "de kennis die men heeft verworven door studie en ervaring",
+      "de mening die men vormt op basis van feiten en bewijzen"
+    ],
+    "correct": 1,
+    "explanation": "'Geloof' = het vertrouwen in iets zonder wetenschappelijk bewijs, of religieuze overtuiging. Synoniem: 'geloofsovertuiging', 'vertrouwen'. Figuurlijk: 'geloof hebben in' = vertrouwen hebben in; 'goed geloof' = oprecht geloven in iets.",
+    "hint": "Geloof, kennis en mening zijn drie manieren om iets te houden voor waar. Geloof onderscheidt zich doordat het niet op bewijs hoeft te steunen — wat is het?",
+    "collocations": [
+      "geloof in",
+      "zijn geloof verliezen",
+      "in goed geloof"
+    ]
+  },
+  {
+    "word": "geloven",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>gelooft</mark> sterk in de kracht van positief denken.",
+      "Ik <mark>geloof</mark> niet dat hij de waarheid spreekt — zijn verhaal klopt niet.",
+      "Hij <mark>gelooft</mark> in God en gaat elke zondag naar de kerk."
+    ],
+    "options": [
+      "iets met zekerheid weten op basis van directe waarneming",
+      "iets bewijzen met feiten en objectieve gegevens",
+      "iets voor waar houden op basis van vertrouwen of overtuiging",
+      "iets aannemen omdat iedereen in de omgeving het zegt"
+    ],
+    "correct": 2,
+    "explanation": "'Geloven' = iets voor waar houden op basis van vertrouwen. Verleden tijd: 'geloofde', voltooid deelwoord: 'geloofd'. Synoniem: 'vertrouwen', 'aannemen'. Figuurlijk: 'dat geloof ik niet' = ik heb twijfels over die bewering.",
+    "hint": "Geloven en weten zijn allebei manieren om iets voor waar te houden. Weten is zeker; geloven is...?",
+    "collocations": [
+      "geloven in",
+      "ik geloof niet dat",
+      "geloven op iemands woord"
+    ]
+  },
+  {
+    "word": "gelukkig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is <mark>gelukkig</mark> met haar leven — werk, liefde en vrienden kloppen.",
+      "<mark>Gelukkig</mark> arriveerde de ambulance op tijd.",
+      "Hij ziet er <mark>gelukkig</mark> uit na zijn vakantie — uitgerust en tevreden."
+    ],
+    "options": [
+      "een gevoel van trots op de eigen prestaties of die van anderen",
+      "een gevoel van diepe tevredenheid en welzijn, of toevallig gunstig",
+      "een gevoel van diepe vermoeidheid en behoefte aan rust",
+      "een gevoel van opwinding bij een nieuwe en spannende ervaring"
+    ],
+    "correct": 1,
+    "explanation": "'Gelukkig' = diep tevreden en in welzijn, of gelukkigerwijs. Als bijwoord: 'gelukkig' = gelukkigerwijs. Synoniem: 'blij', 'content'. Figuurlijk: 'gelukkig toeval' = een gunstig toeval.",
+    "hint": "Gelukkig heeft twee betekenissen: een emotionele toestand (ik ben gelukkig) en een bijwoord van gelukkige omstandigheid (gelukkig was er nog tijd). Welke twee zijn dat?",
+    "collocations": [
+      "gelukkig zijn",
+      "gelukkig toeval",
+      "gelukkig maar"
+    ]
+  },
+  {
+    "word": "geluk",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Na de dood van haar moeder was haar <mark>verdriet</mark> overweldigend.",
-      "Hij verborg zijn <mark>verdriet</mark> achter een glimlach.",
-      "De film was zo mooi dat ze <mark>verdriet</mark> voelde."
+      "Ze straalden van <mark>geluk</mark> op de dag van hun huwelijk.",
+      "Hij won de loterij — puur <mark>geluk</mark>, niet verdiend.",
+      "Veel <mark>geluk</mark> met je nieuwe baan — je verdient het!"
     ],
     "options": [
-      "teleurstelling over een fout",
-      "diepe droefheid, pijn of gemis",
-      "boosheid en frustratie",
-      "intense blijdschap en geluk"
+      "het gevoel van trots na het bereiken van een doel",
+      "diepe tevredenheid en welzijn, of gunstig toeval",
+      "de beloning die men ontvangt voor hard werken",
+      "een diep gevoel van verdriet dat lang aanhoudt"
     ],
     "correct": 1,
-    "explanation": "'Verdriet' = een diep gevoel van droefheid, pijn of gemis. Van 'verdrieten' = iemand leed bezorgen. Bijvoeglijk naamwoord: 'verdrietig'.",
-    "hint": "Als iemand overlijdt of iets ernstigs verliest, voel je..."
+    "explanation": "'Geluk' = diepe tevredenheid (emotie) of gunstig toeval (fortune). Ontelbaar. Synoniem: 'blijdschap', 'fortuin'. Figuurlijk: 'geluk hebben' = gunstig toeval; 'veel geluk' = goede wensen.",
+    "hint": "Geluk heeft twee betekenissen: een emotie (happiness) en een toeval (luck). 'Ze straalde van geluk' en 'hij had geluk bij de loterij' — welk verschil zit erin?",
+    "collocations": [
+      "veel geluk",
+      "geluk hebben",
+      "van geluk stralen"
+    ]
   },
   {
-    "word": "trots",
-    "pos": "zelfstandig naamwoord · de / bijvoeglijk naamwoord",
+    "word": "genieten",
+    "pos": "werkwoord",
     "level": 1,
     "examples": [
-      "Ze voelde <mark>trots</mark> toen haar kind voor het eerst liep.",
-      "De coach was <mark>trots</mark> op het team na de overwinning.",
-      "Nationale <mark>trots</mark> is een sterk gevoel bij grote sportevenementen."
+      "Ze <mark>geniet</mark> van elke minuut van haar vakantie aan de Italiaanse kust.",
+      "Hij <mark>geniet</mark> van een goed glas wijn bij het avondeten.",
+      "Ze <mark>geniet</mark> van groot aanzien in haar vakgebied na haar baanbrekende onderzoek."
     ],
     "options": [
-      "een gevoel van tevredenheid over eigen of andermans prestaties",
-      "een gevoel van jaloezie",
-      "een gevoel van schaamte en schuldgevoel",
-      "een gevoel van twijfel en onzekerheid"
+      "intens plezier of genoegen ervaren van iets, of iets bezitten",
+      "iets bewust opmerken zonder er verder bij stil te staan",
+      "iets tolereren of accepteren ondanks dat het niet prettig is",
+      "iets tijdelijk hebben zonder er eigenaar van te zijn"
     ],
     "correct": 0,
-    "explanation": "'Trots' = een gevoel van tevredenheid en voldoening over prestaties — van jezelf of anderen. Bijvoeglijk naamwoord: 'trots'. Werkwoord: 'trots zijn op'.",
-    "hint": "Als je kind zijn eerste stappen zet, ben je als ouder..."
+    "explanation": "'Genieten' = intens plezier ervaren, of iets bezitten/hebben. Verleden tijd: 'genoot', voltooid deelwoord: 'genoten'. Synoniem: 'plezier hebben van', 'smullen'. Figuurlijk: 'genieten van aanzien' = hoog aangeschreven staan.",
+    "hint": "Genieten heeft een emotionele (plezier ervaren) en een formele (bezitten van iets zoals aanzien) betekenis. Wat verbindt die twee?",
+    "collocations": [
+      "genieten van",
+      "volop genieten",
+      "geniet ervan"
+    ]
+  },
+  {
+    "word": "geest",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Een gezonde <mark>geest</mark> in een gezond lichaam — het klassieke ideaal.",
+      "De <mark>geest</mark> van de wet moet worden gevolgd, niet de letter.",
+      "Ze gelooft in <mark>geesten</mark> — ze denkt dat haar huis wordt bezocht door een overledene."
+    ],
+    "options": [
+      "de emotionele toestand van een persoon op een bepaald moment",
+      "de sociale identiteit van iemand in een gemeenschap",
+      "het fysieke brein dat zich in de schedel bevindt",
+      "het mentale of spirituele aspect van een persoon, of een spook"
+    ],
+    "correct": 3,
+    "explanation": "'Geest' = het mentale/spirituele aspect, de geest als tegenhanger van lichaam, of een spook. Meervoud: 'geesten'. Synoniem: 'ziel', 'psyche'. Figuurlijk: 'de geest van de wet' = de bedoeling achter een regel; 'de geest geven' = sterven of kapotgaan.",
+    "hint": "Geest, brein en ziel beschrijven het niet-lichamelijke deel van een mens. Wat maakt geest anders dan brein? En waarom spreek je over 'geesten' bij spoken?",
+    "collocations": [
+      "geest en lichaam",
+      "de geest geven",
+      "de geest van de wet"
+    ]
+  },
+  {
+    "word": "gedachte",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Er schoot haar een <mark>gedachte</mark> te binnen die alles veranderde.",
+      "De <mark>gedachte</mark> alleen al maakt haar zenuwachtig.",
+      "Hij deelde zijn <mark>gedachten</mark> over het project tijdens de vergadering."
+    ],
+    "options": [
+      "een plan dat men heeft uitgedacht voor de toekomst",
+      "een geheugenspoor van een ervaring uit het verleden",
+      "een gevoel dat men ervaart als reactie op een gebeurtenis",
+      "een idee of mentale inhoud die in het bewustzijn opkomt"
+    ],
+    "correct": 3,
+    "explanation": "'Gedachte' = een idee of mentale inhoud in het bewustzijn. Meervoud: 'gedachten'. Synoniem: 'idee', 'overweging'. Figuurlijk: 'bij de gedachte alleen al' = al het idee is genoeg; 'zijn gedachten laten gaan over' = nadenken over.",
+    "hint": "Gedachte, gevoel en herinnering zijn mentale inhouden. Een gedachte is het resultaat van denken. Wat is het verschil met een gevoel?",
+    "collocations": [
+      "een gedachte te binnen schieten",
+      "zijn gedachten delen",
+      "bij de gedachte alleen"
+    ]
+  },
+  {
+    "word": "gevoel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze had een vreemd <mark>gevoel</mark> dat er iets mis was.",
+      "Het <mark>gevoel</mark> van vrijheid overviel haar zodra ze de deur achter zich dichtdeed.",
+      "Hij heeft een goed <mark>gevoel</mark> voor timing in zijn presentaties."
+    ],
+    "options": [
+      "een emotionele of lichamelijke sensatie die men ervaart",
+      "een herinnering uit het verleden die men oproept",
+      "een bewuste gedachte die door redenering tot stand komt",
+      "een overtuiging die men heeft op basis van feiten en bewijs"
+    ],
+    "correct": 0,
+    "explanation": "'Gevoel' = een emotionele of lichamelijke sensatie. Meervoud: 'gevoelens'. Synoniem: 'emotie', 'sensatie'. Figuurlijk: 'gevoel voor humor' = vermogen om humor te appreciëren; 'een slecht gevoel over iets hebben' = intuïtief onzekerheid voelen.",
+    "hint": "Gevoel, gedachte en herinnering zijn drie mentale ervaringen. Een gevoel is de meest directe en lichamelijke — wat is het verschil met een gedachte?",
+    "collocations": [
+      "gevoel voor humor",
+      "een slecht gevoel",
+      "gevoelens uiten"
+    ]
+  },
+  {
+    "word": "haat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>haat</mark> in zijn ogen was zichtbaar toen hij haar zag.",
+      "<mark>Haat</mark> en liefde liggen soms gevaarlijk dicht bij elkaar.",
+      "Online <mark>haatberichten</mark> worden steeds vaker strafrechtelijk vervolgd."
+    ],
+    "options": [
+      "een gevoel van jaloezie wanneer anderen meer hebben dan jij",
+      "een gevoel van diepe teleurstelling na een mislukking",
+      "een gevoel van angst voor iemand die macht over jou heeft",
+      "een intens gevoel van afkeer en vijandigheid tegenover iemand of iets"
+    ],
+    "correct": 3,
+    "explanation": "'Haat' = een intens, vijandig gevoel van afkeer. Werkwoord: 'haten'. Antonym: 'liefde'. Synoniem: 'afkeer', 'vijandigheid'. Figuurlijk: 'haat zaaien' = vijandigheid aanwakkeren; 'haatliefde' = een relatie met zowel intense afkeer als aantrekking.",
+    "hint": "Haat en liefde zijn de twee uitersten van emotionele betrokkenheid. Haat is de negatieve pool — wat maakt het intenser dan gewone afkeer?",
+    "collocations": [
+      "haat zaaien",
+      "haatliefde",
+      "haat en liefde"
+    ]
+  },
+  {
+    "word": "herinneren",
+    "pos": "werkwoord · reflexief",
+    "level": 1,
+    "examples": [
+      "Ze <mark>herinnert</mark> zich elke detail van die bewuste dag.",
+      "Hij kon zich haar naam niet <mark>herinneren</mark> — zo lang geleden.",
+      "Dit liedje <mark>herinnert</mark> me aan mijn jeugd in Indonesië."
+    ],
+    "options": [
+      "iemand informeren over iets wat hij nog niet weet",
+      "iets uit het geheugen oproepen of zich bewust worden van iets uit het verleden",
+      "iets vastleggen voor de toekomst zodat het niet vergeten wordt",
+      "iets vergeten dat eerder wel bekend was"
+    ],
+    "correct": 1,
+    "explanation": "'Herinneren' = iets uit het geheugen oproepen. Reflexief: 'zich herinneren'. Synoniem: 'terugdenken aan', 'te binnen schieten'. Figuurlijk: 'iemand ergens aan herinneren' = iemand ergens op wijzen dat hij was vergeten.",
+    "hint": "Herinneren, vergeten en onthouden zijn geheugenprocessen. Herinneren is het actief terugvinden van iets dat eerder is opgeslagen. Wat is het verschil met onthouden?",
+    "collocations": [
+      "zich herinneren",
+      "herinneren aan",
+      "een herinnering ophalen"
+    ]
+  },
+  {
+    "word": "hoop",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze geeft de <mark>hoop</mark> niet op dat haar man terugkeert.",
+      "Er is nog <mark>hoop</mark> — de dokter zegt dat het behandelbaar is.",
+      "Hij leeft op <mark>hoop</mark> van zegen — zonder concreet plan."
+    ],
+    "options": [
+      "de zekerheid dat iets goed zal aflopen op basis van bewijs",
+      "het verlangen dat iets positiefs zal gebeuren, ondanks onzekerheid",
+      "de verwachting dat iets slecht zal aflopen op basis van ervaring",
+      "het vertrouwen in een andere persoon gebaseerd op bewezen betrouwbaarheid"
+    ],
+    "correct": 1,
+    "explanation": "'Hoop' = het verlangen en de verwachting dat iets goeds zal gebeuren. Werkwoord: 'hopen'. Antonym: 'wanhoop'. Synoniem: 'verwachting', 'optimisme'. Figuurlijk: 'hoop geven' = perspectief bieden; 'op hoop van zegen' = zonder garantie.",
+    "hint": "Hoop, zekerheid en wanhoop staan op een spectrum. Hoop ligt in het midden — je weet het niet zeker maar je verlangt het wel. Wat onderscheidt het van zekerheid?",
+    "collocations": [
+      "hoop geven",
+      "de hoop opgeven",
+      "op hoop van zegen"
+    ]
+  },
+  {
+    "word": "hopen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>hoopt</mark> dat het morgen droog blijft voor de barbecue.",
+      "Ik <mark>hoop</mark> dat je snel beter wordt — sterkte.",
+      "Hij <mark>hoopte</mark> op een promotie maar kreeg uiteindelijk niets."
+    ],
+    "options": [
+      "verlangen en verwachten dat iets positiefs zal plaatsvinden",
+      "weten dat iets zal gebeuren op basis van feiten",
+      "met zekerheid verwachten dat iets zal gebeuren",
+      "vrezen dat iets negatiefs zal plaatsvinden"
+    ],
+    "correct": 0,
+    "explanation": "'Hopen' = verlangen en verwachten dat iets goeds plaatsvindt. Verleden tijd: 'hoopte', voltooid deelwoord: 'gehoopt'. Antonym: 'vrezen'. Synoniem: 'wensen', 'verwachten'. Figuurlijk: 'hoopvol' = vol hoop en positieve verwachting.",
+    "hint": "Hopen, weten en vrezen zijn drie manieren om over de toekomst te denken. Hopen is positief maar onzeker — wat is het verschil met weten?",
+    "collocations": [
+      "hopen op",
+      "ik hoop dat",
+      "hoopvol zijn"
+    ]
+  },
+  {
+    "word": "huilen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>huilde</mark> van verdriet na het slechte nieuws.",
+      "De baby <mark>huilt</mark> al een uur — wat is er toch?",
+      "Hij <mark>huilde</mark> van het lachen om de grappige sketch."
+    ],
+    "options": [
+      "tranen produceren en snikken door emotie",
+      "zacht mompelen van ongenoegen zonder tranen",
+      "hard schreeuwen van woede of frustratie",
+      "luid lachen bij iets wat grappig is"
+    ],
+    "correct": 0,
+    "explanation": "'Huilen' = tranen produceren door emotie. Verleden tijd: 'huilde', voltooid deelwoord: 'gehuild'. Synoniem: 'wenen', 'snikken'. Figuurlijk: 'huilen van het lachen' = zo hard lachen dat er tranen komen; 'de huilende wolf' = iemand die overdreven klaagt.",
+    "hint": "Huilen en lachen zijn beide emotionele uitingen. Huilen gaat gepaard met tranen — maar 'huilen van het lachen' combineert beide. Wat is de kern?",
+    "collocations": [
+      "huilen van verdriet",
+      "huilen van het lachen",
+      "in huilen uitbarsten"
+    ]
+  },
+  {
+    "word": "jammer",
+    "pos": "bijvoeglijk naamwoord / uitroep",
+    "level": 1,
+    "examples": [
+      "<mark>Jammer</mark> dat je er niet bij kon zijn — je hebt wat gemist.",
+      "Het is <mark>jammer</mark> dat het project is mislukt na zoveel inzet.",
+      "<mark>Jammer</mark> genoeg was er geen tijd meer voor vragen."
+    ],
+    "options": [
+      "iets wat spijtig of betreurenswaardig is",
+      "iets wat onvermijdelijk en onontkoombaar is",
+      "iets wat onverwacht positief is uitgevallen",
+      "iets wat gevaarlijk of risicovol is"
+    ],
+    "correct": 0,
+    "explanation": "'Jammer' = spijtig, betreurenswaardig. Synoniem: 'spijtig', 'helaas'. Figuurlijk: 'jammer genoeg' = helaas; 'wat jammer' = uitroep van spijt.",
+    "hint": "Jammer, fijn en eng zijn beoordelingen van situaties. Jammer drukt spijt uit over iets wat niet goed is gegaan of niet kon. Wat is het synoniem?",
+    "collocations": [
+      "wat jammer",
+      "jammer genoeg",
+      "het is jammer dat"
+    ]
+  },
+  {
+    "word": "klagen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>klaagt</mark> altijd over haar werk maar doet er niets aan.",
+      "Hij <mark>klaagde</mark> bij de manager over de lawaaiige collega.",
+      "Niet <mark>klagen</mark> — gewoon doen!"
+    ],
+    "options": [
+      "iets positief beoordelen en er enthousiast over praten",
+      "anderen complimenteren en bedanken voor hun inzet",
+      "zijn ongenoegen of pijn uiten, al dan niet bij een bevoegde instantie",
+      "zijn mening geven over een onderwerp zonder emotie"
+    ],
+    "correct": 2,
+    "explanation": "'Klagen' = ongenoegen uiten of formeel een klacht indienen. Verleden tijd: 'klaagde', voltooid deelwoord: 'geklaagd'. Synoniem: 'mopperen', 'zeuren'. Figuurlijk: 'klagen bij' = een officiële klacht indienen; 'niet te klagen hebben' = het goed hebben.",
+    "hint": "Klagen heeft een informele (mopperen) en formele (een klacht indienen) betekenis. Wat is het verschil? En wat betekent 'niet te klagen'?",
+    "collocations": [
+      "klagen bij",
+      "niet te klagen hebben",
+      "altijd klagen"
+    ]
   },
   {
     "word": "liefde",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De <mark>liefde</mark> voor zijn kinderen gaf hem kracht.",
-      "Ze hadden na dertig jaar huwelijk nog steeds <mark>liefde</mark> voor elkaar.",
-      "Zijn <mark>liefde</mark> voor muziek begon al op jonge leeftijd."
+      "De <mark>liefde</mark> voor haar kinderen geeft haar kracht om door te gaan.",
+      "Hun <mark>liefde</mark> voor elkaar groeide door de jaren heen alleen maar sterker.",
+      "Ze doet het uit <mark>liefde</mark> voor het vak — niet voor het geld."
     ],
     "options": [
-      "een gevoel van verantwoordelijkheid",
-      "een gevoel van vriendschap",
-      "een diep gevoel van genegenheid, verbondenheid of passie",
-      "een gevoel van respect zonder emotie"
+      "een gevoel van jaloezie wanneer anderen gelukkiger zijn dan jij",
+      "een gevoel van respect en bewondering voor iemands prestaties",
+      "een gevoel van diepe afkeer en vijandigheid tegenover iemand",
+      "een intens gevoel van genegenheid, verbondenheid en toewijding"
     ],
-    "correct": 2,
-    "explanation": "'Liefde' = een diep gevoel van genegenheid, toewijding of passie — voor een persoon, dier of activiteit. Werkwoord: 'liefhebben' of 'houden van'.",
-    "hint": "Het diepste gevoel van verbondenheid. Ouders voelen het voor kinderen. Partners voor elkaar. Het heet..."
+    "correct": 3,
+    "explanation": "'Liefde' = intens gevoel van genegenheid en toewijding. Synoniem: 'genegenheid', 'affectie'. Antonym: 'haat'. Figuurlijk: 'liefde op het eerste gezicht' = direct verliefd worden; 'uit liefde voor het vak' = intrinsiek gemotiveerd zijn.",
+    "hint": "Liefde en haat zijn de twee emotionele uitersten. Liefde beschrijft intense genegenheid en verbondenheid — wat onderscheidt het van gewone vriendschap?",
+    "collocations": [
+      "liefde op het eerste gezicht",
+      "uit liefde voor het vak",
+      "liefde en vriendschap"
+    ]
   },
   {
-    "word": "jaloezie",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "lijden",
+    "pos": "werkwoord",
     "level": 2,
     "examples": [
-      "Ze voelde <mark>jaloezie</mark> toen haar zus een promotie kreeg.",
-      "Zijn <mark>jaloezie</mark> maakte hem onredelijk en achterdochtig.",
-      "Een beetje <mark>jaloezie</mark> is normaal, maar teveel is schadelijk."
+      "Ze <mark>lijdt</mark> aan ernstige depressie en volgt een therapie.",
+      "De kwaliteit van het werk <mark>lijdt</mark> onder de hoge werkdruk.",
+      "Hij <mark>leed</mark> hevig onder de scheiding van zijn kinderen."
     ],
     "options": [
-      "een gevoel van afgunst of begeerte naar wat een ander heeft",
-      "een gevoel van medeleven met iemand",
-      "een gevoel van tevredenheid met eigen bezit",
-      "een gevoel van bewondering voor iemand"
+      "pijn, verdriet of schade ondervinden door omstandigheden",
+      "actief problemen oplossen om moeilijkheden te overwinnen",
+      "intens genieten van een aangenaam gevoel of situatie",
+      "rustig accepteren wat niet veranderd kan worden"
     ],
     "correct": 0,
-    "explanation": "'Jaloezie' = een gevoel van afgunst of begeerte, gecombineerd met vrees het te verliezen. Bijvoeglijk naamwoord: 'jaloers'. Synoniem: 'afgunst', 'naijver'.",
-    "hint": "Als je wilt hebben wat een ander heeft, of bang bent iemand te verliezen, voel je..."
+    "explanation": "'Lijden' = pijn of schade ondervinden. Verleden tijd: 'leed', voltooid deelwoord: 'geleden'. Synoniem: 'pijn lijden', 'schade ondervinden'. Figuurlijk: 'onder iets lijden' = nadeel ondervinden; 'geleden hebben' = schade hebben geleden.",
+    "hint": "Lijden en genieten zijn elkaars tegengestelden. 'Lijden aan' en 'lijden onder' gebruiken beide het werkwoord — wat is het verschil?",
+    "collocations": [
+      "lijden aan",
+      "lijden onder",
+      "pijn lijden"
+    ]
   },
   {
-    "word": "opluchting",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "word": "merken",
+    "pos": "werkwoord",
+    "level": 1,
     "examples": [
-      "Ze voelde grote <mark>opluchting</mark> toen ze hoorde dat de operatie gelukt was.",
-      "Na het examen was de <mark>opluchting</mark> op alle gezichten te zien.",
-      "Met een zucht van <mark>opluchting</mark> legde hij de telefoon neer."
+      "Ze <mark>merkte</mark> dat hij gespannen was aan zijn toon.",
+      "Hij <mark>merkt</mark> niets van de veranderingen om hem heen.",
+      "Je <mark>merkt</mark> pas wat je had toen het weg is."
     ],
     "options": [
-      "een gevoel van trots na succes",
-      "het gevoel dat een druk of zorgen zijn weggenomen",
-      "een gevoel van teleurstelling",
-      "een gevoel van spanning en opwinding"
+      "iets onbewust waarnemen of gewaarworden zonder er bewust naar te kijken",
+      "iets meten en registreren met specifieke instrumenten",
+      "iets actief zoeken en bewust onderzoeken",
+      "iets communiceren aan een ander door het te benoemen"
+    ],
+    "correct": 0,
+    "explanation": "'Merken' = iets passief waarnemen of gewaarworden. Verleden tijd: 'merkte', voltooid deelwoord: 'gemerkt'. Synoniem: 'gewaarworden', 'opmerken'. Figuurlijk: 'laten merken' = je gevoel tonen; 'niets merken van' = volledig onbewust zijn van iets.",
+    "hint": "Merken, zien en zoeken zijn alle drie waarnemingsprocessen. Merken is passief — je let er niet bewust op maar het dringt toch door. Wat is het verschil met actief kijken?",
+    "collocations": [
+      "merken aan",
+      "laten merken",
+      "niets merken van"
+    ]
+  },
+  {
+    "word": "moeilijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De examenopgave was zo <mark>moeilijk</mark> dat de helft faalde.",
+      "Hij is een <mark>moeilijk</mark> persoon — altijd kritisch en veeleisend.",
+      "Ze had een <mark>moeilijke</mark> periode achter de rug na haar ontslag."
+    ],
+    "options": [
+      "eenvoudig te begrijpen of uit te voeren zonder veel inspanning",
+      "vereisend veel inspanning, kennis of doorzettingsvermogen",
+      "tijdrovend maar zonder intellectuele uitdaging",
+      "onmogelijk te bereiken of te begrijpen, zelfs met maximale inzet"
     ],
     "correct": 1,
-    "explanation": "'Opluchting' = het gevoel dat een spanning of zorg wegvalt. Van 'oplucht' (letterlijk: lucht er op). Werkwoord: 'opluchten'. 'Ik ben opgelucht' = ik voel opluchting.",
-    "hint": "Na een spannend moment dat goed afliep, adem je diep uit. Dat gevoel is..."
+    "explanation": "'Moeilijk' = vereisend veel inspanning of begrip. Antonym: 'makkelijk', 'eenvoudig'. Synoniem: 'lastig', 'ingewikkeld'. Figuurlijk: 'een moeilijk persoon' = iemand die lastig in de omgang is; 'moeilijk doen' = onnodig ingewikkeld gedrag vertonen.",
+    "hint": "Moeilijk, makkelijk en onmogelijk staan op een schaal van uitvoerbaarheid. Moeilijk kan nog — met inspanning. Wat is het verschil met onmogelijk?",
+    "collocations": [
+      "moeilijk doen",
+      "een moeilijke periode",
+      "moeilijk te begrijpen"
+    ]
   },
   {
-    "word": "twijfel",
+    "word": "moeilijkheid",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Ze had <mark>twijfels</mark> over haar beslissing om te verhuizen.",
-      "Zonder <mark>twijfel</mark> was dit de beste vakantie ooit.",
-      "Zijn <mark>twijfel</mark> groeide naarmate de deadline naderde."
+      "Ze stootte op onverwachte <mark>moeilijkheden</mark> bij de uitvoering van het plan.",
+      "De <mark>moeilijkheid</mark> zit hem in de details — die zijn complex.",
+      "Ze overwon alle <mark>moeilijkheden</mark> en slaagde uiteindelijk."
     ],
     "options": [
-      "onzekerheid of iets waar of goed is",
-      "angst voor een concreet gevaar",
-      "het nemen van een snelle beslissing",
-      "sterke overtuiging en zekerheid"
+      "een conflict tussen twee personen over een verschil van mening",
+      "een situatie die volledig onoplosbaar is en nooit verbetert",
+      "een hindernis, probleem of complicatie die inspanning vereist om te overwinnen",
+      "een taak die gemakkelijk is maar veel tijd in beslag neemt"
+    ],
+    "correct": 2,
+    "explanation": "'Moeilijkheid' = een hindernis of probleem. Meervoud: 'moeilijkheden'. Synoniem: 'probleem', 'hindernis'. Figuurlijk: 'in moeilijkheden raken' = in problemen komen; 'de moeilijkheid overwinnen' = een obstakel te boven komen.",
+    "hint": "Moeilijkheid is het zelfstandig naamwoord van moeilijk. Wat is het verschil in gebruik: 'het is moeilijk' versus 'het is een moeilijkheid'?",
+    "collocations": [
+      "in moeilijkheden raken",
+      "moeilijkheden overwinnen",
+      "de moeilijkheid zit hem in"
+    ]
+  },
+  {
+    "word": "menen",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>meent</mark> het serieus — dit is geen grap.",
+      "Ik <mark>meen</mark> dat we een andere aanpak moeten kiezen.",
+      "Hij <mark>meende</mark> haar te helpen maar maakte het juist erger."
+    ],
+    "options": [
+      "iets oprecht bedoelen of van mening zijn",
+      "iets zeggen zonder er zelf in te geloven",
+      "iets bewust overdrijven voor dramatisch effect",
+      "iets veronderstellen zonder er zeker van te zijn"
     ],
     "correct": 0,
-    "explanation": "'Twijfel' = onzekerheid over een beslissing of overtuiging. Werkwoord: 'twijfelen'. 'Buiten twijfel staan' = zeker zijn. Tegendeel: 'zekerheid'.",
-    "hint": "Als je niet zeker weet of iets goed is en je wikt en weegt, heb je..."
+    "explanation": "'Menen' = oprecht bedoelen of van mening zijn. Verleden tijd: 'meende', voltooid deelwoord: 'gemeend'. Synoniem: 'bedoelen', 'van mening zijn'. Figuurlijk: 'het gemeend hebben' = het oprecht bedoeld hebben; 'goed menen' = goede bedoelingen hebben.",
+    "hint": "Menen, zeggen en beweren zijn manieren om iets te uiten. Menen voegt ernst en oprechtheid toe — wat is het verschil met gewoon zeggen?",
+    "collocations": [
+      "het menen",
+      "goed menen",
+      "ik meen dat"
+    ]
   },
   {
-    "word": "frustratie",
+    "word": "noodzakelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Het is <mark>noodzakelijk</mark> dat je een geldig paspoort hebt voor de reis.",
+      "Samenwerking is <mark>noodzakelijk</mark> om dit probleem op te lossen.",
+      "Ze deed alleen wat <mark>noodzakelijk</mark> was — niet meer, niet minder."
+    ],
+    "options": [
+      "iets wat gewenst is maar waarvan het ontbreken geen gevolgen heeft",
+      "iets wat onmisbaar is en niet weggelaten kan worden",
+      "iets wat handig of prettig is maar ook zonder kan",
+      "iets wat verboden is en niet gedaan mag worden"
+    ],
+    "correct": 1,
+    "explanation": "'Noodzakelijk' = absoluut vereist, onmisbaar. Synoniem: 'vereist', 'essentieel', 'onmisbaar'. Antonym: 'optioneel', 'onnodig'. Figuurlijk: 'noodzakelijkerwijs' = onvermijdelijk; 'het hoogst noodzakelijke' = het absolute minimum.",
+    "hint": "Noodzakelijk, handig en optioneel staan op een schaal van vereiste. Noodzakelijk is het sterkste — wat is er zonder het noodzakelijke niet mogelijk?",
+    "collocations": [
+      "noodzakelijk zijn",
+      "het hoogst noodzakelijke",
+      "noodzakelijkerwijs"
+    ]
+  },
+  {
+    "word": "oordeel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze wil graag jouw <mark>oordeel</mark> horen over het nieuwe ontwerp.",
+      "De rechter velde een mild <mark>oordeel</mark> gezien de omstandigheden.",
+      "Stel je <mark>oordeel</mark> uit totdat je alle feiten kent."
+    ],
+    "options": [
+      "een gevoel dat men ervaart zonder er actief over na te denken",
+      "een vraag die men stelt om meer informatie te verkrijgen",
+      "een beoordeling of uitspraak na afweging van feiten en standpunten",
+      "een plan dat men heeft opgesteld voor een toekomstige actie"
+    ],
+    "correct": 2,
+    "explanation": "'Oordeel' = een beoordeling of uitspraak na afweging. Meervoud: 'oordelen'. Werkwoord: 'oordelen'. Synoniem: 'beoordeling', 'vonnis'. Figuurlijk: 'een oordeel vellen' = een definitief standpunt innemen; 'geen oordeel hebben' = neutraal staan.",
+    "hint": "Oordeel, mening en gevoel zijn drie manieren om een standpunt te hebben. Een oordeel impliceert afweging van feiten — wat maakt het formeler dan een mening?",
+    "collocations": [
+      "een oordeel vellen",
+      "je oordeel uitstellen",
+      "naar mijn oordeel"
+    ]
+  },
+  {
+    "word": "principe",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze weigerde mee te doen uit <mark>principe</mark> — het strookt niet met haar waarden.",
+      "Het <mark>principe</mark> van gelijke behandeling staat in de grondwet.",
+      "Hij is een man van sterke <mark>principes</mark> — hij wijkt nooit van zijn pad."
+    ],
+    "options": [
+      "een tijdelijke regel die geldt voor een specifieke situatie",
+      "een fundamentele overtuiging of regel die het gedrag stuurt",
+      "een gewoonte die men heeft aangenomen zonder er bewust voor te kiezen",
+      "een wettelijk voorschrift dat door de overheid is vastgesteld"
+    ],
+    "correct": 1,
+    "explanation": "'Principe' = een fundamentele overtuiging of basisregel. Meervoud: 'principes'. Synoniem: 'beginsel', 'grondbeginsel'. Figuurlijk: 'uit principe' = vanwege een fundamentele overtuiging; 'in principe' = in theorie, als basisregel.",
+    "hint": "Principe, regel en gewoonte zijn gedragsrichtlijnen. Een principe is het meest diepgeworteld — het komt voort uit waarden. Wat maakt het anders dan een gewone regel?",
+    "collocations": [
+      "uit principe",
+      "in principe",
+      "een man van principes"
+    ]
+  },
+  {
+    "word": "probleem",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze loste het <mark>probleem</mark> op door een andere aanpak te kiezen.",
+      "Dat is jouw <mark>probleem</mark> — ik kan je er niet mee helpen.",
+      "Het echte <mark>probleem</mark> zit dieper dan wat je aan de oppervlakte ziet."
+    ],
+    "options": [
+      "een situatie die perfect verloopt en geen aandacht vereist",
+      "een conflict tussen twee partijen dat juridisch wordt beslecht",
+      "een moeilijkheid of vraagstuk dat een oplossing vereist",
+      "een opdracht die gegeven wordt om vaardigheden te testen"
+    ],
+    "correct": 2,
+    "explanation": "'Probleem' = een moeilijkheid of vraagstuk. Meervoud: 'problemen'. Synoniem: 'kwestie', 'issue'. Figuurlijk: 'geen probleem' = uitdrukking van bereidwilligheid; 'een probleem aanpakken' = actief werken aan een oplossing.",
+    "hint": "Probleem, vraagstuk en uitdaging zijn verwante begrippen. Wat is het verschil in toon — welk woord is het meest neutraal?",
+    "collocations": [
+      "een probleem oplossen",
+      "geen probleem",
+      "het probleem aanpakken"
+    ]
+  },
+  {
+    "word": "respect",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze behandelt iedereen met <mark>respect</mark>, ongeacht zijn functie.",
+      "Hij verloor zijn <mark>respect</mark> voor de manager na diens oneerlijke gedrag.",
+      "Ik heb groot <mark>respect</mark> voor haar vastberadenheid."
+    ],
+    "options": [
+      "een gevoel van angst voor de macht of capaciteiten van een ander",
+      "een gevoel van vriendschap en genegenheid voor een bekende",
+      "een gevoel van jaloezie over het succes van een ander",
+      "een gevoel van waardering en erkenning voor iemands waarde of prestaties"
+    ],
+    "correct": 3,
+    "explanation": "'Respect' = het erkennen en waarderen van iemands waarde of capaciteiten. Ontelbaar. Synoniem: 'achting', 'eerbied'. Figuurlijk: 'respect afdwingen' = respect verdienen door optreden; 'met alle respect' = beleefde aarzeling voor kritiek.",
+    "hint": "Respect, bewondering en angst zijn reacties op anderen. Respect impliceert erkenning van waarde — wat is het verschil met bewondering?",
+    "collocations": [
+      "respect tonen",
+      "respect afdwingen",
+      "met alle respect"
+    ]
+  },
+  {
+    "word": "rustig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze woont in een <mark>rustige</mark> buurt aan de rand van de stad.",
+      "Blijf <mark>rustig</mark> — paniek helpt niemand.",
+      "Hij heeft een <mark>rustig</mark> karakter en raakt zelden van zijn stuk."
+    ],
+    "options": [
+      "gespannen en alert door een dreigende situatie",
+      "vol activiteit en beweging, druk en levendig",
+      "vermoeid en uitgeput door langdurige inspanning",
+      "kalm, stil en zonder onrust of spanning"
+    ],
+    "correct": 3,
+    "explanation": "'Rustig' = kalm, zonder onrust. Antonym: 'druk', 'onrustig'. Synoniem: 'kalm', 'sereen'. Figuurlijk: 'rustig aan doen' = het kalm aan doen; 'iets rustig afwachten' = geduldig wachten.",
+    "hint": "Rustig, druk en gespannen zijn gemoedstoestanden of sfeerkenmerken. Rustig staat tegenover druk — wat is de kern van het gevoel?",
+    "collocations": [
+      "rustig blijven",
+      "rustig aan doen",
+      "een rustige buurt"
+    ]
+  },
+  {
+    "word": "schrikken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>schrok</mark> van het harde geluid achter haar.",
+      "Hij <mark>schrok</mark> zich een ongeluk toen ze plotseling de deur opendeed.",
+      "Ze <mark>schrok</mark> van de prijs — dat was veel meer dan verwacht."
+    ],
+    "options": [
+      "plotseling en onverwacht een sterke schrikreactie ervaren",
+      "langzaam een gevoel van angst ontwikkelen door herhaalde negatieve ervaringen",
+      "bewust vermijden van iets dat men angstaanjagend vindt",
+      "rustig reageren op een onverwachte situatie zonder emotie"
+    ],
+    "correct": 0,
+    "explanation": "'Schrikken' = een plotselinge schrikreactie ervaren. Verleden tijd: 'schrok', voltooid deelwoord: 'geschrokken'. Synoniem: 'opschrikken', 'schrik krijgen'. Figuurlijk: 'zich een ongeluk schrikken' = heel erg schrikken.",
+    "hint": "Schrikken en angst zijn verwant maar schrikken is plotseling en momentaan. Angst kan langduriger zijn. Wat is het kenmerkende van een schrikreactie?",
+    "collocations": [
+      "schrikken van",
+      "zich een ongeluk schrikken",
+      "schrik krijgen"
+    ]
+  },
+  {
+    "word": "schuld",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "De voortdurende vertragingen leidden tot grote <mark>frustratie</mark> bij de passagiers.",
-      "Ze voelde <mark>frustratie</mark> omdat niemand naar haar luisterde.",
-      "Zijn <mark>frustratie</mark> uitte hij door hard met de deur te slaan."
+      "Ze voelt zich <mark>schuldig</mark> over wat er is gebeurd — ook al is het niet haar <mark>schuld</mark>.",
+      "Hij erkende zijn <mark>schuld</mark> voor de rechtbank.",
+      "Ze staat diep in de <mark>schulden</mark> na haar faillissement."
     ],
     "options": [
-      "een gevoel van tevredenheid als iets soepel verloopt",
-      "angst voor het onbekende",
-      "een diep verdriet om een verlies",
-      "een gevoel van irritatie als iets niet lukt of wordt tegengehouden"
+      "een gevoel van trots over een goede prestatie of keuze",
+      "de erkenning van een positieve bijdrage aan een groep of project",
+      "een gevoel van opluchting nadat een moeilijke situatie voorbij is",
+      "de verantwoordelijkheid voor een fout, of een financiële verplichting"
     ],
     "correct": 3,
-    "explanation": "'Frustratie' = het gevoel dat ontstaat als iets belemmerd wordt of niet lukt. Van het Latijn 'frustratio'. Werkwoord: 'frustreren'. Bijvoeglijk: 'gefrustreerd'.",
-    "hint": "Je probeert iets, maar het lukt steeds niet. De computer doet het niet. Je voelt..."
+    "explanation": "'Schuld' = morele verantwoordelijkheid voor een fout, of financiële schuld. Meervoud: 'schulden' (financieel). Synoniem: 'verantwoordelijkheid', 'aansprakelijkheid'. Figuurlijk: 'schuld bekennen' = verantwoordelijkheid erkennen; 'in de schulden zitten' = financiële schulden hebben.",
+    "hint": "Schuld heeft een morele (iets fout doen) en een financiële (geld schuldig zijn) betekenis. Wat verbindt die twee: iets zijn...?",
+    "collocations": [
+      "schuld bekennen",
+      "in de schulden zitten",
+      "de schuld op zich nemen"
+    ]
   },
   {
-    "word": "empathie",
+    "word": "smaak",
     "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "Een goede hulpverlener heeft veel <mark>empathie</mark> voor de mensen die ze helpt.",
-      "Kinderen leren <mark>empathie</mark> door te zien hoe anderen reageren op pijn.",
-      "Zonder <mark>empathie</mark> is het moeilijk om goede relaties te onderhouden."
+      "De soep heeft een rijke, volle <mark>smaak</mark> door de kruiden.",
+      "Ze heeft een uitstekende <mark>smaak</mark> in kleding — altijd stijlvol.",
+      "Dat is niet naar mijn <mark>smaak</mark> — ik hou niet van horror."
     ],
     "options": [
-      "het vermogen om anderen te manipuleren",
-      "het hebben van veel vrienden",
-      "het rationeel oplossen van conflicten",
-      "het vermogen om de gevoelens van anderen te begrijpen en te delen"
+      "de geur die men waarneemt via de neus bij het eten",
+      "uitsluitend de zintuiglijke gewaarwording van voedsel via de tong",
+      "de zintuiglijke gewaarwording van voedsel, of de esthetische voorkeur",
+      "de mening die men heeft over de kwaliteit van iets"
     ],
-    "correct": 3,
-    "explanation": "'Empathie' = het vermogen om mee te voelen met anderen, je in te leven in hun situatie. Van het Grieks 'empatheia'. Bijvoeglijk: 'empathisch'. Synoniem: 'inlevingsvermogen'.",
-    "hint": "Je kunt je in iemand anders inleven en hun gevoel begrijpen. Dat vermogen heet..."
+    "correct": 2,
+    "explanation": "'Smaak' = de smaakgewaarwording of de esthetische voorkeur. Meervoud: 'smaken'. Synoniem: 'smaakzin', 'voorkeur'. Figuurlijk: 'naar iemands smaak' = volgens iemands voorkeur; 'smaak voor iets ontwikkelen' = interesse ontwikkelen.",
+    "hint": "Smaak heeft een letterlijke (voedsel via de tong) en een figuurlijke (esthetische voorkeur) betekenis. Welke twee situaties gebruik je het woord in?",
+    "collocations": [
+      "naar iemands smaak",
+      "een goede smaak hebben",
+      "smaak ontwikkelen"
+    ]
+  },
+  {
+    "word": "somber",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze voelt zich <mark>somber</mark> op grijze, regenachtige winterdagen.",
+      "De <mark>sombere</mark> muziek paste perfect bij de stemmige film.",
+      "Hij kijkt <mark>somber</mark> naar de toekomst — het optimisme is weg."
+    ],
+    "options": [
+      "opgewekt en positief gestemd over de situatie of toekomst",
+      "vermoeid en uitgeput door een te volle agenda",
+      "neerslachtig, treurig of donker van sfeer",
+      "gespannen en zenuwachtig door druk of verwachting"
+    ],
+    "correct": 2,
+    "explanation": "'Somber' = neerslachtig, donker van sfeer of stemming. Synoniem: 'treurig', 'neerslachtig', 'depressief' (sterker). Antonym: 'vrolijk', 'opgewekt'. Figuurlijk: 'een somber beeld schetsen' = een pessimistische beschrijving geven.",
+    "hint": "Somber, vrolijk en rustig zijn gemoedstoestanden. Somber beschrijft een negatieve, neerslachtige toestand. Wat onderscheidt het van verdrietig?",
+    "collocations": [
+      "somber zijn",
+      "een somber beeld",
+      "sombere gedachten"
+    ]
+  },
+  {
+    "word": "spanning",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Er hing een gevoel van <mark>spanning</mark> in de lucht voor de wedstrijd.",
+      "Ze leeft op hoge <mark>spanning</mark> door de werkdruk van de afgelopen maanden.",
+      "De elektrische <mark>spanning</mark> in het net is 230 volt in Nederland."
+    ],
+    "options": [
+      "een gevoel van woede dat onder de oppervlakte smeult",
+      "een gevoel van opwinding en alertheid door onzekerheid of verwachting",
+      "een gevoel van verdriet dat langzaam opbouwt",
+      "een gevoel van absolute rust en ontspanning"
+    ],
+    "correct": 1,
+    "explanation": "'Spanning' = een gevoel van opwinding of alertheid bij onzekerheid, of elektrische spanning. Synoniem: 'opwinding', 'stress'. Figuurlijk: 'de spanning stijgt' = de situatie wordt steeds intensiever; 'op hoge spanning staan' = onder grote druk staan.",
+    "hint": "Spanning heeft een emotionele (anticipatie, stress) en technische (elektriciteit) betekenis. Wat verbindt de twee — denk aan wat ze allebei 'onder druk' beschrijven.",
+    "collocations": [
+      "de spanning stijgt",
+      "op hoge spanning",
+      "spanning en ontspanning"
+    ]
   },
   {
     "word": "teleurstelling",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Het verlies van de finale was een grote <mark>teleurstelling</mark> voor het team.",
-      "Ze probeerde haar <mark>teleurstelling</mark> te verbergen, maar haar ogen verrieden haar.",
-      "Na de <mark>teleurstelling</mark> nam ze zich voor om harder te werken."
+      "Het verlies was een grote <mark>teleurstelling</mark> na alle inspanningen.",
+      "Ze verborg haar <mark>teleurstelling</mark> achter een glimlach.",
+      "Hij was een <mark>teleurstelling</mark> voor zijn ouders — hij gaf zijn studie op."
     ],
     "options": [
-      "schaamte over eigen gedrag",
-      "vreugde over een onverwacht succes",
-      "boosheid over onrecht",
-      "het gevoel dat de werkelijkheid niet aan de verwachtingen voldoet"
-    ],
-    "correct": 3,
-    "explanation": "'Teleurstelling' = het gevoel als de werkelijkheid slechter uitpakt dan verwacht. Van 'teleurstellen' = iemand ontgoochelen. Bijvoeglijk naamwoord: 'teleurgesteld'.",
-    "hint": "Je hoopte op een goed resultaat, maar het was slecht. Je voelt een..."
-  },
-  {
-    "word": "wanhoop",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "In zijn <mark>wanhoop</mark> belde hij midden in de nacht zijn vriend.",
-      "De <mark>wanhoop</mark> op haar gezicht was pijnlijk om te zien.",
-      "Pas in <mark>wanhoop</mark> vroeg hij om hulp."
-    ],
-    "options": [
-      "een gevoel van hoop en verwachting",
-      "bezorgdheid over de toekomst",
-      "een gevoel van totale hopeloosheid en radeloosheid",
-      "een gevoel van lichte teleurstelling"
-    ],
-    "correct": 2,
-    "explanation": "'Wanhoop' = een gevoel van totale hopeloosheid. Samengesteld van 'wan-' (slecht, mis) + 'hoop'. Bijvoeglijk naamwoord: 'wanhopig'. Tegendeel: 'hoop'.",
-    "hint": "'Wan-' = slecht, negatief. 'Hoop' = verwachting. Als alle hoop weg is, voel je..."
-  },
-  {
-    "word": "berusting",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Na jaren van strijd aanvaardde ze de situatie met <mark>berusting</mark>.",
-      "Zijn toon was er een van <mark>berusting</mark> — hij had er vrede mee.",
-      "<mark>Berusting</mark> is niet hetzelfde als geluk, maar het geeft rust."
-    ],
-    "options": [
-      "actieve strijd tegen een moeilijke situatie",
-      "het aanvaarden van iets onveranderlijks met rust",
-      "het vermijden van een moeilijk probleem",
-      "teleurstelling over een gemiste kans"
-    ],
-    "correct": 1,
-    "explanation": "'Berusting' = het rustig aanvaarden van iets wat niet te veranderen is. Van 'berusten in' = accepteren. Niet passief opgeven, maar actief accepteren.",
-    "hint": "Als je iets niet kunt veranderen en je accepteert het met rust — dat gevoel heet..."
-  },
-  {
-    "word": "nostalgie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Oude muziek wekte een gevoel van <mark>nostalgie</mark> bij haar op.",
-      "Hij keek met <mark>nostalgie</mark> terug op zijn jeugd.",
-      "<mark>Nostalgie</mark> is het verlangen naar een vroeger die misschien mooier leek dan het was."
-    ],
-    "options": [
-      "een weemoedig verlangen naar een mooi verleden",
-      "vreugde over een herinnering",
-      "spijt over een fout uit het verleden",
-      "angst voor de toekomst"
+      "een gevoel van verdriet wanneer verwachtingen niet worden ingelost",
+      "een gevoel van verbazing wanneer iets onverwacht plaatsvindt",
+      "een gevoel van woede wanneer iemand je onrechtvaardig behandelt",
+      "een gevoel van blijdschap wanneer iets beter uitvalt dan verwacht"
     ],
     "correct": 0,
-    "explanation": "'Nostalgie' = een weemoedig gevoel van verlangen naar het verleden. Van het Grieks 'nostos' (thuiskomen) + 'algos' (pijn). Bijvoeglijk: 'nostalgisch'.",
-    "hint": "Een weemoedig gevoel als je terugdenkt aan vroeger en het terug wilt — dat is..."
+    "explanation": "'Teleurstelling' = het gevoel wanneer de werkelijkheid achterblijft bij de verwachting. Meervoud: 'teleurstellingen'. Werkwoord: 'teleurstellen'. Synoniem: 'ontgoocheling', 'deceptie'. Figuurlijk: 'een teleurstelling zijn' = niet aan verwachtingen voldoen.",
+    "hint": "Teleurstelling veronderstelt dat er een verwachting was. Zonder verwachting geen teleurstelling. Wat is de kern van dit gevoel?",
+    "collocations": [
+      "een teleurstelling zijn",
+      "teleurstelling verbergen",
+      "een grote teleurstelling"
+    ]
   },
   {
-    "word": "euforie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 4,
+    "word": "twijfelen",
+    "pos": "werkwoord",
+    "level": 1,
     "examples": [
-      "Na de overwinning was er pure <mark>euforie</mark> in het stadion.",
-      "De <mark>euforie</mark> na de bevrijding was onbeschrijfelijk.",
-      "Sommige medicijnen kunnen <mark>euforie</mark> veroorzaken."
+      "Ze <mark>twijfelt</mark> nog over de keuze — beide opties hebben voor- en nadelen.",
+      "Hij <mark>twijfelde</mark> aan zichzelf na de reeks mislukkingen.",
+      "Ik <mark>twijfel</mark> er niet aan dat ze de beste kandidaat is."
     ],
     "options": [
-      "een toestand van rust en kalmte",
-      "een gevoel van tevredenheid en rust",
-      "een gevoel van intense, overweldigende vreugde",
-      "een gevoel van diepe vermoeidheid"
+      "met volledige zekerheid een beslissing nemen zonder aarzeling",
+      "iets onderzoeken om zekerheid te verkrijgen over feiten",
+      "onzeker zijn en geen definitief oordeel of keuze kunnen maken",
+      "iemand anders overtuigen dat zijn standpunt onjuist is"
     ],
     "correct": 2,
-    "explanation": "'Euforie' = een intens gevoel van vreugde en geluk, sterker dan normaal. Van het Grieks 'euphoria'. Bijvoeglijk naamwoord: 'euforisch'.",
-    "hint": "Meer dan gewoon blij — een overweldigend gevoel van geluk en vreugde. Dat is..."
+    "explanation": "'Twijfelen' = onzeker zijn zonder definitief oordeel. Verleden tijd: 'twijfelde', voltooid deelwoord: 'getwijfeld'. Synoniem: 'aarzelen', 'wankelen'. Figuurlijk: 'twijfel zaaien' = onzekerheid creëren; 'zonder twijfel' = absoluut zeker.",
+    "hint": "Twijfelen, aarzelen en beslissen zijn drie stadia van keuze. Twijfelen is het stadium van onzekerheid — wat is het tegengestelde?",
+    "collocations": [
+      "twijfelen aan",
+      "twijfel zaaien",
+      "zonder twijfel"
+    ]
   },
   {
-    "word": "ambivalent",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "verbazen",
+    "pos": "werkwoord · reflexief",
+    "level": 2,
     "examples": [
-      "Ze had <mark>ambivalente</mark> gevoelens over de nieuwe baan — spannend maar ook eng.",
-      "Hij was <mark>ambivalent</mark> over het vertrek van zijn baas.",
-      "<mark>Ambivalentie</mark> is normaal bij grote veranderingen."
+      "Ze <mark>verbaasde</mark> iedereen met haar snelle herstel na de operatie.",
+      "Hij <mark>verbaast</mark> zich over de hoeveelheid eten die ze weggooit.",
+      "Het <mark>verbaasd</mark> me niet dat hij slaagde — hij werkte keihard."
     ],
     "options": [
-      "wisselend van mening zonder reden",
-      "heel zeker en overtuigd van iets",
-      "neutraal en onverschillig",
-      "tegenstrijdige gevoelens hebben over iets tegelijkertijd"
+      "bevestigen wat men al had verwacht",
+      "teleurstellen door onder de verwachting te blijven",
+      "verrassen of verbazen door iets onverwachts",
+      "geleidelijk wennen aan een onverwachte situatie"
+    ],
+    "correct": 2,
+    "explanation": "'Verbazen' = verrassen of verbazing opwekken. Reflexief: 'zich verbazen over'. Verleden tijd: 'verbaasde', voltooid deelwoord: 'verbaasd'. Synoniem: 'verrassen', 'versteld doen staan'. Figuurlijk: 'verbaasd staan' = diep verwonderd zijn.",
+    "hint": "Verbazen, teleurstellen en bevestigen zijn reacties op verwachtingen. Verbazen treedt op als de werkelijkheid de verwachting overschrijdt — positief of negatief. Wat is het verschil met teleurstellen?",
+    "collocations": [
+      "zich verbazen over",
+      "verbaasd staan",
+      "het verbaast me niet"
+    ]
+  },
+  {
+    "word": "verdrietig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was <mark>verdrietig</mark> om het overlijden van haar kat.",
+      "Hij keek haar <mark>verdrietig</mark> aan en zei niets.",
+      "Het is een <mark>verdrietig</mark> verhaal — iedereen in de zaal had tranen in de ogen."
+    ],
+    "options": [
+      "opgewekt en blij door iets wat goed is verlopen",
+      "gespannen en onrustig door onzekerheid over de toekomst",
+      "boos en geïrriteerd door oneerlijke behandeling",
+      "bedroefd en vol verdriet door verlies of tegenslagen"
     ],
     "correct": 3,
-    "explanation": "'Ambivalent' = twee tegenstrijdige gevoelens of meningen tegelijkertijd hebben. Van het Latijn 'ambi' (beide) + 'valere' (waard zijn). Zelfstandig naamwoord: 'ambivalentie'.",
-    "hint": "Blij én bang tegelijk. Enthousiast én terughoudend. Dat noem je..."
+    "explanation": "'Verdrietig' = bedroefd, vol verdriet. Synoniem: 'bedroefd', 'treurig'. Antonym: 'blij', 'vrolijk'. Figuurlijk: 'verdrietig nieuws' = droevige mededeling; 'verdrietig stemmen' = iemand bedroefd maken.",
+    "hint": "Verdrietig, somber en boos zijn negatieve gemoedstoestanden. Verdrietig is de reactie op verlies of tegenslagen. Wat onderscheidt het van somber?",
+    "collocations": [
+      "verdrietig zijn om",
+      "verdrietig nieuws",
+      "verdrietig stemmen"
+    ]
+  },
+  {
+    "word": "vermoeden",
+    "pos": "werkwoord / zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze <mark>vermoedt</mark> dat hij niet de hele waarheid vertelt.",
+      "Hij had een sterk <mark>vermoeden</mark> dat er iets mis was.",
+      "Het <mark>vermoeden</mark> werd bevestigd door de testresultaten."
+    ],
+    "options": [
+      "iets met volledige zekerheid weten op basis van bewijs",
+      "iets volledig uitsluiten op basis van logische redenering",
+      "iets actief onderzoeken om tot de waarheid te komen",
+      "iets aannemen of veronderstellen zonder het zeker te weten"
+    ],
+    "correct": 3,
+    "explanation": "'Vermoeden' = aannemen zonder zekerheid (werkwoord), of een veronderstelling (zelfstandig naamwoord). Synoniem: 'veronderstellen', 'aannemen'. Figuurlijk: 'naar mijn vermoeden' = naar mijn inschatting; 'een sterk vermoeden hebben' = bijna zeker zijn.",
+    "hint": "Vermoeden, weten en twijfelen zijn drie gradaties van zekerheid. Vermoeden zit tussen twijfelen en weten — je denkt het waarschijnlijk maar bent niet zeker. Klopt dat?",
+    "collocations": [
+      "een vermoeden hebben",
+      "naar mijn vermoeden",
+      "het vermoeden bevestigen"
+    ]
+  },
+  {
+    "word": "vertrouwen",
+    "pos": "zelfstandig naamwoord · het / werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze heeft volledig <mark>vertrouwen</mark> in haar team.",
+      "Hij <mark>vertrouwt</mark> haar blindelings — ze heeft hem nooit teleurgesteld.",
+      "Het <mark>vertrouwen</mark> in de overheid is de afgelopen jaren gedaald."
+    ],
+    "options": [
+      "de kennis die men heeft verworven door studie of ervaring",
+      "het gezag dat iemand heeft over anderen op basis van zijn functie",
+      "het geloof in de betrouwbaarheid of eerlijkheid van iemand of iets",
+      "de zekerheid die men heeft door directe controle over een situatie"
+    ],
+    "correct": 2,
+    "explanation": "'Vertrouwen' = het geloof in betrouwbaarheid van iemand of iets. Werkwoord: 'vertrouwen op'. Synoniem: 'geloof', 'fiducie'. Figuurlijk: 'blindelings vertrouwen' = volledig vertrouwen zonder voorbehoud; 'vertrouwen opbouwen' = geleidelijk vertrouwen verdienen.",
+    "hint": "Vertrouwen, controle en zekerheid zijn manieren om met onzekerheid om te gaan. Vertrouwen geeft je zekerheid zonder controle te hebben — hoe?",
+    "collocations": [
+      "vertrouwen hebben in",
+      "blindelings vertrouwen",
+      "vertrouwen opbouwen"
+    ]
+  },
+  {
+    "word": "vinden",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>vindt</mark> de nieuwe collega erg aardig en professioneel.",
+      "Ik <mark>vind</mark> dat we een andere aanpak moeten kiezen.",
+      "Hij kon zijn sleutels niet <mark>vinden</mark> — ze lagen onder de bank."
+    ],
+    "options": [
+      "een mening hebben over iets of iemand, of iets terugvinden",
+      "iets communiceren aan anderen door het hardop te zeggen",
+      "iets met zekerheid weten op basis van feiten en bewijs",
+      "iets vergeten dat men eerder wel kende of had"
+    ],
+    "correct": 0,
+    "explanation": "'Vinden' = een mening hebben (ik vind dat...) of iets terugvinden. Verleden tijd: 'vond', voltooid deelwoord: 'gevonden'. Synoniem: 'van mening zijn', 'terugvinden'. Figuurlijk: 'zijn weg vinden' = zich een weg banen.",
+    "hint": "'Ik vind hem aardig' en 'ik vind mijn sleutels niet' gebruiken hetzelfde werkwoord. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "ik vind dat",
+      "zijn weg vinden",
+      "vinden en verliezen"
+    ]
+  },
+  {
+    "word": "voelen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>voelt</mark> zich vandaag veel beter na een goede nacht slapen.",
+      "Hij <mark>voelde</mark> haar aanraking op zijn schouder.",
+      "Ze <mark>voelt</mark> aan alles dat er iets mis is — intuïtie."
+    ],
+    "options": [
+      "iets horen via de oren en bewust verwerken",
+      "iets ervaren via lichamelijke sensatie of emotioneel gewaarworden",
+      "iets via de ogen waarnemen en bewust registreren",
+      "iets redeneren via logische stappen tot een conclusie"
+    ],
+    "correct": 1,
+    "explanation": "'Voelen' = gewaarworden via tastzin of emotie. Verleden tijd: 'voelde', voltooid deelwoord: 'gevoeld'. Synoniem: 'gewaarworden', 'ervaren'. Figuurlijk: 'ergens voor voelen' = interesse of enthousiasme hebben; 'aanvoelen' = intuïtief begrijpen.",
+    "hint": "Voelen, zien en horen zijn drie zintuiglijke werkwoorden. Voelen heeft ook een emotionele dimensie — 'ik voel me goed'. Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "zich voelen",
+      "ergens voor voelen",
+      "voelen aan"
+    ]
+  },
+  {
+    "word": "vreugde",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze sprong van <mark>vreugde</mark> toen ze hoorde dat ze was aangenomen.",
+      "De <mark>vreugde</mark> op het gezicht van de kinderen was aanstekelijk.",
+      "Muziek geeft haar <mark>vreugde</mark> — het is haar grote liefde."
+    ],
+    "options": [
+      "een gevoel van opluchting nadat een moeilijke situatie voorbij is",
+      "een gevoel van trots op het bereiken van een doel",
+      "een gevoel van diepe tevredenheid met de status quo",
+      "een intens gevoel van blijdschap en geluk"
+    ],
+    "correct": 3,
+    "explanation": "'Vreugde' = intens gevoel van blijdschap. Synoniem: 'blijdschap', 'geluk'. Antonym: 'verdriet'. Figuurlijk: 'vreugdevuur' = een vuur ter viering; 'vreugde en verdriet' = de ups en downs van het leven.",
+    "hint": "Vreugde, blijdschap en geluk zijn positieve emoties. Vreugde is intenser en formeler dan blij — wat is het verschil in register?",
+    "collocations": [
+      "vreugde uitstralen",
+      "vreugde en verdriet",
+      "grote vreugde"
+    ]
+  },
+  {
+    "word": "vrolijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is altijd <mark>vrolijk</mark> en energiek — een zon in huis.",
+      "Het feest was <mark>vrolijk</mark> en gezellig met veel muziek en dans.",
+      "De <mark>vrolijke</mark> kleuren van het schilderij brachten leven in de kamer."
+    ],
+    "options": [
+      "gespannen en nerveus door verwachting of onzekerheid",
+      "kalm en sereen, zonder opwinding of overdreven energie",
+      "neerslachtig en stil van aard, zonder energie of levenslust",
+      "opgewekt, levenslustig en uitend positieve energie"
+    ],
+    "correct": 3,
+    "explanation": "'Vrolijk' = opgewekt en uitend positieve energie. Synoniem: 'opgewekt', 'blij'. Antonym: 'somber', 'treurig'. Figuurlijk: 'Vrolijk Kerstfeest' = kerstgroet; 'vrolijk als een vogeltje' = onbezorgd en blij.",
+    "hint": "Vrolijk, rustig en somber zijn drie gemoedstoestanden met elk een andere energie. Vrolijk uit zich actief en zichtbaar — wat is het verschil met gewoon 'blij zijn'?",
+    "collocations": [
+      "vrolijk zijn",
+      "Vrolijk Kerstfeest",
+      "vrolijk als een vogeltje"
+    ]
+  },
+  {
+    "word": "waarheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze vertelde de volledige <mark>waarheid</mark> — niets achtergehouden.",
+      "De <mark>waarheid</mark> is soms moeilijk te horen maar nodig.",
+      "Elke <mark>waarheid</mark> heeft twee kanten — het hangt af van perspectief."
+    ],
+    "options": [
+      "een mening die door de meerderheid wordt gedeeld",
+      "een bewering die men doet zonder te controleren of het klopt",
+      "een feit dat door de overheid officieel is vastgesteld",
+      "de overeenstemming tussen een bewering en de werkelijkheid"
+    ],
+    "correct": 3,
+    "explanation": "'Waarheid' = de overeenstemming tussen bewering en werkelijkheid. Meervoud: 'waarheden'. Antonym: 'leugen'. Synoniem: 'de werkelijkheid'. Figuurlijk: 'de harde waarheid' = een onaangename maar ware vaststelling; 'de waarheid geweld aandoen' = de werkelijkheid verdraaien.",
+    "hint": "Waarheid, mening en leugen zijn drie soorten beweringen. Waarheid is de enige die per definitie overeenkomt met de werkelijkheid. Wat onderscheidt het van een mening?",
+    "collocations": [
+      "de waarheid vertellen",
+      "de harde waarheid",
+      "waarheid en leugen"
+    ]
+  },
+  {
+    "word": "wens",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Haar grootste <mark>wens</mark> is één keer naar Japan te reizen.",
+      "Hij deed een <mark>wens</mark> toen hij de kaars uitblies.",
+      "Dat gaat in tegen mijn <mark>wensen</mark> — ik had het anders gewild."
+    ],
+    "options": [
+      "een beslissing die men heeft genomen na lang nadenken",
+      "een verlangen naar iets wat men graag wil hebben of bereiken",
+      "een verwachting die men heeft op basis van eerder gedrag",
+      "een plan dat men heeft uitgewerkt met concrete stappen"
+    ],
+    "correct": 1,
+    "explanation": "'Wens' = een verlangen naar iets wat men graag wil. Meervoud: 'wensen'. Werkwoord: 'wensen'. Synoniem: 'verlangen', 'begeerte'. Figuurlijk: 'een wens doen' = een verlangen uitspreken; 'naar wens verlopen' = precies zoals gewenst.",
+    "hint": "Wens, plan en besluit zijn drie stadia van intentie. De wens is het minst concreet — het is een verlangen zonder actie. Wat is het verschil met een plan?",
+    "collocations": [
+      "een wens doen",
+      "naar wens verlopen",
+      "zijn wensen uiten"
+    ]
+  },
+  {
+    "word": "weten",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>weet</mark> precies wat ze wil — geen twijfel.",
+      "Hij <mark>wist</mark> al dat ze zou bellen — hij kende haar te goed.",
+      "Ik <mark>weet</mark> het niet zeker — misschien moet ik het nakijken."
+    ],
+    "options": [
+      "iets zeker en vaststaand in het geheugen hebben",
+      "iets geloven op basis van vertrouwen zonder bewijs",
+      "iets vermoeden zonder directe zekerheid te hebben",
+      "iets hopen dat het zo is zonder het te kunnen bevestigen"
+    ],
+    "correct": 0,
+    "explanation": "'Weten' = iets met zekerheid kennen. Verleden tijd: 'wist', voltooid deelwoord: 'geweten'. Synoniem: 'kennen', 'zeker zijn van'. Figuurlijk: 'weten wat je wil' = duidelijke intenties hebben; 'laten weten' = informeren.",
+    "hint": "Weten, geloven en vermoeden zijn gradaties van zekerheid. Weten is de hoogste graad — het is zeker en vaststaand. Wat is het verschil met geloven?",
+    "collocations": [
+      "weten wat je wil",
+      "laten weten",
+      "voor zover ik weet"
+    ]
+  },
+  {
+    "word": "woede",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze kon haar <mark>woede</mark> niet verbergen — haar stem trilde.",
+      "De <mark>woede</mark> van de menigte was voelbaar na de aankondiging.",
+      "Hij explodeerde van <mark>woede</mark> toen hij het rapport zag."
+    ],
+    "options": [
+      "een gevoel van diepe verdriet dat langzaam opbouwt",
+      "een intense, vurige emotie van kwaadheid en verontwaardiging",
+      "een gevoel van jaloezie wanneer anderen meer bereiken",
+      "een gevoel van spanning en angst voor het onbekende"
+    ],
+    "correct": 1,
+    "explanation": "'Woede' = intense kwaadheid en verontwaardiging. Bijvoeglijk naamwoord: 'woedend'. Synoniem: 'razernij', 'furie'. Antonym: 'kalmte'. Figuurlijk: 'exploderen van woede' = plotseling heel erg kwaad worden; 'woede in toom houden' = boosheid beheersen.",
+    "hint": "Boosheid, woede en razernij zijn gradaties van hetzelfde gevoel. Woede is sterker dan boos maar minder extreem dan razernij. Wat kenmerkt het?",
+    "collocations": [
+      "exploderen van woede",
+      "woede in toom houden",
+      "de woede voelen"
+    ]
   }
 ]
