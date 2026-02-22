@@ -1,287 +1,1706 @@
 [
   {
-    "word": "tijdelijk",
-    "pos": "bijvoeglijk naamwoord",
+    "word": "achter",
+    "pos": "voorzetsel / bijwoord",
     "level": 1,
     "examples": [
-      "Dit is slechts een <mark>tijdelijke</mark> oplossing — we zoeken iets permanents.",
-      "Ze heeft een <mark>tijdelijk</mark> contract van drie maanden.",
-      "De storing was <mark>tijdelijk</mark> en werd snel verholpen."
+      "Ze zat <mark>achter</mark> haar bureau de hele ochtend te werken.",
+      "Loop jij maar vast — ik kom <mark>achter</mark> je aan.",
+      "Hij is <mark>achter</mark> met zijn betalingen en heeft een aanmaning gekregen."
     ],
     "options": [
-      "voor een beperkte periode, niet permanent",
-      "voor altijd, zonder einde",
-      "onmiddellijk, zonder wachten",
-      "regelmatig terugkerend"
+      "aan de achterzijde van iets, of later dan verwacht",
+      "boven het niveau van iets, op een hogere positie",
+      "aan de zijkant van iets, naast een object of persoon",
+      "aan de voorzijde van een object of persoon, in de richting van het gezicht"
     ],
     "correct": 0,
-    "explanation": "'Tijdelijk' = voor een beperkte periode, niet voor altijd. Tegendeel: 'permanent' of 'blijvend'. Van 'tijd'.",
-    "hint": "Het tegendeel van 'permanent'. Niet voor altijd, maar voor een..."
+    "explanation": "'Achter' = aan de achterzijde, of in achterstelling. Antonym: 'voor'. Synoniem: 'achterin', 'in de rug'. Figuurlijk: 'ergens achter staan' = iets steunen; 'achter de feiten aanlopen' = te laat reageren.",
+    "hint": "Achter en voor zijn elkaars ruimtelijke tegengestelden. Achter beschrijft de kant die van je wegkijkt. Wat staat er figuurlijk 'achter iets'?",
+    "collocations": [
+      "achter het bureau",
+      "ergens achter staan",
+      "achter de feiten aanlopen"
+    ]
   },
   {
-    "word": "vroeger",
-    "pos": "bijwoord",
-    "level": 1,
+    "word": "achtergrond",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
     "examples": [
-      "<mark>Vroeger</mark> fietste hij elke dag naar school, maar nu neemt hij de trein.",
-      "<mark>Vroeger</mark> was dit een klein dorp — nu is het een grote stad.",
-      "Dat was <mark>vroeger</mark> anders."
+      "Op de foto zie je de bergen op de <mark>achtergrond</mark>.",
+      "Ze heeft een academische <mark>achtergrond</mark> in de economie.",
+      "De muziek op de <mark>achtergrond</mark> maakte het gesprek moeilijker."
     ],
     "options": [
-      "op dit moment",
-      "in de toekomst",
-      "in het verleden",
-      "af en toe, soms"
+      "de kleur of textuur die als decoratie op een oppervlak is aangebracht",
+      "de omgeving direct naast een object in een foto of schilderij",
+      "het deel achter in een beeld, of iemands herkomst en opleiding",
+      "het gedeelte van een beeld dat het dichtst bij de kijker staat"
     ],
     "correct": 2,
-    "explanation": "'Vroeger' verwijst naar een tijd in het verleden — niet heel recent, maar ooit. Vergelijkbaar met 'in het verleden' of 'destijds'.",
-    "hint": "Niet nu, niet straks, maar... toen. In het verleden."
-  },
-  {
-    "word": "moment",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 1,
-    "examples": [
-      "Op dat <mark>moment</mark> realiseerde ze zich dat ze haar sleutels vergeten was.",
-      "Wacht even — dit is niet het juiste <mark>moment</mark>.",
-      "Geniet van elk <mark>moment</mark>."
-    ],
-    "options": [
-      "een terugkerend tijdstip",
-      "een heel kort tijdstip",
-      "een lange periode van meerdere jaren",
-      "een vaste afspraak in de agenda"
-    ],
-    "correct": 1,
-    "explanation": "'Moment' = een heel kort punt in de tijd. Van het Latijnse 'momentum'. Ook gebruikt voor 'nu': 'op dit moment' = nu.",
-    "hint": "Niet een uur, niet een dag — maar een heel kort tijdstip. Een..."
-  },
-  {
-    "word": "eeuw",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "De Gouden <mark>Eeuw</mark> was een bloeiperiode voor Nederland in de 17e <mark>eeuw</mark>.",
-      "Het duurt nog een halve <mark>eeuw</mark> voor dit project af is — dat is 50 jaar.",
-      "In de 21e <mark>eeuw</mark> speelt technologie een steeds grotere rol."
-    ],
-    "options": [
-      "een periode van honderd jaar",
-      "een onbepaalde lange periode",
-      "een periode van duizend jaar",
-      "een periode van tien jaar"
-    ],
-    "correct": 0,
-    "explanation": "'Eeuw' = 100 jaar. De 21e eeuw loopt van 2001 tot 2100. Van het Latijn 'saeculum'. Meervoud: 'eeuwen'.",
-    "hint": "Tien jaar = decennium. Honderd jaar = ..."
+    "explanation": "'Achtergrond' = het achterste deel van een beeld, of iemands herkomst/context. Meervoud: 'achtergronden'. Antonym: 'voorgrond'. Synoniem: 'context', 'herkomst'. Figuurlijk: 'op de achtergrond blijven' = bescheiden aanwezig zijn zonder op te vallen.",
+    "hint": "Voorgrond en achtergrond beschrijven diepte in een beeld. Welk deel staat ver weg? En wat betekent 'achtergrond' als je het over een persoon hebt?",
+    "collocations": [
+      "op de achtergrond",
+      "een academische achtergrond",
+      "op de achtergrond blijven"
+    ]
   },
   {
     "word": "afstand",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De <mark>afstand</mark> tussen Amsterdam en Rotterdam is ongeveer 75 kilometer.",
-      "Ze hield emotioneel <mark>afstand</mark> van haar collega's.",
-      "Op welke <mark>afstand</mark> staat de volgende benzinepomp?"
+      "De <mark>afstand</mark> van Amsterdam naar Rotterdam is ongeveer 75 kilometer.",
+      "Ze hield bewust <mark>afstand</mark> van de situatie om objectief te blijven.",
+      "Op <mark>afstand</mark> werken is voor veel mensen de nieuwe norm geworden."
     ],
     "options": [
-      "de snelheid waarmee je reist",
-      "de tijd die een reis duurt",
-      "de ruimte tussen twee punten",
-      "de richting van een route"
+      "de hoogte van een punt boven de zeespiegel of een referentievlak",
+      "de richting van een bepaald punt ten opzichte van een referentiepunt",
+      "de ruimte of meting tussen twee punten, of de mate van emotionele distantie",
+      "de snelheid waarmee iemand of iets van punt A naar punt B beweegt"
     ],
     "correct": 2,
-    "explanation": "'Afstand' = de ruimte of meting tussen twee punten. Ook figuurlijk: emotionele afstand. Van 'af' + 'staan' = hoe ver iets van je vandaan staat.",
-    "hint": "Als je meet hoe ver Amsterdam van Rotterdam is, meet je de..."
+    "explanation": "'Afstand' = de meetbare ruimte tussen twee punten, of emotionele distantie. Meervoud: 'afstanden'. Synoniem: 'dist antie', 'meting'. Figuurlijk: 'afstand nemen van' = zich emotioneel distantiëren; 'op afstand besturen' = vanop een andere locatie leiden.",
+    "hint": "Afstand meet de ruimte tussen twee punten. Maar 'afstand nemen van iets' betekent iets heel anders. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "afstand nemen van",
+      "op afstand werken",
+      "een grote afstand overbruggen"
+    ]
   },
   {
-    "word": "verleden",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 2,
+    "word": "altijd",
+    "pos": "bijwoord",
+    "level": 1,
     "examples": [
-      "Het is beter om naar de toekomst te kijken dan in het <mark>verleden</mark> te blijven.",
-      "Nederland heeft een rijke maritiem <mark>verleden</mark>.",
-      "In haar <mark>verleden</mark> had ze moeilijke tijden doorgemaakt."
+      "Ze is <mark>altijd</mark> vroeg op haar werk — nooit te laat.",
+      "Hij draagt <mark>altijd</mark> een stropdas, ook op casual vrijdag.",
+      "Dat zal <mark>altijd</mark> zo blijven — het is een fundamentele wet."
     ],
     "options": [
-      "de komende tijd, de toekomst",
-      "het heden, dit moment",
-      "een onbepaalde, verre toekomst",
-      "de tijd die al geweest is"
+      "in alle gevallen en op alle momenten, zonder uitzondering",
+      "op de meeste momenten maar met incidentele uitzonderingen",
+      "gedurende een bepaalde periode maar niet permanent",
+      "van tijd tot tijd, niet regelmatig maar ook niet zelden"
+    ],
+    "correct": 0,
+    "explanation": "'Altijd' = op elk moment, zonder uitzondering. Antonym: 'nooit'. Synoniem: 'steeds', 'voortdurend'. Figuurlijk: 'altijd en eeuwig' = voor onbeperkte tijd; 'niet altijd' = soms niet.",
+    "hint": "Altijd, soms en nooit vormen een frequentieschaal van 100% naar 0%. Altijd staat op het uiterste einde — welke?",
+    "collocations": [
+      "altijd en overal",
+      "niet altijd",
+      "altijd al gewild hebben"
+    ]
+  },
+  {
+    "word": "avond",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze eet elke <mark>avond</mark> om zeven uur samen met het gezin.",
+      "Op vrijdag<mark>avond</mark> gaan ze vaak uit eten in de stad.",
+      "De <mark>avond</mark> viel snel in november — om vijf uur was het al donker."
+    ],
+    "options": [
+      "de periode van de dag van laat in de middag tot middernacht",
+      "de periode van twaalf uur 's nachts tot vroeg in de ochtend",
+      "de periode van de dag van zonsopgang tot het middaguur",
+      "de periode van de dag van het middaguur tot het donker worden"
+    ],
+    "correct": 0,
+    "explanation": "'Avond' = de periode van laat in de middag tot middernacht. Meervoud: 'avonden'. Synoniem: 'nachtavond'. Figuurlijk: 'aan het avond van zijn leven' = op het einde van iemands leven; 'goedeavond' = begroeting in de avond.",
+    "hint": "Ochtend, middag, avond en nacht verdelen de dag. De avond volgt op de middag en gaat over in de nacht — wanneer begint en eindigt hij?",
+    "collocations": [
+      "goedenavond",
+      "vrijdagavond",
+      "de avond valt"
+    ]
+  },
+  {
+    "word": "binnen",
+    "pos": "bijwoord / voorzetsel",
+    "level": 1,
+    "examples": [
+      "Kom <mark>binnen</mark> — het is koud buiten.",
+      "Ze werkt <mark>binnen</mark> een team van twaalf mensen.",
+      "Het rapport moet <mark>binnen</mark> drie dagen klaar zijn."
+    ],
+    "options": [
+      "op grote afstand van een centraal punt",
+      "aan de rand of grens van een ruimte of gebied",
+      "aan de buitenkant of buitenzijde van iets",
+      "in het inwendige van iets, of binnen een tijdslimiet"
     ],
     "correct": 3,
-    "explanation": "'Verleden' = de tijd die achter ons ligt. Tegendelen: 'heden' (nu) en 'toekomst' (later). Als grammaticale term: 'verleden tijd' = past tense.",
-    "hint": "Heden is nu. Toekomst is later. En het... is wat al geweest is."
+    "explanation": "'Binnen' = in het inwendige, of voor het verstrijken van een deadline. Antonym: 'buiten'. Synoniem: 'in', 'intern'. Figuurlijk: 'binnen de perken blijven' = binnen aanvaardbare grenzen blijven; 'binnen zijn' = geslaagd of geregeld zijn.",
+    "hint": "Binnen en buiten zijn elkaars tegengestelden. 'Binnen drie dagen' en 'kom binnen' gebruiken hetzelfde woord — wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "kom binnen",
+      "binnen een uur",
+      "binnen de perken"
+    ]
   },
   {
-    "word": "tijdstip",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 2,
+    "word": "boven",
+    "pos": "voorzetsel / bijwoord",
+    "level": 1,
     "examples": [
-      "Om welk <mark>tijdstip</mark> begint de vergadering?",
-      "Dit is niet het juiste <mark>tijdstip</mark> voor die discussie.",
-      "Op hetzelfde <mark>tijdstip</mark> elke dag eten is goed voor de gezondheid."
+      "De lamp hangt <mark>boven</mark> de eettafel en geeft goed licht.",
+      "Ze woont op de verdieping <mark>boven</mark> ons en we horen haar lopen.",
+      "Zijn salaris ligt <mark>boven</mark> het gemiddelde voor zijn sector."
     ],
     "options": [
-      "een terugkerende gewoonte",
-      "een specifiek punt op de klok of in de dag",
-      "de duur van een activiteit",
-      "een lange periode van weken of maanden"
+      "aan de zijkant van een object zonder hoogteverschil",
+      "op een hoger niveau of positie dan een referentiepunt",
+      "op gelijke hoogte met een ander object of referentiepunt",
+      "op een lager niveau of positie dan een referentiepunt"
     ],
     "correct": 1,
-    "explanation": "'Tijdstip' = een specifiek, bepaald moment op de klok. Samengesteld van 'tijd' + 'stip' (punt). Bijna synoniem met 'moment', maar concreter.",
-    "hint": "Niet de duur, maar het exacte punt. Hoe laat? Op welk..."
+    "explanation": "'Boven' = op een hogere positie dan iets anders. Antonym: 'onder'. Synoniem: 'hoger dan', 'erboven'. Figuurlijk: 'boven verwachting' = beter dan verwacht; 'iets te boven komen' = iets overwinnen.",
+    "hint": "Boven en onder zijn verticale tegengestelden. 'Boven het gemiddelde' en 'boven de tafel' gebruiken hetzelfde woord — wat is de kern?",
+    "collocations": [
+      "boven verwachting",
+      "iets te boven komen",
+      "boven het maaiveld uitsteken"
+    ]
   },
   {
-    "word": "omgeving",
+    "word": "buiten",
+    "pos": "bijwoord / voorzetsel",
+    "level": 1,
+    "examples": [
+      "De kinderen spelen <mark>buiten</mark> in de tuin terwijl het nog droog is.",
+      "Dit valt <mark>buiten</mark> mijn bevoegdheid — dat moet je aan mijn manager vragen.",
+      "Ze woont <mark>buiten</mark> de stad, op zo'n tien minuten rijden."
+    ],
+    "options": [
+      "op de begane grond van een gebouw of terrein",
+      "op de bovenste verdieping van een gebouw",
+      "aan de buitenzijde, of buiten de grenzen van iets",
+      "in het inwendige van een ruimte of gebouw"
+    ],
+    "correct": 2,
+    "explanation": "'Buiten' = aan de buitenzijde, of buiten de grenzen van iets. Antonym: 'binnen'. Synoniem: 'extern', 'buitenshuis'. Figuurlijk: 'buiten beschouwing laten' = iets niet meenemen in een analyse.",
+    "hint": "Binnen en buiten zijn tegengestelden. 'Buiten de stad' en 'buiten spelen' gebruiken hetzelfde woord. Wat is de kern?",
+    "collocations": [
+      "buiten spelen",
+      "buiten de stad",
+      "buiten beschouwing laten"
+    ]
+  },
+  {
+    "word": "centrum",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze werkt in het stads<mark>centrum</mark> en fietst elke dag van thuis.",
+      "Het <mark>centrum</mark> van de cirkel ligt precies in het midden.",
+      "Hij staat in het <mark>centrum</mark> van de belangstelling na zijn speech."
+    ],
+    "options": [
+      "het buitenste gedeelte van een stad of gebied met weinig voorzieningen",
+      "de grens tussen twee gebieden of twee sectoren",
+      "het administratieve kantoor van een organisatie of instelling",
+      "het middelpunt van een gebied, stad of object"
+    ],
+    "correct": 3,
+    "explanation": "'Centrum' = het middelpunt van een gebied of object. Meervoud: 'centra' of 'centrums'. Synoniem: 'middelpunt', 'hart'. Figuurlijk: 'in het centrum van de aandacht staan' = de meeste aandacht krijgen.",
+    "hint": "Centrum, rand en periferie beschrijven posities van binnenuit naar buiten. Centrum is het...?",
+    "collocations": [
+      "stadscentrum",
+      "in het centrum staan",
+      "het centrum van aandacht"
+    ]
+  },
+  {
+    "word": "daar",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Wacht <mark>daar</mark> op me — ik kom er zo aan.",
+      "<mark>Daar</mark> heb je het antwoord dat je zocht.",
+      "Ze werkte <mark>daar</mark> al vijf jaar voordat ze vertrok."
+    ],
+    "options": [
+      "op een onbekende locatie die nog niet is aangeduid",
+      "op een locatie op afstand van de spreker, of verwijzend naar iets al genoemds",
+      "op de locatie waar de spreker zich bevindt",
+      "op een locatie die direct naast de spreker ligt"
+    ],
+    "correct": 1,
+    "explanation": "'Daar' = op die locatie (op afstand), of verwijzend naar eerder genoemde informatie. Antonym: 'hier'. Synoniem: 'aldaar', 'op die plek'. Figuurlijk: 'daar gaat het om' = dat is het kernpunt.",
+    "hint": "Hier en daar zijn ruimtelijke aanwijzingen. Hier is dichtbij de spreker; daar is...? En 'daar gaat het om' gebruikt het figuurlijk.",
+    "collocations": [
+      "hier en daar",
+      "daar gaat het om",
+      "tot daar en niet verder"
+    ]
+  },
+  {
+    "word": "dag",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze werkt vier <mark>dagen</mark> per week en heeft vrijdag vrij.",
+      "Vandaag is een goede <mark>dag</mark> — alles loopt op rolletjes.",
+      "Goede<mark>dag</mark>! Hoe gaat het met u?"
+    ],
+    "options": [
+      "een kalenderweek van maandag tot en met zondag",
+      "de periode van vierentwintig uur van middernacht tot middernacht",
+      "uitsluitend de lichte periode van zonsopgang tot zonsondergang",
+      "de werkperiode van acht uur per dag op een kantoor of bedrijf"
+    ],
+    "correct": 1,
+    "explanation": "'Dag' = een periode van 24 uur, of de lichte periode. Meervoud: 'dagen'. Synoniem: 'etmaal' (24 uur). Figuurlijk: 'goeiedag' = begroeting; 'zijn betere dagen kennen' = vroeger beter af zijn geweest.",
+    "hint": "Dag heeft twee betekenissen: de 24-uursperiode én alleen het lichte deel. 'Drie dagen' en 'overdag' gebruiken allebei het woord — welk verschil zit erin?",
+    "collocations": [
+      "goeiedag",
+      "overdag",
+      "zijn beste dagen"
+    ]
+  },
+  {
+    "word": "datum",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>datum</mark> van het examen is vastgesteld op 15 maart.",
+      "Wat is de <mark>datum</mark> van vandaag — ik ben de kluts kwijt?",
+      "Ze noteerde de <mark>datum</mark> in haar agenda zodat ze het niet zou vergeten."
+    ],
+    "options": [
+      "de aanduiding van de week van het jaar voor planning en roosters",
+      "de aanduiding van een specifieke dag in de kalender met dag, maand en jaar",
+      "de aanduiding van het tijdstip in uren en minuten op een dag",
+      "de aanduiding van het seizoen of de periode van het jaar"
+    ],
+    "correct": 1,
+    "explanation": "'Datum' = de kalenderaanduiding van een specifieke dag. Meervoud: 'data' of 'datums'. Synoniem: 'kalenderdag'. Figuurlijk: 'een datum prikken' = een afspraak maken door een dag te kiezen.",
+    "hint": "Datum en tijdstip zijn nauw verwant. Datum zegt welke dag; tijdstip zegt hoe laat. Wat zit er in een volledige datum?",
+    "collocations": [
+      "een datum prikken",
+      "de datum noteren",
+      "datum en tijdstip"
+    ]
+  },
+  {
+    "word": "decennium",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 3,
+    "examples": [
+      "In het afgelopen <mark>decennium</mark> is de technologie enorm veranderd.",
+      "Ze woont al een <mark>decennium</mark> in Nederland en spreekt vloeiend Nederlands.",
+      "Het eerste <mark>decennium</mark> van de eenentwintigste eeuw werd gekenmerkt door crisissen."
+    ],
+    "options": [
+      "een tijdperiode van twintig jaar",
+      "een tijdperiode van tien jaar",
+      "een tijdperiode van vijftig jaar",
+      "een tijdperiode van honderd jaar"
+    ],
+    "correct": 1,
+    "explanation": "'Decennium' = een periode van tien jaar. Meervoud: 'decennia'. Synoniem: 'decade', 'tien jaar'. Van het Latijn: 'decem' = tien. Figuurlijk: 'decennia van ervaring' = meerdere periodes van tien jaar.",
+    "hint": "Decennium, eeuw en millennium zijn tijdseenheden. 'Deca-' betekent tien in het Latijn. Hoeveel jaar is een decennium?",
+    "collocations": [
+      "het afgelopen decennium",
+      "decennia lang",
+      "het eerste decennium"
+    ]
+  },
+  {
+    "word": "dertig",
+    "pos": "telwoord",
+    "level": 1,
+    "examples": [
+      "Ze is <mark>dertig</mark> jaar oud geworden en vierde het groots.",
+      "De trein rijdt <mark>dertig</mark> minuten te laat door een storing.",
+      "In de jaren <mark>dertig</mark> woedde de Grote Depressie in Europa en Amerika."
+    ],
+    "options": [
+      "het getal dat bestaat uit drie tientallen zonder eenheden",
+      "het getal dat bestaat uit drie tientallen en tien eenheden",
+      "het getal dat bestaat uit twee tientallen en tien eenheden",
+      "het getal dat bestaat uit twee tientallen zonder eenheden"
+    ],
+    "correct": 0,
+    "explanation": "'Dertig' = het getal 30. Synoniem: '30'. Figuurlijk: 'in de jaren dertig' = de periode 1930-1939; 'dertigers' = mensen in de leeftijd van 30 tot 39 jaar.",
+    "hint": "Twintig is 20, dertig is 30, veertig is 40. Het patroon in het Nederlands: 'tien-tallen'. Welk getal staat hier centraal?",
+    "collocations": [
+      "dertig jaar oud",
+      "de jaren dertig",
+      "een dertigste verjaardag"
+    ]
+  },
+  {
+    "word": "dicht",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Doe de deur <mark>dicht</mark> — het tocht hier.",
+      "Het bos was zo <mark>dicht</mark> dat je er nauwelijks doorheen kon lopen.",
+      "Ze woont <mark>dicht</mark> bij het station — op vijf minuten lopen."
+    ],
+    "options": [
+      "licht en transparant van structuur, met veel openingen ertussen",
+      "open en toegankelijk voor iedereen zonder beperkingen",
+      "gesloten of compact, of op korte afstand van iets",
+      "op grote afstand van iets, ver verwijderd van een referentiepunt"
+    ],
+    "correct": 2,
+    "explanation": "'Dicht' = gesloten, compact van structuur, of op korte afstand. Antonym: 'open', 'ver'. Synoniem: 'gesloten', 'compact'. Figuurlijk: 'dicht bij iemand staan' = een hechte relatie hebben.",
+    "hint": "Dicht heeft twee betekenissen: gesloten (deur dicht) en nabij (dicht bij). Wat is de gemeenschappelijke kern — de afstand tot iets?",
+    "collocations": [
+      "de deur dicht doen",
+      "dicht bij",
+      "een dicht bos"
+    ]
+  },
+  {
+    "word": "dichtbij",
+    "pos": "bijwoord / voorzetsel",
+    "level": 1,
+    "examples": [
+      "Het station is <mark>dichtbij</mark> — je kunt er makkelijk naartoe lopen.",
+      "Ze woont <mark>dichtbij</mark> haar werk en fietst elke dag.",
+      "De deadline komt steeds <mark>dichterbij</mark> en het werk is nog niet klaar."
+    ],
+    "options": [
+      "op exact dezelfde locatie als een ander punt",
+      "op grote afstand, ver verwijderd van een bepaalde locatie",
+      "op een onbekende afstand zonder specificering",
+      "op korte afstand, vlakbij een locatie of in de nabijheid"
+    ],
+    "correct": 3,
+    "explanation": "'Dichtbij' = op korte afstand. Antonym: 'ver weg'. Synoniem: 'nabij', 'vlakbij'. Figuurlijk: 'dichterbij komen' = naderen, of steeds realistischer worden.",
+    "hint": "Dichtbij en ver zijn ruimtelijke tegengestelden. Dichtbij geeft aan dat de afstand...?",
+    "collocations": [
+      "dichtbij zijn",
+      "van dichtbij bekijken",
+      "steeds dichterbij"
+    ]
+  },
+  {
+    "word": "eeuw",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "De <mark>omgeving</mark> van Amsterdam is groen en waterrijk.",
-      "Hij groeide op in een veilige, warme <mark>omgeving</mark>.",
-      "Het bedrijf heeft veel invloed op de lokale <mark>omgeving</mark>."
+      "De twintigste <mark>eeuw</mark> werd gekenmerkt door twee wereldoorlogen.",
+      "Dit gebouw staat er al meer dan een <mark>eeuw</mark> — het is gebouwd in 1910.",
+      "Dat duurt een <mark>eeuw</mark> — kun je niet wat sneller werken?"
     ],
     "options": [
-      "de binnenruimte van een gebouw",
-      "de ruimte en situatie rondom iets of iemand",
-      "de mensen in een team of groep",
-      "de afstand tot het stadscentrum"
-    ],
-    "correct": 1,
-    "explanation": "'Omgeving' = alles wat rondom je is — ruimtelijk of sociaal. Van 'omgeven' = omringen. Synoniemen: 'buurt', 'context', 'milieu'.",
-    "hint": "Wat je rondom je ziet, hoort en voelt — je directe..."
-  },
-  {
-    "word": "gelijktijdig",
-    "pos": "bijwoord / bijvoeglijk naamwoord",
-    "level": 3,
-    "examples": [
-      "Twee evenementen vonden <mark>gelijktijdig</mark> plaats, wat problemen gaf.",
-      "Ze probeerde <mark>gelijktijdig</mark> te werken en te studeren.",
-      "De <mark>gelijktijdige</mark> aankomst van drie treinen zorgde voor drukte."
-    ],
-    "options": [
-      "één voor één, achter elkaar",
-      "later dan gepland",
-      "op hetzelfde moment tegelijk",
-      "op gezette tijden, periodiek"
+      "een tijdperiode van vijfhonderd jaar",
+      "een tijdperiode van duizend jaar",
+      "een tijdperiode van honderd jaar",
+      "een tijdperiode van tien jaar"
     ],
     "correct": 2,
-    "explanation": "'Gelijktijdig' = op hetzelfde moment, tegelijkertijd. Samengesteld van 'gelijk' (hetzelfde) + 'tijdig' (op tijd, tijdgerelateerd). Synoniem: 'simultaan'.",
-    "hint": "Niet na elkaar, maar op precies hetzelfde moment. Dat noem je..."
+    "explanation": "'Eeuw' = een periode van 100 jaar. Meervoud: 'eeuwen'. Synoniem: 'honderd jaar', 'centennium'. Figuurlijk: 'dat duurt een eeuwigheid' = dat duurt heel erg lang; 'eeuwenlang' = gedurende vele eeuwen.",
+    "hint": "Decennium (10 jaar), eeuw (100 jaar) en millennium (1000 jaar) zijn tijdseenheden. De eeuw is de middelste. Hoeveel jaar?",
+    "collocations": [
+      "de twintigste eeuw",
+      "eeuwenlang",
+      "dat duurt een eeuw"
+    ]
+  },
+  {
+    "word": "eerder",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze had <mark>eerder</mark> al gewaarschuwd dat het mis zou gaan.",
+      "Kun je <mark>eerder</mark> komen? Om negen uur in plaats van tien?",
+      "Ik zou het <mark>eerder</mark> een probleem noemen dan een uitdaging."
+    ],
+    "options": [
+      "tegelijkertijd met een andere gebeurtenis of handeling",
+      "op exact hetzelfde tijdstip als een referentiemoment",
+      "op een later tijdstip dan verwacht of afgesproken",
+      "op een vroeger tijdstip, of meer van toepassing dan iets anders"
+    ],
+    "correct": 3,
+    "explanation": "'Eerder' = op een vroeger tijdstip, of in hogere mate van toepassing. Antonym: 'later'. Synoniem: 'al', 'tevoren'. Figuurlijk: 'eerder ... dan' = liever ... dan; 'eerder gezegd' = al eerder vermeld.",
+    "hint": "'Eerder komen' en 'eerder een probleem dan een uitdaging' gebruiken hetzelfde woord op twee manieren. Welke twee zijn dat?",
+    "collocations": [
+      "eerder gezegd",
+      "eerder dan verwacht",
+      "eerder ... dan"
+    ]
+  },
+  {
+    "word": "gisteren",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Gisteren</mark> was het zo warm dat ze niet konden slapen.",
+      "Ze heeft <mark>gisteren</mark> haar rijbewijs gehaald — eindelijk.",
+      "Dat is de wereld van <mark>gisteren</mark> — nu gaan de dingen heel anders."
+    ],
+    "options": [
+      "de dag van exact een week geleden",
+      "de dag die voorafging aan de huidige dag",
+      "de dag van twee dagen geleden",
+      "de dag die volgt op de huidige dag"
+    ],
+    "correct": 1,
+    "explanation": "'Gisteren' = de dag die direct vóór vandaag ligt. Antonym: 'morgen'. Synoniem: 'de vorige dag'. Figuurlijk: 'van gisteren zijn' = ouderwets of achterhaald zijn.",
+    "hint": "Gisteren, vandaag en morgen beschrijven drie opeenvolgende dagen. Gisteren is de dag die...?",
+    "collocations": [
+      "gisteren avond",
+      "van gisteren zijn",
+      "gisteren nog"
+    ]
   },
   {
     "word": "grens",
     "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "level": 1,
     "examples": [
-      "De <mark>grens</mark> tussen Nederland en België is hier bijna onzichtbaar.",
-      "Ze gaf aan dat dit de <mark>grens</mark> van haar geduld was.",
-      "Over de <mark>grens</mark> met Duitsland zijn de regels anders."
+      "Bij de <mark>grens</mark> tussen Nederland en België wordt nauwelijks gecontroleerd.",
+      "Ze stelt duidelijke <mark>grenzen</mark> op het werk om burn-out te voorkomen.",
+      "De wetenschap verlegt voortdurend haar eigen <mark>grenzen</mark>."
     ],
     "options": [
-      "de hoofdstad van een land",
-      "de afstand tussen twee steden",
-      "het midden van een gebied",
-      "de lijn of scheiding tussen twee gebieden of zaken"
+      "het middelpunt van een gebied dat als referentiepunt dient",
+      "de scheidingslijn tussen twee gebieden of de limiet van iets",
+      "het hoogste punt van een heuvel of berg in een landschap",
+      "de afstand tussen twee punten in een geografisch gebied"
     ],
-    "correct": 3,
-    "explanation": "'Grens' = de scheiding of limiet tussen twee gebieden, landen of concepten. Ook figuurlijk: 'grenzen stellen' = limieten bepalen.",
-    "hint": "Wat scheidt Nederland van België? Dat is een..."
+    "correct": 1,
+    "explanation": "'Grens' = een scheidingslijn tussen gebieden of de limiet van iets. Meervoud: 'grenzen'. Synoniem: 'limiet', 'rand'. Figuurlijk: 'grenzen stellen' = limieten aangeven; 'grenzeloos' = onbeperkt.",
+    "hint": "Een grens scheidt twee gebieden — letterlijk een staatslijn of figuurlijk een limiet. Beide betekenissen beschrijven het einde van iets — wat is dat?",
+    "collocations": [
+      "de grens oversteken",
+      "grenzen stellen",
+      "grenzeloos"
+    ]
   },
   {
-    "word": "interval",
+    "word": "halfuur",
     "pos": "zelfstandig naamwoord · het",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "De treinen rijden met een <mark>interval</mark> van tien minuten.",
-      "Het <mark>interval</mark> tussen twee hartslagen kan worden gemeten.",
-      "Hij traint met korte <mark>intervallen</mark> van hoge intensiteit."
+      "De vergadering duurt een <mark>halfuur</mark> — van twee tot half drie.",
+      "Ze werkt al een <mark>halfuur</mark> aan dat ene paragraafje.",
+      "Op het hele en <mark>halve</mark> uur vertrekt de bus richting het centrum."
     ],
     "options": [
-      "de pauze of tussentijd tussen twee momenten",
-      "de totale duur van een activiteit",
-      "het begin van een tijdperiode",
-      "een terugkerende afspraak"
+      "een tijdsduur van vijfenveertig minuten",
+      "een tijdsduur van dertig minuten",
+      "een tijdsduur van vijftien minuten",
+      "een tijdsduur van twintig minuten"
+    ],
+    "correct": 1,
+    "explanation": "'Halfuur' = dertig minuten, de helft van een uur. Synoniem: 'halve uur', 'dertig minuten'. Figuurlijk: 'op het halfuur' = om het halve uur, elke dertig minuten.",
+    "hint": "Kwartier (15 min), halfuur (30 min) en uur (60 min) zijn tijdseenheden. Halfuur is letterlijk de helft van een uur. Hoeveel minuten?",
+    "collocations": [
+      "een halfuur wachten",
+      "op het halfuur",
+      "een halfuurtje"
+    ]
+  },
+  {
+    "word": "helft",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze at de <mark>helft</mark> van haar bord op en bewaarde de rest voor morgen.",
+      "Meer dan de <mark>helft</mark> van de ondervraagden stemde voor het voorstel.",
+      "In de tweede <mark>helft</mark> van de wedstrijd draaide het team het resultaat om."
+    ],
+    "options": [
+      "drie kwart van een geheel, bijna het volledige totaal",
+      "een kwart van een geheel, dus één op vier gelijke delen",
+      "één van twee gelijke delen van een geheel",
+      "twee derde van een geheel, meer dan de meerderheid"
+    ],
+    "correct": 2,
+    "explanation": "'Helft' = één van twee gelijke delen. Meervoud: 'helften'. Synoniem: 'de ene helft', 'vijftig procent'. Figuurlijk: 'de betere helft' = de echtgenoot of partner; 'halfweg' = halverwege.",
+    "hint": "Kwart, helft en driekwart zijn breuken. Helft is precies in het midden — hoeveel procent is dat?",
+    "collocations": [
+      "de helft van",
+      "de betere helft",
+      "meer dan de helft"
+    ]
+  },
+  {
+    "word": "herfst",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In de <mark>herfst</mark> worden de bladeren rood, oranje en geel.",
+      "Ze houdt van de <mark>herfst</mark> — de koele lucht en de sfeer van gezelligheid.",
+      "De economische <mark>herfst</mark> van zijn carrière was productief maar rustiger."
+    ],
+    "options": [
+      "het seizoen na de zomer en voor de winter, van september tot december",
+      "het seizoen na de winter en voor de zomer, van maart tot juni",
+      "het koudste seizoen van het jaar met sneeuw en ijs",
+      "het warmste seizoen van het jaar met de langste dagen"
     ],
     "correct": 0,
-    "explanation": "'Interval' = de tijd of ruimte tussen twee momenten of gebeurtenissen. Van het Latijn 'intervallum'. Gebruikt in sport, muziek en tijdplanning.",
-    "hint": "De tijd tússen twee treinen of twee hartslagen — dat is het..."
+    "explanation": "'Herfst' = het seizoen na de zomer, van september tot december. Meervoud: 'herfsten'. Synoniem: 'najaar'. Figuurlijk: 'de herfst van zijn leven' = het laatste deel van iemands leven.",
+    "hint": "Lente, zomer, herfst en winter zijn de vier seizoenen. Herfst volgt op de zomer — wanneer is het?",
+    "collocations": [
+      "in de herfst",
+      "herfstbladeren",
+      "de herfst van zijn leven"
+    ]
   },
   {
-    "word": "vluchtig",
+    "word": "hier",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Kom <mark>hier</mark> staan — dan kun je het beter zien.",
+      "<mark>Hier</mark> is het antwoord dat je zocht.",
+      "Ze is <mark>hier</mark> al tien jaar woonachtig en voelt zich thuis."
+    ],
+    "options": [
+      "op een locatie op afstand van de spreker",
+      "op de locatie waar de spreker zich bevindt",
+      "op een locatie die halverwege twee punten ligt",
+      "op een nog niet nader bepaalde locatie"
+    ],
+    "correct": 1,
+    "explanation": "'Hier' = op de locatie waar de spreker zich bevindt. Antonym: 'daar'. Synoniem: 'op deze plek'. Figuurlijk: 'hier en nu' = het huidige moment; 'hier staat hij voor' = dit is wat hij vertegenwoordigt.",
+    "hint": "Hier en daar zijn ruimtelijke aanwijzingen. Hier wijst naar de plek van de spreker zelf; daar wijst naar...?",
+    "collocations": [
+      "hier en nu",
+      "hier zijn",
+      "hier en daar"
+    ]
+  },
+  {
+    "word": "hoek",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De lamp staat in de <mark>hoek</mark> van de kamer.",
+      "Sla bij de volgende <mark>hoek</mark> rechts af.",
+      "Ze bekijkt het probleem altijd vanuit een andere <mark>hoek</mark>."
+    ],
+    "options": [
+      "het middelpunt van een ruimte waar alle wanden samenkomen",
+      "het hoogste punt van een ruimte waar plafond en muren samenkomen",
+      "het punt waar twee lijnen of vlakken samenkomen, of een perspectief",
+      "de zijkant van een gebouw die parallel loopt aan de straat"
+    ],
+    "correct": 2,
+    "explanation": "'Hoek' = het punt waar twee vlakken of lijnen samenkomen, of een gezichtspunt. Meervoud: 'hoeken'. Synoniem: 'bocht', 'perspectief'. Figuurlijk: 'vanuit een andere hoek bekijken' = vanuit een ander perspectief.",
+    "hint": "Een kamer heeft vier hoeken. Maar 'vanuit een andere hoek bekijken' is figuurlijk. Wat verbindt beide betekenissen?",
+    "collocations": [
+      "in de hoek zitten",
+      "om de hoek",
+      "vanuit een andere hoek"
+    ]
+  },
+  {
+    "word": "jaar",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze werkt er al drie <mark>jaar</mark> met veel plezier.",
+      "Elk <mark>jaar</mark> met de kerst bezoekt ze haar familie in Indonesië.",
+      "Hij verdient twee ton per <mark>jaar</mark> — een riant salaris."
+    ],
+    "options": [
+      "een periode van vier kwartalen van elk drie maanden",
+      "een kalenderperiode van vijftig weken",
+      "een periode van 52 werkweken exclusief vakantiedagen",
+      "een periode van twaalf maanden of 365 dagen"
+    ],
+    "correct": 3,
+    "explanation": "'Jaar' = een periode van 12 maanden of 365 dagen (366 in een schrikkeljaar). Meervoud: 'jaren'. Synoniem: 'jaargang'. Figuurlijk: 'jaren geleden' = lang geleden; 'het jaar rond' = het hele jaar door.",
+    "hint": "Jaar, maand en week zijn tijdseenheden van groot naar klein. Een jaar heeft 12 van de volgende eenheid — welke?",
+    "collocations": [
+      "per jaar",
+      "jaren geleden",
+      "het jaar rond"
+    ]
+  },
+  {
+    "word": "kilometer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De afstand van Amsterdam naar Utrecht is ruim veertig <mark>kilometer</mark>.",
+      "Ze loopt elke dag vijf <mark>kilometer</mark> als ochtendbeweging.",
+      "Het vliegtuig vliegt op een hoogte van tien <mark>kilometer</mark>."
+    ],
+    "options": [
+      "een meeteenheid voor gewicht gelijk aan duizend gram",
+      "een meeteenheid voor afstand gelijk aan duizend meter",
+      "een meeteenheid voor snelheid gelijk aan duizend meter per seconde",
+      "een meeteenheid voor oppervlakte gelijk aan een miljoen vierkante meter"
+    ],
+    "correct": 1,
+    "explanation": "'Kilometer' = een lengte-eenheid van 1000 meter. Afkorting: 'km'. Synoniem: '1000 meter'. Figuurlijk: 'kilometers ver' = op heel grote afstand.",
+    "hint": "'Kilo-' betekent duizend in het metrieke stelsel. Een kilometer is dus duizend...?",
+    "collocations": [
+      "kilometers per uur",
+      "op kilometers afstand",
+      "een kilometer lopen"
+    ]
+  },
+  {
+    "word": "kwartier",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze is over een <mark>kwartier</mark> klaar — wacht nog even.",
+      "De bus rijdt elk <mark>kwartier</mark> — de volgende is om tien over.",
+      "Hij woont op een <mark>kwartier</mark> fietsen van zijn werk."
+    ],
+    "options": [
+      "een tijdsduur van twintig minuten",
+      "een tijdsduur van dertig minuten",
+      "een tijdsduur van vijftien minuten",
+      "een tijdsduur van tien minuten"
+    ],
+    "correct": 2,
+    "explanation": "'Kwartier' = een periode van 15 minuten, een kwart van een uur. Meervoud: 'kwartieren'. Synoniem: 'een kwart uur'. Figuurlijk: 'een kwartier de tijd geven' = 15 minuten de tijd geven.",
+    "hint": "Kwartier, halfuur en uur zijn tijdseenheden. Kwartier is een kwart van een uur. Een uur heeft 60 minuten, dus een kwartier heeft...?",
+    "collocations": [
+      "een kwartier wachten",
+      "elk kwartier",
+      "op een kwartier lopen"
+    ]
+  },
+  {
+    "word": "laatst",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze was de <mark>laatste</mark> die vertrok nadat iedereen al weg was.",
+      "De <mark>laatste</mark> keer dat ik hem zag was vorig jaar mei.",
+      "<mark>Laatst</mark> ben ik hem tegengekomen bij de supermarkt — wat een toeval."
+    ],
+    "options": [
+      "het zeldzaamste of meest bijzondere in een verzameling",
+      "het eerste of vroegste in een reeks van gebeurtenissen of dingen",
+      "het meest recente of het eindpunt van een reeks",
+      "het meest centrale of belangrijkste in een groep"
+    ],
+    "correct": 2,
+    "explanation": "'Laatste' = het meest recente, of het eindpunt. Als bijwoord 'laatst' = onlangs. Antonym: 'eerste'. Synoniem: 'recentste', 'meest recent'. Figuurlijk: 'het laatste woord hebben' = de beslissende stem hebben.",
+    "hint": "'Laatste' heeft twee betekenissen: het eindpunt van een reeks (de laatste in de rij) en het meest recente (de laatste keer). Wat verbindt ze?",
+    "collocations": [
+      "de laatste keer",
+      "als laatste",
+      "het laatste woord"
+    ]
+  },
+  {
+    "word": "later",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "We bespreken dit <mark>later</mark> — nu hebben we geen tijd.",
+      "<mark>Later</mark> besefte ze dat ze de verkeerde beslissing had genomen.",
+      "Wat wil jij <mark>later</mark> worden als je groot bent?"
+    ],
+    "options": [
+      "op een onbepaald tijdstip in het verre verleden",
+      "op een tijdstip na het huidige moment, in de toekomst",
+      "op exact hetzelfde tijdstip als een andere gebeurtenis",
+      "op een eerder tijdstip dan het huidige moment"
+    ],
+    "correct": 1,
+    "explanation": "'Later' = na dit moment, in de toekomst of na een ander tijdstip. Antonym: 'eerder'. Synoniem: 'nadien', 'daarna'. Figuurlijk: 'tot later' = afscheidsgroet die een herziening impliceert.",
+    "hint": "Eerder en later zijn tijdstegengestelden. Eerder verwijst naar vóór een moment; later verwijst naar...?",
+    "collocations": [
+      "tot later",
+      "later op de dag",
+      "vroeg of laat"
+    ]
+  },
+  {
+    "word": "lente",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In de <mark>lente</mark> bloeien de tulpen en kersenbomen in heel Nederland.",
+      "Ze voelt zich altijd beter in de <mark>lente</mark> — het licht keert terug.",
+      "De Arabische <mark>Lente</mark> was een golf van volksopstanden in het Midden-Oosten."
+    ],
+    "options": [
+      "het seizoen na de herfst en voor de zomer, de warmste maanden",
+      "het seizoen na de zomer en voor de winter, met vallende bladeren",
+      "het seizoen na de winter en voor de zomer, met bloesem en groei",
+      "het seizoen met de kortste dagen en laagste temperaturen"
+    ],
+    "correct": 2,
+    "explanation": "'Lente' = het seizoen na de winter, van maart tot juni. Meervoud: 'lenten'. Synoniem: 'voorjaar'. Figuurlijk: 'de lente van zijn leven' = de jeugd; 'Arabische Lente' = een golf van politieke hervorming.",
+    "hint": "Lente, zomer, herfst en winter zijn de vier seizoenen. Lente volgt op de winter. Wat kenmerkt de lente?",
+    "collocations": [
+      "in de lente",
+      "lentekriebels",
+      "de lente van zijn leven"
+    ]
+  },
+  {
+    "word": "maat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Wat is jouw <mark>maat</mark>? Ik denk dat deze broek te klein is.",
+      "Ze nam de <mark>maat</mark> op van de kamer voor het nieuwe tapijt.",
+      "De muziek heeft een rustige, gelijkmatige <mark>maat</mark> die fijn klinkt."
+    ],
+    "options": [
+      "de kleur of het patroon van een kledingstuk",
+      "het materiaal waaruit een kledingstuk of product is gemaakt",
+      "de prijs van een kledingstuk of ander product in de winkel",
+      "de afmeting of omvang van iets, of de muzikale maatslag"
+    ],
+    "correct": 3,
+    "explanation": "'Maat' = een afmeting of kledingmaat, of de muzikale eenheid. Meervoud: 'maten'. Synoniem: 'afmeting', 'omvang'. Figuurlijk: 'de maat nemen' = iemands mogelijkheden of gedrag beoordelen; 'maatwerk' = iets op maat gemaakt.",
+    "hint": "Maat heeft meerdere betekenissen: kledingmaat, de afmeting van een ruimte, en de maatslag in muziek. Wat verbindt ze allemaal?",
+    "collocations": [
+      "de maat nemen",
+      "op maat gemaakt",
+      "in de maat lopen"
+    ]
+  },
+  {
+    "word": "maand",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze is drie <mark>maanden</mark> zwanger en voelt zich goed.",
+      "Elke <mark>maand</mark> ontvangt ze haar salaris op de laatste werkdag.",
+      "Januari is de eerste <mark>maand</mark> van het jaar."
+    ],
+    "options": [
+      "een tijdseenheid van 24 uur die een dag vormen",
+      "een tijdseenheid van 52 weken die een jaar vormen",
+      "een tijdseenheid van vier weken of 28 tot 31 dagen",
+      "een tijdseenheid van zeven dagen die een week vormen"
+    ],
+    "correct": 2,
+    "explanation": "'Maand' = een tijdseenheid van 28-31 dagen. Meervoud: 'maanden'. Een jaar heeft 12 maanden. Synoniem: 'kalendermaand'. Figuurlijk: 'maanden lang' = een lange periode.",
+    "hint": "Week, maand en jaar zijn tijdseenheden. Een jaar heeft 12 maanden en een maand heeft gemiddeld 30 of 31...?",
+    "collocations": [
+      "per maand",
+      "maanden lang",
+      "de eerste van de maand"
+    ]
+  },
+  {
+    "word": "meter",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze is één <mark>meter</mark> zeventig lang — net iets boven het gemiddelde.",
+      "De kamer is vijf <mark>meter</mark> breed en vier <mark>meter</mark> lang.",
+      "Ze stond op slechts enkele <mark>meters</mark> afstand van de beroemde acteur."
+    ],
+    "options": [
+      "de internationale standaardeenheid voor lengte",
+      "een meeteenheid voor gewicht in het metrieke systeem",
+      "een meeteenheid voor oppervlakte gelijk aan honderd bij honderd",
+      "een meeteenheid voor volume gelijk aan duizend liter"
+    ],
+    "correct": 0,
+    "explanation": "'Meter' = de SI-eenheid voor lengte. Afkorting: 'm'. Meervoud: 'meters'. Synoniem: 'honderd centimeter'. Figuurlijk: 'op meters afstand' = heel dichtbij.",
+    "hint": "Meter, kilometer en centimeter zijn lengteeenheden. De meter is de basisunit — hoeveel centimeter is één meter?",
+    "collocations": [
+      "een meter lang",
+      "vierkante meter",
+      "op meters afstand"
+    ]
+  },
+  {
+    "word": "midden",
+    "pos": "zelfstandig naamwoord · het / bijwoord",
+    "level": 1,
+    "examples": [
+      "Zij staat in het <mark>midden</mark> van de foto — het is duidelijk de hoofdpersoon.",
+      "Ze werkte <mark>midden</mark> in de nacht door aan haar deadline.",
+      "Het gesprek vond plaats <mark>midden</mark> op het plein voor iedereen zichtbaar."
+    ],
+    "options": [
+      "het centrale punt van een ruimte, object of tijdspanne",
+      "het buitenste gedeelte van een ruimte of object aan de rand",
+      "het laagste punt van een ruimte onder het gemiddeld niveau",
+      "het hoogste punt van een object boven het gemiddelde niveau"
+    ],
+    "correct": 0,
+    "explanation": "'Midden' = het centrale punt van iets. Synoniem: 'centrum', 'hart'. Figuurlijk: 'in het midden van de nacht' = midden in de nacht; 'in ons midden' = onder ons.",
+    "hint": "Midden, rand en hoek beschrijven posities in een ruimte. Het midden is het centrale punt — wat is het tegengestelde?",
+    "collocations": [
+      "in het midden",
+      "midden in de nacht",
+      "in ons midden"
+    ]
+  },
+  {
+    "word": "miljoen",
+    "pos": "telwoord / zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Nederland telt ruim zeventien <mark>miljoen</mark> inwoners.",
+      "Het project kostte vijf <mark>miljoen</mark> euro meer dan gepland.",
+      "Een <mark>miljoen</mark> mensen keken naar de finale op televisie."
+    ],
+    "options": [
+      "het getal dat bestaat uit een miljard gedeeld door duizend",
+      "het getal dat bestaat uit duizend eenheden",
+      "het getal dat bestaat uit een duizend maal duizend eenheden",
+      "het getal dat bestaat uit honderd maal duizend eenheden"
+    ],
+    "correct": 2,
+    "explanation": "'Miljoen' = het getal 1.000.000 (duizend maal duizend). Meervoud: 'miljoenen'. Synoniem: '10⁶'. Figuurlijk: 'een miljoen vragen hebben' = heel veel vragen; 'miljoenen mensen' = een enorm aantal.",
+    "hint": "Duizend, miljoen en miljard zijn grote getallen. Een miljoen is duizend maal duizend — hoeveel nullen heeft het?",
+    "collocations": [
+      "miljoenen mensen",
+      "vijf miljoen euro",
+      "één op een miljoen"
+    ]
+  },
+  {
+    "word": "minuut",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze was slechts twee <mark>minuten</mark> te laat — maar de trein was al weg.",
+      "Geef me één <mark>minuut</mark> — ik ben zo klaar.",
+      "Een <mark>minuut</mark> stilte werd gehouden ter nagedachtenis aan de slachtoffers."
+    ],
+    "options": [
+      "een tijdseenheid van honderd seconden",
+      "een tijdseenheid van vijftien seconden",
+      "een tijdseenheid van dertig seconden",
+      "een tijdseenheid van zestig seconden"
+    ],
+    "correct": 3,
+    "explanation": "'Minuut' = een tijdseenheid van 60 seconden. Meervoud: 'minuten'. Afkorting: 'min'. Synoniem: 'tik van de klok'. Figuurlijk: 'een minuut stilte' = een kort eerbetoon; 'tot op de minuut nauwkeurig' = heel precies.",
+    "hint": "Seconde, minuut en uur zijn tijdseenheden. Een minuut heeft 60 seconden en een uur heeft 60...?",
+    "collocations": [
+      "een minuut stilte",
+      "op de minuut nauwkeurig",
+      "een paar minuten wachten"
+    ]
+  },
+  {
+    "word": "moment",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Dit is het juiste <mark>moment</mark> om te investeren — de prijzen zijn laag.",
+      "Wacht een <mark>moment</mark> — ik pak mijn jas even.",
+      "Ze geniet van kleine <mark>momenten</mark> van rust in haar drukke dag."
+    ],
+    "options": [
+      "een geplande afspraak in de agenda op een vaste dag en tijd",
+      "een periode van meerdere uren die voor een activiteit is ingepland",
+      "een lange, meetbare periode in de geschiedenis of in iemands leven",
+      "een kort, specifiek tijdstip of korte tijdsduur"
+    ],
+    "correct": 3,
+    "explanation": "'Moment' = een kort, specifiek tijdstip of tijdsduur. Meervoud: 'momenten'. Synoniem: 'ogenblik', 'instant'. Figuurlijk: 'het moment is rijp' = de tijd is geschikt; 'een moment van zwakte' = een korte periode van kwetsbaarheid.",
+    "hint": "Moment en ogenblik zijn bijna synoniemen. Wat maakt een moment anders dan een lange periode?",
+    "collocations": [
+      "op dit moment",
+      "het juiste moment",
+      "een moment van zwakte"
+    ]
+  },
+  {
+    "word": "morgen",
+    "pos": "bijwoord / zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Morgen</mark> is de vergadering — vergeet het niet.",
+      "Tot <mark>morgen</mark>! We zien elkaar dan weer.",
+      "In de vroege <mark>morgen</mark> liep ze door het stille park."
+    ],
+    "options": [
+      "de periode van twaalf uur 's nachts tot zes uur 's ochtends",
+      "de dag die direct voorafging aan de huidige dag",
+      "de dag die direct volgt op de huidige dag, of het vroege ochtenduur",
+      "een vage toekomstige dag zonder specifieke aanduiding"
+    ],
+    "correct": 2,
+    "explanation": "'Morgen' = de dag na vandaag (bijwoord), of de vroege ochtend (zelfstandig naamwoord). Antonym: 'gisteren'. Synoniem: 'de volgende dag', 'ochtend'. Figuurlijk: 'morgen is er ook een dag' = geef niet op.",
+    "hint": "Morgen heeft twee betekenissen: de dag na vandaag en de vroege ochtend. 'Tot morgen' en 'vroege morgen' gebruiken allebei het woord. Welk verschil zit erin?",
+    "collocations": [
+      "tot morgen",
+      "morgenochtend",
+      "morgen is er ook een dag"
+    ]
+  },
+  {
+    "word": "naast",
+    "pos": "voorzetsel / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze ging <mark>naast</mark> hem zitten bij de vergadering.",
+      "<mark>Naast</mark> haar werk als manager schrijft ze ook romans.",
+      "Het café <mark>naast</mark> het station is altijd druk op vrijdagochtend."
+    ],
+    "options": [
+      "op een hogere positie boven een ander object of persoon",
+      "op afstand van iets, niet in de directe nabijheid",
+      "direct aan de zijkant van iets, of in aanvulling op iets",
+      "achter iets, aan de achterzijde van een object of persoon"
+    ],
+    "correct": 2,
+    "explanation": "'Naast' = aan de zijkant van, of bovendien. Antonym: 'weg van'. Synoniem: 'naast elkaar', 'terzijde'. Figuurlijk: 'naast de kwestie' = irrelevant; 'naast zich neerleggen' = negeren.",
+    "hint": "'Ze zit naast hem' en 'naast haar werk schrijft ze' gebruiken hetzelfde woord. Wat is de ruimtelijke en de aanvullende betekenis?",
+    "collocations": [
+      "naast elkaar",
+      "naast zich neerleggen",
+      "naast de kwestie"
+    ]
+  },
+  {
+    "word": "nacht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze kon de hele <mark>nacht</mark> niet slapen door het harde geluid buiten.",
+      "In de <mark>nacht</mark> van dinsdag op woensdag was er een zware storm.",
+      "'s <mark>Nachts</mark> zijn alle katten grijs — in het donker zie je de verschillen niet."
+    ],
+    "options": [
+      "de periode van de late avond, van tien uur tot middernacht",
+      "de periode van middernacht tot de vroege ochtenduren",
+      "de periode van de dag van zonsondergang tot middernacht",
+      "de donkere periode van het etmaal van zonsondergang tot zonsopgang"
+    ],
+    "correct": 3,
+    "explanation": "'Nacht' = de donkere periode van zonsondergang tot zonsopgang. Meervoud: 'nachten'. Antonym: 'dag'. Synoniem: 'nachtelijk uur'. Figuurlijk: 'de nacht is nog jong' = er is nog veel tijd; 'in de nacht van' = in de tijdspanne tussen twee kalenderdata.",
+    "hint": "Avond, nacht en ochtend zijn aaneengesloten periodes. Nacht is de donkere fase — wanneer begint en eindigt hij precies?",
+    "collocations": [
+      "'s nachts",
+      "de nacht doorbrengen",
+      "nacht en dag"
+    ]
+  },
+  {
+    "word": "nooit",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze heeft <mark>nooit</mark> gelogen — eerlijkheid is haar kernwaarde.",
+      "Ik heb <mark>nooit</mark> gedacht dat dit mogelijk was.",
+      "<mark>Nooit</mark> gedacht dat ik dit zou meemaken — het is ongelooflijk."
+    ],
+    "options": [
+      "op onregelmatige tijdstippen en niet systematisch",
+      "in de meeste gevallen maar met zeldzame uitzonderingen",
+      "op alle momenten en in alle omstandigheden, zonder uitzondering",
+      "op geen enkel moment en in geen enkele omstandigheid"
+    ],
+    "correct": 3,
+    "explanation": "'Nooit' = op geen enkel moment, de absolute ontkenning van frequentie. Antonym: 'altijd'. Synoniem: 'nimmer', 'geenszins'. Figuurlijk: 'nooit van zijn leven' = absoluut nooit; 'het is nooit te laat' = er is altijd nog een kans.",
+    "hint": "Altijd, soms en nooit vormen een frequentieschaal. Nooit staat aan het uiterste einde tegenover altijd — welk percentage is dat?",
+    "collocations": [
+      "nooit van zijn leven",
+      "het is nooit te laat",
+      "nooit meer"
+    ]
+  },
+  {
+    "word": "nu",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Kom <mark>nu</mark> meteen — het is dringend.",
+      "<mark>Nu</mark> begrijp ik waarom ze zo reageerde — het is logisch.",
+      "Van <mark>nu</mark> af aan doe ik het anders — dat beloof ik."
+    ],
+    "options": [
+      "op een moment in het verleden, vóór het huidige tijdstip",
+      "op het huidige tijdstip, dit moment",
+      "op een moment in de toekomst, na het huidige tijdstip",
+      "op een onbepaald tijdstip zonder relatie tot het heden"
+    ],
+    "correct": 1,
+    "explanation": "'Nu' = op dit moment, het heden. Antonym: 'toen' (verleden), 'straks' (toekomst). Synoniem: 'thans', 'momenteel'. Figuurlijk: 'nu of nooit' = dit is de kans; 'van nu af aan' = vanaf dit moment.",
+    "hint": "Toen, nu en straks beschrijven verleden, heden en toekomst. Nu is het middelpunt — welk moment is het?",
+    "collocations": [
+      "nu of nooit",
+      "van nu af aan",
+      "tot nu toe"
+    ]
+  },
+  {
+    "word": "ogenblik",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Een <mark>ogenblik</mark> geduld — de lijn is bezet.",
+      "Op dat <mark>ogenblik</mark> realiseerde ze zich dat alles was veranderd.",
+      "Geniet van elk <mark>ogenblik</mark> — de tijd gaat snel."
+    ],
+    "options": [
+      "de overgang tussen twee periodes of fases",
+      "een langere periode die duidelijk is afgebakend",
+      "een geplande vergadering of afspraak op een specifiek tijdstip",
+      "een zeer kort tijdstip of korte tijdsduur"
+    ],
+    "correct": 3,
+    "explanation": "'Ogenblik' = een zeer kort moment. Meervoud: 'ogenblikken'. Synoniem: 'moment', 'instant'. Figuurlijk: 'het ogenblik was rijp' = de situatie was ideaal; 'op dit ogenblik' = nu.",
+    "hint": "Ogenblik en moment zijn bijna synoniemen. Ogenblik benadrukt de kortheid nog meer — hoe kort is het?",
+    "collocations": [
+      "een ogenblik geduld",
+      "op dat ogenblik",
+      "elk ogenblik"
+    ]
+  },
+  {
+    "word": "onder",
+    "pos": "voorzetsel / bijwoord",
+    "level": 1,
+    "examples": [
+      "De kat verstopte zich <mark>onder</mark> de bank toen er onbekenden kwamen.",
+      "Ze studeerde <mark>onder</mark> leiding van een gerenommeerde professor.",
+      "Het project valt <mark>onder</mark> de verantwoordelijkheid van de projectleider."
+    ],
+    "options": [
+      "aan de voorzijde van een object of in de richting van het gezicht",
+      "op een lagere positie dan een referentiepunt, of onder verantwoordelijkheid van",
+      "aan de zijkant van een object op gelijke hoogte",
+      "op een hogere positie dan een referentiepunt"
+    ],
+    "correct": 1,
+    "explanation": "'Onder' = op een lagere positie, of onder de verantwoordelijkheid van. Antonym: 'boven'. Synoniem: 'eronder', 'beneden'. Figuurlijk: 'onder de maat' = niet goed genoeg; 'onder druk staan' = gepresd worden.",
+    "hint": "Boven en onder zijn verticale tegengestelden. 'Onder de tafel' en 'onder leiding van' gebruiken hetzelfde woord. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "onder druk staan",
+      "onder de maat",
+      "onder leiding van"
+    ]
+  },
+  {
+    "word": "plotseling",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Plotseling</mark> begon het te regenen — ze had geen paraplu bij zich.",
+      "Hij stopte <mark>plotseling</mark> midden in zijn zin en staarde naar buiten.",
+      "De situatie veranderde <mark>plotseling</mark> door het onverwachte nieuws."
+    ],
+    "options": [
+      "op een langzame, geleidelijke manier over een lange periode",
+      "op een gepland en voorzien moment op een specifieke datum",
+      "op een onverwacht en abrupt moment zonder voorbereiding",
+      "op een herhaalbare en regelmatige manier met vaste tussenpozen"
+    ],
+    "correct": 2,
+    "explanation": "'Plotseling' = abrupt en onverwacht. Synoniem: 'opeens', 'ineens', 'abrupt'. Antonym: 'geleidelijk'. Figuurlijk: 'plotselinge omslag' = een snelle en onverwachte verandering.",
+    "hint": "Plotseling en geleidelijk zijn tegengestelden in tempo van verandering. Plotseling beschrijft iets dat...?",
+    "collocations": [
+      "plotseling stilstaan",
+      "plotseling veranderen",
+      "een plotselinge omslag"
+    ]
+  },
+  {
+    "word": "rand",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze woont aan de <mark>rand</mark> van de stad — vlakbij het bos.",
+      "Hij zat aan de <mark>rand</mark> van zijn stoel van spanning.",
+      "Op de <mark>rand</mark> van het glas zat een vlekje lippenstift."
+    ],
+    "options": [
+      "het binnenste deel van een structuur, beschermd door de buitenkant",
+      "het middelste punt van een object of gebied",
+      "het hoogste punt van een object boven het maaiveld",
+      "de buitenste grens of zijkant van een object of gebied"
+    ],
+    "correct": 3,
+    "explanation": "'Rand' = de buitenste grens of zijkant van iets. Meervoud: 'randen'. Synoniem: 'grens', 'uiteinde'. Figuurlijk: 'op de rand van' = bijna in een extreme situatie; 'aan de rand van de maatschappij' = buitengesloten.",
+    "hint": "Centrum, midden en rand beschrijven posities. Rand is het verste van het centrum — het is de...?",
+    "collocations": [
+      "op de rand van",
+      "aan de rand van de stad",
+      "de rand van het glas"
+    ]
+  },
+  {
+    "word": "rechts",
+    "pos": "bijwoord / bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Sla bij het stoplicht <mark>rechts</mark> af en dan zie je het meteen.",
+      "Ze schrijft met haar <mark>rechter</mark>hand maar tennist met haar linkerhand.",
+      "De partij beweegt steeds meer naar <mark>rechts</mark> op het politieke spectrum."
+    ],
+    "options": [
+      "de kant die overeenkomt met de hand waarmee de meeste mensen schrijven",
+      "de kant tegenover de kant waarvan het hart zich bevindt",
+      "de richting die wordt aangegeven door de linkerhand bij uitgestrekte armen",
+      "de richting die overeenkomt met het zuiden als je naar het oosten kijkt"
+    ],
+    "correct": 0,
+    "explanation": "'Rechts' = de kant van de rechterhand bij de meeste mensen. Antonym: 'links'. Synoniem: 'rechterzijde'. Figuurlijk: 'rechts zijn in de politiek' = conservatieve politieke opvattingen hebben.",
+    "hint": "Links en rechts zijn richtingsaanduidingen. Rechts is de kant van de hand waarmee de meeste mensen schrijven. Welke hand is dat?",
+    "collocations": [
+      "rechts afslaan",
+      "rechts en links",
+      "rechts in de politiek"
+    ]
+  },
+  {
+    "word": "regio",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>regio</mark> Amsterdam heeft meer dan twee miljoen inwoners.",
+      "Ze werkt als regionaal manager voor de <mark>regio</mark> zuidwest.",
+      "De droge zomers treffen de hele <mark>regio</mark> rondom de Middellandse Zee."
+    ],
+    "options": [
+      "een specifieke straat of buurt in het centrum van een stad",
+      "een bestuurslaag gelijk aan een Nederlandse gemeente",
+      "een geografisch afgebakend gebied groter dan een stad maar kleiner dan een land",
+      "het totale grondgebied van een land inclusief zee en eilanden"
+    ],
+    "correct": 2,
+    "explanation": "'Regio' = een geografisch gebied groter dan een gemeente. Meervoud: 'regio's'. Synoniem: 'streek', 'gebied'. Figuurlijk: 'regionaal denken' = denken vanuit de eigen regio in plaats van nationaal.",
+    "hint": "Wijk, stad, regio en land zijn geografische eenheden van klein naar groot. Regio is groter dan een stad maar kleiner dan...?",
+    "collocations": [
+      "de regio Amsterdam",
+      "regionaal beleid",
+      "een regio besturen"
+    ]
+  },
+  {
+    "word": "ruimtelijk",
     "pos": "bijvoeglijk naamwoord",
     "level": 3,
     "examples": [
-      "Ze wierp een <mark>vluchtige</mark> blik op haar telefoon tijdens de vergadering.",
-      "Het was slechts een <mark>vluchtige</mark> ontmoeting — ze spraken maar vijf minuten.",
-      "De <mark>vluchtige</mark> schoonheid van een zonsondergang maakt hem bijzonder."
+      "Het nieuwe ontwerp biedt meer <mark>ruimtelijk</mark>e vrijheid door de open plattegrond.",
+      "Ze heeft een goed <mark>ruimtelijk</mark> inzicht en vindt de weg makkelijk.",
+      "<mark>Ruimtelijke</mark> ordening regelt hoe grond in Nederland wordt gebruikt."
     ],
     "options": [
-      "intens en diepgaand",
-      "langdurig en grondig",
-      "heel kort en oppervlakkig, snel voorbijgaand",
-      "regelmatig en voorspelbaar"
-    ],
-    "correct": 2,
-    "explanation": "'Vluchtig' = snel voorbijgaand, kort en oppervlakkig. Van 'vlucht' (het snel gaan). Vergelijkbaar met 'kort' maar met de nadruk op het vergankelijke karakter.",
-    "hint": "Een vluchtige blik — niet lang, niet diep. Heel..."
-  },
-  {
-    "word": "eeuwigdurend",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
-    "examples": [
-      "Ze waren het beu van de <mark>eeuwigdurende</mark> vergaderingen.",
-      "De <mark>eeuwigdurende</mark> discussie over dit onderwerp kent geen einde.",
-      "De natuur lijkt in <mark>eeuwigdurende</mark> verandering."
-    ],
-    "options": [
-      "langzaam verlopend",
-      "plotseling eindigend",
-      "nooit eindigend, altijd doorgaand",
-      "elk jaar terugkerend"
-    ],
-    "correct": 2,
-    "explanation": "'Eeuwigdurend' = dat nooit ophoudt, voor altijd doorgaat. Samengesteld van 'eeuwig' (voor altijd) + 'durend' (gaande). Synoniem: 'eindeloos', 'voortdurend'.",
-    "hint": "'Eeuwig' + 'durend'. Iets wat altijd maar doorgaat en nooit stopt."
-  },
-  {
-    "word": "begrensd",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
-    "examples": [
-      "De tijd is <mark>begrensd</mark> — we moeten prioriteiten stellen.",
-      "Zijn kennis van het onderwerp is <mark>begrensd</mark>.",
-      "De <mark>begrensde</mark> ruimte van het appartement maakte grote meubels onmogelijk."
-    ],
-    "options": [
-      "oneindig groot of ruim",
-      "met een limiet, eindig",
-      "vaag en onbepaald",
-      "tijdelijk en wisselend"
+      "betrekking hebbend op tijd en de opeenvolging van gebeurtenissen",
+      "betrekking hebbend op ruimte, driedimensionale verhoudingen of het gebruik van ruimte",
+      "betrekking hebbend op sociale verhoudingen tussen mensen en groepen",
+      "betrekking hebbend op financiële verhoudingen en economische waarde"
     ],
     "correct": 1,
-    "explanation": "'Begrensd' = gelimiteerd, met grenzen. Van 'begrenzen' = grenzen stellen. Tegendeel: 'onbegrensd' (zonder grenzen).",
-    "hint": "Als iets grenzen heeft — niet oneindig is — dan is het..."
+    "explanation": "'Ruimtelijk' = betrekking hebbend op de ruimte en driedimensionale verhoudingen. Synoniem: 'dimensioneel', 'geografisch'. Figuurlijk: 'ruimtelijk inzicht' = het vermogen om 3D-figuren te visualiseren.",
+    "hint": "Ruimtelijk is de bijvoeglijke vorm van ruimte. Wat beschrijft het precies — tijd of dimensie?",
+    "collocations": [
+      "ruimtelijk inzicht",
+      "ruimtelijke ordening",
+      "ruimtelijk denken"
+    ]
   },
   {
-    "word": "hedendaags",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "seconde",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
     "examples": [
-      "De <mark>hedendaagse</mark> kunst is heel anders dan die uit de 17e eeuw.",
-      "In de <mark>hedendaagse</mark> maatschappij speelt social media een grote rol.",
-      "<mark>Hedendaagse</mark> architectuur maakt veel gebruik van glas en staal."
+      "Ze won de race met slechts twee <mark>seconden</mark> verschil.",
+      "Wacht één <mark>seconde</mark> — ik vergeet iets mee te nemen.",
+      "Een hartslag duurt gemiddeld één <mark>seconde</mark> bij rust."
     ],
     "options": [
-      "uit een ver verleden",
-      "van nu, van deze tijd",
-      "van de toekomst, nog niet bestaand",
-      "klassiek en tijdloos"
+      "een tijdseenheid van een honderdste van een minuut",
+      "een tijdseenheid van een tiende van een minuut",
+      "de basistijdseenheid van het SI-stelsel, een zestigste van een minuut",
+      "een tijdseenheid van een duizendste van een minuut"
+    ],
+    "correct": 2,
+    "explanation": "'Seconde' = de basisunit van tijd, 1/60 van een minuut. Meervoud: 'seconden'. Afkorting: 's'. Synoniem: 'tel'. Figuurlijk: 'een seconde' = een heel kort moment; 'op de seconde nauwkeurig' = heel precies.",
+    "hint": "Seconde, minuut en uur zijn tijdseenheden van klein naar groot. Een minuut heeft 60 seconden — hoe lang is één seconde?",
+    "collocations": [
+      "een seconde wachten",
+      "op de seconde nauwkeurig",
+      "een paar seconden"
+    ]
+  },
+  {
+    "word": "soms",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze eet <mark>soms</mark> vlees maar is geen vegetariër.",
+      "<mark>Soms</mark> vraag ik me af of ik de juiste keuze heb gemaakt.",
+      "Hij belt <mark>soms</mark> midden in de nacht als hij een idee heeft."
+    ],
+    "options": [
+      "op elk moment en altijd, zonder uitzondering",
+      "regelmatig en op vaste tijden, bijna altijd",
+      "op geen enkel moment, nooit van zijn leven",
+      "op bepaalde momenten maar niet altijd, af en toe"
+    ],
+    "correct": 3,
+    "explanation": "'Soms' = af en toe, niet altijd maar ook niet nooit. Synoniem: 'af en toe', 'weleens', 'van tijd tot tijd'. Figuurlijk: 'soms vraag ik me af' = een innerlijke twijfel die niet constant aanwezig is.",
+    "hint": "Altijd, soms en nooit zijn frequentieaanduidingen. Soms ligt precies in het midden van de schaal — hoe vaak is dat?",
+    "collocations": [
+      "soms wel eens",
+      "af en toe",
+      "van tijd tot tijd"
+    ]
+  },
+  {
+    "word": "tempo",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze werkt op hoog <mark>tempo</mark> — drie rapporten per dag.",
+      "Het <mark>tempo</mark> van de muziek versnelde tegen het einde van het stuk.",
+      "De economie groeit in een gestage <mark>tempo</mark> van twee procent per jaar."
+    ],
+    "options": [
+      "de snelheid of het ritme waarmee iets verloopt",
+      "de kracht of intensiteit waarmee iets wordt gedaan",
+      "de duur van een activiteit van begin tot einde",
+      "de richting waarin iets of iemand beweegt"
+    ],
+    "correct": 0,
+    "explanation": "'Tempo' = de snelheid of het ritme waarmee iets verloopt. Meervoud: 'tempo's'. Synoniem: 'snelheid', 'vaart'. Figuurlijk: 'in hoog tempo' = snel; 'het tempo bijhouden' = bijblijven met de snelheid.",
+    "hint": "Tempo en snelheid zijn bijna synoniemen. Tempo benadrukt het ritme — wat is het verschil met simpelweg 'snel'?",
+    "collocations": [
+      "hoog tempo",
+      "het tempo bijhouden",
+      "in een rustig tempo"
+    ]
+  },
+  {
+    "word": "tijd",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze had geen <mark>tijd</mark> voor een uitgebreid ontbijt — ze was al laat.",
+      "De <mark>tijd</mark> vliegt als je plezier hebt.",
+      "Het is <mark>tijd</mark> voor verandering — de situatie kan zo niet doorgaan."
+    ],
+    "options": [
+      "de voortgang van gebeurtenissen van verleden via heden naar toekomst, of een beschikbare periode",
+      "de klok of het uurwerk dat de uren en minuten aangeeft",
+      "het seizoen of de periode van het jaar voor een activiteit",
+      "de ruimte die beschikbaar is in een agenda voor afspraken"
+    ],
+    "correct": 0,
+    "explanation": "'Tijd' = de voortgang van het bestaan of een beschikbare periode. Ontelbaar (de tijd) of telbaar (een tijd). Synoniem: 'tijdsduur', 'moment'. Figuurlijk: 'tijd is geld' = tijd is waardevol; 'de tand des tijds' = de slijtage door de jaren.",
+    "hint": "Tijd is een van de meest fundamentele begrippen. Het heeft zowel een abstracte (de voortgang van het universum) als een praktische (ik heb geen tijd) betekenis. Wat verbindt die twee?",
+    "collocations": [
+      "tijd hebben",
+      "de tand des tijds",
+      "tijd is geld"
+    ]
+  },
+  {
+    "word": "toekomst",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze maakt zich zorgen over de <mark>toekomst</mark> van het klimaat.",
+      "In de nabije <mark>toekomst</mark> zal AI veel banen veranderen.",
+      "Hij bouwt aan zijn <mark>toekomst</mark> door elke avond bij te studeren."
+    ],
+    "options": [
+      "de periode die voor ons ligt en nog moet plaatsvinden",
+      "het huidige moment dat net bezig is te verlopen",
+      "de periode die achter ons ligt en al heeft plaatsgevonden",
+      "de cyclische herhaling van gebeurtenissen in een tijdspatroon"
+    ],
+    "correct": 0,
+    "explanation": "'Toekomst' = de periode die nog moet komen. Antonym: 'verleden'. Synoniem: 'de komende tijd'. Figuurlijk: 'de toekomst tegemoetzien' = zich opmaken voor wat komt; 'toekomstperspectief' = uitzicht op wat er komen gaat.",
+    "hint": "Verleden, heden en toekomst zijn de drie tijddimensies. De toekomst is de dimensie die nog...?",
+    "collocations": [
+      "in de toekomst",
+      "een goede toekomst",
+      "de toekomst tegemoetzien"
+    ]
+  },
+  {
+    "word": "toekomstig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze stelde haar <mark>toekomstige</mark> echtgenoot voor aan haar ouders.",
+      "<mark>Toekomstige</mark> generaties zullen de gevolgen van onze keuzes dragen.",
+      "De <mark>toekomstige</mark> directeur wordt volgende maand bekendgemaakt."
+    ],
+    "options": [
+      "betrekking hebbend op de toekomst, nog te komen of te gebeuren",
+      "betrekking hebbend op het heden en de actuele situatie",
+      "betrekking hebbend op een cyclische herhaling van gebeurtenissen",
+      "betrekking hebbend op het verleden en de dingen die al zijn gebeurd"
+    ],
+    "correct": 0,
+    "explanation": "'Toekomstig' = de bijvoeglijke vorm van toekomst. Synoniem: 'aanstaand', 'komend'. Antonym: 'vorig', 'voormalig'. Figuurlijk: 'toekomstige generaties' = de mensen die na ons komen.",
+    "hint": "Toekomstig is de bijvoeglijke vorm van toekomst. 'Toekomstige echtgenoot' en 'toekomstige directeur' beschrijven beide iemand die...?",
+    "collocations": [
+      "toekomstige generaties",
+      "toekomstige plannen",
+      "de toekomstige directeur"
+    ]
+  },
+  {
+    "word": "uur",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De vlucht duurt twee <mark>uur</mark> — dan zijn we in Parijs.",
+      "Ze werkt acht <mark>uur</mark> per dag, vijf dagen per week.",
+      "Het sloeg twaalf <mark>uur</mark> op de kerk — exact middernacht."
+    ],
+    "options": [
+      "een tijdseenheid van honderd minuten",
+      "een tijdseenheid van vijftig minuten",
+      "een tijdseenheid van negentig minuten",
+      "een tijdseenheid van zestig minuten"
+    ],
+    "correct": 3,
+    "explanation": "'Uur' = een tijdseenheid van 60 minuten. Meervoud: 'uren'. Afkorting: 'u.' of 'hr'. Synoniem: '60 minuten'. Figuurlijk: 'het uur van de waarheid' = het beslissende moment; 'van uur tot uur' = elk uur.",
+    "hint": "Minuut, uur en dag zijn tijdseenheden. Een uur bestaat uit 60 minuten en een dag heeft 24 uur. Hoeveel minuten heeft een uur?",
+    "collocations": [
+      "het uur van de waarheid",
+      "per uur betaald",
+      "van uur tot uur"
+    ]
+  },
+  {
+    "word": "vaak",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze gaat <mark>vaak</mark> naar de markt op zaterdag.",
+      "Hij belt <mark>vaak</mark> — bijna elke dag.",
+      "<mark>Vaak</mark> zijn de beste ideeën de eenvoudigste."
+    ],
+    "options": [
+      "regelmatig en met hoge frequentie, niet zelden",
+      "op elk mogelijk moment en altijd, zonder uitzondering",
+      "zelden en met lage frequentie, bijna nooit",
+      "af en toe, nu en dan maar niet regelmatig"
+    ],
+    "correct": 0,
+    "explanation": "'Vaak' = regelmatig, met hoge frequentie. Antonym: 'zelden'. Synoniem: 'regelmatig', 'dikwijls'. Figuurlijk: 'heel vaak' = bijna altijd.",
+    "hint": "Altijd, vaak, soms, zelden en nooit zijn frequentieaanduidingen van hoog naar laag. Vaak ligt dicht bij altijd — hoe frequent is het?",
+    "collocations": [
+      "heel vaak",
+      "vaker dan niet",
+      "zo vaak mogelijk"
+    ]
+  },
+  {
+    "word": "vandaag",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Vandaag</mark> is de eerste dag van de rest van je leven.",
+      "Ze heeft <mark>vandaag</mark> een sollicitatiegesprek om tien uur.",
+      "<mark>Vandaag</mark> de dag worden er hoge eisen gesteld aan flexibiliteit."
+    ],
+    "options": [
+      "de dag die direct voorafgaat aan de huidige dag",
+      "een vage aanduiding voor het heden zonder precieze dag",
+      "de dag die direct volgt op de huidige dag",
+      "de huidige dag, de dag waarop men zich bevindt"
+    ],
+    "correct": 3,
+    "explanation": "'Vandaag' = de huidige dag, nu. Antonym: 'gisteren', 'morgen'. Synoniem: 'heden'. Figuurlijk: 'vandaag de dag' = in de huidige tijd; 'vandaag of morgen' = spoedig.",
+    "hint": "Gisteren, vandaag en morgen zijn drie opeenvolgende dagen. Vandaag is de dag die...?",
+    "collocations": [
+      "vandaag de dag",
+      "vandaag of morgen",
+      "vanaf vandaag"
+    ]
+  },
+  {
+    "word": "ver",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het station is niet <mark>ver</mark> — tien minuten lopen.",
+      "Ze woont <mark>ver</mark> weg van haar familie en mist hen.",
+      "Hij is <mark>ver</mark> in zijn onderzoek — bijna klaar met het proefschrift."
+    ],
+    "options": [
+      "op exact dezelfde locatie als een referentiepunt",
+      "op korte afstand, vlak in de buurt van een referentiepunt",
+      "op grote afstand van een referentiepunt, of ver gevorderd",
+      "op een onbekende afstand zonder verdere specificering"
+    ],
+    "correct": 2,
+    "explanation": "'Ver' = op grote afstand, of ver gevorderd. Antonym: 'dichtbij'. Synoniem: 'verweg', 'verre'. Figuurlijk: 'ver van zijn bed' = iets dat hem niet direct raakt; 'ver gaan' = te ver gaan in gedrag.",
+    "hint": "Ver en dichtbij zijn tegengestelden. 'Ver weg wonen' en 'ver in zijn onderzoek' gebruiken hetzelfde woord. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "ver weg",
+      "ver van zijn bed",
+      "zo ver zijn"
+    ]
+  },
+  {
+    "word": "verleden",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "In het <mark>verleden</mark> reisden mensen per koets — nu per vliegtuig.",
+      "Ze wil haar <mark>verleden</mark> achter zich laten en opnieuw beginnen.",
+      "De politicus had een belast <mark>verleden</mark> dat nu boven water komt."
+    ],
+    "options": [
+      "de periode die achter ons ligt en al heeft plaatsgevonden",
+      "de periode die nog moet komen en die we nog kunnen beïnvloeden",
+      "de onzekere periode tussen heden en toekomst",
+      "het actuele moment dat precies nu bezig is te verlopen"
+    ],
+    "correct": 0,
+    "explanation": "'Verleden' = de periode die al voorbij is. Antonym: 'toekomst'. Synoniem: 'het verleden', 'de geschiedenis'. Figuurlijk: 'een verleden hebben' = iets in je achtergrond hebben dat je liever verbergt.",
+    "hint": "Verleden, heden en toekomst zijn de drie tijddimensies. Het verleden is de dimensie die...?",
+    "collocations": [
+      "in het verleden",
+      "een belast verleden",
+      "het verleden loslaten"
+    ]
+  },
+  {
+    "word": "verte",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "In de <mark>verte</mark> zag ze de bergen opdoemen aan de horizon.",
+      "Ze staarde in de <mark>verte</mark> en dacht na over haar beslissing.",
+      "Het geluid van klokken klonk vanuit de <mark>verte</mark>."
+    ],
+    "options": [
+      "de hoogte boven het maaiveld, het luchtruim",
+      "de richting achter iemand, in de rug",
+      "de ruimte direct voor iemand, binnen handbereik",
+      "de verre omgeving, wat zich op grote afstand bevindt"
+    ],
+    "correct": 3,
+    "explanation": "'Verte' = de verre omgeving, wat ver weg is. Altijd met 'de'. Synoniem: 'de horizon', 'het verre'. Figuurlijk: 'in de verte staren' = dromerig voor zich uit kijken.",
+    "hint": "Verte is het zelfstandige naamwoord van 'ver'. 'In de verte zien' beschrijft wat je ziet als je naar een grote afstand kijkt. Wat is er te zien?",
+    "collocations": [
+      "in de verte",
+      "vanuit de verte",
+      "in de verte staren"
+    ]
+  },
+  {
+    "word": "vroeg",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze staat elke dag <mark>vroeg</mark> op — om half zes al.",
+      "Hij arriveerde te <mark>vroeg</mark> — de deuren waren nog dicht.",
+      "In de <mark>vroege</mark> ochtend is de stad nog rustig."
+    ],
+    "options": [
+      "later dan verwacht of afgesproken, na het geplande tijdstip",
+      "vóór het verwachte of gebruikelijke tijdstip",
+      "exact op het afgesproken tijdstip, niet vroeg of laat",
+      "op een onbepaald tijdstip zonder verdere specificering"
     ],
     "correct": 1,
-    "explanation": "'Hedendaags' = van deze tijd, modern, actueel. Samengesteld van 'heden' (nu) + 'daags' (van de dag). Synoniem: 'modern', 'eigentijds'.",
-    "hint": "'Heden' = nu. 'Daags' = van de dag. Dus 'hedendaags' betekent van..."
+    "explanation": "'Vroeg' = vóór het verwachte tijdstip of in de vroege periode van de dag. Antonym: 'laat'. Synoniem: 'tijdig', 'in een vroeg stadium'. Figuurlijk: 'vroeg of laat' = op een bepaald moment; 'van vroeg tot laat' = de hele dag.",
+    "hint": "Vroeg en laat zijn tijdstegengestelden. Vroeg beschrijft iets dat vóór het gebruikelijke of verwachte tijdstip plaatsvindt. Wat is het tegengestelde?",
+    "collocations": [
+      "vroeg opstaan",
+      "vroeg of laat",
+      "van vroeg tot laat"
+    ]
+  },
+  {
+    "word": "vroeger",
+    "pos": "bijwoord",
+    "level": 1,
+    "examples": [
+      "<mark>Vroeger</mark> gingen mensen te voet of per paard — niet per auto.",
+      "Ze mist haar geboortestad — <mark>vroeger</mark> was alles eenvoudiger.",
+      "Ik was <mark>vroeger</mark> verlegen maar dat is nu heel anders."
+    ],
+    "options": [
+      "op een onbepaald moment buiten de gewone tijdlijn",
+      "in het verleden, in een periode die al voorbij is",
+      "in de toekomst, in een periode die nog moet komen",
+      "in het heden, op dit huidige moment"
+    ],
+    "correct": 1,
+    "explanation": "'Vroeger' = in het verleden, in vroegere tijden. Antonym: 'nu', 'tegenwoordig'. Synoniem: 'in het verleden', 'destijds'. Figuurlijk: 'vroeger was alles beter' = nostalgisch verlangen naar het verleden.",
+    "hint": "Vroeger en vroeg zijn verwant maar niet hetzelfde. Vroeg gaat over timing; vroeger gaat over...?",
+    "collocations": [
+      "vroeger was het anders",
+      "van vroeger",
+      "vroeger of later"
+    ]
+  },
+  {
+    "word": "waar",
+    "pos": "bijwoord (vragend / betrekkelijk)",
+    "level": 1,
+    "examples": [
+      "<mark>Waar</mark> ben jij geweest — ik heb je overal gezocht.",
+      "Ze weet niet <mark>waar</mark> ze haar sleutels heeft gelaten.",
+      "De stad <mark>waar</mark> ze is opgegroeid bestaat nauwelijks nog."
+    ],
+    "options": [
+      "de locatie of plaats van iets of iemand",
+      "de reden of oorzaak achter een bepaalde situatie",
+      "de manier of wijze waarop iets is gedaan",
+      "het tijdstip waarop een gebeurtenis heeft plaatsgevonden"
+    ],
+    "correct": 0,
+    "explanation": "'Waar' = vragend of betrekkelijk bijwoord voor locatie. Synoniem: 'op welke plek', 'waarheen'. Figuurlijk: 'waar het om gaat' = wat de kern is; 'ergens voor staan' = een positie innemen.",
+    "hint": "Waar, wanneer en hoe zijn de drie basisvragen. Waar vraagt naar de...?",
+    "collocations": [
+      "waar ben je",
+      "waar het om gaat",
+      "ergens vandaan komen"
+    ]
+  },
+  {
+    "word": "week",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze werkt vier dagen per <mark>week</mark> en heeft vrijdag vrij.",
+      "Volgende <mark>week</mark> begint het nieuwe schooljaar al.",
+      "Na een zware <mark>week</mark> was ze blij met het weekend."
+    ],
+    "options": [
+      "een tijdseenheid van veertien dagen",
+      "een tijdseenheid van zeven dagen",
+      "een tijdseenheid van vijf werkdagen exclusief weekend",
+      "een tijdseenheid van tien dagen"
+    ],
+    "correct": 1,
+    "explanation": "'Week' = een tijdseenheid van 7 dagen, van maandag tot en met zondag. Meervoud: 'weken'. Synoniem: 'zeven dagen'. Figuurlijk: 'weken lang' = een lange periode van weken.",
+    "hint": "Dag, week en maand zijn tijdseenheden. Een week bestaat uit 7 dagen — van welke dag tot welke dag loopt een Nederlandse week?",
+    "collocations": [
+      "per week",
+      "volgende week",
+      "weken lang"
+    ]
+  },
+  {
+    "word": "weekend",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "In het <mark>weekend</mark> slaapt ze uit en doet ze wat ze wil.",
+      "Ze zijn het <mark>weekend</mark> weg naar de Ardennen.",
+      "Fijn <mark>weekend</mark> — tot maandag!"
+    ],
+    "options": [
+      "de twee dagen aan het einde van de werkweek, zaterdag en zondag",
+      "de vijf werkdagen van maandag tot en met vrijdag",
+      "de hele week inclusief werkdagen en vrije dagen",
+      "de vrije dag in het midden van de werkweek"
+    ],
+    "correct": 0,
+    "explanation": "'Weekend' = zaterdag en zondag, de vrije dagen aan het einde van de week. Meervoud: 'weekends'. Synoniem: 'het weekeinde'. Figuurlijk: 'een lang weekend' = een weekend met een extra vrije dag erbij.",
+    "hint": "Werkweek en weekend zijn complementair. De werkweek is maandag t/m vrijdag; het weekend is...?",
+    "collocations": [
+      "fijn weekend",
+      "in het weekend",
+      "een lang weekend"
+    ]
+  },
+  {
+    "word": "wijk",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze woont in een rustige <mark>wijk</mark> aan de rand van de stad.",
+      "De <mark>wijk</mark> is de laatste jaren flink opgeknapt met nieuwe woningen.",
+      "Er komt een nieuw buurtcentrum voor de bewoners van de <mark>wijk</mark>."
+    ],
+    "options": [
+      "een individuele straat met huizen aan weerszijden",
+      "een buitengebied buiten de bebouwde kom met natuur en landbouw",
+      "een stedelijk gebied dat meerdere gemeenten omvat",
+      "een afgebakend deel van een stad met een eigen karakter en bewoners"
+    ],
+    "correct": 3,
+    "explanation": "'Wijk' = een afgebakend deel van een stad met een eigen identiteit. Meervoud: 'wijken'. Synoniem: 'buurt', 'stadsdeel'. Figuurlijk: 'wijk maken' = ruimte maken voor iemand anders.",
+    "hint": "Straat, wijk en stad zijn geografische eenheden van klein naar groot. Een wijk is groter dan een straat maar kleiner dan een stad. Wat is er typisch voor een wijk?",
+    "collocations": [
+      "in de wijk wonen",
+      "wijkagent",
+      "wijk maken"
+    ]
+  },
+  {
+    "word": "winter",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In de <mark>winter</mark> kan het in Nederland sneeuwen en vriezen.",
+      "Ze houdt niet van de <mark>winter</mark> — te donker en te koud.",
+      "De <mark>winter</mark> van zijn loopbaan brak aan na het schandaal."
+    ],
+    "options": [
+      "het seizoen na de herfst en voor de lente, met de koudste dagen",
+      "het seizoen na de zomer en voor de lente, met vallende bladeren",
+      "het seizoen na de lente en voor de herfst, met de warmste dagen",
+      "het seizoen met de langste dagen en de hoogste temperaturen"
+    ],
+    "correct": 0,
+    "explanation": "'Winter' = het koudste seizoen, van december tot maart. Meervoud: 'winters'. Antonym: 'zomer'. Synoniem: 'het koude seizoen'. Figuurlijk: 'de winter van zijn leven' = de laatste, zware fase van iemands leven.",
+    "hint": "Lente, zomer, herfst en winter zijn de vier seizoenen. Winter volgt op herfst en heeft de kortste dagen. Wat kenmerkt de winter?",
+    "collocations": [
+      "in de winter",
+      "een harde winter",
+      "wintersport"
+    ]
+  },
+  {
+    "word": "zomer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In de <mark>zomer</mark> gaan ze altijd twee weken op vakantie naar het buitenland.",
+      "De <mark>zomer</mark> van 2022 was uitzonderlijk warm en droog.",
+      "Hij beleefde de <mark>zomer</mark> van zijn leven — vol energie en succes."
+    ],
+    "options": [
+      "het seizoen na de lente en voor de herfst, met de warmste en langste dagen",
+      "het seizoen na de zomer en voor de winter, met vallende bladeren",
+      "het seizoen na de winter en voor de zomer, met bloesem",
+      "het seizoen na de herfst en voor de lente, met de koudste dagen"
+    ],
+    "correct": 0,
+    "explanation": "'Zomer' = het warmste seizoen, van juni tot september. Meervoud: 'zomers'. Antonym: 'winter'. Synoniem: 'het warme seizoen'. Figuurlijk: 'de zomer van zijn leven' = de bloeitijd van iemands bestaan.",
+    "hint": "Lente, zomer, herfst en winter zijn de vier seizoenen. Zomer volgt op de lente en is het warmste — wanneer is het?",
+    "collocations": [
+      "in de zomer",
+      "zomervakantie",
+      "de zomer van zijn leven"
+    ]
+  },
+  {
+    "word": "zondag",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Op <mark>zondag</mark> slapen ze uit en eten ze een uitgebreid ontbijt.",
+      "De winkel is gesloten op <mark>zondag</mark> — kom maandag terug.",
+      "Ze heeft een <mark>zondags</mark>gevoel — alles is rustig en ontspannen."
+    ],
+    "options": [
+      "de eerste dag van de werkweek, de dag na het weekend",
+      "de eerste dag van het weekend, de dag na de werkweek",
+      "de middelste dag van de week, tussen maandag en vrijdag",
+      "de laatste dag van het weekend, de rustdag aan het einde van de week"
+    ],
+    "correct": 3,
+    "explanation": "'Zondag' = de zevende dag van de week, de laatste dag van het weekend. Meervoud: 'zondagen'. Synoniem: 'de rustdag'. Figuurlijk: 'zondags gevoel' = het gevoel van rust en ontspanning.",
+    "hint": "Zaterdag en zondag zijn de twee weekenddagen. Zondag is de laatste dag van het weekend — de dag vóór maandag. Welke dag van de week is het?",
+    "collocations": [
+      "op zondag",
+      "zondagochtend",
+      "een zondags gevoel"
+    ]
   }
 ]
