@@ -1,287 +1,1706 @@
 [
   {
-    "word": "lichaam",
+    "word": "adem",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Na de sprint was hij buiten <mark>adem</mark> en moest hij even stoppen.",
+      "Ze haalde diep <mark>adem</mark> voordat ze het podium op liep.",
+      "De koude lucht nam haar <mark>adem</mark> weg toen ze naar buiten stapte."
+    ],
+    "options": [
+      "het vocht dat het lichaam produceert bij inspanning of warmte",
+      "de hartslag die bloed door het lichaam pompt",
+      "de lucht die je in- en uitademt via neus of mond",
+      "het geluid dat de longen maken bij een infectie of ziekte"
+    ],
+    "correct": 2,
+    "explanation": "'Adem' = de lucht die je in- en uitademt. Werkwoord: 'ademen'. Synoniem: 'ademhaling'. Figuurlijk: 'buiten adem zijn' = zo vermoeid dat je moeilijk ademhaalt; 'adem inhouden' = wachten met grote spanning.",
+    "hint": "Dit woord beschrijft het gas dat je longen in en uit verplaatsen. Wat doe je elke seconde automatisch om te leven?",
+    "collocations": [
+      "diep adem halen",
+      "buiten adem zijn",
+      "adem inhouden"
+    ]
+  },
+  {
+    "word": "apotheek",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze haalde het recept op bij de <mark>apotheek</mark> om de hoek.",
+      "De <mark>apotheek</mark> is gesloten op zondag — je moet naar de dienstapotheek.",
+      "Hij werkt als apotheker in een grote <mark>apotheek</mark> in het stadscentrum."
+    ],
+    "options": [
+      "een instelling waar mensen langdurig worden verpleegd na ziekte",
+      "een winkel waar je medicijnen en gezondheidsproducten kunt kopen",
+      "een afdeling in het ziekenhuis waar patiënten worden geopereerd",
+      "een praktijk waar een arts patiënten ontvangt voor een consult"
+    ],
+    "correct": 1,
+    "explanation": "'Apotheek' = een gespecialiseerde winkel voor medicijnen en gezondheidsproducten. Meervoud: 'apotheken'. Beroep: 'apotheker'. Synoniem: geen gangbaar synoniem. Figuurlijk: 'dat kost apothekersgeld' = dat is erg duur.",
+    "hint": "Een arts schrijft een recept uit. Waar ga je naartoe om dat recept te laten maken of af te halen?",
+    "collocations": [
+      "naar de apotheek gaan",
+      "een recept bij de apotheek",
+      "dienstapotheek"
+    ]
+  },
+  {
+    "word": "arm",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze brak haar <mark>arm</mark> bij een val van haar fiets op het gladde wegdek.",
+      "Hij sloeg zijn <mark>arm</mark> om haar schouder als teken van steun.",
+      "De lange <mark>arm</mark> van de wet haalt hem uiteindelijk wel in."
+    ],
+    "options": [
+      "het ledemaat van de mens dat loopt van heup tot voet",
+      "het gewricht dat de bovenste en onderste ledematen verbindt",
+      "het ledemaat van de mens dat loopt van schouder tot hand",
+      "de spier in het bovenlichaam die verantwoordelijk is voor heffen"
+    ],
+    "correct": 2,
+    "explanation": "'Arm' = het bovenste ledemaat van schouder tot hand. Meervoud: 'armen'. Synoniem: 'ledemaat'. Let op: 'arm' als bijvoeglijk naamwoord = niet rijk. Figuurlijk: 'de lange arm van de wet' = de verstrekkende macht van justitie.",
+    "hint": "Been en arm zijn allebei ledematen. Been zit aan de onderkant van je lichaam; arm zit aan de...?",
+    "collocations": [
+      "een arm breken",
+      "iemand in de arm nemen",
+      "de lange arm van de wet"
+    ]
+  },
+  {
+    "word": "arts",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>arts</mark> schreef een recept uit en adviseerde rust te nemen.",
+      "Ze studeerde acht jaar om <mark>arts</mark> te worden.",
+      "Raadpleeg altijd een <mark>arts</mark> voordat je begint met nieuwe medicijnen."
+    ],
+    "options": [
+      "iemand die psychologische begeleiding biedt bij mentale klachten",
+      "iemand met een medische universitaire opleiding die ziekten diagnosticeert en behandelt",
+      "iemand die medicijnen verstrekt op basis van een doktersrecept",
+      "iemand die patiënten verpleegt en verzorgt op een ziekenhuisafdeling"
+    ],
+    "correct": 1,
+    "explanation": "'Arts' = een medisch specialist met universitaire opleiding. Meervoud: 'artsen'. Synoniem: 'dokter', 'geneesheer'. Figuurlijk: 'arts zijn' is een roeping, niet alleen een beroep.",
+    "hint": "Verpleegkundige, apotheker, arts en psycholoog werken alle vier in de zorg. Wie stelt diagnoses en schrijft recepten uit?",
+    "collocations": [
+      "een arts raadplegen",
+      "de arts schrijft voor",
+      "huisarts versus specialist"
+    ]
+  },
+  {
+    "word": "been",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Sport is goed voor je <mark>lichaam</mark> en je geest.",
-      "Het <mark>lichaam</mark> van een volwassen mens bestaat voor 60% uit water.",
-      "Ze voelde zich moe — haar hele <mark>lichaam</mark> deed pijn."
+      "Hij brak zijn <mark>been</mark> bij een skiongeluk in de Alpen.",
+      "Ze strekte haar <mark>benen</mark> na uren achter haar bureau te hebben gezeten.",
+      "Het project staat op eigen <mark>benen</mark> — het heeft geen extra subsidie meer nodig."
     ],
     "options": [
-      "het gewicht van een persoon",
-      "de geest of het gevoel van een persoon",
-      "de gezondheid van een persoon",
-      "het fysieke omhulsel van een levend wezen"
+      "de spier in het onderlichaam die verantwoordelijk is voor lopen",
+      "het gewricht dat de boven- en onderkant van het ledemaat verbindt",
+      "het ledemaat van de mens van heup tot voet, of het harde skeletmateriaal",
+      "het harde weefsel binnenin het lichaam dat als structuur dient"
+    ],
+    "correct": 2,
+    "explanation": "'Been' = het onderste ledemaat (van heup tot voet), of bot als materiaal. Meervoud: 'benen' (ledematen) of 'beenderen' (botten). Figuurlijk: 'op eigen benen staan' = zelfstandig zijn; 'ergens de benen voor nemen' = ergens snel naartoe gaan.",
+    "hint": "Dit woord heeft twee betekenissen: het ledemaat waarmee je loopt én het harde materiaal waaruit je skelet bestaat. Welke twee dingen zijn dat?",
+    "collocations": [
+      "een been breken",
+      "op eigen benen staan",
+      "de benen nemen"
+    ]
+  },
+  {
+    "word": "bloed",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De wond bloedde hevig en ze drukte er een doek op.",
+      "Bij de bloedtest bleek zijn cholesterol te hoog te zijn.",
+      "Er zit <mark>bloed</mark> aan zijn handen — hij heeft dit veroorzaakt."
+    ],
+    "options": [
+      "het vocht dat de gewrichten smeert zodat beweging soepel verloopt",
+      "het rode lichaamsvloeistof dat zuurstof en voedingsstoffen transporteert",
+      "het heldere vocht dat de nieren filteren en uitscheiden",
+      "de vloeistof die het lichaam produceert om wonden te reinigen"
+    ],
+    "correct": 1,
+    "explanation": "'Bloed' = de rode vloeistof die door aders en aderen stroomt. Altijd ontelbaar. Werkwoord: 'bloeden'. Synoniem: 'bloedsomloop' (het systeem). Figuurlijk: 'bloed aan je handen hebben' = verantwoordelijk zijn voor schade; 'eigen bloed' = familie.",
+    "hint": "Dit rode vocht stroomt door je hele lichaam en brengt zuurstof naar je organen. Wat pompt het door je lichaam?",
+    "collocations": [
+      "bloed geven",
+      "bloed aan je handen",
+      "eigen bloed"
+    ]
+  },
+  {
+    "word": "bloot",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "De kinderen renden <mark>bloot</mark> over het strand in de zomerhitte.",
+      "Hij liep op <mark>blote</mark> voeten over het koele gras in de tuin.",
+      "Ze vertelde de <mark>blote</mark> waarheid zonder iets te verbergen of te verzachten."
+    ],
+    "options": [
+      "volledig ontspannen en vrij van fysieke spanning in de spieren",
+      "zichtbaar ziek of verzwakt door een langdurige aandoening",
+      "geheel of gedeeltelijk onbedekt door kleding",
+      "gevoelig voor pijn of aanraking door beschadiging van de huid"
+    ],
+    "correct": 2,
+    "explanation": "'Bloot' = zonder kleding of bedekking. Synoniem: 'naakt', 'ontbloot'. Figuurlijk: 'de blote waarheid' = de waarheid zonder verfraaiing; 'met het blote oog' = zonder hulpmiddel zoals een bril of microscoop.",
+    "hint": "Dit woord beschrijft de toestand van het lichaam zonder kleding. Welk woord heeft dezelfde betekenis maar klinkt formeler?",
+    "collocations": [
+      "blote voeten",
+      "met het blote oog",
+      "de blote waarheid"
+    ]
+  },
+  {
+    "word": "broer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Mijn <mark>broer</mark> is twee jaar ouder dan ik en woont in Utrecht.",
+      "De twee <mark>broers</mark> lijken sprekend op elkaar — je kunt ze bijna niet uit elkaar houden.",
+      "Ze behandelde hem als haar eigen <mark>broer</mark>, zo vertrouwd waren ze met elkaar."
+    ],
+    "options": [
+      "een mannelijk familielid dat van dezelfde ouders afstamt als jij",
+      "een mannelijk familielid dat een generatie ouder is dan jij",
+      "een mannelijke vriend die zo dicht bij je staat als familie",
+      "een mannelijk familielid dat met je ouder is getrouwd"
+    ],
+    "correct": 0,
+    "explanation": "'Broer' = een mannelijke persoon met dezelfde ouders. Meervoud: 'broers'. Vrouwelijk equivalent: 'zus'. Synoniem: 'broeder' (formeel/religieus). Figuurlijk: 'grote broer' = iemand die alles in de gaten houdt (George Orwell).",
+    "hint": "Broer, vader en oom zijn alle drie mannelijke familieleden. Broer is de mannelijke tegenhanger van 'zus'. Welke bloedband heb je met je broer?",
+    "collocations": [
+      "mijn jongere broer",
+      "grote broer",
+      "als broers en zussen"
+    ]
+  },
+  {
+    "word": "buik",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze had buikpijn na het eten van te veel scherp voedsel.",
+      "De baby schopte in haar <mark>buik</mark> — ze voelde het duidelijk.",
+      "Hij had een gevoel in zijn <mark>buik</mark> dat er iets niet klopte aan het verhaal."
+    ],
+    "options": [
+      "het onderste deel van de romp dat de blaas en nieren bevat",
+      "het middelste deel van de romp dat de maag en darmen bevat",
+      "het gewricht dat de romp met de benen verbindt",
+      "het bovenste deel van de romp dat de longen en het hart bevat"
+    ],
+    "correct": 1,
+    "explanation": "'Buik' = het voorste deel van de romp, van borst tot bekken. Meervoud: 'buiken'. Synoniem: 'abdomen' (medisch), 'maag' (informeel). Figuurlijk: 'een buikgevoel' = intuïtie; 'buikpijn hebben van iets' = ergens een slecht gevoel over hebben.",
+    "hint": "Borst, buik en rug zijn alle drie delen van de romp. De buik zit aan de voorkant en bevat je spijsverteringsorganen. Welk deel?",
+    "collocations": [
+      "buikpijn hebben",
+      "een buikgevoel",
+      "op je buik liggen"
+    ]
+  },
+  {
+    "word": "dood",
+    "pos": "zelfstandig naamwoord · de / bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De <mark>dood</mark> van zijn vader trof hem diep en onverwacht.",
+      "De plant was helemaal <mark>dood</mark> na twee weken zonder water.",
+      "Ze was <mark>doodmoe</mark> na drie nachten slecht hebben geslapen."
+    ],
+    "options": [
+      "de toestand van diep slapen waarbij het lichaam herstelt",
+      "het definitieve einde van het leven van een organisme",
+      "een ernstige aandoening waarbij organen tijdelijk stoppen met functioneren",
+      "een tijdelijke toestand van bewusteloosheid door ziekte of shock"
+    ],
+    "correct": 1,
+    "explanation": "'Dood' = het definitieve einde van het leven. Als bijvoeglijk naamwoord: niet meer levend. Werkwoord: 'doodgaan', 'sterven'. Synoniem: 'overlijden'. Figuurlijk: 'doodmoe' = uiterst vermoeid; 'een doodstille nacht' = volkomen stil.",
+    "hint": "Slaap, bewusteloosheid en dood zijn alle drie toestanden van inactiviteit. Wat maakt de dood anders dan de andere twee?",
+    "collocations": [
+      "de dood van iemand",
+      "dood of levend",
+      "doodmoe zijn"
+    ]
+  },
+  {
+    "word": "dromen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>droomde</mark> elke nacht over de reis die ze wilde maken.",
+      "Hij <mark>droomt</mark> er al jaren van om zijn eigen restaurant te openen.",
+      "Ze zat in de klas te <mark>dromen</mark> in plaats van op te letten."
+    ],
+    "options": [
+      "actief nadenken over een probleem en mogelijke oplossingen bedenken",
+      "onbewust bewegen of praten tijdens een diepe slaapfase",
+      "jezelf mentaal voorbereiden op een moeilijke situatie of taak",
+      "beelden en verhalen ervaren tijdens de slaap, of verlangen naar iets"
     ],
     "correct": 3,
-    "explanation": "'Lichaam' is het fysieke, materiële deel van een mens of dier — de tegenhanger van 'geest' of 'ziel'.",
-    "hint": "Niet je gedachten, maar het fysieke deel van jou. Je armen, benen, hoofd — dat is je..."
+    "explanation": "'Dromen' = beelden ervaren tijdens slaap, of hevig verlangen naar iets. Verleden tijd: 'droomde', voltooid deelwoord: 'gedroomd'. Synoniem: 'mijmeren', 'fantaseren'. Figuurlijk: 'van iets dromen' = iets heel graag willen; 'dat had ik nooit gedroomd' = dat had ik nooit verwacht.",
+    "hint": "Dit woord heeft een letterlijke (tijdens slaap) en een figuurlijke (verlangen) betekenis. Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "van iets dromen",
+      "een droom najagen",
+      "dromen over de toekomst"
+    ]
+  },
+  {
+    "word": "geestelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Naast lichamelijke zorg is ook <mark>geestelijke</mark> begeleiding essentieel na een trauma.",
+      "Hij heeft een sterke <mark>geestelijke</mark> weerbaarheid opgebouwd door meditatie.",
+      "De <mark>geestelijke</mark> gezondheid van medewerkers staat hoog op de agenda van het bedrijf."
+    ],
+    "options": [
+      "betrekking hebbend op de geest, het mentale of psychologische welzijn",
+      "betrekking hebbend op het lichaam en zijn fysieke functies",
+      "betrekking hebbend op de sociale contacten en relaties van een persoon",
+      "betrekking hebbend op de medische behandeling van lichamelijke kwalen"
+    ],
+    "correct": 0,
+    "explanation": "'Geestelijk' = betrekking hebbend op de geest of het mentale. Antonym: 'lichamelijk', 'fysiek'. Synoniem: 'mentaal', 'psychisch'. Figuurlijk: 'geestelijk vader' = de persoon die een idee of beweging heeft geïnspireerd.",
+    "hint": "Geestelijk en lichamelijk zijn elkaars tegengestelden in de zorg. Lichamelijk gaat over het lichaam; geestelijk gaat over...?",
+    "collocations": [
+      "geestelijke gezondheid",
+      "geestelijke verzorging",
+      "lichamelijk en geestelijk"
+    ]
+  },
+  {
+    "word": "gezond",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze eet <mark>gezond</mark> en sport drie keer per week om fit te blijven.",
+      "De dokter verklaarde hem volledig <mark>gezond</mark> na het onderzoek.",
+      "Een <mark>gezonde</mark> dosis scepsis is goed bij het lezen van nieuws online."
+    ],
+    "options": [
+      "volledig vrij van pijn maar nog niet hersteld van een ziekte",
+      "sterk genoeg om te werken ondanks een aanhoudende aandoening",
+      "in goede fysieke en mentale toestand, vrij van ziekte of gebrek",
+      "gevrijwaard van besmettelijke ziekte en veilig voor anderen"
+    ],
+    "correct": 2,
+    "explanation": "'Gezond' = in goede lichamelijke en geestelijke toestand. Antonym: 'ziek'. Zelfstandig naamwoord: 'gezondheid'. Synoniem: 'fit', 'welvarend'. Figuurlijk: 'een gezond bedrijf' = een financieel stabiel bedrijf; 'gezond verstand' = praktisch inzicht.",
+    "hint": "Gezond en ziek zijn elkaars tegenovergestelden. Gezond beschrijft de ideale toestand van het lichaam en de geest — wat is er in die toestand afwezig?",
+    "collocations": [
+      "gezond leven",
+      "gezond verstand",
+      "een gezond bedrijf"
+    ]
   },
   {
     "word": "gezicht",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Ze herkende zijn <mark>gezicht</mark> meteen uit de menigte.",
-      "Hij waste zijn <mark>gezicht</mark> voor het slapengaan.",
-      "Op haar <mark>gezicht</mark> was een brede glimlach te zien."
+      "Ze waste haar <mark>gezicht</mark> elke ochtend met koud water.",
+      "Aan zijn <mark>gezicht</mark> zag ik direct dat hij slecht nieuws had.",
+      "Ze is het <mark>gezicht</mark> van de campagne — haar foto staat overal."
     ],
     "options": [
-      "het bovenstuk van het lichaam",
-      "de uitdrukking van een emotie",
-      "de voorkant van het hoofd met ogen, neus en mond",
-      "de achterkant van het hoofd"
-    ],
-    "correct": 2,
-    "explanation": "'Gezicht' is het voorste deel van het hoofd, met ogen, neus en mond. Ook gebruikt voor uitdrukking: 'een blij gezicht trekken'.",
-    "hint": "Als je in de spiegel kijkt, zie je je..."
-  },
-  {
-    "word": "adem",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "Na het hardlopen was zijn <mark>adem</mark> zwaar en snel.",
-      "Ze hield haar <mark>adem</mark> in toen ze het nieuws hoorde.",
-      "In de kou zie je je <mark>adem</mark> als een wolkje."
-    ],
-    "options": [
-      "de hartslag van het lichaam",
-      "de lucht die je in- en uitademt",
-      "het bloed dat door het lichaam stroomt",
-      "het geluid van je stem"
+      "de zijkant van het hoofd waar het oor zich bevindt",
+      "het voorste deel van het hoofd met ogen, neus en mond",
+      "het bovenste deel van het hoofd waar het haar groeit",
+      "het onderste deel van het hoofd van kin tot hals"
     ],
     "correct": 1,
-    "explanation": "'Adem' is de lucht die je inademt en uitademt. Werkwoord: 'ademen'. 'Adem inhouden' = stoppen met ademen.",
-    "hint": "Wat houd je in als je schrikt? En wat zie je in de kou als een wit wolkje?"
+    "explanation": "'Gezicht' = het voorste deel van het hoofd. Meervoud: 'gezichten'. Synoniem: 'gelaat' (formeel). Figuurlijk: 'het gezicht van iets zijn' = de publieke vertegenwoordiger zijn; 'gezicht trekken' = een grimas maken.",
+    "hint": "Hoofd, gezicht en hals zijn allen onderdelen van het bovenlichaam. Gezicht is specifieker dan hoofd — welk deel van het hoofd is het?",
+    "collocations": [
+      "het gezicht wassen",
+      "het gezicht van de campagne",
+      "een gezicht trekken"
+    ]
   },
   {
-    "word": "zwanger",
-    "pos": "bijvoeglijk naamwoord",
+    "word": "haar",
+    "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "Ze was zes maanden <mark>zwanger</mark> van een meisje.",
-      "De dokter bevestigde dat ze <mark>zwanger</mark> was.",
-      "<mark>Zwangere</mark> vrouwen krijgen speciale zorg."
+      "Ze liet haar lange <mark>haar</mark> knippen bij de kapper.",
+      "Op zijn hoofd groeide nauwelijks meer <mark>haar</mark> na zijn vijftigste.",
+      "Er scheelde maar een <mark>haar</mark> of hij had de bus gemist."
     ],
     "options": [
-      "ziek zijn door een infectie",
-      "overgewicht hebben",
-      "te moe zijn om te werken",
-      "een baby verwachten"
+      "de dunne draadvormige uitgroeisel op het hoofd of lichaam",
+      "de huid die het hoofd bedekt en beschermt tegen de zon",
+      "het vetlaagje onder de huid dat warmte vasthoudt",
+      "de kleur van de huid die varieert van persoon tot persoon"
     ],
-    "correct": 3,
-    "explanation": "'Zwanger' beschrijft een vrouw die een kind verwacht. Zelfstandig naamwoord: 'zwangerschap'. Na de bevalling is ze niet meer zwanger.",
-    "hint": "Een vrouw die een baby in haar buik draagt, is..."
+    "correct": 0,
+    "explanation": "'Haar' = dunne draadvormige uitgroeisels op hoofd of lichaam. Ontelbaar als massa, telbaar als 'een haar'. Synoniem: 'haren' (meervoud), 'lokken' (lang haar). Figuurlijk: 'op een haar na' = bijna; 'haarscherp' = uiterst precies.",
+    "hint": "Huid en haar bedekken allebei het lichaam maar zijn anders van structuur. Wat is haar — een laag of een uitgroeisel?",
+    "collocations": [
+      "haar knippen",
+      "op een haar na",
+      "haarscherp"
+    ]
   },
   {
-    "word": "hartslag",
+    "word": "hals",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Zijn <mark>hartslag</mark> steeg snel tijdens het sporten.",
-      "Een normale <mark>hartslag</mark> is 60 tot 100 slagen per minuut.",
-      "De dokter mat haar <mark>hartslag</mark> met een stethoscoop."
+      "Ze droeg een gouden ketting om haar <mark>hals</mark>.",
+      "De arts voelde aan haar <mark>hals</mark> of de lymfeklieren opgezet waren.",
+      "Hij gooit zich hals over kop in elk nieuw project zonder na te denken."
     ],
     "options": [
-      "de druk in de bloedvaten",
-      "het gewicht van het hart",
-      "de temperatuur van het bloed",
-      "het aantal keren dat het hart per minuut klopt"
+      "het smalle deel van het lichaam tussen hoofd en schouders",
+      "het gewricht tussen hoofd en romp dat rotatie mogelijk maakt",
+      "de spier die het hoofd rechtop houdt en links en rechts draait",
+      "het onderste deel van het gezicht van de kin naar beneden"
     ],
-    "correct": 3,
-    "explanation": "'Hartslag' = hoe vaak het hart per minuut klopt. Samengesteld van 'hart' + 'slag' (klap). Ook: 'polsslag' als je het bij de pols meet.",
-    "hint": "Als je je hand op je borst legt, voel je de... van je hart."
+    "correct": 0,
+    "explanation": "'Hals' = het smalle verbindingsstuk tussen hoofd en romp. Meervoud: 'halzen'. Synoniem: 'nek' (achterkant), 'keel' (binnenste). Figuurlijk: 'hals over kop' = overhaast, zonder nadenken; 'iets op de hals halen' = iets onaangenaams veroorzaken.",
+    "hint": "Hals en nek beschrijven hetzelfde lichaamsdeel maar vanuit een ander perspectief. Hals is de buitenkant aan de voorzijde; nek is...?",
+    "collocations": [
+      "een ketting om de hals",
+      "hals over kop",
+      "iets op de hals halen"
+    ]
   },
   {
-    "word": "beenbreuk",
+    "word": "hand",
     "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "level": 1,
     "examples": [
-      "Na de val had hij een <mark>beenbreuk</mark> en moest hij zes weken rusten.",
-      "De röntgenfoto toonde een <mark>beenbreuk</mark> in het onderbeen.",
-      "Bij een <mark>beenbreuk</mark> zit je been in het gips."
+      "Ze schudde zijn <mark>hand</mark> stevig bij de begroeting.",
+      "Hij werkt met zijn <mark>handen</mark> als timmerman.",
+      "Dit project is in goede <mark>handen</mark> bij haar team."
     ],
     "options": [
-      "een ontsteking van de knie",
-      "pijn in de spieren na het sporten",
-      "een gebroken bot in het been",
-      "een wond aan de buitenkant van het been"
+      "de vingers aan het einde van de hand die grijpen mogelijk maken",
+      "het gewricht dat de arm met de onderarm verbindt",
+      "het gedeelte van de arm tussen elleboog en pols",
+      "het ledemaat aan het einde van de arm vanaf de pols"
+    ],
+    "correct": 3,
+    "explanation": "'Hand' = het eindledemaat van de arm, met vingers. Meervoud: 'handen'. Synoniem: 'vuist' (gesloten hand). Figuurlijk: 'in goede handen zijn' = goed verzorgd worden; 'de hand schudden' = begroeten; 'iemand de hand boven het hoofd houden' = iemand beschermen.",
+    "hint": "Arm, hand en vinger zijn allemaal verbonden. De hand zit aan het einde van je arm en heeft vijf...?",
+    "collocations": [
+      "een hand geven",
+      "in goede handen",
+      "hand in hand"
+    ]
+  },
+  {
+    "word": "hoofd",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze had <mark>hoofdpijn</mark> na een dag achter haar computerscherm.",
+      "Het antwoord schoot hem plotseling door het <mark>hoofd</mark>.",
+      "Hij is het <mark>hoofd</mark> van de afdeling en verantwoordelijk voor twaalf medewerkers."
+    ],
+    "options": [
+      "het voorste deel van het bovenlichaam met ogen, neus en mond",
+      "het orgaan in het bovenlichaam dat signalen verwerkt en stuurt",
+      "het bovenste deel van het lichaam dat het gezicht en de hersenen bevat",
+      "het gewricht bovenaan de romp dat het hoofd ondersteunt"
     ],
     "correct": 2,
-    "explanation": "'Beenbreuk' = een gebroken bot in het been. Samengesteld van 'been' (bot of lichaamsdeel) + 'breuk' (het breken). Synonieem: 'fractuur'.",
-    "hint": "Na een val of ongeluk kan een bot breken. Als dat in je been is, heb je een..."
+    "explanation": "'Hoofd' = het bovenste deel van het lichaam. Meervoud: 'hoofden'. Synoniem: 'kop' (informeel). Figuurlijk: 'hoofd van de afdeling' = de leidinggevende; 'iets in zijn hoofd halen' = een idee krijgen; 'hoofdpijn' = pijn in het hoofd.",
+    "hint": "Gezicht en hoofd zijn nauw verwant. Het hoofd is het geheel; het gezicht is slechts een deel ervan. Welk deel is het gezicht van het hoofd?",
+    "collocations": [
+      "hoofdpijn hebben",
+      "hoofd van de afdeling",
+      "iets in het hoofd halen"
+    ]
+  },
+  {
+    "word": "hart",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Haar <mark>hart</mark> klopte snel van de zenuwen voor de presentatie.",
+      "Na de marathon was zijn <mark>hart</mark> nog minutenlang aan het bonken.",
+      "Ze heeft dit project echt aan haar <mark>hart</mark> gesloten — ze werkt er met volle overgave aan."
+    ],
+    "options": [
+      "het orgaan dat bloed door het lichaam pompt via samentrekkingen",
+      "het orgaan dat voedsel verteert en voedingsstoffen opneemt",
+      "het orgaan dat bloed filtert en afvalstoffen verwijdert",
+      "het orgaan dat zuurstof opneemt uit de lucht die je inademt"
+    ],
+    "correct": 0,
+    "explanation": "'Hart' = het holle spierorgaan dat bloed pompt. Meervoud: 'harten'. Synoniem: 'cor' (medisch). Figuurlijk: 'iets aan het hart gesloten hebben' = ergens veel om geven; 'van harte' = oprecht; 'het hart van het probleem' = de kern.",
+    "hint": "Long, hart, lever en maag zijn alle vier organen in de romp. Welk orgaan pompt — het kloppert en stuurt bloed door je aderen?",
+    "collocations": [
+      "hart en ziel",
+      "van harte",
+      "het hart van het probleem"
+    ]
+  },
+  {
+    "word": "heer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Een vriendelijke <mark>heer</mark> hield de deur voor haar open.",
+      "De <mark>heren</mark> van het bestuur zijn uitgenodigd voor de receptie.",
+      "Hij gedraagt zich als een echte <mark>heer</mark> — altijd beleefd en attent."
+    ],
+    "options": [
+      "een aanspreektitel die uitsluitend voor adel of royalty wordt gebruikt",
+      "een eretitel voor een man die een universitaire graad heeft behaald",
+      "een formele of beleefde benaming voor een volwassen man",
+      "een informele aanspreektitel voor een jonge man onder de dertig"
+    ],
+    "correct": 2,
+    "explanation": "'Heer' = een formele of beleefde aanduiding voor een man. Meervoud: 'heren'. Vrouwelijk: 'dame'. Synoniem: 'meneer' (informeler). Figuurlijk: 'een heer van stand' = iemand van goede afkomst; 'heer en meester zijn over' = volledige controle hebben.",
+    "hint": "Heer, meneer en man beschrijven alle drie een volwassen mannelijk persoon. Heer is het formeel-beleefd. In welke context gebruik je eerder 'heer' dan 'meneer'?",
+    "collocations": [
+      "geachte heer",
+      "een echte heer",
+      "heren en dames"
+    ]
+  },
+  {
+    "word": "hersenen",
+    "pos": "zelfstandig naamwoord · de (meervoud)",
+    "level": 2,
+    "examples": [
+      "De <mark>hersenen</mark> verwerken miljoenen signalen per seconde.",
+      "Na de val had hij een hersenschudding en moest hij de <mark>hersenen</mark> laten onderzoeken.",
+      "Ze gebruikt haar <mark>hersenen</mark> goed — ze heeft altijd slimme oplossingen."
+    ],
+    "options": [
+      "het orgaan dat hormonen aanmaakt die het lichaam reguleren",
+      "de zenuwen in de ruggengraat die signalen naar het lichaam sturen",
+      "het orgaan in de schedel dat alle lichaamsfuncties en gedachten stuurt",
+      "het orgaan in de borstholte dat bloed door het lichaam pompt"
+    ],
+    "correct": 2,
+    "explanation": "'Hersenen' = het centrale orgaan van het zenuwstelsel in de schedel. Altijd meervoud. Synoniem: 'brein', 'het hoofd'. Figuurlijk: 'zijn hersenen gebruiken' = goed nadenken; 'de hersenen kraken' = hard nadenken over een probleem.",
+    "hint": "Hart en hersenen zijn allebei vitale organen. Hart pompt bloed; hersenen sturen alles aan. Waar in je lichaam zitten de hersenen?",
+    "collocations": [
+      "hersenen kraken",
+      "hersenschudding",
+      "zijn hersenen gebruiken"
+    ]
+  },
+  {
+    "word": "herstel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Na de operatie verliep zijn <mark>herstel</mark> sneller dan de artsen hadden verwacht.",
+      "Het economische <mark>herstel</mark> na de crisis duurde jaren.",
+      "Ze heeft een lang <mark>herstel</mark> voor de boeg na de zware behandeling."
+    ],
+    "options": [
+      "de chirurgische ingreep die nodig is om een aandoening te verhelpen",
+      "het proces van terugkeren naar een goede toestand na ziekte of schade",
+      "de medische diagnose die een arts stelt na onderzoek van de patiënt",
+      "de medicatie die een arts voorschrijft ter bestrijding van een ziekte"
+    ],
+    "correct": 1,
+    "explanation": "'Herstel' = het proces van terugkeren naar gezondheid of normale staat. Werkwoord: 'herstellen'. Synoniem: 'genezing', 'revalidatie'. Figuurlijk: 'economisch herstel' = de terugkeer naar economische groei na een crisis.",
+    "hint": "Ziekte, behandeling en herstel volgen elkaar op in een zorgtraject. Herstel is de laatste fase — wat keert er terug?",
+    "collocations": [
+      "volledig herstel",
+      "in herstel zijn",
+      "het herstel verloopt goed"
+    ]
+  },
+  {
+    "word": "huisarts",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze belde de <mark>huisarts</mark> voor een afspraak vanwege haar aanhoudende keelpijn.",
+      "Mijn <mark>huisarts</mark> kent mijn medische geschiedenis al meer dan tien jaar.",
+      "De <mark>huisarts</mark> verwees haar door naar een specialist in het ziekenhuis."
+    ],
+    "options": [
+      "een arts die uitsluitend operaties uitvoert in een ziekenhuisomgeving",
+      "een arts die algemene medische zorg biedt als eerste aanspreekpunt",
+      "een arts die gespecialiseerd is in de behandeling van ouderen",
+      "een specialist in het ziekenhuis die één specifiek orgaan of systeem behandelt"
+    ],
+    "correct": 1,
+    "explanation": "'Huisarts' = de algemeen arts die je als eerste bezoekt bij klachten. Meervoud: 'huisartsen'. Synoniem: 'GP' (Engels), 'dokter'. Figuurlijk: 'de huisarts als poortwachter' = de huisarts beslist of je naar een specialist wordt verwezen.",
+    "hint": "Huisarts en specialist zijn beiden artsen. De huisarts is je eerste aanspreekpunt; de specialist is...?",
+    "collocations": [
+      "naar de huisarts gaan",
+      "de huisarts bellen",
+      "een verwijzing van de huisarts"
+    ]
+  },
+  {
+    "word": "jongeman",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Een beleefde <mark>jongeman</mark> hielp haar met haar zware boodschappentas.",
+      "De <mark>jongeman</mark> solliciteerde op zijn eerste baan na zijn studie.",
+      "Ze keek trots naar de <mark>jongeman</mark> die haar zoon was geworden."
+    ],
+    "options": [
+      "een jongen in de basisschoolleeftijd van zes tot twaalf jaar",
+      "een volwassen man die ouder is dan vijfenveertig jaar",
+      "een mannelijke persoon in de leeftijd van ongeveer vijftien tot dertig jaar",
+      "een mannelijk kind dat nog niet naar school gaat"
+    ],
+    "correct": 2,
+    "explanation": "'Jongeman' = een mannelijk persoon in zijn jeugd of vroege volwassenheid. Meervoud: 'jongemannen'. Synoniem: 'jongere', 'jongeling' (formeel). Figuurlijk: een beleefde aanspreektitel voor een jonge man die je niet kent.",
+    "hint": "Jongen, jongeman en man beschrijven mannelijke personen in oplopende leeftijd. Jongeman zit ertussenin. Wat is de leeftijdsrange?",
+    "collocations": [
+      "een jonge jongeman",
+      "een beleefde jongeman",
+      "de jongeman van tegenwoordig"
+    ]
+  },
+  {
+    "word": "jongen",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>jongens</mark> speelden voetbal op het schoolplein tijdens de pauze.",
+      "Als kleine <mark>jongen</mark> droomde hij ervan om piloot te worden.",
+      "Dat is een goede <mark>jongen</mark> — hij helpt altijd zonder iets terug te verwachten."
+    ],
+    "options": [
+      "een mannelijk kind of jonge tiener",
+      "een mannelijk kind tussen tien en vijftien jaar oud",
+      "een jonge volwassen man tussen twintig en dertig jaar",
+      "een mannelijk persoon ongeacht zijn leeftijd"
+    ],
+    "correct": 0,
+    "explanation": "'Jongen' = een mannelijk kind of jonge tiener. Meervoud: 'jongens'. Vrouwelijk: 'meisje'. Synoniem: 'knaap' (formeel). Figuurlijk: 'de jongens' = de mannen in een informele groep; 'een goede jongen' = iemand met een goed karakter.",
+    "hint": "Jongen, jongeman en man zijn mannelijke leeftijdsstadia. Jongen is de jongste categorie. Wat is de typische leeftijdsgrens?",
+    "collocations": [
+      "een kleine jongen",
+      "de jongens van het team",
+      "een goede jongen"
+    ]
+  },
+  {
+    "word": "kind",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het <mark>kind</mark> leerde lopen op zijn eerste verjaardag.",
+      "Ze heeft drie <mark>kinderen</mark> en werkt parttime als lerares.",
+      "Hij is een echt <mark>kind</mark> van zijn tijd — volledig digital native."
+    ],
+    "options": [
+      "een jong menselijk wezen in de fase voor volwassenheid",
+      "een persoon die zich kinderlijk gedraagt ondanks zijn volwassen leeftijd",
+      "de nakomeling van een persoon, ongeacht zijn leeftijd",
+      "een persoon die juridisch meerderjarig is verklaard na zijn achttiende"
+    ],
+    "correct": 0,
+    "explanation": "'Kind' = een jong menselijk wezen vóór de volwassenheid. Meervoud: 'kinderen'. Synoniem: 'kleintje', 'nakomeling'. Figuurlijk: 'kind van zijn tijd zijn' = typisch zijn voor de eigen generatie; 'kind aan huis zijn' = ergens zo vertrouwd zijn alsof je er woont.",
+    "hint": "Kind heeft twee betekenissen: een jong persoon én de nakomeling van iemand. Wat is het verschil — kan een veertigjarige ook 'kind' zijn?",
+    "collocations": [
+      "een kind grootbrengen",
+      "kind aan huis",
+      "kind van zijn tijd"
+    ]
+  },
+  {
+    "word": "klacht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze meldde zich bij de huisarts met klachten van aanhoudende vermoeidheid.",
+      "Hij diende een formele <mark>klacht</mark> in bij de directie over de arbeidsomstandigheden.",
+      "De klantenservice ontving honderden <mark>klachten</mark> na de storingen."
+    ],
+    "options": [
+      "een positieve evaluatie die een patiënt geeft na een behandeling",
+      "een verzoek om informatie over een product of dienst",
+      "een uiting van pijn, ongemak of ontevredenheid over iets of iemand",
+      "een medische diagnose die een arts stelt na onderzoek"
+    ],
+    "correct": 2,
+    "explanation": "'Klacht' = een uiting van ongemak of ontevredenheid. Meervoud: 'klachten'. Werkwoord: 'klagen'. Synoniem: 'bezwaar', 'symptoom' (medisch). Figuurlijk: 'klachten hebben' kan medisch zijn (pijn) of zakelijk (ontevredenheid).",
+    "hint": "In medische context zijn klachten de symptomen die een patiënt beschrijft. In zakelijke context zijn het uitingen van ontevredenheid. Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "klachten melden",
+      "een klacht indienen",
+      "klachten behandelen"
+    ]
+  },
+  {
+    "word": "knie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze viel en schaafde haar <mark>knie</mark> op de stoep.",
+      "De voetballer moest stoppen wegens een blessure aan zijn <mark>knie</mark>.",
+      "Hij zakte door zijn <mark>knieën</mark> toen hij het slechte nieuws hoorde."
+    ],
+    "options": [
+      "de spier aan de voorzijde van het been die het strekken mogelijk maakt",
+      "het gewricht dat de voet met het onderbeen verbindt",
+      "het gewricht midden in het been dat het boven- en onderbeen verbindt",
+      "het gewricht bovenaan het been dat het been met de romp verbindt"
+    ],
+    "correct": 2,
+    "explanation": "'Knie' = het middelste gewricht van het been. Meervoud: 'knieën'. Synoniem: 'kniegewricht'. Figuurlijk: 'door de knieën gaan' = capituleren of bezwijken; 'iemand over de knie leggen' = iemand straffen.",
+    "hint": "Heup, knie en enkel zijn drie gewrichten in het been van boven naar beneden. De knie zit in het midden — wat verbindt hij?",
+    "collocations": [
+      "door de knieën gaan",
+      "een knieblessure",
+      "op de knieën vallen"
+    ]
+  },
+  {
+    "word": "leven",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze geniet van het <mark>leven</mark> en reist zo veel mogelijk.",
+      "Het <mark>leven</mark> in de stad verschilt sterk van het platteland.",
+      "Hij gaf zijn <mark>leven</mark> voor zijn land tijdens de oorlog."
+    ],
+    "options": [
+      "de biologische functies die een organisme in stand houden",
+      "de periode van gezondheid vóór het optreden van een ernstige ziekte",
+      "het totaal van ervaringen en activiteiten van een levend wezen",
+      "de tijd die iemand doorbrengt op zijn werk of met zijn carrière"
+    ],
+    "correct": 2,
+    "explanation": "'Leven' = het totaal van een organisme's bestaan en ervaringen. Werkwoord: 'leven'. Antonym: 'dood'. Synoniem: 'bestaan', 'leventje'. Figuurlijk: 'het leven geven voor iets' = het hoogste offer brengen; 'een leven leiden' = een bepaald soort bestaan hebben.",
+    "hint": "Leven en dood zijn elkaars tegenovergestelden. Leven beschrijft niet alleen dat je ademt, maar ook alles wat je...?",
+    "collocations": [
+      "van het leven genieten",
+      "een leven leiden",
+      "zijn leven geven"
+    ]
+  },
+  {
+    "word": "lichaam",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Sport is goed voor zowel het <mark>lichaam</mark> als de geest.",
+      "Haar <mark>lichaam</mark> reageerde goed op de nieuwe medicatie.",
+      "Het <mark>lichaam</mark> van de wet kent geen uitzonderingen voor rijken."
+    ],
+    "options": [
+      "het geheel van fysieke delen van een organisme als één systeem",
+      "de huid en het oppervlak dat het inwendige beschermt",
+      "de spieren en botten die het bewegingsapparaat vormen",
+      "alleen de inwendige organen die vitale functies uitvoeren"
+    ],
+    "correct": 0,
+    "explanation": "'Lichaam' = het geheel van de fysieke structuur van een mens of dier. Meervoud: 'lichamen'. Synoniem: 'lijf', 'fysiek'. Figuurlijk: 'een wettelijk lichaam' = een rechtspersoon; 'lichaam en geest' = de dualiteit van fysiek en mentaal.",
+    "hint": "Lichaam omvat alles — huid, spieren, botten, organen. Wat is het verschil tussen je lichaam en je geest?",
+    "collocations": [
+      "lichaam en geest",
+      "een gezond lichaam",
+      "het lichaam verzorgen"
+    ]
+  },
+  {
+    "word": "maag",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze had de hele dag niets gegeten en haar <mark>maag</mark> rammelde luidruchtig.",
+      "Het zure eten bezorgde hem <mark>maagpijn</mark> de hele nacht.",
+      "De opdracht gaf hem een raar gevoel in zijn <mark>maag</mark>."
+    ],
+    "options": [
+      "het orgaan in de buik dat voedsel opslaat en verteert",
+      "de lange buis in de buik die voedingsstoffen opneemt",
+      "het orgaan in de borstholte dat zuurstof uit de lucht haalt",
+      "het orgaan in de buik dat bloed filtert en ontgift"
+    ],
+    "correct": 0,
+    "explanation": "'Maag' = het spijsverteringsorgaan dat voedsel opslaat en verteert. Meervoud: 'magen'. Synoniem: 'buik' (informeel), 'ventriculus' (medisch). Figuurlijk: 'maagpijn hebben van iets' = ergens een slecht gevoel bij hebben; 'een ijzeren maag hebben' = alles kunnen eten.",
+    "hint": "Maag, lever en darm zijn organen in je buik. De maag verteert — wat gaat erin na het eten?",
+    "collocations": [
+      "maagpijn hebben",
+      "een lege maag",
+      "een ijzeren maag"
+    ]
+  },
+  {
+    "word": "man",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>man</mark> aan de balie hielp haar snel en vriendelijk.",
+      "Ze is getrouwd met een aardige <mark>man</mark> die ze op het werk heeft leren kennen.",
+      "Hij is de aangewezen <mark>man</mark> voor deze klus — niemand kent het systeem beter."
+    ],
+    "options": [
+      "een mannelijk kind dat de basisschool bezoekt",
+      "een mannelijk persoon ouder dan vijftig jaar",
+      "een mannelijk persoon die getrouwd is",
+      "een volwassen mannelijk persoon"
+    ],
+    "correct": 3,
+    "explanation": "'Man' = een volwassen mannelijk persoon. Meervoud: 'mannen'. Vrouwelijk: 'vrouw'. Synoniem: 'heer' (formeel), 'kerel' (informeel). Figuurlijk: 'de aangewezen man' = de meest geschikte persoon; 'man en paard noemen' = heel specifiek zijn.",
+    "hint": "Jongen, jongeman en man zijn mannelijke leeftijdsstadia. Man is de volwassen versie. Wat is de minimumleeftijd?",
+    "collocations": [
+      "een goede man",
+      "man en vrouw",
+      "de aangewezen man"
+    ]
+  },
+  {
+    "word": "medicijn",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De arts schreef een <mark>medicijn</mark> voor tegen de infectie.",
+      "Je moet dit <mark>medicijn</mark> drie keer per dag innemen bij de maaltijd.",
+      "Lachen is het beste <mark>medicijn</mark> — dat zeggen ze altijd."
+    ],
+    "options": [
+      "een ingreep waarbij een arts het lichaam operatief behandelt",
+      "een therapie waarbij gesproken wordt over psychische klachten",
+      "een stof die wordt ingenomen of toegediend om ziekte te behandelen",
+      "een behandeling waarbij het lichaam wordt blootgesteld aan straling"
+    ],
+    "correct": 2,
+    "explanation": "'Medicijn' = een stof ter behandeling of preventie van ziekte. Meervoud: 'medicijnen'. Synoniem: 'geneesmiddel', 'pil', 'middel'. Figuurlijk: 'lachen is het beste medicijn' = vrolijkheid helpt bij herstel.",
+    "hint": "Medicijn, operatie en therapie zijn alle drie behandelingsmethoden. Welke is een stof die je inneemt of krijgt toegediend?",
+    "collocations": [
+      "een medicijn innemen",
+      "medicijnen voorschrijven",
+      "het beste medicijn"
+    ]
+  },
+  {
+    "word": "meisje",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het kleine <mark>meisje</mark> huilde om haar gevallen ijsje.",
+      "Als <mark>meisje</mark> droomde ze ervan om astronaut te worden.",
+      "Ze is nog een <mark>meisje</mark> van zestien — geef haar de tijd om te groeien."
+    ],
+    "options": [
+      "een vrouwelijk persoon ongeacht leeftijd in informele context",
+      "een jonge vrouwelijke volwassene tussen achttien en vijfentwintig",
+      "een vrouwelijk kind tussen twee en zes jaar oud",
+      "een vrouwelijk kind of jonge tiener"
+    ],
+    "correct": 3,
+    "explanation": "'Meisje' = een vrouwelijk kind of jonge tiener. Meervoud: 'meisjes'. Mannelijk equivalent: 'jongen'. Synoniem: 'meid' (informeel). Figuurlijk: 'een meisje van niks' = iemand van gewone komaf; 'zijn meisje' = zijn vriendin.",
+    "hint": "Meisje, jonge vrouw en vrouw zijn vrouwelijke leeftijdsstadia. Meisje is de jongste. Wat is de typische leeftijdsgrens?",
+    "collocations": [
+      "een klein meisje",
+      "zijn meisje",
+      "meisjes onderling"
+    ]
+  },
+  {
+    "word": "meneer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Meneer</mark> Jansen, uw afspraak staat klaar in spreekkamer drie.",
+      "Mag ik u helpen, <mark>meneer</mark>?",
+      "De <mark>meneer</mark> van de belasting stuurde een aanmaning voor de achterstallige betaling."
+    ],
+    "options": [
+      "een beleefde aanspreektitel voor een onbekende volwassen man",
+      "een informele aanspreektitel voor een goede mannelijke vriend",
+      "een formele eretitel voor een man met een universitaire graad",
+      "een aanspreektitel die uitsluitend voor leerkrachten op school wordt gebruikt"
+    ],
+    "correct": 0,
+    "explanation": "'Meneer' = een beleefde aanspreektitel voor een volwassen man. Vrouwelijk: 'mevrouw'. Synoniem: 'heer' (formeler). Figuurlijk: 'meneer wil dit niet' = sarcastic gebruik om iemands aanstelling te benadrukken.",
+    "hint": "Meneer en heer beschrijven allebei een beleefd mannelijk aanspreekvormen. Meneer is informeler en dagelijkser. In welke situatie gebruik je meneer?",
+    "collocations": [
+      "meneer en mevrouw",
+      "goedemiddag meneer",
+      "meneer de voorzitter"
+    ]
+  },
+  {
+    "word": "mens",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>mens</mark> is het enige dier dat gesproken taal gebruikt.",
+      "Ze is een bijzonder <mark>mens</mark> — vol empathie en wijsheid.",
+      "In tijden van crisis komen <mark>mensen</mark> nader tot elkaar."
+    ],
+    "options": [
+      "een persoon die een bepaalde professie of beroep uitoefent",
+      "een persoon die behoort tot een specifieke culturele of nationale groep",
+      "een individu dat onderscheiden wordt van anderen door zijn karakter",
+      "een lid van de soort Homo sapiens als individu of als soort"
+    ],
+    "correct": 3,
+    "explanation": "'Mens' = een lid van de menselijke soort. Meervoud: 'mensen'. Synoniem: 'persoon', 'individu'. Figuurlijk: 'een goed mens zijn' = moreel integer zijn; 'de mens als maat' = de menselijke schaal centraal stellen.",
+    "hint": "Mens, persoon en individu beschrijven alledrie een menselijk wezen. Mens is het meest algemeen — het verwijst naar de soort zelf. Wat onderscheidt het van 'dier'?",
+    "collocations": [
+      "de mens als soort",
+      "een goed mens",
+      "mensen zijn sociaal"
+    ]
+  },
+  {
+    "word": "mevrouw",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Mevrouw</mark> De Jong, uw bestelling is klaar voor afhaling.",
+      "De <mark>mevrouw</mark> aan de receptie verwees hem naar de tweede verdieping.",
+      "Mag ik u iets vragen, <mark>mevrouw</mark>?"
+    ],
+    "options": [
+      "een informele aanspreektitel voor een vrouwelijke vriendin of kennis",
+      "een formele eretitel voor een vrouw die een leidinggevende positie bekleedt",
+      "een beleefde aanspreektitel voor een onbekende volwassen vrouw",
+      "een aanspreektitel uitsluitend voor getrouwde vrouwen"
+    ],
+    "correct": 2,
+    "explanation": "'Mevrouw' = een beleefde aanspreektitel voor een volwassen vrouw. Mannelijk: 'meneer'. Synoniem: 'dame' (formeler). Figuurlijk: In modern taalgebruik wordt mevrouw gebruikt ongeacht de burgerlijke staat.",
+    "hint": "Mevrouw is de vrouwelijke tegenhanger van 'meneer'. Wanneer gebruik je mevrouw in plaats van de voornaam?",
+    "collocations": [
+      "mevrouw en meneer",
+      "goedemiddag mevrouw",
+      "mevrouw de directeur"
+    ]
+  },
+  {
+    "word": "moeder",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Haar <mark>moeder</mark> belde elke zondag om bij te praten.",
+      "Ze is de <mark>moeder</mark> van drie zonen en één dochter.",
+      "Amsterdam is de <mark>moeder</mark> van alle Nederlandse steden qua handelsgeschiedenis."
+    ],
+    "options": [
+      "een vrouwelijk familielid getrouwd met de broer van een ouder",
+      "een vrouwelijk familielid dat een generatie ouder is maar geen ouder",
+      "een vrouwelijk familielid dat dezelfde ouders heeft als jij",
+      "de vrouwelijke ouder die een kind heeft gebaard of grootgebracht"
+    ],
+    "correct": 3,
+    "explanation": "'Moeder' = de vrouwelijke ouder. Meervoud: 'moeders'. Synoniem: 'mama', 'mam'. Figuurlijk: 'de moeder aller problemen' = het grootste of centrale probleem; 'moedertaal' = je eerste taal.",
+    "hint": "Moeder, tante en zus zijn vrouwelijke familieleden. Moeder heeft een directe ouder-kindrelatie. Wat is haar rol?",
+    "collocations": [
+      "mijn moeder",
+      "moeder worden",
+      "moedertaal"
+    ]
+  },
+  {
+    "word": "mond",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Praat niet met volle <mark>mond</mark> — dat is slechte manieren.",
+      "Ze opende haar <mark>mond</mark> om iets te zeggen maar zweeg toch.",
+      "Hij heeft een grote <mark>mond</mark> maar doet nooit wat hij belooft."
+    ],
+    "options": [
+      "het orgaan dat smaken waarneemt en voedsel naar de keel stuurt",
+      "het orgaan in het gezicht dat taal produceert en geluid maakt",
+      "de opening in het gezicht voor eten, drinken en spreken",
+      "de spier in het gezicht die gezichtsuitdrukkingen mogelijk maakt"
+    ],
+    "correct": 2,
+    "explanation": "'Mond' = de opening in het gezicht voor eten, drinken en spreken. Meervoud: 'monden'. Synoniem: 'bek' (dieren/grof). Figuurlijk: 'een grote mond hebben' = praatgraag zijn of opscheppen; 'mond houden' = zwijgen.",
+    "hint": "Mond, neus en oor zijn alle drie openingen in het hoofd. De mond heeft meerdere functies — welke drie zijn dat?",
+    "collocations": [
+      "mond houden",
+      "een grote mond",
+      "met volle mond praten"
+    ]
+  },
+  {
+    "word": "nek",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze had een stijve <mark>nek</mark> na een nacht slecht slapen.",
+      "Hij keek om en voelde een pijnscheut in zijn <mark>nek</mark>.",
+      "De deadline zit hem op de <mark>nek</mark> — hij werkt overuren."
+    ],
+    "options": [
+      "de voorzijde van het smalle deel tussen hoofd en schouders",
+      "de achterzijde van het smalle deel tussen hoofd en schouders",
+      "het gewricht dat het hoofd in alle richtingen kan draaien",
+      "de spier die de schouders met het hoofd verbindt"
+    ],
+    "correct": 1,
+    "explanation": "'Nek' = de achterzijde van het smalle deel tussen hoofd en schouders. Meervoud: 'nekken'. Synoniem: 'cervix' (medisch). Figuurlijk: 'iets op de nek zitten' = dringend achter iemand aanzitten; 'de nek omdraaien' = iets of iemand de das omdoen.",
+    "hint": "Hals en nek beschrijven hetzelfde lichaamsdeel. Hals is de voorzijde; nek is de...?",
+    "collocations": [
+      "een stijve nek",
+      "iets op de nek zitten",
+      "de nek omdraaien"
+    ]
+  },
+  {
+    "word": "neus",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze snoot haar <mark>neus</mark> en stopte het zakdoekje terug in haar zak.",
+      "De hond volgde het spoor met zijn gevoelige <mark>neus</mark>.",
+      "Hij heeft een goede <mark>neus</mark> voor goede investeringen in de vastgoedmarkt."
+    ],
+    "options": [
+      "het uitstekende orgaan in het gezicht dat geuren waarneemt en lucht filtert",
+      "het orgaan in het gezicht dat licht waarneemt en zien mogelijk maakt",
+      "de opening in het gezicht waarmee je voedsel en drank inneemt",
+      "het orgaan in het gezicht dat geluiden waarneemt en versterkt"
+    ],
+    "correct": 0,
+    "explanation": "'Neus' = het uitstekende reukorgaan in het midden van het gezicht. Meervoud: 'neuzen'. Synoniem: 'reukorgaan'. Figuurlijk: 'een neus hebben voor' = aanleg hebben voor iets; 'je neus ophalen voor' = iets minachten.",
+    "hint": "Oog, oor, mond en neus zijn de vier zintuigorganen in het gezicht. Welk zintuig hoort bij de neus?",
+    "collocations": [
+      "een neus hebben voor",
+      "je neus ophalen voor",
+      "neus snuiten"
+    ]
+  },
+  {
+    "word": "oog",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze had blauwe <mark>ogen</mark> die oplichtten als ze lachte.",
+      "Het felle licht deed zijn <mark>ogen</mark> pijn na uren in het donker.",
+      "Dit project vraagt om een <mark>oog</mark> voor detail — elk foutje telt."
+    ],
+    "options": [
+      "het orgaan dat tast- en temperatuurprikkels waarneemt",
+      "het orgaan dat geluidsgolven opvangt en omzet in signalen",
+      "het orgaan dat licht waarneemt en zien mogelijk maakt",
+      "het orgaan dat geuren detecteert via chemische receptoren"
+    ],
+    "correct": 2,
+    "explanation": "'Oog' = het visuele zintuigorgaan. Meervoud: 'ogen'. Synoniem: 'gezichtsorgaan'. Figuurlijk: 'een oog voor iets hebben' = gevoel voor iets hebben; 'een oogje op iemand hebben' = romantische interesse; 'in het oog springen' = opvallen.",
+    "hint": "Oog, oor en neus zijn zintuigorganen in het gezicht. Welk zintuig — zien, horen of ruiken — hoort bij het oog?",
+    "collocations": [
+      "een oog voor detail",
+      "in het oog springen",
+      "een oogje op iemand"
+    ]
+  },
+  {
+    "word": "oor",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze fluisterde iets in zijn <mark>oor</mark> en hij begon te lachen.",
+      "Het harde geluid deed zijn <mark>oren</mark> pijn.",
+      "Dat verhaal komt me bekend voor — ik heb het eerder ter <mark>ore</mark> gekregen."
+    ],
+    "options": [
+      "het orgaan dat evenwicht en positie van het lichaam detecteert",
+      "het orgaan dat geuren en smaken via de neus waarneemt",
+      "het orgaan dat licht en kleur waarneemt via optische receptoren",
+      "het orgaan dat geluidsgolven opvangt en omzet in hoorbare signalen"
+    ],
+    "correct": 3,
+    "explanation": "'Oor' = het gehoororgaan. Meervoud: 'oren'. Synoniem: 'gehoororgaan'. Figuurlijk: 'iets ter ore komen' = iets horen; 'een goed oor hebben voor' = muzikaal aangelegd zijn; 'aan dovemansoren gericht' = zinloos praten.",
+    "hint": "Oog en oor zijn de twee meest prominente zintuigorganen. Oog is voor zien; oor is voor...?",
+    "collocations": [
+      "iets ter ore komen",
+      "een goed oor",
+      "aan dovemansoren"
+    ]
+  },
+  {
+    "word": "operatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De chirurg voerde een succesvolle <mark>operatie</mark> uit aan zijn knie.",
+      "Ze moet drie weken rusten na de <mark>operatie</mark> voordat ze kan revalideren.",
+      "De politie voerde een grootscheepse <mark>operatie</mark> uit tegen de drugsorganisatie."
+    ],
+    "options": [
+      "een reeks oefeningen ter versterking van spieren na een blessure",
+      "een diagnostisch onderzoek om de oorzaak van klachten vast te stellen",
+      "een chirurgische ingreep waarbij het lichaam wordt geopend voor behandeling",
+      "een behandeling met medicijnen over een langere periode"
+    ],
+    "correct": 2,
+    "explanation": "'Operatie' = een chirurgische ingreep of een grootschalige gecoördineerde actie. Meervoud: 'operaties'. Werkwoord: 'opereren'. Synoniem: 'ingreep', 'chirurgie'. Figuurlijk: 'een politieoperatie' = een georganiseerde politieactie.",
+    "hint": "Medicijn, therapie en operatie zijn behandelingsmethoden. Bij een operatie wordt het lichaam letterlijk...?",
+    "collocations": [
+      "een operatie ondergaan",
+      "na de operatie",
+      "een politieoperatie"
+    ]
+  },
+  {
+    "word": "papa",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Papa</mark>, kun jij me helpen met mijn huiswerk?",
+      "Hun <mark>papa</mark> bracht de kinderen elke ochtend naar school.",
+      "Hij is een toegewijde <mark>papa</mark> die altijd tijd maakt voor zijn gezin."
+    ],
+    "options": [
+      "de informele aanduiding voor de mannelijke ouder, gebruikt door kinderen",
+      "een informele aanduiding voor een mannelijke grootouder",
+      "een vriendschappelijke aanduiding voor een oudere mannelijke vriend",
+      "de informele aanduiding voor de oudste mannelijke telg in een familie"
+    ],
+    "correct": 0,
+    "explanation": "'Papa' = de informele term voor vader, vooral gebruikt door kinderen. Meervoud: 'papa's'. Synoniem: 'vader', 'pap', 'pa'. Figuurlijk: 'papakind' = een kind dat erg gehecht is aan zijn vader.",
+    "hint": "Papa, vader en pa zijn synoniemen. Papa is het meest kindelijk en informeel. Wie is papa?",
+    "collocations": [
+      "papa en mama",
+      "lieve papa",
+      "een goede papa zijn"
+    ]
+  },
+  {
+    "word": "partner",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze stelde haar <mark>partner</mark> voor aan haar collega's op het bedrijfsfeest.",
+      "Zijn <mark>partner</mark> ondersteunde hem volledig tijdens zijn moeilijke periode.",
+      "De twee landen zijn strategische <mark>partners</mark> op het gebied van veiligheid."
+    ],
+    "options": [
+      "iemand die dezelfde hobby of sport beoefent als jijzelf",
+      "een levensgezel of zakelijke medewerker met wie je samenwerkt of samenleeft",
+      "uitsluitend de getrouwde echtgenoot of echtgenote van een persoon",
+      "een goede vriend met wie je regelmatig tijd doorbrengt"
+    ],
+    "correct": 1,
+    "explanation": "'Partner' = een levensgezel of zakelijke medewerker. Meervoud: 'partners'. Synoniem: 'levenspartner', 'echtgenoot', 'zakenpartner'. Figuurlijk: 'partner in crime' = medeplichtige; 'strategische partner' = bondgenoot.",
+    "hint": "Partner is een neutraal woord voor zowel romantische als zakelijke relaties. Wat maakt het neutraler dan 'echtgenoot' of 'vriend'?",
+    "collocations": [
+      "mijn partner",
+      "zakelijke partner",
+      "partner in crime"
+    ]
+  },
+  {
+    "word": "patiënt",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De arts sprak rustig met de <mark>patiënt</mark> over de behandelingsmogelijkheden.",
+      "Het ziekenhuis heeft ruimte voor tweehonderd <mark>patiënten</mark>.",
+      "Ze was al jaren <mark>patiënt</mark> bij dezelfde huisarts."
+    ],
+    "options": [
+      "iemand die medisch is opgeleid en anderen behandelt",
+      "iemand die de administratie van een ziekenhuis beheert",
+      "iemand die medische zorg ontvangt van een arts of zorgverlener",
+      "iemand die medicijnen verstrekt op recept van een arts"
+    ],
+    "correct": 2,
+    "explanation": "'Patiënt' = iemand die medische zorg ontvangt. Meervoud: 'patiënten'. Vrouwelijk: 'patiënte'. Synoniem: 'zieke', 'cliënt' (in GGZ). Figuurlijk: 'patiënt zijn' impliceert afhankelijkheid van medische zorg.",
+    "hint": "Arts en patiënt zijn de twee hoofdrollen in een medische relatie. De arts behandelt; de patiënt...?",
+    "collocations": [
+      "een patiënt behandelen",
+      "de rechten van de patiënt",
+      "patiëntendossier"
+    ]
+  },
+  {
+    "word": "persoon",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze is de aangewezen <mark>persoon</mark> voor deze taak — niemand doet het beter.",
+      "Er zaten tien <mark>personen</mark> aan de vergadertafel.",
+      "Hij is een interessant <mark>persoon</mark> met een rijke levensgeschiedenis."
+    ],
+    "options": [
+      "een mens die deel uitmaakt van een bepaalde culturele groep",
+      "een menselijk wezen als lid van de biologische soort",
+      "een mens met een specifieke beroepsidentiteit of functie",
+      "een individueel menselijk wezen als sociaal en juridisch subject"
+    ],
+    "correct": 3,
+    "explanation": "'Persoon' = een individueel menselijk wezen. Meervoud: 'personen'. Synoniem: 'individu', 'mens'. Figuurlijk: 'rechtspersoon' = een juridische entiteit; 'in persoon' = zelf aanwezig.",
+    "hint": "Mens en persoon zijn allebei menselijke wezens. Persoon benadrukt het individu als sociaal wezen. Wat is het verschil met 'mens' als soortaanduiding?",
+    "collocations": [
+      "in persoon",
+      "een interessant persoon",
+      "rechtspersoon"
+    ]
+  },
+  {
+    "word": "pijn",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze voelde een scherpe <mark>pijn</mark> in haar rug na het tillen.",
+      "De <mark>pijn</mark> na de operatie was verdraaglijk dankzij de medicatie.",
+      "Het afscheid deed hem meer <mark>pijn</mark> dan hij had verwacht."
+    ],
+    "options": [
+      "een gevoel van vermoeidheid na langdurige lichamelijke inspanning",
+      "een gevoel van spanning en onrust voor een belangrijke gebeurtenis",
+      "een onaangenaam gevoel dat het lichaam of de geest signaleert als reactie op schade",
+      "een gevoel van misselijkheid na het eten van verkeerd voedsel"
+    ],
+    "correct": 2,
+    "explanation": "'Pijn' = een onaangenaam signaal van het zenuwstelsel bij schade of dreiging. Werkwoord: 'pijn doen'. Synoniem: 'smart', 'pijniging'. Figuurlijk: 'emotionele pijn' = verdriet of leed; 'pijn doen aan' = kwetsen.",
+    "hint": "Pijn, vermoeidheid en angst zijn alle drie onaangename gevoelens. Pijn is specifiek het signaal van het zenuwstelsel dat iets...?",
+    "collocations": [
+      "pijn hebben",
+      "pijn doen aan",
+      "pijn verlichten"
+    ]
+  },
+  {
+    "word": "psycholoog",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze ging wekelijks naar de <mark>psycholoog</mark> voor therapie na haar burn-out.",
+      "De <mark>psycholoog</mark> hielp hem patronen in zijn gedrag te herkennen.",
+      "Als <mark>psycholoog</mark> bij een ziekenhuis werkt ze met mensen met ernstige psychische klachten."
+    ],
+    "options": [
+      "een arts die psychiatrische medicijnen voorschrijft bij ernstige stoornissen",
+      "een arts die lichamelijke ziekten diagnosticeert en behandelt",
+      "een specialist die geestelijke gezondheid bestudeert en behandelt via gesprek",
+      "een verpleegkundige die patiënten op een psychiatrische afdeling begeleidt"
+    ],
+    "correct": 2,
+    "explanation": "'Psycholoog' = een specialist in geestelijke gezondheid via gesprektherapie. Meervoud: 'psychologen'. Synoniem: 'therapeut'. Let op: een psycholoog schrijft geen medicijnen voor — dat doet een psychiater.",
+    "hint": "Psycholoog en psychiater zijn allebei specialisten in geestelijke gezondheid. De psycholoog behandelt via gesprek; de psychiater mag ook...?",
+    "collocations": [
+      "naar de psycholoog gaan",
+      "een psycholoog raadplegen",
+      "cognitieve gedragstherapie"
+    ]
+  },
+  {
+    "word": "rug",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Hij had rugpijn na uren achter zijn bureau te hebben gezeten.",
+      "Ze droeg het kind op haar <mark>rug</mark> terwijl ze de trap opliep.",
+      "Ze hebben mij achter mijn <mark>rug</mark> om een beslissing genomen."
+    ],
+    "options": [
+      "het voorste deel van de romp tussen borst en buik",
+      "het achterste deel van de romp van nek tot billen",
+      "het bovenste deel van de romp ter hoogte van de schouders",
+      "de zijkant van de romp tussen oksel en heup"
+    ],
+    "correct": 1,
+    "explanation": "'Rug' = het achterste deel van de romp. Meervoud: 'ruggen'. Synoniem: 'achterkant'. Figuurlijk: 'achter iemands rug' = zonder iemands medeweten; 'iemand de rug toekeren' = iemand afwijzen.",
+    "hint": "Buik en rug zijn tegenovergestelde zijden van de romp. Buik is de voorkant; rug is de...?",
+    "collocations": [
+      "rugpijn hebben",
+      "achter iemands rug",
+      "de rug toekeren"
+    ]
+  },
+  {
+    "word": "schouder",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze haalde haar <mark>schouders</mark> op als teken dat ze het niet wist.",
+      "Hij droeg zijn dochter op zijn <mark>schouders</mark> zodat ze beter kon zien.",
+      "Ze neemt veel verantwoordelijkheid op haar <mark>schouders</mark>."
+    ],
+    "options": [
+      "de spier in het bovenlichaam die het omhoogtillen van de arm mogelijk maakt",
+      "het gebied tussen de nek en de borst aan de voorzijde van het lichaam",
+      "het gewricht dat de arm met de romp verbindt bovenaan de romp",
+      "het gewricht dat de arm met de onderarm verbindt halverwege"
+    ],
+    "correct": 2,
+    "explanation": "'Schouder' = het bovenste gewricht dat arm en romp verbindt. Meervoud: 'schouders'. Synoniem: 'schouderbeen'. Figuurlijk: 'verantwoordelijkheid op de schouders nemen' = verantwoordelijkheid aanvaarden; 'schouders ophalen' = onverschilligheid tonen.",
+    "hint": "Schouder, elleboog en pols zijn drie gewrichten in de arm van boven naar beneden. De schouder is het hoogste — waar verbindt hij de arm mee?",
+    "collocations": [
+      "schouders ophalen",
+      "op de schouders nemen",
+      "een schouderblessure"
+    ]
   },
   {
     "word": "spier",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Door regelmatig te sporten worden je <mark>spieren</mark> sterker.",
-      "Na de marathon waren al zijn <mark>spieren</mark> pijnlijk.",
-      "De <mark>spier</mark> in zijn rug was gespannen door de stress."
+      "Na het sporten voelde hij zijn <mark>spieren</mark> de volgende dag.",
+      "Ze heeft veel gesport en heeft sterke <mark>spieren</mark> gekregen.",
+      "Het bedrijf heeft zijn economische <mark>spieren</mark> de afgelopen jaren flink ontwikkeld."
     ],
     "options": [
-      "een bloedvat in het lichaam",
-      "de huid die het lichaam bedekt",
-      "weefsel dat het lichaam laat bewegen door samen te trekken",
-      "een bot in het skelet"
+      "het harde weefsel dat het skelet vormt en structuur geeft aan het lichaam",
+      "het contractiele weefsel dat beweging mogelijk maakt door samentrekking",
+      "het vetweefsel dat energie opslaat en het lichaam isoleert",
+      "het zachte bindweefsel dat botten en organen verbindt en ondersteunt"
+    ],
+    "correct": 1,
+    "explanation": "'Spier' = het contractiele weefsel dat beweging genereert. Meervoud: 'spieren'. Synoniem: 'spiermassa'. Figuurlijk: 'economische spieren' = economische kracht; 'zijn spieren laten zien' = zijn kracht tonen.",
+    "hint": "Bot, spier en pees zijn alle drie lichaamsstructuren. Spieren maken beweging mogelijk — hoe doen ze dat?",
+    "collocations": [
+      "spieren kweken",
+      "spierpijn hebben",
+      "zijn spieren laten zien"
+    ]
+  },
+  {
+    "word": "tand",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De tandarts trok zijn kiespijn veroorzakende <mark>tand</mark> eruit.",
+      "Kinderen verliezen hun melk<mark>tanden</mark> tussen vijf en twaalf jaar.",
+      "Ze zette haar <mark>tanden</mark> erin en weigerde op te geven ondanks alle obstakels."
+    ],
+    "options": [
+      "het harde witte element in de mond dat voor kauwen en spreken dient",
+      "het harde bot in de mond dat kauwbewegingen mogelijk maakt",
+      "het zachte weefsel in de mond dat de tanden omsluit en beschermt",
+      "het orgaan in de mond dat smaken detecteert en voedsel naar keel stuurt"
+    ],
+    "correct": 0,
+    "explanation": "'Tand' = een hard element in de mond voor kauwen en bijten. Meervoud: 'tanden'. Synoniem: 'kies' (achterkant). Figuurlijk: 'ergens zijn tanden in zetten' = iets vol overgave aanpakken; 'door de zure appel heen bijten' = iets onaangenaams doorstaan.",
+    "hint": "Tand en kies zijn nauw verwant — beide zitten in de mond. Wat is het verschil in positie?",
+    "collocations": [
+      "tanden poetsen",
+      "ergens je tanden in zetten",
+      "tandpijn hebben"
+    ]
+  },
+  {
+    "word": "tante",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Mijn <mark>tante</mark> bakt altijd de lekkerste taart voor verjaardagen.",
+      "Ze logeerde een weekend bij haar <mark>tante</mark> en oom in Friesland.",
+      "Die <mark>tante</mark> aan de balie is altijd behulpzaam als ik er kom."
+    ],
+    "options": [
+      "een vrouwelijk familielid dat dezelfde ouders heeft als een ouder",
+      "de zuster van je vader of moeder, of de vrouw van je oom",
+      "een vrouwelijk familielid dat twee generaties ouder is dan jij",
+      "een vriendin van je ouders die je al van jongs af aan kent"
+    ],
+    "correct": 1,
+    "explanation": "'Tante' = de zus van een ouder, of de vrouw van een oom. Meervoud: 'tantes'. Mannelijk: 'oom'. Synoniem: geen gangbaar synoniem. Figuurlijk: informeel voor een oudere vrouw die je aanspreekt maar niet kent.",
+    "hint": "Tante en oom zijn de broers en zussen van je ouders. Tante is de vrouwelijke variant — wie is ze precies?",
+    "collocations": [
+      "mijn tante en oom",
+      "tante zijn",
+      "bij tante logeren"
+    ]
+  },
+  {
+    "word": "traan",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Er gleed een enkele <mark>traan</mark> over haar wang bij het horen van het nieuws.",
+      "De acteur wist een echte <mark>traan</mark> te produceren tijdens de emotionele scène.",
+      "Dat filmpje haalt altijd een <mark>traan</mark> bij me — ik kan er niets aan doen."
+    ],
+    "options": [
+      "het vocht dat de huid produceert ter afkoeling bij inspanning",
+      "het vocht dat de neus produceert bij een verkoudheid of allergie",
+      "het heldere vocht dat de ogen produceert als reactie op emotie of irritatie",
+      "het vocht dat de mond produceert om voedsel te verteren"
     ],
     "correct": 2,
-    "explanation": "'Spier' is het weefsel dat samentrekt om het lichaam te bewegen. Je hebt meer dan 600 spieren. Bijvoeglijk naamwoord: 'gespierd' (met grote spieren).",
-    "hint": "Wat train je in de sportschool om sterker te worden?"
+    "explanation": "'Traan' = een druppel vocht geproduceerd door het oog. Meervoud: 'tranen'. Werkwoord: 'huilen'. Synoniem: 'traandruppel'. Figuurlijk: 'een traan wegpinken' = proberen niet te huilen; 'krokodillentranen' = geveinsd verdriet.",
+    "hint": "Dit woord beschrijft één druppel van het vocht dat je ogen produceren bij verdriet of emotie. Wat is het meervoud?",
+    "collocations": [
+      "een traan wegpinken",
+      "krokodillentranen",
+      "tranen met tuiten"
+    ]
   },
   {
-    "word": "vermoeid",
-    "pos": "bijvoeglijk naamwoord",
+    "word": "tranen",
+    "pos": "zelfstandig naamwoord · de (meervoud)",
+    "level": 1,
+    "examples": [
+      "Ze kon haar <mark>tranen</mark> niet bedwingen bij het zien van haar pasgeboren kind.",
+      "De <mark>tranen</mark> stroomden over zijn wangen tijdens de begrafenis van zijn vader.",
+      "Van het lachen kwamen de <mark>tranen</mark> haar in de ogen."
+    ],
+    "options": [
+      "het meervoud van traan — de druppels vocht uit de ogen bij emotie",
+      "het vocht dat het lichaam via de huid afscheidt bij warmte",
+      "het vocht dat de mond produceert bij het zien van lekker eten",
+      "de druppels regen die van een dakrand naar beneden vallen"
+    ],
+    "correct": 0,
+    "explanation": "'Tranen' = meervoud van traan, het vocht dat ogen produceren. Werkwoord: 'huilen', 'tranen' (ogen die tranen produceren). Synoniem: 'huilbui'. Figuurlijk: 'tranen met tuiten huilen' = heel hard huilen; 'in tranen uitbarsten' = plotseling beginnen te huilen.",
+    "hint": "Traan en tranen zijn enkelvoud en meervoud. Tranen beschrijft de stroom, niet één druppel. Wat is het verschil in gebruik?",
+    "collocations": [
+      "in tranen uitbarsten",
+      "tranen met tuiten",
+      "tranen bedwingen"
+    ]
+  },
+  {
+    "word": "vader",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Haar <mark>vader</mark> leerde haar fietsen in het park op haar vierde verjaardag.",
+      "Hij is een betrokken <mark>vader</mark> die elke avond met zijn kinderen leest.",
+      "Darwin wordt beschouwd als de <mark>vader</mark> van de evolutietheorie."
+    ],
+    "options": [
+      "een mannelijk familielid dat één generatie ouder is maar geen ouder",
+      "de mannelijke ouder die een kind heeft verwekt of grootgebracht",
+      "de oudste mannelijke telg in een familie die de leiding draagt",
+      "een mannelijk familielid getrouwd met de zus van een ouder"
+    ],
+    "correct": 1,
+    "explanation": "'Vader' = de mannelijke ouder. Meervoud: 'vaders'. Synoniem: 'papa', 'pap', 'pa'. Figuurlijk: 'de vader van iets zijn' = de grondlegger of bedenker van iets zijn; 'vaderfiguur' = iemand die vaderlijke steun biedt.",
+    "hint": "Vader, oom en opa zijn mannelijke familieleden. Vader heeft een directe ouder-kindrelatie — wat is zijn biologische of opvoedkundige rol?",
+    "collocations": [
+      "mijn vader",
+      "vader worden",
+      "de vader van de natie"
+    ]
+  },
+  {
+    "word": "vent",
+    "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Na een lange dag werk was ze volledig <mark>vermoeid</mark>.",
-      "De kinderen zagen er <mark>vermoeid</mark> uit na de lange reis.",
-      "Hij was te <mark>vermoeid</mark> om nog te eten."
+      "Hij is een aardige <mark>vent</mark> — altijd bereid om te helpen.",
+      "Die <mark>vent</mark> aan de bar probeerde voortdurend de aandacht te trekken.",
+      "Wees een <mark>vent</mark> en geef toe dat je het fout had."
     ],
     "options": [
-      "uitgeput, zonder energie",
-      "hongerig en dorstig",
-      "ziek door een infectie",
-      "blij en energiek"
+      "een informele aanduiding voor een man, met positieve of neutrale lading",
+      "een aanspreektitel voor een jongere man die je niet kent",
+      "een negatieve aanduiding voor een man met onaangenaam gedrag",
+      "een formele aanduiding voor een volwassen mannelijk persoon"
     ],
     "correct": 0,
-    "explanation": "'Vermoeid' = moe, zonder energie. Sterker dan 'moe'. Van 'vermoeien' = moe maken. Zelfstandig naamwoord: 'vermoeidheid'.",
-    "hint": "Na een hele lange dag zonder slaap voel je je..."
+    "explanation": "'Vent' = een informele aanduiding voor een man. Meervoud: 'venten'. Synoniem: 'kerel', 'gozer', 'man'. Figuurlijk: 'een echte vent zijn' = dapper of eerlijk zijn; 'een enge vent' = een onaangename man.",
+    "hint": "Man, heer en vent zijn alle drie aanduidingen voor een mannelijk persoon. Vent is het informelst. Wanneer zou je eerder 'vent' dan 'man' zeggen?",
+    "collocations": [
+      "een aardige vent",
+      "een echte vent",
+      "wees een vent"
+    ]
   },
   {
-    "word": "verwonding",
+    "word": "verpleegkundige",
     "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "level": 2,
     "examples": [
-      "De voetballer moest het veld verlaten door een <mark>verwonding</mark> aan zijn enkel.",
-      "De soldaat had ernstige <mark>verwondingen</mark> opgelopen.",
-      "Een kleine <mark>verwonding</mark> kan met een pleister worden behandeld."
+      "De <mark>verpleegkundige</mark> nam zijn bloeddruk op en noteerde dit in het dossier.",
+      "Ze werkt als <mark>verpleegkundige</mark> op de intensive care van het ziekenhuis.",
+      "De <mark>verpleegkundige</mark> zorgde dag en nacht voor de herstellende patiënten."
     ],
     "options": [
-      "een chronische aandoening",
-      "letsel aan het lichaam door een externe oorzaak",
-      "een ziekte die door bacteriën wordt veroorzaakt",
-      "pijn zonder zichtbare oorzaak"
+      "iemand die diagnoses stelt en medicijnen voorschrijft aan patiënten",
+      "iemand die patiënten verpleegt en medische zorg toedient onder supervisie",
+      "iemand die patiënten psychologisch begeleidt bij geestelijke klachten",
+      "iemand die medicijnen bereidt en verstrekt op basis van een recept"
     ],
     "correct": 1,
-    "explanation": "'Verwonding' = letsel, een wond aan het lichaam. Van 'verwonden' = verwonden. Synoniemen: 'letsel', 'blessure', 'wond'.",
-    "hint": "Als je gevallen bent en je hebt pijn aan je knie, heb je een..."
+    "explanation": "'Verpleegkundige' = een zorgprofessional die patiënten verpleegt. Meervoud: 'verpleegkundigen'. Synoniem: 'verpleger' (mannelijk), 'zuster' (informeel). Figuurlijk: de verpleegkundige is de ruggengraat van de dagelijkse zorg in een ziekenhuis.",
+    "hint": "Arts en verpleegkundige werken samen in de zorg. De arts diagnosticeert; de verpleegkundige...?",
+    "collocations": [
+      "een verpleegkundige roepen",
+      "de verpleegkundige controleert",
+      "verpleegkundige worden"
+    ]
   },
   {
-    "word": "bloedsomloop",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "word": "verzorgen",
+    "pos": "werkwoord",
+    "level": 2,
     "examples": [
-      "De <mark>bloedsomloop</mark> zorgt ervoor dat zuurstof door het lichaam wordt vervoerd.",
-      "Sport verbetert de <mark>bloedsomloop</mark>.",
-      "Bij een storing in de <mark>bloedsomloop</mark> kan een hartaanval optreden."
+      "Ze <mark>verzorgt</mark> haar zieke moeder thuis met veel toewijding.",
+      "Hij <mark>verzorgt</mark> zijn tuin elke week — elke plant wordt met aandacht behandeld.",
+      "De omroep <mark>verzorgt</mark> dagelijks nieuwsuitzendingen in vijf talen."
     ],
     "options": [
-      "de manier waarop voedsel wordt verwerkt",
-      "het systeem van hart en bloedvaten dat bloed door het lichaam pompt",
-      "de beweging van zenuwen in het lichaam",
-      "het systeem waarmee de longen werken"
-    ],
-    "correct": 1,
-    "explanation": "'Bloedsomloop' = het systeem van hart en bloedvaten. Het hart pompt bloed rond door de bloedvaten. Samengesteld van 'bloed' + 'omloop' (het rondgaan).",
-    "hint": "Het hart pompt bloed door het lichaam. Dit systeem heet de..."
-  },
-  {
-    "word": "zenuwstelsel",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 3,
-    "examples": [
-      "Het <mark>zenuwstelsel</mark> stuurt signalen van de hersenen naar het lichaam.",
-      "Multiple sclerose is een ziekte die het <mark>zenuwstelsel</mark> aantast.",
-      "Stress heeft invloed op het <mark>zenuwstelsel</mark>."
-    ],
-    "options": [
-      "het systeem van hormonen in het bloed",
-      "het netwerk van zenuwen dat signalen door het lichaam stuurt",
-      "de botten en gewrichten van het lichaam",
-      "de spieren die het lichaam bewegen"
-    ],
-    "correct": 1,
-    "explanation": "'Zenuwstelsel' = het netwerk van hersenen, ruggenmerg en zenuwen dat alle lichaamsfuncties coördineert. Samengesteld van 'zenuw' + 'stelsel' (systeem).",
-    "hint": "Hersenen, ruggenmerg en zenuwen samen vormen het..."
-  },
-  {
-    "word": "erfelijk",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 3,
-    "examples": [
-      "Sommige ziekten zijn <mark>erfelijk</mark> en komen vaker voor in bepaalde families.",
-      "Zijn blauwe ogen zijn <mark>erfelijk</mark> — zijn vader heeft ze ook.",
-      "<mark>Erfelijke</mark> aanleg speelt een rol bij hart- en vaatziekten."
-    ],
-    "options": [
-      "overgedragen van ouder op kind via genen",
-      "aangeleerd door opvoeding en omgeving",
-      "ontstaan door een ongezonde leefstijl",
-      "veroorzaakt door een infectie"
-    ],
-    "correct": 0,
-    "explanation": "'Erfelijk' = overgedragen via genen van ouder op kind. Van 'erfenis' (wat je erft). Synonieem: 'genetisch'.",
-    "hint": "Als een eigenschap of ziekte via genen van ouders op kinderen overgaat, is het..."
-  },
-  {
-    "word": "immuniteit",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 4,
-    "examples": [
-      "Na de infectie bouwde hij <mark>immuniteit</mark> op tegen het virus.",
-      "Vaccinaties geven het lichaam <mark>immuniteit</mark> zonder ziek te worden.",
-      "Zuigelingen hebben tijdelijke <mark>immuniteit</mark> door de moedermelk."
-    ],
-    "options": [
-      "de weerstand van het lichaam tegen ziekteverwekkers",
-      "de gevoeligheid van het lichaam voor ziekten",
-      "de snelheid waarmee het lichaam herstelt",
-      "het vermogen om pijn te verdragen"
-    ],
-    "correct": 0,
-    "explanation": "'Immuniteit' = de weerstand van het immuunsysteem tegen ziekten. Van het Latijn 'immunitas'. Bijvoeglijk naamwoord: 'immuun'.",
-    "hint": "Als je lichaam een ziekteverwekker herkent en aanvalt, heb je er... voor opgebouwd."
-  },
-  {
-    "word": "stofwisseling",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 4,
-    "examples": [
-      "Een actieve <mark>stofwisseling</mark> helpt bij het verbranden van calorieën.",
-      "Schildklierproblemen kunnen de <mark>stofwisseling</mark> verstoren.",
-      "Sport versnelt de <mark>stofwisseling</mark>."
-    ],
-    "options": [
-      "de opname van vitamines door de darmen",
-      "het verteren van voedsel in de maag",
-      "de aanmaak van hormonen in de klieren",
-      "het geheel van chemische processen waarmee het lichaam energie aanmaakt en verbruikt"
+      "iemand of iets tijdelijk bewaken zodat er niets mee gebeurt",
+      "iemand financieel ondersteunen zodat hij zijn basisbehoeften kan dekken",
+      "iemand genezen van een ziekte via medische behandeling",
+      "aandacht en zorg geven aan iemand of iets zodat het in goede staat blijft"
     ],
     "correct": 3,
-    "explanation": "'Stofwisseling' = het metabolisme: alle chemische processen waarmee het lichaam voedsel omzet in energie. Samengesteld van 'stof' (materiaal) + 'wisseling' (omzetting).",
-    "hint": "Het metabolisme — hoe snel je calorieën verbrandt — is je..."
+    "explanation": "'Verzorgen' = aandacht en zorg geven zodat iemand of iets in goede staat blijft. Verleden tijd: 'verzorgde', voltooid deelwoord: 'verzorgd'. Synoniem: 'verplegen', 'onderhouden'. Figuurlijk: 'een programma verzorgen' = een programma uitvoeren of presenteren.",
+    "hint": "Verzorgen en behandelen lijken op elkaar maar verzorgen is breder. Behandelen focust op genezing; verzorgen focust op...?",
+    "collocations": [
+      "een patiënt verzorgen",
+      "goed verzorgd zijn",
+      "een programma verzorgen"
+    ]
   },
   {
-    "word": "onvruchtbaar",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "vinger",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
     "examples": [
-      "Het stel ontdekte dat hij <mark>onvruchtbaar</mark> was na medisch onderzoek.",
-      "<mark>Onvruchtbaarheid</mark> kan zowel bij mannen als vrouwen voorkomen.",
-      "Sommige behandelingen kunnen mensen tijdelijk <mark>onvruchtbaar</mark> maken."
+      "Ze prikte haar <mark>vinger</mark> aan de naald terwijl ze naaide.",
+      "Hij wees met zijn <mark>vinger</mark> naar de deur en zei niets.",
+      "Ze heeft er geen <mark>vinger</mark> naar uitgestoken om te helpen."
     ],
     "options": [
-      "niet in staat om kinderen te verwekken of te baren",
-      "niet in staat om voedsel te verteren",
-      "niet in staat om te bewegen",
-      "niet in staat om ziek te worden"
+      "het gewricht midden in de vinger dat buigen mogelijk maakt",
+      "een van de vijf beweegbare uitsteeksels aan het einde van de hand",
+      "de nagel aan het uiteinde van een vinger of teen",
+      "het gedeelte van de hand tussen pols en vingers"
+    ],
+    "correct": 1,
+    "explanation": "'Vinger' = een van de vijf uitsteeksels aan de hand. Meervoud: 'vingers'. Synoniem: 'digits' (medisch). Figuurlijk: 'geen vinger uitsteken' = niets doen om te helpen; 'de vinger op de wond leggen' = precies het probleem aanwijzen.",
+    "hint": "Hand en vinger zijn nauw verwant. De hand heeft vijf van deze. Welk lichaamsdeel is een vinger precies?",
+    "collocations": [
+      "geen vinger uitsteken",
+      "de vinger op de wond",
+      "met de vinger wijzen"
+    ]
+  },
+  {
+    "word": "vlees",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze eet geen <mark>vlees</mark> meer sinds ze vegetariër is geworden.",
+      "Het <mark>vlees</mark> van de kip moet goed doorbakken zijn voor veilig eten.",
+      "Hij is van <mark>vlees</mark> en bloed — hij maakt ook fouten zoals ieder ander."
+    ],
+    "options": [
+      "het vetweefsel onder de huid dat het lichaam isoleert",
+      "het bindweefsel dat botten en spieren met elkaar verbindt",
+      "de zachte spierweefsel van mensen of dieren, als lichaamsdeel of voedsel",
+      "het harde kraakbeenweefsel dat gewrichten beschermt"
+    ],
+    "correct": 2,
+    "explanation": "'Vlees' = zacht spierweefsel als lichaamdeel of als voedsel. Ontelbaar. Synoniem: 'spiervlees' (anatomisch), 'vleeswaar' (voedsel). Figuurlijk: 'van vlees en bloed zijn' = menselijk en feilbaar zijn; 'eigen vlees en bloed' = je eigen familie.",
+    "hint": "Vlees en bot zijn de twee voornaamste vaste stoffen in een dierlijk lichaam. Vlees is het zachte deel — wat is het harde deel?",
+    "collocations": [
+      "vlees eten",
+      "eigen vlees en bloed",
+      "van vlees en bloed"
+    ]
+  },
+  {
+    "word": "voelen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>voelde</mark> de warmte van het vuur op haar wangen.",
+      "Hij <mark>voelde</mark> zich niet lekker en besloot thuis te blijven.",
+      "Ze <mark>voelde</mark> dat er iets niet klopte, maar kon het niet benoemen."
+    ],
+    "options": [
+      "iets waarnemen via de reukzin in de neus",
+      "iets waarnemen via het gehoor door geluidsgolven op te vangen",
+      "iets waarnemen via het gezichtsorgaan in het hoofd",
+      "iets waarnemen via de tastzin of een intern gevoel ervaren"
+    ],
+    "correct": 3,
+    "explanation": "'Voelen' = via de tastzin of intern waarnemen. Verleden tijd: 'voelde', voltooid deelwoord: 'gevoeld'. Synoniem: 'aanvoelen', 'gewaarworden'. Figuurlijk: 'zich ergens bij voelen' = ergens comfort of ongemak bij ervaren; 'voelen dat' = intuïtief aanvoelen.",
+    "hint": "Zien, horen, ruiken en voelen zijn vier zintuigen. Voelen is het zintuig van de...? Maar het heeft ook een emotionele betekenis.",
+    "collocations": [
+      "zich goed voelen",
+      "aan iets voelen",
+      "voelen dat"
+    ]
+  },
+  {
+    "word": "voet",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze liep op blote <mark>voeten</mark> over het warme zand.",
+      "Zijn <mark>voet</mark> deed pijn na de lange wandeling door het gebergte.",
+      "Ze startte het project op een solide <mark>voet</mark> met een goede planning."
+    ],
+    "options": [
+      "de hiel aan de achterkant van de voet die klappen absorbeert",
+      "het gewricht dat het onderbeen met de voet verbindt",
+      "het onderste eindledemaat van het been waarop je staat en loopt",
+      "de teen aan het uiteinde van de voet die balans helpt bewaren"
+    ],
+    "correct": 2,
+    "explanation": "'Voet' = het onderste eindledemaat van het been. Meervoud: 'voeten'. Synoniem: 'poot' (bij dieren). Figuurlijk: 'op goede voet staan met' = een goede relatie hebben; 'op voet van oorlog' = in staat van conflict; 'op eigen voeten staan' = zelfstandig zijn.",
+    "hint": "Been, knie en voet zijn verbonden in het onderste ledemaat. De voet is helemaal onderaan — wat is zijn functie?",
+    "collocations": [
+      "op blote voeten",
+      "op goede voet staan",
+      "op eigen voeten staan"
+    ]
+  },
+  {
+    "word": "vrouw",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Een <mark>vrouw</mark> in een rood jasje vroeg hem de weg.",
+      "Ze is een sterke <mark>vrouw</mark> die al veel heeft meegemaakt.",
+      "Hij stelde zijn <mark>vrouw</mark> voor aan zijn nieuwe collega's op het feest."
+    ],
+    "options": [
+      "een vrouwelijk persoon in de leeftijd van achttien tot vijfentwintig",
+      "een vrouwelijk persoon die getrouwd is",
+      "een vrouwelijk kind jonger dan twaalf jaar",
+      "een volwassen vrouwelijk persoon"
+    ],
+    "correct": 3,
+    "explanation": "'Vrouw' = een volwassen vrouwelijk persoon, of echtgenote. Meervoud: 'vrouwen'. Mannelijk: 'man'. Synoniem: 'dame' (formeel), 'mevrouw' (aanspreektitel). Figuurlijk: 'de vrouw van zijn leven' = zijn grote liefde.",
+    "hint": "Meisje, vrouw en dame zijn vrouwelijke aanduidingen op oplopende formaliteit. Vrouw is de neutrale volwassen variant. Wat is haar minimumleeftijd?",
+    "collocations": [
+      "een sterke vrouw",
+      "zijn vrouw",
+      "vrouwen en mannen"
+    ]
+  },
+  {
+    "word": "ziekte",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze miste twee weken werk door een ernstige <mark>ziekte</mark>.",
+      "De <mark>ziekte</mark> van Alzheimer treft miljoenen mensen wereldwijd.",
+      "Gebrek aan slaap is de <mark>ziekte</mark> van deze tijd, zeggen wetenschappers."
+    ],
+    "options": [
+      "een tijdelijke vermoeidheid die verdwijnt na een goede nachtrust",
+      "een verwonding veroorzaakt door een ongeluk of externe kracht",
+      "een aandoening waarbij het lichaam of de geest niet goed functioneert",
+      "een chronische pijn die wordt veroorzaakt door langdurige spanning"
+    ],
+    "correct": 2,
+    "explanation": "'Ziekte' = een aandoening waarbij het lichaam of de geest niet normaal functioneert. Meervoud: 'ziekten' of 'ziektes'. Antonym: 'gezondheid'. Synoniem: 'aandoening', 'kwaal'. Figuurlijk: 'de ziekte van onze tijd' = een wijdverbreid maatschappelijk probleem.",
+    "hint": "Ziekte en blessure zijn beide aandoeningen. Een blessure wordt veroorzaakt door een extern letsel; ziekte komt van...?",
+    "collocations": [
+      "een ernstige ziekte",
+      "ziekte van onze tijd",
+      "ziek worden"
+    ]
+  },
+  {
+    "word": "ziekenhuis",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze werd met spoed naar het <mark>ziekenhuis</mark> gebracht na het ongeluk.",
+      "Hij lag drie weken in het <mark>ziekenhuis</mark> na zijn hartoperatie.",
+      "Het nieuwe <mark>ziekenhuis</mark> beschikt over de modernste medische apparatuur."
+    ],
+    "options": [
+      "een instelling waar mensen worden behandeld voor geestelijke klachten",
+      "een praktijk waar een arts spreekuur houdt voor ambulante patiënten",
+      "een instelling waar mensen langdurig worden verzorgd na een ziekte",
+      "een instelling waar patiënten medische zorg en behandeling ontvangen"
+    ],
+    "correct": 3,
+    "explanation": "'Ziekenhuis' = een medische instelling voor diagnose, behandeling en opname. Meervoud: 'ziekenhuizen'. Synoniem: 'kliniek' (kleiner), 'hospitaal' (formeel/militair). Figuurlijk: 'in het ziekenhuis belanden' = ernstig ziek of gewond worden.",
+    "hint": "Huisartsenpraktijk, ziekenhuis en apotheek zijn drie medische instellingen. Het ziekenhuis is de grootste — wat maakt het anders dan een huisartsenpraktijk?",
+    "collocations": [
+      "naar het ziekenhuis gaan",
+      "opgenomen in het ziekenhuis",
+      "het ziekenhuis verlaten"
+    ]
+  },
+  {
+    "word": "zoon",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Hun <mark>zoon</mark> studeerde geneeskunde en wil huisarts worden.",
+      "Ze is trots op haar <mark>zonen</mark> — alle drie zijn ze succesvol geworden.",
+      "Hij is de verloren <mark>zoon</mark> die na jaren terugkeerde naar zijn familie."
+    ],
+    "options": [
+      "de jongste mannelijke telg in een familie ongeacht leeftijd",
+      "een mannelijk familielid dat één generatie jonger is maar geen kind",
+      "een mannelijk kind in relatie tot zijn grootouders",
+      "een mannelijk kind in relatie tot zijn ouders"
+    ],
+    "correct": 3,
+    "explanation": "'Zoon' = een mannelijk kind in relatie tot zijn ouders. Meervoud: 'zonen' of 'zoons'. Vrouwelijk: 'dochter'. Synoniem: geen gangbaar synoniem. Figuurlijk: 'de verloren zoon' = iemand die na een afwezigheid terugkeert; 'zoon des vaderlands' = een nationale held.",
+    "hint": "Dochter en zoon zijn elkaars vrouwelijk en mannelijk equivalent in de ouder-kindrelatie. Zoon is de mannelijke...?",
+    "collocations": [
+      "mijn oudste zoon",
+      "de verloren zoon",
+      "een zoon krijgen"
+    ]
+  },
+  {
+    "word": "zuchten",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>zuchtte</mark> diep toen ze de lange rij voor de kassa zag.",
+      "Hij <mark>zucht</mark> altijd als hij iets moet doen wat hij niet leuk vindt.",
+      "De oude vloer <mark>zuchtte</mark> onder het gewicht van de zware kast."
+    ],
+    "options": [
+      "diep en hoorbaar uitademen als uiting van vermoeidheid of frustratie",
+      "rustig en diep ademen als ontspanningstechniek bij stress",
+      "snel en onregelmatig ademen na zware lichamelijke inspanning",
+      "luid en onbeheerst huilen als reactie op verdriet of pijn"
     ],
     "correct": 0,
-    "explanation": "'Onvruchtbaar' = niet in staat om kinderen te krijgen. 'On-' = niet, 'vruchtbaar' = in staat om te reproduceren. Zelfstandig naamwoord: 'onvruchtbaarheid'.",
-    "hint": "'On-' + 'vruchtbaar'. 'Vrucht' verwijst naar nageslacht. Als je geen kinderen kunt krijgen, ben je..."
+    "explanation": "'Zuchten' = diep en hoorbaar uitademen als expressie van gevoel. Verleden tijd: 'zuchtte', voltooid deelwoord: 'gezucht'. Synoniem: 'een zucht slaken'. Figuurlijk: 'een zucht van verlichting slaken' = merkbaar opgelucht zijn.",
+    "hint": "Zuchten en hijgen zijn allebei hoorbare ademgeluiden. Hijgen is snel en na inspanning; zuchten is...?",
+    "collocations": [
+      "diep zuchten",
+      "een zucht van verlichting",
+      "zuchten en steunen"
+    ]
+  },
+  {
+    "word": "zweet",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Na de training was zijn shirt doorweekt van het <mark>zweet</mark>.",
+      "Ze brak in koud <mark>zweet</mark> uit toen ze het slechte nieuws hoorde.",
+      "Het resultaat was het <mark>zweet</mark> waard — maanden van hard werken beloond."
+    ],
+    "options": [
+      "het slijm dat de neus produceert bij een verkoudheid of allergie",
+      "het vochtige afscheidingsproduct van de huid bij warmte of inspanning",
+      "het heldere vocht dat de ogen produceren bij emotie of irritatie",
+      "het vocht dat de mond produceert om voedsel te verteren"
+    ],
+    "correct": 1,
+    "explanation": "'Zweet' = het vocht dat de huid afscheidt als koeling. Ontelbaar. Werkwoord: 'zweten'. Synoniem: 'transpiratie' (formeel). Figuurlijk: 'in het zweet des aanschijns werken' = hard werken; 'koud zweet uitbreken' = plotselinge angst of shock.",
+    "hint": "Traan, zweet en speeksel zijn alle drie lichaamsvochten. Zweet komt uit de huid — wanneer produceert je lichaam het?",
+    "collocations": [
+      "in het zweet werken",
+      "koud zweet uitbreken",
+      "zweet en tranen"
+    ]
   }
 ]
