@@ -1,287 +1,1346 @@
 [
   {
-    "word": "burger",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
+    "word": "bedreigen",
+    "pos": "werkwoord",
+    "level": 2,
     "examples": [
-      "Als <mark>burger</mark> van Nederland heb je recht op een paspoort.",
-      "De <mark>burgers</mark> van de stad protesteerden tegen de nieuwe wet.",
-      "Een goede <mark>burger</mark> betaalt belasting en stemt bij verkiezingen."
+      "De verdachte <mark>bedreigde</mark> de getuige om te voorkomen dat hij zou spreken.",
+      "Ontbossing <mark>bedreigt</mark> het voortbestaan van honderden diersoorten.",
+      "De economische crisis <mark>bedreigt</mark> de stabiliteit van de hele regio."
     ],
     "options": [
-      "een medewerker van de overheid",
-      "iemand die in een dorp woont",
-      "een persoon met officieel lidmaatschap van een staat of stad",
-      "een soldaat in het leger"
+      "iemand beschermen tegen mogelijke schade of gevaar",
+      "iemand waarschuwen voor een gevaar dat van buitenaf komt",
+      "iemand of iets schade of gevaar aandoen via woorden of daden",
+      "iemand overtuigen om iets te doen door argumenten aan te voeren"
     ],
     "correct": 2,
-    "explanation": "'Burger' = een persoon die officieel lid is van een staat en daarmee rechten en plichten heeft. Van het Middelhollandse 'borgher'. Burgerrechten = rechten die hierbij horen.",
-    "hint": "Als je de nationaliteit van een land hebt, ben je een... van dat land."
+    "explanation": "'Bedreigen' = iemand angst aanjagen of in gevaar brengen. Verleden tijd: 'bedreigde', voltooid deelwoord: 'bedreigd'. Zelfstandig naamwoord: 'bedreiging'. Synoniem: 'intimideren', 'in gevaar brengen'. Figuurlijk: 'een bedreiging voor de samenleving' = iets wat de maatschappij schaadt.",
+    "hint": "Dit woord impliceert gevaar of angst die van de ene partij naar de andere gaat. Wat is het verschil tussen bedreigen en waarschuwen?",
+    "collocations": [
+      "iemand bedreigen",
+      "bedreigd worden",
+      "een bedreiging vormen"
+    ]
   },
   {
-    "word": "wet",
+    "word": "belasting",
     "pos": "zelfstandig naamwoord · de",
-    "level": 1,
+    "level": 2,
     "examples": [
-      "De <mark>wet</mark> verbiedt het rijden onder invloed van alcohol.",
-      "Het parlement stemde voor een nieuwe <mark>wet</mark> over privacy.",
-      "Je bent verplicht de <mark>wet</mark> te volgen."
+      "Elke werkende Nederlander betaalt <mark>belasting</mark> over zijn inkomen.",
+      "De regering verhoogde de <mark>belasting</mark> op fossiele brandstoffen met tien procent.",
+      "De hoge werkdruk was een grote <mark>belasting</mark> voor haar gezondheid."
     ],
     "options": [
-      "een officiële regel die door de overheid is vastgesteld en moet worden gevolgd",
-      "een verzoek van een politieke partij",
-      "een akkoord tussen twee landen",
-      "een advies van de overheid"
-    ],
-    "correct": 0,
-    "explanation": "'Wet' = een officieel vastgestelde regel die verplicht is. Meervoud: 'wetten'. 'Wetgeving' = het geheel van wetten. Overtreding is strafbaar.",
-    "hint": "Je mag niet door rood rijden — dat staat in de..."
-  },
-  {
-    "word": "oorlog",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "De Tweede Wereld<mark>oorlog</mark> duurde van 1939 tot 1945.",
-      "Door de <mark>oorlog</mark> moesten miljoenen mensen vluchten.",
-      "Na jaren van <mark>oorlog</mark> tekenden de landen een vredesakkoord."
-    ],
-    "options": [
-      "een gewapend conflict tussen landen of groepen",
-      "een economische crisis in een land",
-      "een politieke verkiezing",
-      "een diplomatieke onderhandeling tussen landen"
-    ],
-    "correct": 0,
-    "explanation": "'Oorlog' = een gewapend conflict op grote schaal, meestal tussen staten. Tegendeel: 'vrede'. 'Oorlogvoering' = hoe een oorlog gevoerd wordt.",
-    "hint": "Landen die met wapens tegen elkaar strijden, zijn in..."
-  },
-  {
-    "word": "verkiezing",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 1,
-    "examples": [
-      "Bij de <mark>verkiezing</mark> van vorig jaar stemden recordaantallen mensen.",
-      "De partij won de <mark>verkiezingen</mark> met een grote meerderheid.",
-      "In Nederland zijn eens in de vier jaar Tweede Kamer<mark>verkiezingen</mark>."
-    ],
-    "options": [
-      "een vergadering van politici",
-      "de benoeming van een minister",
-      "een proces waarbij burgers stemmen om leiders of vertegenwoordigers te kiezen",
-      "een volksstemming over een wet"
+      "een boete die de rechter oplegt na een veroordeling",
+      "een lening die de staat verstrekt aan burgers in financiële nood",
+      "een verplichte financiële bijdrage die de overheid heft op inkomen of goederen",
+      "een vrijwillige bijdrage die burgers leveren aan een goed doel"
     ],
     "correct": 2,
-    "explanation": "'Verkiezing' = het democratische proces waarbij burgers stemmen. Van 'kiezen' = selecteren. 'Verkiezingscampagne' = de periode voor de stemming.",
-    "hint": "Elke vier jaar gaan Nederlanders naar het stemhokje. Dat is een..."
+    "explanation": "'Belasting' = een verplichte afdracht aan de overheid. Meervoud: 'belastingen'. Synoniem: 'heffing', 'fiscale last'. Figuurlijk: 'een belasting zijn voor iemand' = een zware druk zijn voor iemand.",
+    "hint": "Belasting en boete zijn allebei betalingen aan de overheid. Belasting is verplicht voor iedereen; boete is een straf. Wat is het verschil?",
+    "collocations": [
+      "belasting betalen",
+      "belastingaangifte doen",
+      "een zware belasting"
+    ]
   },
   {
     "word": "bevolking",
     "pos": "zelfstandig naamwoord · de",
-    "level": 2,
+    "level": 1,
     "examples": [
-      "De <mark>bevolking</mark> van Nederland telt ruim 17 miljoen mensen.",
-      "Een groot deel van de <mark>bevolking</mark> woont in de Randstad.",
-      "De vergrijzing heeft grote gevolgen voor de <mark>bevolking</mark>."
+      "De <mark>bevolking</mark> van Nederland telt ongeveer zeventien miljoen mensen.",
+      "Een groot deel van de plaatselijke <mark>bevolking</mark> protesteerde tegen de nieuwe wet.",
+      "De <mark>bevolking</mark> vergrijst — steeds meer mensen zijn ouder dan vijfenzestig."
     ],
     "options": [
-      "de migranten die naar een land komen",
-      "de regering van een land",
-      "de werkende mensen in een land",
-      "alle mensen die in een bepaald gebied wonen"
+      "het totaal van alle inwoners van een gebied of land",
+      "de burgers die actief deelnemen aan het democratisch proces",
+      "de groep mensen die lid zijn van een politieke partij",
+      "de gekozen vertegenwoordigers die de belangen van burgers behartigen"
     ],
-    "correct": 3,
-    "explanation": "'Bevolking' = alle inwoners van een bepaald gebied gezamenlijk. Van 'bevolken' = bewonen. Synoniem: 'inwoners', 'bevolkingsgroep'.",
-    "hint": "Alle mensen die in Nederland wonen vormen de Nederlandse..."
+    "correct": 0,
+    "explanation": "'Bevolking' = de totale groep mensen die in een gebied woont. Meervoud: 'bevolkingen'. Synoniem: 'inwoners', 'burgerbevolking'. Figuurlijk: 'de bevolking raadplegen' = alle inwoners om hun mening vragen via een referendum.",
+    "hint": "Bevolking en burgers zijn verwant maar niet identiek. Bevolking beschrijft het totaal; burgers verwijst naar juridische status. Wat is het verschil?",
+    "collocations": [
+      "de bevolking groeit",
+      "bevolkingsgroei",
+      "de plaatselijke bevolking"
+    ]
   },
   {
-    "word": "beleid",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 2,
+    "word": "burger",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
     "examples": [
-      "De nieuwe minister veranderde het <mark>beleid</mark> op het gebied van onderwijs.",
-      "Het gemeentelijke <mark>beleid</mark> is gericht op duurzaamheid.",
-      "Veel burgers zijn het niet eens met het huidige <mark>beleid</mark>."
+      "Als <mark>burger</mark> heb je het recht om te stemmen bij verkiezingen.",
+      "De gemeente informeert haar <mark>burgers</mark> over de geplande wegwerkzaamheden.",
+      "Hij is een gewone <mark>burger</mark> zonder politieke functie of ambities."
     ],
     "options": [
-      "een debat in de politiek",
-      "een wet die door het parlement is aangenomen",
-      "een akkoord tussen twee partijen",
-      "een plan van aanpak of koers die een organisatie of overheid volgt"
+      "iemand die niet-militair is in tegenstelling tot een soldaat of officier",
+      "iemand die lid is van een politieke partij en actief campagne voert",
+      "iemand die werkt voor de overheid in een bestuurlijke functie",
+      "een persoon met de juridische status van inwoner van een staat met bijbehorende rechten"
     ],
     "correct": 3,
-    "explanation": "'Beleid' = het geheel van plannen, keuzes en maatregelen dat een overheid of organisatie voert. Van 'beleiden' = leiden, sturen.",
-    "hint": "De plannen en keuzes die de overheid maakt om een doel te bereiken — dat is haar..."
+    "explanation": "'Burger' = een persoon met officiële staatsburgerschap en bijbehorende rechten en plichten. Meervoud: 'burgers'. Synoniem: 'staatsburger', 'inwoner'. Figuurlijk: 'burgerzin' = betrokkenheid bij de samenleving; 'burgeroorlog' = oorlog binnen een land.",
+    "hint": "Burger heeft twee betekenissen: een juridische (staatsburger met rechten) en een militaire (niet-soldaat). Welke staat hier centraal?",
+    "collocations": [
+      "burgerrechten",
+      "een goede burger",
+      "burgerzin"
+    ]
   },
   {
-    "word": "ongelijkheid",
+    "word": "crisis",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De financiële <mark>crisis</mark> van 2008 trof miljoenen mensen wereldwijd.",
+      "Het land verkeert in een politieke <mark>crisis</mark> na het aftreden van de premier.",
+      "Ze beleefde een persoonlijke <mark>crisis</mark> na haar ontslag en scheiding."
+    ],
+    "options": [
+      "een langdurige periode van gestage achteruitgang zonder duidelijk dieptepunt",
+      "een acute, ernstige situatie die dringende actie vereist",
+      "een meningsverschil tussen twee partijen over beleid of strategie",
+      "een planmatige verandering die geleidelijk wordt ingevoerd"
+    ],
+    "correct": 1,
+    "explanation": "'Crisis' = een acuut keerpunt met ernstige gevolgen. Meervoud: 'crises'. Synoniem: 'noodsituatie', 'crisismoment'. Figuurlijk: 'crisismanagement' = het beheren van een noodsituatie; 'crisisberaad' = spoedvergadering in een ernstige situatie.",
+    "hint": "Crisis en probleem zijn beide moeilijke situaties. Een crisis is urgenter en kritischer — wat maakt het ernstiger dan een gewoon probleem?",
+    "collocations": [
+      "een crisis bezweren",
+      "in een crisis verkeren",
+      "crisismanagement"
+    ]
+  },
+  {
+    "word": "criminaliteit",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "<mark>Ongelijkheid</mark> in inkomen neemt wereldwijd toe.",
-      "De beweging strijdt tegen sociale <mark>ongelijkheid</mark>.",
-      "Onderwijs kan bijdragen aan het verminderen van <mark>ongelijkheid</mark>."
+      "De <mark>criminaliteit</mark> in de wijk daalde na extra politie-inzet.",
+      "Georganiseerde <mark>criminaliteit</mark> is een groot probleem voor de rechtsstaat.",
+      "Armoede wordt vaak in verband gebracht met hogere <mark>criminaliteit</mark>."
     ],
     "options": [
-      "het gelijk behandelen van alle mensen",
-      "de samenwerking tussen verschillende landen",
-      "het verschil in kansen, bezit of rechten tussen mensen",
-      "het verbod op discriminatie"
+      "het systeem van rechtbanken en rechters dat misdaden beoordeelt",
+      "de organisatie die belast is met het handhaven van de openbare orde",
+      "het geheel van misdaden en criminele activiteiten in een samenleving",
+      "het geheel van wetten en regels waaraan burgers zich moeten houden"
     ],
     "correct": 2,
-    "explanation": "'Ongelijkheid' = het bestaan van grote verschillen in inkomen, kansen of macht. 'On-' = niet, 'gelijkheid' = gelijke situatie. Synoniem: 'inequaliteit'.",
-    "hint": "Als sommigen veel meer hebben dan anderen, en de kansen niet gelijk zijn, is er..."
+    "explanation": "'Criminaliteit' = het totaal aan misdaden en criminele activiteiten. Altijd ontelbaar. Synoniem: 'misdaad', 'misdrijven'. Bijvoeglijk naamwoord: 'crimineel'. Figuurlijk: 'georganiseerde criminaliteit' = gestructureerde misdaadorganisaties.",
+    "hint": "Criminaliteit, wet en politie hangen samen in het strafrechtsysteem. Criminaliteit beschrijft het probleem — wat is het precies?",
+    "collocations": [
+      "georganiseerde criminaliteit",
+      "criminaliteit bestrijden",
+      "criminaliteitscijfers"
+    ]
+  },
+  {
+    "word": "cultuur",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De Nederlandse <mark>cultuur</mark> staat bekend om tolerantie en directheid.",
+      "Ze studeerde <mark>cultuur</mark>wetenschappen aan de universiteit van Amsterdam.",
+      "De bedrijfs<mark>cultuur</mark> bij dit bedrijf is informeel en innovatief."
+    ],
+    "options": [
+      "de geografische en klimatologische kenmerken van een regio",
+      "de officiële regels en wetten die een samenleving bij elkaar houden",
+      "de economische activiteiten die een samenleving in stand houden",
+      "het geheel van gewoonten, waarden, kunst en tradities van een groep"
+    ],
+    "correct": 3,
+    "explanation": "'Cultuur' = het geheel van gedeelde gewoonten, waarden en uitingen van een groep. Meervoud: 'culturen'. Synoniem: 'beschaving', 'traditie'. Figuurlijk: 'bedrijfscultuur' = de gedeelde waarden en gewoonten in een organisatie.",
+    "hint": "Cultuur en wet zijn allebei bindende krachten in een samenleving. Cultuur is niet opgelegd maar gedeeld — wat is het verschil?",
+    "collocations": [
+      "cultuur en tradities",
+      "bedrijfscultuur",
+      "culturele diversiteit"
+    ]
+  },
+  {
+    "word": "dader",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De politie arresteerde de <mark>dader</mark> twee dagen na de inbraak.",
+      "De <mark>dader</mark> bekende schuld voor de rechtbank na lang ontkennen.",
+      "In dit verhaal is het niet meteen duidelijk wie de <mark>dader</mark> is."
+    ],
+    "options": [
+      "iemand die schade heeft geleden door toedoen van een ander",
+      "iemand die een misdrijf of schadelijke daad heeft gepleegd",
+      "iemand die getuige was van een misdrijf maar er niet aan deelnam",
+      "iemand die verdacht wordt van een misdrijf maar nog niet veroordeeld"
+    ],
+    "correct": 1,
+    "explanation": "'Dader' = de persoon die een misdaad of kwaad heeft begaan. Meervoud: 'daders'. Antonym: 'slachtoffer'. Synoniem: 'diegene die het deed', 'schuldige'. Figuurlijk: 'dader-slachtofferperspectief' = twee kanten van hetzelfde conflict.",
+    "hint": "Dader, slachtoffer en getuige zijn drie rollen in een misdrijf. De dader is degene die de misdaad...?",
+    "collocations": [
+      "de dader opsporen",
+      "dader en slachtoffer",
+      "de dader bekennen"
+    ]
   },
   {
     "word": "democratie",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
     "examples": [
-      "Nederland is een parlementaire <mark>democratie</mark>.",
-      "In een <mark>democratie</mark> hebben burgers het recht om te stemmen.",
-      "Persvrijheid is een belangrijk kenmerk van een gezonde <mark>democratie</mark>."
+      "In een <mark>democratie</mark> hebben burgers het recht om hun vertegenwoordigers te kiezen.",
+      "Nederland is een parlementaire <mark>democratie</mark> met vrije en eerlijke verkiezingen.",
+      "De <mark>democratie</mark> staat onder druk wanneer de vrije pers wordt beperkt."
     ],
     "options": [
-      "een bestuursvorm waarbij één persoon alle macht heeft",
-      "een bestuursvorm waarbij de kerk de wet bepaalt",
-      "een bestuursvorm waarbij burgers meebeslissen via verkiezingen",
-      "een systeem waarbij experts de beslissingen nemen"
+      "een staatsvorm waarbij één persoon absolute macht heeft zonder controle",
+      "een staatsvorm waarbij een kleine elite de beslissingen neemt voor de meerderheid",
+      "een staatsvorm waarbij religieuze leiders ook de politieke macht uitoefenen",
+      "een staatsvorm waarbij burgers via verkiezingen invloed hebben op het bestuur"
+    ],
+    "correct": 3,
+    "explanation": "'Democratie' = een staatsvorm waarbij het volk (indirect) regeert. Meervoud: 'democratieën'. Van het Grieks: 'demos' (volk) + 'kratos' (macht). Synoniem: 'volkssoevereiniteit'. Figuurlijk: 'democratie verdedigen' = vrije verkiezingen en rechtsstaat beschermen.",
+    "hint": "Democratie, dictatuur en monarchie zijn staatvormen. Democratie geeft macht aan het volk — hoe oefenen burgers die macht uit?",
+    "collocations": [
+      "een democratie zijn",
+      "de democratie verdedigen",
+      "democratische waarden"
+    ]
+  },
+  {
+    "word": "economie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>economie</mark> groeide vorig jaar met drie procent.",
+      "Ze studeerde <mark>economie</mark> aan de Erasmus Universiteit in Rotterdam.",
+      "De oorlog had desastreuze gevolgen voor de <mark>economie</mark> van het land."
+    ],
+    "options": [
+      "het geheel van productie, handel en consumptie van goederen en diensten",
+      "de wetenschap die zich bezighoudt met het gedrag van individuen in een maatschappij",
+      "de financiële reserves die een overheid aanhoudt voor noodgevallen",
+      "het systeem van wetten en regels dat een samenleving bestuurt"
+    ],
+    "correct": 0,
+    "explanation": "'Economie' = het systeem van productie, handel en consumptie, of de studie ervan. Meervoud: 'economieën'. Synoniem: 'markteconomie', 'volkshuishouding'. Figuurlijk: 'de economie draait goed' = er is veel economische activiteit en groei.",
+    "hint": "Politiek en economie zijn twee kernsystemen van een samenleving. Politiek gaat over macht en bestuur; economie gaat over...?",
+    "collocations": [
+      "de economie groeit",
+      "vrije markteconomie",
+      "economie studeren"
+    ]
+  },
+  {
+    "word": "economisch",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De <mark>economische</mark> gevolgen van de pandemie zijn nog steeds voelbaar.",
+      "Het land ervaart een sterke <mark>economische</mark> groei dit jaar.",
+      "Ze neemt altijd <mark>economische</mark> beslissingen — ze gooit nooit iets weg."
+    ],
+    "options": [
+      "betrekking hebbend op de culturele en artistieke uitingen van een groep",
+      "betrekking hebbend op de productie, handel en verdeling van welvaart",
+      "betrekking hebbend op het politieke bestuur van een land",
+      "betrekking hebbend op de militaire kracht en verdediging van een staat"
+    ],
+    "correct": 1,
+    "explanation": "'Economisch' = de adjectiefvorm van economie. Synoniem: 'financieel', 'monetair'. Figuurlijk: 'economisch rijden' = zuinig rijden met brandstof; 'economisch met woorden zijn' = beknopt communiceren.",
+    "hint": "Economisch is de bijvoeglijke vorm van economie. Maar het heeft ook een tweede betekenis: iets doen met zo min mogelijk verspilling. Welke twee zijn dat?",
+    "collocations": [
+      "economische groei",
+      "economisch rijden",
+      "economische crisis"
+    ]
+  },
+  {
+    "word": "gemeente",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>gemeente</mark> Amsterdam heeft meer dan negentig wijken en buurten.",
+      "Je kunt een paspoort aanvragen bij het loket van de <mark>gemeente</mark>.",
+      "De <mark>gemeente</mark> investeert dit jaar tien miljoen euro in groen en speeltuinen."
+    ],
+    "options": [
+      "de lokale overheid die een stad of dorp bestuurt",
+      "een particuliere organisatie die publieke diensten levert namens de overheid",
+      "de nationale overheid die landelijk beleid maakt voor alle inwoners",
+      "de provinciale overheid die een regio tussen gemeente en staat bestuurt"
+    ],
+    "correct": 0,
+    "explanation": "'Gemeente' = de kleinste bestuurseenheid van Nederland, de lokale overheid. Meervoud: 'gemeenten'. Synoniem: 'stad' (informeel). Figuurlijk: 'gemeentebelasting' = lokale belasting; 'gemeentehuis' = het bestuurskantoor van een gemeente.",
+    "hint": "In Nederland zijn er drie bestuursniveaus: gemeente, provincie en Rijk. De gemeente is het laagste niveau — welk gebied bestuurt zij?",
+    "collocations": [
+      "bij de gemeente werken",
+      "gemeentebeleid",
+      "het gemeentehuis"
+    ]
+  },
+  {
+    "word": "generaal",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>generaal</mark> gaf het bevel tot terugtrekking van de troepen.",
+      "Ze werd bevorderd tot <mark>generaal</mark> na twintig jaar militaire dienst.",
+      "De <mark>generaal</mark> leidde de operatie vanuit het hoofdkwartier op veilige afstand."
+    ],
+    "options": [
+      "een militaire rechter die militaire rechtszaken beoordeelt",
+      "een militaire onderofficier die kleine eenheden op het slagveld leidt",
+      "een adviseur die het leger politiek adviseert namens de regering",
+      "een hoge officier in het leger die grote eenheden commandeert"
+    ],
+    "correct": 3,
+    "explanation": "'Generaal' = de hoogste officiersrang in het leger. Meervoud: 'generaals'. Synoniem: 'legerleider'. Militaire hiërarchie: soldaat → korporaal → sergeant → luitenant → kolonel → generaal.",
+    "hint": "Kolonel en generaal zijn beiden hoge militaire rangen. Generaal staat hoger. Wat is zijn kenmerkende verantwoordelijkheid?",
+    "collocations": [
+      "een generaal benoemen",
+      "de generaal commandeert",
+      "generaal-majoor"
+    ]
+  },
+  {
+    "word": "grens",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Bij de <mark>grens</mark> tussen Nederland en Duitsland wordt nu weinig gecontroleerd.",
+      "Ze stelt duidelijke <mark>grenzen</mark> op het werk om burn-out te voorkomen.",
+      "De wetenschap verlegt voortdurend haar eigen <mark>grenzen</mark>."
+    ],
+    "options": [
+      "het punt waarop twee verschillende culturen of talen samenkomen",
+      "het gebied vlak naast een staatslijn met speciale regels en status",
+      "de lijn die twee landen scheidt, of de limiet van iets",
+      "de muur of hek dat een privéterrein afbakent van de openbare weg"
     ],
     "correct": 2,
-    "explanation": "'Democratie' = bestuursvorm waarbij burgers via stemmen invloed uitoefenen op beslissingen. Van het Grieks: 'demos' (volk) + 'kratos' (macht).",
-    "hint": "De macht bij het volk. Burgers stemmen. Dat systeem heet..."
+    "explanation": "'Grens' = een scheidingslijn tussen gebieden of de limiet van iets. Meervoud: 'grenzen'. Synoniem: 'limiet', 'rand'. Figuurlijk: 'grenzen stellen' = limieten aangeven; 'grenzeloos' = zonder beperkingen.",
+    "hint": "Een grens scheidt twee gebieden — letterlijk een staatslijn of figuurlijk een limiet. Wat is de gemeenschappelijke kern van beide betekenissen?",
+    "collocations": [
+      "de grens oversteken",
+      "grenzen stellen",
+      "grenzeloos"
+    ]
   },
   {
-    "word": "vluchtelingenkamp",
+    "word": "groep",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Een <mark>groep</mark> studenten protesteerde voor het gemeentehuis.",
+      "Ze werkt liever alleen dan in een <mark>groep</mark> — ze is introvert.",
+      "De muziek<mark>groep</mark> trad op voor duizenden fans in de arena."
+    ],
+    "options": [
+      "een overheidsinstelling die beleid uitvoert voor een specifiek terrein",
+      "een formele organisatie met een bestuur en officiële doelstellingen",
+      "een verzameling mensen of dingen met iets gemeenschappelijks",
+      "een politieke partij die deelneemt aan verkiezingen"
+    ],
+    "correct": 2,
+    "explanation": "'Groep' = een verzameling van mensen of dingen met een gemeenschappelijk kenmerk. Meervoud: 'groepen'. Synoniem: 'team', 'club'. Figuurlijk: 'groepsdruk' = druk vanuit de sociale omgeving om mee te doen.",
+    "hint": "Groep, organisatie en partij zijn alle drie verbanden van mensen. Groep is het meest algemeen en informeel. Wat onderscheidt het van een formele organisatie?",
+    "collocations": [
+      "in een groep werken",
+      "groepsdruk",
+      "een groep vormen"
+    ]
+  },
+  {
+    "word": "inrichting",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "De <mark>inrichting</mark> van de nieuwe staat kostte jaren van onderhandelen.",
+      "De <mark>inrichting</mark> van het kantoor was modern en functioneel.",
+      "Hij verblijft tijdelijk in een psychiatrische <mark>inrichting</mark> voor behandeling."
+    ],
+    "options": [
+      "de lijst van leden van een organisatie of instelling",
+      "de manier waarop een ruimte of systeem is georganiseerd en ingericht",
+      "het plan dat de toekomstige ontwikkeling van een gebied beschrijft",
+      "de wet die bepaalt hoe een overheidsorgaan functioneert"
+    ],
+    "correct": 1,
+    "explanation": "'Inrichting' = de organisatie of indeling van een ruimte of systeem, of een gesloten instelling. Meervoud: 'inrichtingen'. Synoniem: 'opzet', 'organisatie'. Figuurlijk: 'de inrichting van de samenleving' = hoe de maatschappij is gestructureerd.",
+    "hint": "Dit woord heeft drie gerelateerde betekenissen: hoe een ruimte is ingericht, hoe een systeem is georganiseerd, en een gesloten instelling. Wat verbindt ze?",
+    "collocations": [
+      "de inrichting van de staat",
+      "kantoorinrichting",
+      "psychiatrische inrichting"
+    ]
+  },
+  {
+    "word": "internationaal",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het <mark>internationale</mark> verdrag werd ondertekend door veertig landen.",
+      "Ze werkt bij een <mark>internationaal</mark> bedrijf met kantoren op vijf continenten.",
+      "Het conflict kreeg <mark>internationale</mark> aandacht na de berichtgeving in de wereldpers."
+    ],
+    "options": [
+      "betrekking hebbend op één specifiek land en zijn binnenlandse zaken",
+      "betrekking hebbend op de relaties en activiteiten tussen meerdere landen",
+      "betrekking hebbend op de samenwerking tussen steden in één land",
+      "betrekking hebbend op wereldwijde vraagstukken zonder nationale grenzen"
+    ],
+    "correct": 1,
+    "explanation": "'Internationaal' = tussen of over meerdere landen. Antonym: 'nationaal'. Synoniem: 'grensoverschrijdend'. Figuurlijk: 'internationale reputatie' = bekend zijn in meerdere landen; 'internationaal recht' = wetten die tussen staten gelden.",
+    "hint": "Nationaal en internationaal zijn elkaars tegengestelden. Nationaal betreft één land; internationaal betreft...?",
+    "collocations": [
+      "internationaal recht",
+      "internationale samenwerking",
+      "op internationaal niveau"
+    ]
+  },
+  {
+    "word": "Kamer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>Tweede Kamer</mark> debatteert vanavond over de nieuwe klimaatwet.",
+      "Ze werd gekozen als lid van de <mark>Kamer</mark> voor de Partij van de Arbeid.",
+      "De <mark>Eerste Kamer</mark> heeft het wetsvoorstel met grote meerderheid verworpen."
+    ],
+    "options": [
+      "het gekozen parlementsorgaan dat wetten goedkeurt en de regering controleert",
+      "een commissie binnen de overheid die beleid adviseert",
+      "het kabinet van ministers dat het dagelijks bestuur van het land voert",
+      "een ruimte in een gebouw die voor een specifiek doel is ingericht"
+    ],
+    "correct": 0,
+    "explanation": "'Kamer' = in politieke context het parlement of een kamer ervan. Nederland heeft de Eerste Kamer (senaat) en de Tweede Kamer (volksvertegenwoordiging). Synoniem: 'parlement', 'volksvertegenwoordiging'.",
+    "hint": "In Nederland zijn er twee Kamers. De Tweede Kamer is de bekendste — wat is de primaire functie van de Kamer als politiek orgaan?",
+    "collocations": [
+      "Tweede Kamer",
+      "Eerste Kamer",
+      "Kamerlid"
+    ]
+  },
+  {
+    "word": "kolonel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "De <mark>kolonel</mark> leidde een regiment van vierhonderd soldaten.",
+      "Ze werd bevorderd tot <mark>kolonel</mark> na haar succesvolle missie in het buitenland.",
+      "De <mark>kolonel</mark> rapporteerde dagelijks aan de generaal over de situatie."
+    ],
+    "options": [
+      "een onderofficier die kleine eenheden op het slagveld aanstuurt",
+      "een hoge officier die een regiment commandeert, één rang onder generaal",
+      "een militaire adviseur zonder commandobevoegdheid over troepen",
+      "de hoogste militaire rang die een land kan verlenen aan een officier"
+    ],
+    "correct": 1,
+    "explanation": "'Kolonel' = een hoge militaire officier die een regiment commandeert. Meervoud: 'kolonels'. Synoniem: 'regimentscommandant'. Militaire hiërarchie: ... → luitenant-kolonel → kolonel → generaal.",
+    "hint": "Kolonel en generaal zijn hoge militaire rangen. Kolonel staat één rang onder generaal. Wat commandeert een kolonel?",
+    "collocations": [
+      "kolonel worden",
+      "de kolonel commandeert",
+      "luitenant-kolonel"
+    ]
+  },
+  {
+    "word": "koning",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Koning</mark> Willem-Alexander is het staatshoofd van Nederland.",
+      "In het sprookje versloeg de held de draak en trouwde met de dochter van de <mark>koning</mark>.",
+      "Op zijn vakgebied is hij de onbetwiste <mark>koning</mark> — niemand doet het beter."
+    ],
+    "options": [
+      "een erfelijk mannelijk staatshoofd van een koninkrijk",
+      "een religieus leider die tegelijkertijd politieke macht uitoefent",
+      "een militaire leider die door zijn troepen tot machthebber is uitgeroepen",
+      "een gekozen staatshoofd dat namens het volk regeert"
+    ],
+    "correct": 0,
+    "explanation": "'Koning' = een erfelijk mannelijk staatshoofd. Meervoud: 'koningen'. Vrouwelijk: 'koningin'. Synoniem: 'monarch', 'vorst'. Figuurlijk: 'de koning van iets zijn' = de absolute beste zijn op een bepaald gebied.",
+    "hint": "Koning, president en premier zijn allen staatshoofd of regeringsleider. Wat maakt de positie van koning uniek qua opvolging?",
+    "collocations": [
+      "Koning der Nederlanden",
+      "de koning van zijn vak",
+      "koningshuis"
+    ]
+  },
+  {
+    "word": "koningin",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Koningin</mark> Maxima zet zich internationaal in voor financiële inclusie.",
+      "De <mark>koningin</mark> opende het nieuwe culturele centrum in de hoofdstad.",
+      "Ze wordt gezien als de <mark>koningin</mark> van de popmuziek van haar generatie."
+    ],
+    "options": [
+      "een gekozen vrouwelijke regeringsleider van een democratisch land",
+      "een erfelijk vrouwelijk staatshoofd of de echtgenote van een koning",
+      "een vrouwelijke militaire leider die haar land in oorlogstijd aanvoert",
+      "de vrouwelijke echtgenote van een staatshoofd zonder eigen titel"
+    ],
+    "correct": 1,
+    "explanation": "'Koningin' = een vrouwelijk staatshoofd of de echtgenote van een koning. Meervoud: 'koninginnen'. Mannelijk: 'koning'. Synoniem: 'vorstin'. Figuurlijk: 'koningin van iets zijn' = de absolute top zijn op een bepaald gebied.",
+    "hint": "Koningin kan twee rollen beschrijven: een vrouw die zelf regeert, of de vrouw van een regerende koning. Wat is het verschil?",
+    "collocations": [
+      "koninginnedag",
+      "de koningin van pop",
+      "koningin-moeder"
+    ]
+  },
+  {
+    "word": "kunst",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Het museum toont <mark>kunst</mark> van Nederlandse meesters uit de Gouden Eeuw.",
+      "Ze heeft een talent voor <mark>kunst</mark> — haar schilderijen worden goed verkocht.",
+      "Het is een <mark>kunst</mark> om goed te luisteren zonder te oordelen."
+    ],
+    "options": [
+      "creatieve menselijke uitingen zoals schilderkunst, muziek en literatuur",
+      "de traditionele gebruiken en rituelen van een specifieke cultuur",
+      "de vaardigheid die iemand via training en oefening heeft verworven",
+      "het geheel van wetenschappelijke ontdekkingen en technologische innovaties"
+    ],
+    "correct": 0,
+    "explanation": "'Kunst' = creatieve uitingen met esthetische of expressieve waarde. Meervoud: 'kunsten'. Synoniem: 'beeldende kunst', 'kunstvorm'. Figuurlijk: 'een kunst zijn' = iets moeilijks dat vaardigheid vereist; 'kunstje' = een trucje of slimmigheidje.",
+    "hint": "Cultuur en kunst zijn nauw verwant maar kunst is specifieker. Cultuur omvat alles; kunst is de creatieve...?",
+    "collocations": [
+      "moderne kunst",
+      "kunst en cultuur",
+      "dat is een kunst"
+    ]
+  },
+  {
+    "word": "land",
     "pos": "zelfstandig naamwoord · het",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "Tienduizenden mensen leefden in het <mark>vluchtelingenkamp</mark> aan de grens.",
-      "Humanitaire organisaties brachten voedsel naar het <mark>vluchtelingenkamp</mark>.",
-      "De omstandigheden in het <mark>vluchtelingenkamp</mark> waren erg slecht."
+      "Nederland is een klein <mark>land</mark> met een grote internationale invloed.",
+      "Ze woont al tien jaar in het buitenland en mist haar eigen <mark>land</mark>.",
+      "De boer bewerkte het <mark>land</mark> vroeg in de ochtend voor de oogst."
     ],
     "options": [
-      "een militaire basis",
-      "een centrum voor arbeidsmigranten",
-      "een tijdelijk kamp voor toeristen",
-      "een voorziening waar vluchtelingen tijdelijk worden opgevangen"
+      "een regio met een eigen taal en cultuur maar zonder formele onafhankelijkheid",
+      "een gebied dat bestuurlijk valt onder een ander, groter land",
+      "een stad of gemeente met een eigen bestuur en rechtspersoonlijkheid",
+      "een onafhankelijk politiek gebied met een eigen overheid en grenzen, of het grondgebied"
     ],
     "correct": 3,
-    "explanation": "'Vluchtelingenkamp' = een tijdelijke opvanglocatie voor mensen die gevlucht zijn voor oorlog, geweld of vervolging. Samengesteld van 'vluchteling' + 'kamp'.",
-    "hint": "Mensen die door oorlog hun land ontvluchten, wonen vaak tijdelijk in een..."
+    "explanation": "'Land' = een onafhankelijke staat of het grondgebied ervan. Meervoud: 'landen'. Synoniem: 'staat', 'natie'. Figuurlijk: 'te lande' = in dit land; 'aan land gaan' = van het water naar de vaste grond gaan.",
+    "hint": "Land heeft twee betekenissen: een politieke entiteit (staat) en een fysieke entiteit (grond versus water). Welke twee zijn dat?",
+    "collocations": [
+      "een vreemd land",
+      "land en volk",
+      "aan land gaan"
+    ]
   },
   {
-    "word": "soevereiniteit",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "word": "leger",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
     "examples": [
-      "De <mark>soevereiniteit</mark> van een land betekent dat het zijn eigen wetten mag maken.",
-      "De bezetting schond de <mark>soevereiniteit</mark> van het land.",
-      "EU-lidstaten dragen een deel van hun <mark>soevereiniteit</mark> over aan Brussel."
+      "Het <mark>leger</mark> werd ingezet bij de overstromingen om te helpen evacueren.",
+      "Ze werkt als officier bij het <mark>leger</mark> na haar studie militaire wetenschappen.",
+      "Een <mark>leger</mark> van vrijwilligers hielp mee bij de opruimactie."
     ],
     "options": [
-      "de culturele identiteit van een volk",
-      "de economische onafhankelijkheid van een land",
-      "de militaire macht van een land",
-      "het recht van een staat om zichzelf te besturen zonder inmenging"
-    ],
-    "correct": 3,
-    "explanation": "'Soevereiniteit' = het recht en de macht van een staat om zichzelf volledig te besturen. Van het Frans 'souveraineté'. Bijvoeglijk naamwoord: 'soeverein'.",
-    "hint": "Een land dat zelf zijn wetten maakt en niet door anderen wordt bestuurd, heeft..."
-  },
-  {
-    "word": "grondwet",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "De Nederlandse <mark>Grondwet</mark> garandeert vrijheid van meningsuiting.",
-      "Een wijziging van de <mark>grondwet</mark> vereist een tweederde meerderheid.",
-      "De <mark>grondwet</mark> is de hoogste wet in het land."
-    ],
-    "options": [
-      "de fundamentele wet die de rechten van burgers en de structuur van de staat vastlegt",
-      "een wet over grondbezit en eigendom",
-      "de eerste wet die een parlement aanneemt",
-      "een verdrag tussen twee landen"
+      "de nationale strijdkrachten die een land verdedigen tegen externe bedreigingen",
+      "de diplomatieke dienst die namens een land onderhandelt met andere landen",
+      "de inlichtingendienst die informatie verzamelt over vijandige landen",
+      "de organisatie die belast is met het handhaven van de openbare orde binnenlands"
     ],
     "correct": 0,
-    "explanation": "'Grondwet' = de fundamentele, hoogste wet van een staat. Samengesteld van 'grond' (basis) + 'wet'. Legt burgerrechten en staatsinrichting vast.",
-    "hint": "'Grond' = basis. De meest fundamentele wet van een land is de..."
+    "explanation": "'Leger' = de nationale strijdkrachten van een land. Meervoud: 'legers'. Synoniem: 'strijdmacht', 'defensie'. Figuurlijk: 'een leger van mensen' = een enorm groot aantal mensen.",
+    "hint": "Politie en leger zijn allebei veiligheidsorganisaties. De politie handhaaft binnenlandse orde; het leger verdedigt tegen...?",
+    "collocations": [
+      "het leger inzetten",
+      "bij het leger gaan",
+      "een leger van vrijwilligers"
+    ]
   },
   {
-    "word": "lobby",
-    "pos": "zelfstandig naamwoord · de / werkwoord",
-    "level": 3,
+    "word": "lid",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
     "examples": [
-      "De farmaceutische industrie heeft een sterke <mark>lobby</mark> in Den Haag.",
-      "Milieugroepen <mark>lobbyen</mark> voor strengere klimaatwetten.",
-      "De <mark>lobbyisten</mark> spraken de ministers aan in de wandelgangen."
+      "Ze is al tien jaar <mark>lid</mark> van de lokale sportvereniging.",
+      "Als <mark>lid</mark> van de partij mag je meestemmen over de koers.",
+      "Hij is <mark>lid</mark> van de Tweede Kamer voor de VVD."
     ],
     "options": [
-      "het beïnvloeden van politici door georganiseerde belangengroepen",
-      "een openbare protestmars",
-      "een officieel debat in het parlement",
-      "een campagne voor het grote publiek"
+      "iemand die tijdelijk deelneemt aan een activiteit zonder formeel te zijn ingeschreven",
+      "de vertegenwoordiger die namens een groep onderhandelt met buitenstaanders",
+      "iemand die officieel deel uitmaakt van een organisatie of groep",
+      "de leider die namens een organisatie beslissingen neemt"
     ],
-    "correct": 0,
-    "explanation": "'Lobby' = het beïnvloeden van politieke beslissingen door belangengroepen, vaak achter de schermen. Van het Engelse 'lobby' (gang, hal van parlement).",
-    "hint": "Bedrijven of organisaties die politici proberen te beïnvloeden buiten officiële debatten doen aan..."
+    "correct": 2,
+    "explanation": "'Lid' = iemand die officieel deel uitmaakt van een groep of organisatie. Meervoud: 'leden'. Synoniem: 'member'. Figuurlijk: 'Kamerlid' = een gekozen volksvertegenwoordiger; 'lidmaatschap' = het formeel lidmaatschap van iets.",
+    "hint": "Een lid en een bezoeker zijn allebei aanwezig bij een organisatie. Wat maakt een lid formeel anders dan een buitenstaander?",
+    "collocations": [
+      "lid worden van",
+      "Kamerlid",
+      "lidmaatschap opzeggen"
+    ]
   },
   {
-    "word": "subsidie",
+    "word": "maatschappelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze werkt als <mark>maatschappelijk</mark> werker bij een jeugdinstelling.",
+      "De organisatie heeft een sterke <mark>maatschappelijke</mark> betrokkenheid.",
+      "<mark>Maatschappelijke</mark> problemen zoals armoede vragen om gezamenlijke oplossingen."
+    ],
+    "options": [
+      "betrekking hebbend op de politieke besluitvorming in een democratisch systeem",
+      "betrekking hebbend op de relaties tussen landen op internationaal niveau",
+      "betrekking hebbend op de samenleving en de sociale verhoudingen daarin",
+      "betrekking hebbend op de economische productie en handel van een land"
+    ],
+    "correct": 2,
+    "explanation": "'Maatschappelijk' = betrekking hebbend op de maatschappij en sociale verhoudingen. Synoniem: 'sociaal', 'samenlevingsgericht'. Figuurlijk: 'maatschappelijk werker' = een professional die mensen in sociale nood helpt.",
+    "hint": "Maatschappelijk is de bijvoeglijke vorm van maatschappij. Wat beschrijft het precies — politiek, economisch, of sociaal?",
+    "collocations": [
+      "maatschappelijk werker",
+      "maatschappelijke betrokkenheid",
+      "maatschappelijk probleem"
+    ]
+  },
+  {
+    "word": "maatschappij",
     "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "level": 2,
     "examples": [
-      "De kunstenaar ontving een <mark>subsidie</mark> van de gemeente voor haar project.",
-      "Zonnepanelen worden in Nederland met <mark>subsidie</mark> gestimuleerd.",
-      "De <mark>subsidie</mark> voor het theater werd gekort wegens bezuinigingen."
+      "De <mark>maatschappij</mark> verandert snel door technologische ontwikkelingen.",
+      "Hij voelt zich buitengesloten van de <mark>maatschappij</mark> na zijn gevangenisstraf.",
+      "De verzekerings<mark>maatschappij</mark> weigerde zijn claim te betalen."
     ],
     "options": [
-      "financiële steun van de overheid voor een activiteit of organisatie",
-      "een boete voor het overtreden van regels",
-      "een lening van een bank",
-      "een belasting die bedrijven moeten betalen"
-    ],
-    "correct": 0,
-    "explanation": "'Subsidie' = financiële steun die de overheid verstrekt aan organisaties of personen om bepaalde activiteiten te stimuleren. Van het Latijn 'subsidium'.",
-    "hint": "Geld dat de overheid geeft — niet als lening — om iets te stimuleren. Dat heet een..."
-  },
-  {
-    "word": "rechtsstaat",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 4,
-    "examples": [
-      "In een <mark>rechtsstaat</mark> is ook de overheid gebonden aan de wet.",
-      "Vrije rechtspraak is een pijler van de <mark>rechtsstaat</mark>.",
-      "Corruptie ondermijnt de <mark>rechtsstaat</mark>."
-    ],
-    "options": [
-      "een land zonder corruptie",
-      "een democratie met algemeen stemrecht",
-      "een land met een sterk leger",
-      "een staat waarbij macht wordt beperkt door wetten en onafhankelijke rechtspraak"
+      "de culturele uitingen en tradities van een groep mensen",
+      "de formele structuur van een overheid met haar wetten en instituties",
+      "de economische organisatie van productie en handel in een land",
+      "het geheel van mensen en hun onderlinge verhoudingen in een gemeenschap"
     ],
     "correct": 3,
-    "explanation": "'Rechtsstaat' = een staat waarbij de overheid gebonden is aan de wet en burgers onafhankelijke rechtspraak hebben. Kernwaarden: scheiding der machten en grondrechten.",
-    "hint": "Niet alleen burgers, maar ook de overheid moet zich aan de wet houden. Dat is de essentie van de..."
+    "explanation": "'Maatschappij' = de samenleving als geheel van mensen en hun verhoudingen. Meervoud: 'maatschappijen'. Synoniem: 'samenleving', 'gemeenschap'. Tweede betekenis: 'maatschappij' als formeel woord voor een bedrijf of verzekeraar.",
+    "hint": "Maatschappij en samenleving zijn bijna synoniemen. Maatschappij heeft ook een zakelijke betekenis — welke?",
+    "collocations": [
+      "de moderne maatschappij",
+      "verzekeringsmaatschappij",
+      "buiten de maatschappij staan"
+    ]
   },
   {
-    "word": "polarisatie",
+    "word": "macht",
     "pos": "zelfstandig naamwoord · de",
-    "level": 4,
+    "level": 1,
     "examples": [
-      "<mark>Polarisatie</mark> in de samenleving maakt compromissen steeds moeilijker.",
-      "Social media versterkt de <mark>polarisatie</mark> tussen politieke groepen.",
-      "De <mark>polarisatie</mark> tussen voor- en tegenstanders was groot."
+      "De politieke <mark>macht</mark> verschoof na de verkiezingen naar de oppositie.",
+      "Ze heeft veel <mark>macht</mark> in haar functie als CEO van het bedrijf.",
+      "Het stond niet in zijn <mark>macht</mark> om de beslissing terug te draaien."
     ],
     "options": [
-      "de groei van de middenklasse in de samenleving",
-      "de samenwerking tussen verschillende groepen",
-      "de invloed van de media op de politiek",
-      "het verscherpen van tegenstellingen waardoor groepen verder uit elkaar groeien"
+      "de kennis en expertise die iemand laat uitblinken in zijn vakgebied",
+      "het vermogen of de bevoegdheid om anderen te beïnvloeden of besluiten te nemen",
+      "de formele toestemming die iemand krijgt om namens een ander te handelen",
+      "de verplichting om verantwoording af te leggen over genomen beslissingen"
+    ],
+    "correct": 1,
+    "explanation": "'Macht' = het vermogen om invloed uit te oefenen of beslissingen af te dwingen. Meervoud: 'machten'. Synoniem: 'gezag', 'invloed'. Figuurlijk: 'niet in iemands macht staan' = buiten iemands controle vallen; 'de drie machten' = wetgevend, uitvoerend, rechterlijk.",
+    "hint": "Macht en invloed zijn verwant maar macht gaat verder — het impliceert de mogelijkheid om ook tegen iemands wil iets af te dwingen. Wat is het verschil?",
+    "collocations": [
+      "aan de macht zijn",
+      "macht misbruiken",
+      "de drie machten"
+    ]
+  },
+  {
+    "word": "markt",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze koopt elke zaterdag verse groenten op de <mark>markt</mark> in het centrum.",
+      "Het bedrijf opent nieuwe kantoren om de Aziatische <mark>markt</mark> te betreden.",
+      "Op de woningmarkt zijn de prijzen de afgelopen jaren flink gestegen."
+    ],
+    "options": [
+      "de organisatie die toezicht houdt op eerlijke handelspraktijken",
+      "het systeem of de locatie waar vraag en aanbod samenkomen",
+      "de overheid die de economie reguleert via wetten en subsidies",
+      "de financiële instelling die kapitaal verstrekt aan bedrijven"
+    ],
+    "correct": 1,
+    "explanation": "'Markt' = een plek of systeem waar vraag en aanbod samenkomen. Meervoud: 'markten'. Synoniem: 'handel', 'marktplaats'. Figuurlijk: 'een markt betreden' = actief worden in een nieuw commercieel segment; 'vrije markt' = economie zonder overheidsinterventie.",
+    "hint": "Een markt kan een fysieke plek zijn (met kraampjes) of een economisch concept (vraag en aanbod). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "de vrije markt",
+      "een markt betreden",
+      "op de markt brengen"
+    ]
+  },
+  {
+    "word": "minister",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>minister</mark> van Volksgezondheid presenteerde een nieuw zorgplan.",
+      "Ze werd benoemd tot <mark>minister</mark> na de verkiezingsoverwinning van haar partij.",
+      "De <mark>minister</mark>-president is de leider van de Nederlandse regering."
+    ],
+    "options": [
+      "een lid van de regering dat verantwoordelijk is voor een beleidsterrein",
+      "een hoge ambtenaar die een overheidsdienst operationeel leidt",
+      "een rechter die toeziet op de naleving van de grondwet",
+      "een gekozen volksvertegenwoordiger die wetten goedkeurt in het parlement"
+    ],
+    "correct": 0,
+    "explanation": "'Minister' = een lid van de regering verantwoordelijk voor een beleidsgebied. Meervoud: 'ministers'. Synoniem: 'bewindspersoon'. Figuurlijk: 'minister-president' = de leider van de regering; 'ministerpost' = een ministersfunctie.",
+    "hint": "Minister en Kamerlid zijn beide politici. Een Kamerlid controleert de regering; een minister...?",
+    "collocations": [
+      "minister van Financiën",
+      "minister-president",
+      "een minister ontslaan"
+    ]
+  },
+  {
+    "word": "ministerie",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het <mark>Ministerie</mark> van Onderwijs publiceert jaarlijks de onderwijsresultaten.",
+      "Ze werkt als beleidsmedewerker bij het <mark>ministerie</mark> van Buitenlandse Zaken.",
+      "Het <mark>ministerie</mark> heeft nieuwe richtlijnen uitgevaardigd voor de zorgsector."
+    ],
+    "options": [
+      "de rechtbank die beslissingen van de overheid toetst op rechtmatigheid",
+      "het overheidsorgaan dat een minister ondersteunt bij de uitvoering van beleid",
+      "de adviesraad die de minister gevraagd en ongevraagd van advies voorziet",
+      "het gekozen orgaan dat wetten maakt en de regering controleert"
+    ],
+    "correct": 1,
+    "explanation": "'Ministerie' = het ambtelijk apparaat dat een minister ondersteunt. Meervoud: 'ministeries'. Synoniem: 'departement'. Figuurlijk: 'Ministerie van Buitenlandse Zaken' = de overheidsorganisatie voor buitenlandbeleid.",
+    "hint": "Minister en ministerie hangen samen. De minister is een persoon; het ministerie is...?",
+    "collocations": [
+      "Ministerie van Financiën",
+      "bij het ministerie werken",
+      "een ministerie oprichten"
+    ]
+  },
+  {
+    "word": "nationaal",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het <mark>nationaal</mark> elftal speelt vanavond in de halve finale.",
+      "De <mark>nationale</mark> feestdag wordt gevierd met optochten en vuurwerk.",
+      "Ze nam een beslissing van <mark>nationaal</mark> belang voor de toekomst van het land."
+    ],
+    "options": [
+      "betrekking hebbend op de relaties en samenwerking tussen meerdere landen",
+      "betrekking hebbend op één land als geheel of de hele bevolking",
+      "betrekking hebbend op een specifieke regio of provincie binnen een land",
+      "betrekking hebbend op de lokale gemeenschap in een stad of dorp"
+    ],
+    "correct": 1,
+    "explanation": "'Nationaal' = betrekking hebbend op het hele land. Antonym: 'internationaal', 'lokaal'. Synoniem: 'lands-'. Figuurlijk: 'nationaal belang' = wat goed is voor het gehele land; 'nationale trots' = trots op het eigen land.",
+    "hint": "Nationaal, lokaal en internationaal beschrijven verschillende geografische schaalniveaus. Nationaal beschrijft het niveau van...?",
+    "collocations": [
+      "nationaal belang",
+      "nationale identiteit",
+      "het nationaal elftal"
+    ]
+  },
+  {
+    "word": "officieel",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "De <mark>officiële</mark> opening van het museum is aanstaande vrijdag.",
+      "Dat is nog niet <mark>officieel</mark> bevestigd door de woordvoerder van het bedrijf.",
+      "De <mark>officiële</mark> taal van Nederland is het Nederlands."
+    ],
+    "options": [
+      "iets wat tijdelijk van kracht is totdat een definitieve beslissing is genomen",
+      "iets wat door iedereen als waar wordt beschouwd maar niet formeel bevestigd",
+      "iets wat door de meerderheid van de bevolking wordt geaccepteerd",
+      "iets wat formeel erkend of vastgesteld is door een bevoegde instantie"
     ],
     "correct": 3,
-    "explanation": "'Polarisatie' = het proces waarbij groepen in de samenleving steeds verder tegenover elkaar komen te staan. Van 'pool' (uiterste punt). Werkwoord: 'polariseren'.",
-    "hint": "Als groepen steeds verder uit elkaar groeien en tegenover elkaar komen te staan, is er..."
+    "explanation": "'Officieel' = formeel erkend of vastgesteld door een bevoegde autoriteit. Antonym: 'inofficieel', 'informeel'. Synoniem: 'formeel', 'erkend'. Figuurlijk: 'officieuze informatie' = informatie die klopt maar niet officieel bevestigd is.",
+    "hint": "Officieel en officieus zijn bijna tegengestelden. Officieel is formeel bevestigd. Wat is het verschil met iets wat gewoon waar is maar niet officieel bevestigd?",
+    "collocations": [
+      "officieel bekendmaken",
+      "de officiële taal",
+      "officieel bevestigen"
+    ]
+  },
+  {
+    "word": "oorlog",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De Tweede Wereldoorlog duurde van 1939 tot 1945.",
+      "Ze vluchtte weg uit het <mark>oorlog</mark>sgebied met haar twee kinderen.",
+      "Er is een <mark>oorlog</mark> gaande om de beste techtalenten tussen grote bedrijven."
+    ],
+    "options": [
+      "een gewapend conflict tussen landen, groepen of partijen met geweld",
+      "een economisch conflict waarbij landen elkaars producten met importheffingen belasten",
+      "een politiek conflict binnen een land over de verdeling van macht",
+      "een diplomatiek conflict waarbij landen via onderhandelingen problemen oplossen"
+    ],
+    "correct": 0,
+    "explanation": "'Oorlog' = een gewapend conflict op grote schaal. Meervoud: 'oorlogen'. Antonym: 'vrede'. Synoniem: 'conflict', 'strijd'. Figuurlijk: 'een prijzenoorlog' = een commercieel conflict om de laagste prijs; 'oorlog verklaren aan' = actief iets bestrijden.",
+    "hint": "Conflict, strijd en oorlog zijn allemaal confrontaties. Wat maakt een oorlog specifieker en ernstiger dan een gewoon conflict?",
+    "collocations": [
+      "een oorlog voeren",
+      "oorlog en vrede",
+      "een prijzenoorlog"
+    ]
+  },
+  {
+    "word": "oprichten",
+    "pos": "werkwoord · scheidbaar",
+    "level": 2,
+    "examples": [
+      "Ze <mark>richtte</mark> haar eigen adviesbureau <mark>op</mark> na tien jaar in loondienst.",
+      "De organisatie werd <mark>opgericht</mark> in 1948 na de Tweede Wereldoorlog.",
+      "Hij <mark>richtte</mark> zichzelf <mark>op</mark> na de val en liep dapper verder."
+    ],
+    "options": [
+      "een nieuwe organisatie, bedrijf of instelling formeel tot stand brengen",
+      "een bestaande organisatie overnemen en voortzetten onder een nieuwe naam",
+      "een organisatie uitbreiden met nieuwe leden of vestigingen",
+      "een organisatie officieel beëindigen na het afronden van haar missie"
+    ],
+    "correct": 0,
+    "explanation": "'Oprichten' = een nieuwe organisatie of entiteit formeel tot stand brengen. Scheidbaar: 'richt op', 'richtte op', 'opgericht'. Synoniem: 'stichten', 'opzetten'. Figuurlijk: 'zichzelf oprichten' = overeind komen na een val.",
+    "hint": "Oprichten en overnemen zijn allebei manieren om met een organisatie te starten. Wat is het cruciale verschil — bestaat de organisatie al?",
+    "collocations": [
+      "een bedrijf oprichten",
+      "opgericht in",
+      "een stichting oprichten"
+    ]
+  },
+  {
+    "word": "overheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>overheid</mark> subsidieert duurzame energie voor huishoudens.",
+      "Burgers kunnen hun rechten tegenover de <mark>overheid</mark> laten gelden via de rechter.",
+      "Sommige taken zijn te groot voor de markt — daar moet de <mark>overheid</mark> optreden."
+    ],
+    "options": [
+      "de juridische instanties die geschillen tussen burgers beslechten",
+      "het geheel van publieke organen die een land of regio besturen",
+      "de politieke partijen die deelnemen aan verkiezingen om macht te verwerven",
+      "de nationale vergadering die wetten maakt en de uitvoerende macht controleert"
+    ],
+    "correct": 1,
+    "explanation": "'Overheid' = het geheel van publieke bestuursorganen. Altijd met 'de'. Synoniem: 'staat', 'publieke sector'. Figuurlijk: 'overheidsbeleid' = het beleid dat de overheid voert; 'overheidssteun' = financiële hulp van de overheid.",
+    "hint": "Overheid, parlement en rechter zijn alle drie onderdelen van de staat. De overheid is het overkoepelende begrip — wat valt er allemaal onder?",
+    "collocations": [
+      "de overheid subsidieert",
+      "overheidsbeleid",
+      "overheid en burger"
+    ]
+  },
+  {
+    "word": "partij",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze stemde op een kleine <mark>partij</mark> die zich inzet voor duurzaamheid.",
+      "Bij het conflict zijn twee <mark>partijen</mark> betrokken die beiden gelijk claimen te hebben.",
+      "Hij organiseerde een groot <mark>partij</mark>tje voor zijn vijftigste verjaardag."
+    ],
+    "options": [
+      "een organisatie die namens haar leden onderhandelt over arbeidsvoorwaarden",
+      "een groep afgevaardigden die een minister ondersteunt in het parlement",
+      "een groep mensen die samenwerkt voor een gemeenschappelijk politiek doel, of een bijeenkomst",
+      "een formele samenwerking tussen bedrijven voor een gezamenlijk project"
+    ],
+    "correct": 2,
+    "explanation": "'Partij' = een politieke organisatie of een betrokken partij in een conflict, of een feestje. Meervoud: 'partijen'. Synoniem: 'politieke partij', 'gesprekspartner'. Figuurlijk: 'partij kiezen' = een kant kiezen in een conflict.",
+    "hint": "Dit woord heeft drie betekenissen: politiek (D66, VVD), juridisch (twee partijen bij een conflict), en sociaal (een feestje). Wat verbindt ze?",
+    "collocations": [
+      "politieke partij",
+      "partij kiezen",
+      "een feestje geven"
+    ]
+  },
+  {
+    "word": "politie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze belde de <mark>politie</mark> nadat ze had gemerkt dat er was ingebroken.",
+      "De <mark>politie</mark> hield een verdachte aan in de buurt van de winkel.",
+      "De stad zet extra <mark>politie</mark> in tijdens grote evenementen."
+    ],
+    "options": [
+      "de nationale strijdkrachten die het land verdedigen bij externe bedreigingen",
+      "de inlichtingendienst die heimelijk informatie verzamelt over veiligheidsdreigingen",
+      "de overheidsorganisatie die de openbare orde handhaaft en misdaad bestrijdt",
+      "de gerechtelijke organisatie die verdachten berecht en veroordeelt"
+    ],
+    "correct": 2,
+    "explanation": "'Politie' = de organisatie die wet- en regelgeving handhaaft. Altijd met 'de'. Synoniem: 'politiedienst', 'politiemacht'. Figuurlijk: 'de moraalridder spelen' = je gedragen alsof je de morele politie bent.",
+    "hint": "Politie, leger en rechter zijn drie pijlers van de rechtsstaat. De politie is de eerste schakel — wat is haar primaire taak?",
+    "collocations": [
+      "de politie bellen",
+      "politie-inzet",
+      "bij de politie werken"
+    ]
+  },
+  {
+    "word": "politiek",
+    "pos": "zelfstandig naamwoord · de / bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is geïnteresseerd in <mark>politiek</mark> en volgt het nieuws op de voet.",
+      "Het was een <mark>politieke</mark> beslissing, geen inhoudelijke.",
+      "De <mark>politiek</mark> in Den Haag raakte verdeeld over de nieuwe begrotingswet."
+    ],
+    "options": [
+      "de economische beslissingen die een overheid neemt over belastingen en uitgaven",
+      "het systeem van wetten en regels dat gedrag in de samenleving stuurt",
+      "de diplomatieke betrekkingen die een land onderhoudt met andere landen",
+      "het geheel van activiteiten rondom de verdeling en uitoefening van macht in de samenleving"
+    ],
+    "correct": 3,
+    "explanation": "'Politiek' = het geheel van activiteiten rondom macht en bestuur. Als bijvoeglijk naamwoord: te maken hebbend met politiek of strategisch berekend. Synoniem: 'staatszaken'. Figuurlijk: 'politiek spel' = strategisch manoeuvreren voor eigenbelang.",
+    "hint": "Politiek gaat over macht en besluitvorming in de samenleving. Maar 'politiek' als bijvoeglijk naamwoord kan ook betekenen dat iets strategisch berekend is. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "in de politiek gaan",
+      "politieke partij",
+      "een politieke beslissing"
+    ]
+  },
+  {
+    "word": "recht",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Iedereen heeft het <mark>recht</mark> op een eerlijk proces voor de rechter.",
+      "Ze studeerde <mark>recht</mark> en werd daarna advocaat.",
+      "Dat heb je goed gedaan — en <mark>terecht</mark> ook."
+    ],
+    "options": [
+      "de plicht die een burger heeft tegenover de staat en medeburgers",
+      "een wettelijk of moreel aanspraak die iemand toekomt, of het rechtssysteem",
+      "de bescherming die een overheid biedt aan kwetsbare burgers",
+      "de straf die iemand ondergaat na een veroordeling door de rechter"
+    ],
+    "correct": 1,
+    "explanation": "'Recht' = een aanspraak die iemand toekomt, of het geheel van het rechtssysteem. Meervoud: 'rechten'. Synoniem: 'aanspraak', 'bevoegdheid'. Figuurlijk: 'met recht' = terecht, op goede gronden; 'iemand recht doen' = eerlijk behandelen.",
+    "hint": "Recht heeft een persoonlijke betekenis (jouw recht op iets) en een systemische (het rechtssysteem). Wat verbindt de twee?",
+    "collocations": [
+      "recht op iets hebben",
+      "studeren in het recht",
+      "met recht"
+    ]
+  },
+  {
+    "word": "rechter",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>rechter</mark> veroordeelde de verdachte tot drie jaar gevangenisstraf.",
+      "Ze wil later <mark>rechter</mark> worden na haar studie rechten.",
+      "Laat de <mark>rechter</mark> maar beslissen — we leggen het aan hem voor."
+    ],
+    "options": [
+      "iemand die namens een partij pleit voor vrijspraak voor de rechter",
+      "iemand die juridisch advies geeft aan burgers en bedrijven",
+      "iemand die namens de staat een verdachte vervolgt voor de rechter",
+      "iemand die als onpartijdige autoriteit juridische geschillen beslecht"
+    ],
+    "correct": 3,
+    "explanation": "'Rechter' = een onpartijdige functionaris die juridische beslissingen neemt. Meervoud: 'rechters'. Synoniem: 'magistraat'. Figuurlijk: 'rechter en jury zijn' = zowel beoordelen als veroordelen.",
+    "hint": "Advocaat, officier van justitie en rechter spelen alle drie een rol in een rechtszaak. Welke is onpartijdig en beslist de uitkomst?",
+    "collocations": [
+      "voor de rechter staan",
+      "de rechter beslist",
+      "rechter worden"
+    ]
+  },
+  {
+    "word": "samenleving",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "In een pluralistische <mark>samenleving</mark> leven mensen met verschillende achtergronden samen.",
+      "De overheid heeft een verantwoordelijkheid tegenover de gehele <mark>samenleving</mark>.",
+      "Sociale media veranderen de manier waarop mensen in de <mark>samenleving</mark> met elkaar omgaan."
+    ],
+    "options": [
+      "de economische structuur die productie en verdeling van welvaart regelt",
+      "het geheel van mensen en hun onderlinge relaties in een gemeenschap",
+      "de culturele tradities en gewoonten die een volk bijeenhouden",
+      "de formele instellingen en organen die een land besturen"
+    ],
+    "correct": 1,
+    "explanation": "'Samenleving' = het geheel van mensen en hun onderlinge betrekkingen in een gemeenschap. Meervoud: 'samenlevingen'. Synoniem: 'maatschappij', 'gemeenschap'. Figuurlijk: 'bijdragen aan de samenleving' = iets teruggeven aan de gemeenschap.",
+    "hint": "Samenleving en maatschappij zijn bijna synoniemen. Samenleving benadrukt het samenleven — wat is de kern van het woord?",
+    "collocations": [
+      "bijdragen aan de samenleving",
+      "een pluralistische samenleving",
+      "buiten de samenleving staan"
+    ]
+  },
+  {
+    "word": "slachtoffer",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het <mark>slachtoffer</mark> deed aangifte bij de politie na de beroving.",
+      "Bij de aardbeving vielen honderden <mark>slachtoffers</mark> in de getroffen regio.",
+      "Ze speelt altijd de <mark>slachtoffer</mark>rol als er iets misgaat — nooit haar eigen schuld."
+    ],
+    "options": [
+      "iemand die verdacht wordt van een misdrijf maar nog vrijuit gaat",
+      "iemand die schade of leed heeft ondergaan door toedoen van anderen of omstandigheden",
+      "iemand die een misdrijf heeft begaan en daarvoor wordt vervolgd",
+      "iemand die getuige was van een misdrijf maar er niet bij betrokken was"
+    ],
+    "correct": 1,
+    "explanation": "'Slachtoffer' = iemand die schade lijdt door anderen of omstandigheden. Meervoud: 'slachtoffers'. Antonym: 'dader'. Synoniem: 'gedupeerde', 'benadeelde'. Figuurlijk: 'de slachtofferrol aannemen' = je altijd als benadeelde presenteren.",
+    "hint": "Dader en slachtoffer zijn elkaars tegengestelden in een misdrijf. De dader handelt; het slachtoffer...?",
+    "collocations": [
+      "een slachtoffer worden",
+      "slachtofferhulp",
+      "de slachtofferrol"
+    ]
+  },
+  {
+    "word": "sociaal",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is een erg <mark>sociaal</mark> persoon die makkelijk vriendschappen sluit.",
+      "De wet regelt de <mark>sociale</mark> zekerheid voor mensen zonder inkomen.",
+      "Het bedrijf neemt zijn <mark>sociale</mark> verantwoordelijkheid door lokaal in te kopen."
+    ],
+    "options": [
+      "betrekking hebbend op geld en financiële transacties in de economie",
+      "betrekking hebbend op de verdediging en veiligheid van een staat",
+      "betrekking hebbend op de formele regels en wetten in een rechtsstaat",
+      "betrekking hebbend op de omgang tussen mensen of de zorg voor de samenleving"
+    ],
+    "correct": 3,
+    "explanation": "'Sociaal' = te maken hebbend met sociale omgang of maatschappelijke zorg. Synoniem: 'sociaal-maatschappelijk', 'gemeenschapsgericht'. Figuurlijk: 'sociale media' = platforms voor onderlinge communicatie; 'sociale zekerheid' = het vangnet voor kwetsbare burgers.",
+    "hint": "Sociaal heeft twee verwante betekenissen: iemand die goed met mensen omgaat, en beleid gericht op de zwakkeren in de samenleving. Wat verbindt ze?",
+    "collocations": [
+      "sociaal zijn",
+      "sociale zekerheid",
+      "sociale media"
+    ]
+  },
+  {
+    "word": "staat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>staat</mark> heeft de plicht zijn burgers te beschermen.",
+      "Nederland is een democratische <mark>staat</mark> met een grondwettelijk verankerde rechtsstaat.",
+      "In wat voor <mark>staat</mark> is dat gebouw — is het nog te renoveren?"
+    ],
+    "options": [
+      "een politiek georganiseerde gemeenschap met eigen grondgebied en gezag, of een toestand",
+      "de nationale vergadering die wetten maakt voor de gehele bevolking",
+      "de lokale overheid die een gemeente of stad bestuurt",
+      "een land dat deel uitmaakt van een grotere federale unie"
+    ],
+    "correct": 0,
+    "explanation": "'Staat' = een politiek georganiseerde gemeenschap met soevereiniteit, of een toestand. Meervoud: 'staten'. Synoniem: 'land', 'natie'. Figuurlijk: 'in goede staat zijn' = in goede conditie zijn; 'rechtsstaat' = een staat gebonden aan het recht.",
+    "hint": "Staat heeft twee betekenissen: een politieke entiteit (natie) en een conditie (toestand). Welke verbindt 'de staat regeert' met 'in wat voor staat is dit'?",
+    "collocations": [
+      "de staat en de burger",
+      "rechtsstaat",
+      "in goede staat zijn"
+    ]
+  },
+  {
+    "word": "stad",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Amsterdam is de grootste <mark>stad</mark> van Nederland.",
+      "Ze verhuisde van het platteland naar de <mark>stad</mark> voor haar studie.",
+      "De <mark>stad</mark> investeert dit jaar in betaalbare woningen voor starters."
+    ],
+    "options": [
+      "een grote, dichtbevolkte woonkern met stedelijke voorzieningen",
+      "een klein woongebied met minder dan tienduizend inwoners",
+      "een administratieve eenheid die meerdere dorpen en kernen omvat",
+      "een gebied buiten de bebouwde kom met landbouw en natuur"
+    ],
+    "correct": 0,
+    "explanation": "'Stad' = een grote, dichtbevolkte nederzetting met stedelijke functies. Meervoud: 'steden'. Antonym: 'dorp', 'platteland'. Synoniem: 'gemeente' (bestuurlijk). Figuurlijk: 'de stad nooit verlaten' = altijd in de stedelijke wereld willen blijven.",
+    "hint": "Dorp, stad en metropool zijn woonkernen op oplopende schaal. Wat onderscheidt een stad van een dorp qua omvang en voorzieningen?",
+    "collocations": [
+      "in de stad wonen",
+      "stad en platteland",
+      "de binnenstad"
+    ]
+  },
+  {
+    "word": "strijd",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De vakbond voert <mark>strijd</mark> voor betere lonen en arbeidsomstandigheden.",
+      "De <mark>strijd</mark> om de macht duurde jaren en kostte veel slachtoffers.",
+      "Ze verloor de <mark>strijd</mark> tegen kanker na een moedig gevecht van twee jaar."
+    ],
+    "options": [
+      "een formele onderhandeling waarbij partijen tot een compromis proberen te komen",
+      "een diplomatiek overleg waarbij landen conflicten vreedzaam oplossen",
+      "een juridische procedure waarbij een rechter een geschil beslecht",
+      "een actieve confrontatie of inspanning om een doel te bereiken tegen weerstand in"
+    ],
+    "correct": 3,
+    "explanation": "'Strijd' = een actieve confrontatie of inspanning tegen weerstand. Werkwoord: 'strijden'. Synoniem: 'gevecht', 'conflict', 'campagne'. Figuurlijk: 'de strijd aanbinden met' = actief iets bestrijden; 'gestreden hebben' = hard voor iets gevochten hebben.",
+    "hint": "Strijd en conflict zijn verwant maar strijd benadrukt de actieve inzet. Wat is het verschil met een passief conflict?",
+    "collocations": [
+      "de strijd aangaan",
+      "een zware strijd",
+      "strijden voor"
+    ]
+  },
+  {
+    "word": "systeem",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het belastingstelsel is een complex <mark>systeem</mark> van regels en uitzonderingen.",
+      "Ze vertrouwt niet op het politieke <mark>systeem</mark> — ze gelooft in lokale actie.",
+      "Het nieuwe computersysteem verwerkt tienduizend transacties per minuut."
+    ],
+    "options": [
+      "een georganiseerd geheel van samenhangende onderdelen dat een functie vervult",
+      "een hiërarchische structuur waarin mensen op basis van rang opereren",
+      "een formeel akkoord tussen partijen over hoe ze samenwerken",
+      "een losse verzameling regels die voor bepaalde situaties gelden"
+    ],
+    "correct": 0,
+    "explanation": "'Systeem' = een georganiseerd geheel van samenhangende onderdelen. Meervoud: 'systemen'. Synoniem: 'stelsel', 'structuur'. Figuurlijk: 'het systeem bevechten' = de gevestigde orde aanvallen; 'in het systeem zitten' = onderdeel zijn van een bureaucratische structuur.",
+    "hint": "Een systeem is meer dan een losse verzameling regels — het heeft samenhang. Wat is het kenmerk van een goed systeem?",
+    "collocations": [
+      "een systeem ontwikkelen",
+      "het systeem bevechten",
+      "een politiek systeem"
+    ]
+  },
+  {
+    "word": "vereniging",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze is lid van een lokale sport<mark>vereniging</mark> die elke week traint.",
+      "De <mark>vereniging</mark> heeft driehonderd leden en organiseert jaarlijks een congres.",
+      "De <mark>Vereniging</mark> van Nederlandse Gemeenten behartigt de belangen van alle gemeenten."
+    ],
+    "options": [
+      "een commercieel bedrijf dat winst maakt voor zijn aandeelhouders",
+      "een overheidsinstelling die een publieke taak uitvoert",
+      "een tijdelijk samenwerkingsverband voor één specifiek project",
+      "een formele organisatie van leden met een gemeenschappelijk doel"
+    ],
+    "correct": 3,
+    "explanation": "'Vereniging' = een formele ledenorganisatie met een gemeenschappelijk doel. Meervoud: 'verenigingen'. Synoniem: 'club', 'bond'. Figuurlijk: 'Vereniging van' = een koepelorganisatie die gelijkgestemden vertegenwoordigt.",
+    "hint": "Vereniging, bedrijf en stichting zijn drie organisatievormen. Wat is het kenmerkende van een vereniging — wie stuurt het aan?",
+    "collocations": [
+      "lid van een vereniging",
+      "een vereniging oprichten",
+      "de leden van de vereniging"
+    ]
+  },
+  {
+    "word": "verkiezing",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Bij de <mark>verkiezing</mark> van 2023 stemde ruim tachtig procent van de kiezers.",
+      "Ze won de <mark>verkiezing</mark> met een historisch grote meerderheid.",
+      "De <mark>verkiezing</mark> van het jaar werd gewonnen door een onbekende newcomer."
+    ],
+    "options": [
+      "een benoemingsprocedure waarbij een bestuur iemand aanstelt in een functie",
+      "een debat waarbij politici hun standpunten presenteren voor de bevolking",
+      "een georganiseerd proces waarbij burgers hun vertegenwoordigers kiezen",
+      "een volksraadpleging waarbij burgers hun mening geven over één specifiek onderwerp"
+    ],
+    "correct": 2,
+    "explanation": "'Verkiezing' = een georganiseerd democratisch kiesproces. Meervoud: 'verkiezingen'. Werkwoord: 'kiezen'. Synoniem: 'stemming', 'kiesproces'. Figuurlijk: 'de verkiezing winnen' = de meeste stemmen halen; 'verkiezing van het jaar' = informeel een keuze door publiek.",
+    "hint": "Referendum en verkiezing zijn allebei democratische processen met stemmen. Bij een referendum kies je voor een standpunt; bij een verkiezing kies je...?",
+    "collocations": [
+      "een verkiezing houden",
+      "de verkiezing winnen",
+      "vrije verkiezingen"
+    ]
+  },
+  {
+    "word": "vrede",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Na jaren van conflict tekenden de partijen eindelijk een <mark>vrede</mark>sakkoord.",
+      "Ze leeft in <mark>vrede</mark> met haar beslissing en heeft er geen spijt van.",
+      "Laat mij met <mark>rust</mark> — ik wil even <mark>vrede</mark> en stilte."
+    ],
+    "options": [
+      "de periode direct na een oorlog waarin het land wordt wederopgebouwd",
+      "de toestand van afwezigheid van oorlog of conflict, of innerlijke rust",
+      "een gewapend bestand waarbij gevechten tijdelijk worden gestaakt",
+      "een diplomatieke overeenkomst waarbij landen samenwerken op economisch gebied"
+    ],
+    "correct": 1,
+    "explanation": "'Vrede' = de toestand van afwezigheid van conflict, of innerlijke rust. Antonym: 'oorlog'. Synoniem: 'rust', 'harmonie'. Figuurlijk: 'vrede sluiten met iets' = iets accepteren; 'in vrede leven' = harmonieus samenleven.",
+    "hint": "Vrede en oorlog zijn elkaars tegengestelden. Maar vrede heeft ook een persoonlijke betekenis — innerlijke rust. Wat verbindt de twee?",
+    "collocations": [
+      "vrede sluiten",
+      "in vrede leven",
+      "vredesakkoord"
+    ]
+  },
+  {
+    "word": "vrijheid",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "<mark>Vrijheid</mark> van meningsuiting is een grondrecht in een democratische samenleving.",
+      "Ze geniet van de <mark>vrijheid</mark> als zelfstandig ondernemer — geen vaste werktijden.",
+      "Na tien jaar gevangenschap ervoer hij zijn <mark>vrijheid</mark> als overweldigend."
+    ],
+    "options": [
+      "de toestand of het recht om te handelen zonder ongeoorloofde beperking",
+      "de bevoegdheid die iemand heeft om namens anderen beslissingen te nemen",
+      "het recht op bescherming door de overheid bij gevaar of bedreiging",
+      "de verplichting om verantwoording af te leggen tegenover de wet"
+    ],
+    "correct": 0,
+    "explanation": "'Vrijheid' = de toestand of het recht om onbeperkt te kunnen handelen. Antonym: 'gevangenschap', 'onderdrukking'. Synoniem: 'onafhankelijkheid', 'autonomie'. Figuurlijk: 'de vrijheid nemen om' = iets doen zonder expliciete toestemming.",
+    "hint": "Vrijheid en plicht zijn complementaire concepten in een democratie. Vrijheid beschrijft wat je mag; plicht beschrijft wat je...?",
+    "collocations": [
+      "vrijheid van meningsuiting",
+      "in vrijheid leven",
+      "de vrijheid nemen"
+    ]
+  },
+  {
+    "word": "wereld",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze heeft al meer dan vijftig landen van de <mark>wereld</mark> bezocht.",
+      "In de <mark>wereld</mark> van de mode veranderen trends elk seizoen.",
+      "Dat kind leeft in zijn eigen <mark>wereld</mark> — hij merkt niets van zijn omgeving."
+    ],
+    "options": [
+      "het heelal met alle sterren, planeten en sterrenstelsels erin",
+      "de aarde als geheel, of een specifieke sfeer van activiteit",
+      "de bewoonbare landoppervlakte van de aarde buiten de oceanen",
+      "de mensheid als collectief, los van haar geografische locatie"
+    ],
+    "correct": 1,
+    "explanation": "'Wereld' = de aarde als geheel, of een bepaalde leefwereld of sfeer. Meervoud: 'werelden'. Synoniem: 'aarde', 'globe'. Figuurlijk: 'in zijn eigen wereld leven' = niet in contact zijn met de realiteit; 'de wereld van de kunst' = de kunstsfeer.",
+    "hint": "Wereld, aarde en heelal zijn drie schaalgroottes. Wereld verwijst naar de aarde maar ook naar een domein of sfeer. Welke twee betekenissen zijn dat?",
+    "collocations": [
+      "de wereld rondreizen",
+      "in zijn eigen wereld",
+      "de wereld van de kunst"
+    ]
+  },
+  {
+    "word": "wereldoorlog",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De Eerste <mark>Wereldoorlog</mark> eindigde in 1918 met het Verdrag van Versailles.",
+      "Zijn grootvader vocht in de Tweede <mark>Wereldoorlog</mark> aan het oostfront.",
+      "Historici bestuderen de oorzaken van de <mark>Wereldoorlog</mark> nog steeds intensief."
+    ],
+    "options": [
+      "een langdurig conflict tussen twee buurlanden over een grensgeschil",
+      "een burgeroorlog waarbij verschillende facties binnen één land strijden",
+      "een economische crisis die de wereldeconomie treft maar geen geweld omvat",
+      "een gewapend conflict waarbij de meeste landen ter wereld betrokken zijn"
+    ],
+    "correct": 3,
+    "explanation": "'Wereldoorlog' = een gewapend conflict op mondiale schaal waarbij vrijwel alle grootmachten betrokken zijn. Meervoud: 'wereldoorlogen'. Synoniem: 'globale oorlog'. Tot nu toe zijn er twee wereldoorlogen geweest: 1914–1918 en 1939–1945.",
+    "hint": "Een oorlog en een wereldoorlog verschillen in schaal. Wat maakt een conflict tot een 'wereld'-oorlog?",
+    "collocations": [
+      "de Eerste Wereldoorlog",
+      "de Tweede Wereldoorlog",
+      "een derde wereldoorlog"
+    ]
+  },
+  {
+    "word": "wet",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De nieuwe <mark>wet</mark> trad in werking op 1 januari en geldt voor alle burgers.",
+      "Hij overtrad de <mark>wet</mark> door door rood te rijden en kreeg een boete.",
+      "De <mark>wet</mark> van vraag en aanbod bepaalt de prijs op een vrije markt."
+    ],
+    "options": [
+      "een informele gedragsnorm die door de samenleving wordt geaccepteerd",
+      "een internationale afspraak tussen landen over gedrag en samenwerking",
+      "een rechterlijk vonnis dat in een specifieke zaak wordt uitgesproken",
+      "een formeel, bindend voorschrift vastgesteld door een bevoegde overheidsinstantie"
+    ],
+    "correct": 3,
+    "explanation": "'Wet' = een formeel bindend voorschrift vastgesteld door de wetgever. Meervoud: 'wetten'. Synoniem: 'wetgeving', 'voorschrift'. Figuurlijk: 'wet van vraag en aanbod' = een fundamenteel economisch principe; 'boven de wet staan' = regels niet hoeven te volgen.",
+    "hint": "Wet, regel en norm zijn alle drie gedragsvoorschriften. Wat maakt een wet formeler en juridisch afdwingbaarder dan een regel?",
+    "collocations": [
+      "een wet aannemen",
+      "de wet overtreden",
+      "boven de wet staan"
+    ]
+  },
+  {
+    "word": "wetgeving",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De nieuwe <mark>wetgeving</mark> rondom privacy trad vorig jaar in werking.",
+      "Europese <mark>wetgeving</mark> geldt automatisch in alle lidstaten van de EU.",
+      "Het parlement debatteert over aanpassing van de <mark>wetgeving</mark> op het gebied van huurrecht."
+    ],
+    "options": [
+      "het proces waarbij burgers en organisaties de overheid adviseren over beleid",
+      "de verzameling internationale verdragen die landen onderling hebben gesloten",
+      "het geheel van wetten en regels dat door een overheid is vastgesteld",
+      "het geheel van rechterlijke uitspraken in specifieke juridische zaken"
+    ],
+    "correct": 2,
+    "explanation": "'Wetgeving' = het geheel van alle wetten en regels, of het proces van wetten maken. Altijd ontelbaar. Synoniem: 'regelgeving', 'wettelijk kader'. Figuurlijk: 'wetgeving aanpassen' = bestaande wetten wijzigen.",
+    "hint": "Wet en wetgeving zijn verwant maar wetgeving is breder. Één wet is een specifiek voorschrift; wetgeving is...?",
+    "collocations": [
+      "nieuwe wetgeving invoeren",
+      "Europese wetgeving",
+      "wetgeving aanpassen"
+    ]
   }
 ]
