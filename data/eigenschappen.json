@@ -1,287 +1,2066 @@
 [
   {
+    "word": "algemeen",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het is een <mark>algemene</mark> regel dat je anderen respecteert.",
+      "In het <mark>algemeen</mark> zijn de resultaten positief.",
+      "De <mark>algemene</mark> vergadering wordt één keer per jaar gehouden."
+    ],
+    "options": [
+      "betrekking hebbend op het geheel of de meerderheid, niet specifiek",
+      "betrekking hebbend op een technisch of wetenschappelijk onderwerp",
+      "betrekking hebbend op één enkel persoon of voorwerp",
+      "betrekking hebbend op een specifiek geval of uitzondering"
+    ],
+    "correct": 0,
+    "explanation": "'Algemeen' = betrekking hebbend op het geheel, niet specifiek. Synoniem: 'globaal', 'breed'. Antonym: 'specifiek', 'bijzonder'. Figuurlijk: 'in het algemeen' = over het geheel genomen; 'algemeen bekend' = door iedereen gekend.",
+    "hint": "Algemeen en specifiek zijn tegengestelden. 'In het algemeen' beschrijft wat voor de meeste gevallen geldt — wat is het tegengestelde van een algemene regel?",
+    "collocations": [
+      "in het algemeen",
+      "algemeen bekend",
+      "de algemene vergadering"
+    ]
+  },
+  {
+    "word": "ander",
+    "pos": "bijvoeglijk naamwoord / voornaamwoord",
+    "level": 1,
+    "examples": [
+      "Laten we een <mark>andere</mark> aanpak kiezen — deze werkt niet.",
+      "De <mark>anderen</mark> waren al weg toen ze aankwam.",
+      "Dat is een <mark>ander</mark> verhaal — daarmee heeft het niets te maken."
+    ],
+    "options": [
+      "kleiner of minder dan het al genoemde in aantal",
+      "identiek aan het al genoemde, hetzelfde als eerder",
+      "verschillend van het al genoemde, een extra of alternatief iets",
+      "beter dan het al genoemde in alle opzichten"
+    ],
+    "correct": 2,
+    "explanation": "'Ander' = niet hetzelfde, een alternatief of een extra element. Meervoud: 'anderen' (personen). Synoniem: 'verschillend', 'alternatief'. Figuurlijk: 'dat is een ander verhaal' = dat hoort bij een andere context; 'onder anderen' = als onderdeel van een grotere groep.",
+    "hint": "Ander en zelfde zijn tegengestelden. 'Een andere aanpak' betekent dat de aanpak...?",
+    "collocations": [
+      "een andere aanpak",
+      "onder anderen",
+      "dat is een ander verhaal"
+    ]
+  },
+  {
+    "word": "arm",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Hij groeide op in een <mark>arm</mark> gezin zonder veel middelen.",
+      "Het land is <mark>arm</mark> aan natuurlijke hulpbronnen.",
+      "<mark>Arme</mark> kerel — hij had echt pech vandaag."
+    ],
+    "options": [
+      "beschikkend over veel geld of waardevolle bezittingen",
+      "beschikkend over meer dan de gemiddelde persoon in de samenleving",
+      "weinig geld of middelen hebbend, of tekortkomend in iets",
+      "onafhankelijk van financiële steun van anderen"
+    ],
+    "correct": 2,
+    "explanation": "'Arm' = weinig geld of middelen hebbend, of tekortkomend. Antonym: 'rijk'. Synoniem: 'behoeftig', 'minvermogend'. Figuurlijk: 'arm aan ideeën' = weinig ideeën hebbend; 'arme drommels' = medeleven met iemand die pech heeft.",
+    "hint": "Arm en rijk zijn tegengestelden op de welvaartsschaal. Maar 'arm aan ideeën' is figuurlijk — wat betekent dat?",
+    "collocations": [
+      "arm en rijk",
+      "arm aan",
+      "arme kerel"
+    ]
+  },
+  {
+    "word": "bekend",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is een <mark>bekende</mark> schrijfster van Nederlandstalige literatuur.",
+      "Hij is <mark>bekend</mark> met de procedure — hij hoeft geen uitleg.",
+      "Het is <mark>bekend</mark> dat bewegen goed is voor de gezondheid."
+    ],
+    "options": [
+      "totaal onbekend en niet eerder gezien of gehoord",
+      "wijd verspreid in kennis of faam, of vertrouwd met iets",
+      "recent ontdekt of voor het eerst gepubliceerd",
+      "uitsluitend bekend bij een kleine groep specialisten"
+    ],
+    "correct": 1,
+    "explanation": "'Bekend' = wijd bekend of vertrouwd met iets. Antonym: 'onbekend'. Synoniem: 'vermaard', 'vertrouwd'. Figuurlijk: 'bekend staan als' = een bepaalde reputatie hebben; 'dat is bij mij niet bekend' = ik heb die informatie niet.",
+    "hint": "Bekend heeft twee betekenissen: beroemd (een bekende schrijver) en vertrouwd met iets (ik ben bekend met de regels). Wat verbindt ze?",
+    "collocations": [
+      "bekend staan als",
+      "bekend zijn met",
+      "algemeen bekend"
+    ]
+  },
+  {
+    "word": "belangrijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Dit is een <mark>belangrijk</mark>e vergadering — iedereen moet aanwezig zijn.",
+      "Gezondheid is het <mark>belangrijkste</mark> dat je hebt.",
+      "Ze speelde een <mark>belangrijke</mark> rol bij het succes van het project."
+    ],
+    "options": [
+      "urgent en tijdgevoelig maar niet blijvend van waarde",
+      "van weinig betekenis of waarde voor de situatie",
+      "van grote betekenis of waarde, veel gewicht hebbend",
+      "aangenaam en prettig maar niet noodzakelijk"
+    ],
+    "correct": 2,
+    "explanation": "'Belangrijk' = van grote betekenis of waarde. Antonym: 'onbelangrijk'. Synoniem: 'essentieel', 'significant'. Figuurlijk: 'belangrijk zijn voor' = een centrale rol spelen; 'het belangrijkste' = de kern of prioriteit.",
+    "hint": "Belangrijk, urgent en interessant zijn positieve kwalificaties maar betekenen iets anders. Belangrijk gaat over waarde en betekenis — wat is het verschil met urgent?",
+    "collocations": [
+      "een belangrijke rol",
+      "het belangrijkste",
+      "van belang zijn"
+    ]
+  },
+  {
+    "word": "bewust",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Ze is zich <mark>bewust</mark> van de risico's maar gaat het toch doen.",
+      "Hij deed het <mark>bewust</mark> — het was geen ongeluk.",
+      "Ze leeft heel <mark>bewust</mark>: let op voeding, slaap en beweging."
+    ],
+    "options": [
+      "slapend of in een toestand van bewusteloosheid",
+      "verward en zonder duidelijk besef van de situatie",
+      "onbewust en zonder aandacht voor de eigen handeling",
+      "zich bewust zijnd van iets, of met opzet handelend"
+    ],
+    "correct": 3,
+    "explanation": "'Bewust' = zich bewust zijnd van, of met opzet. Antonym: 'onbewust'. Synoniem: 'opzettelijk', 'intentioneel'. Figuurlijk: 'bewust leven' = aandachtig en intentioneel leven; 'zich bewust zijn van' = beseffen.",
+    "hint": "Bewust heeft twee nauw verwante betekenissen: je ergens van bewust zijn (beseffen) en iets bewust doen (met opzet). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "zich bewust zijn van",
+      "bewust leven",
+      "bewust kiezen"
+    ]
+  },
+  {
+    "word": "breed",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De weg is te <mark>breed</mark> voor slechts twee rijstroken.",
+      "Ze heeft een <mark>brede</mark> interesse — van kunst tot technologie.",
+      "Er is <mark>breed</mark> draagvlak voor het nieuwe plan."
+    ],
+    "options": [
+      "smal en nauw van afmeting, met weinig ruimte tussen de zijkanten",
+      "hoog van afmeting, ver reikend van beneden naar boven",
+      "ruim van afmeting of omvang, veel beslaan in de breedte",
+      "diep van vorm, ver reikend van voor naar achter"
+    ],
+    "correct": 2,
+    "explanation": "'Breed' = ruim in de breedte of omvang. Antonym: 'smal'. Synoniem: 'wijd', 'ruim'. Figuurlijk: 'een brede blik hebben' = veel perspectieven zien; 'breed gedragen' = door velen gesteund.",
+    "hint": "Breed, smal en diep zijn ruimtelijke dimensies. Breed beschrijft de zijwaartse dimensie — wat is het tegengestelde?",
+    "collocations": [
+      "breed gedragen",
+      "een brede blik",
+      "breed draagvlak"
+    ]
+  },
+  {
+    "word": "bruin",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze dronk haar koffie <mark>bruin</mark> — met een scheutje melk.",
+      "In de herfst worden de bladeren <mark>bruin</mark> en vallen ze af.",
+      "Hij heeft <mark>bruine</mark> ogen en donkerblond haar."
+    ],
+    "options": [
+      "de kleur die doet denken aan hout, aarde of chocolade",
+      "de kleur die ontstaat door het mengen van rood en geel",
+      "de kleur die doet denken aan de lucht op een heldere dag",
+      "de kleur die ontstaat door de afwezigheid van licht"
+    ],
+    "correct": 0,
+    "explanation": "'Bruin' = de kleur van aarde, hout of chocolade. Meervoud/comparatief: 'bruiner'. Synoniem: 'kastanjebruin', 'okerbruin'. Figuurlijk: 'bruin gebakken' = goudbruin gebakken in de oven.",
+    "hint": "Bruin is de kleur van aarde, koffie en chocolade. Welke combinatie van kleuren geeft bruin?",
+    "collocations": [
+      "bruin haar",
+      "bruin brood",
+      "bruin worden"
+    ]
+  },
+  {
+    "word": "concreet",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze vroeg om een <mark>concreet</mark> voorstel, geen vage ideeën.",
+      "Kun je een <mark>concreet</mark> voorbeeld geven van wat je bedoelt?",
+      "Het plan is nog niet <mark>concreet</mark> — het moet verder worden uitgewerkt."
+    ],
+    "options": [
+      "specifiek, tastbaar en duidelijk uitgewerkt in details",
+      "algemeen en breed van toepassing op vele situaties",
+      "theoretisch en gebaseerd op ideeën zonder praktische toepassing",
+      "vaag, abstract en moeilijk te begrijpen zonder verdere uitleg"
+    ],
+    "correct": 0,
+    "explanation": "'Concreet' = specifiek, tastbaar en uitgewerkt. Antonym: 'abstract', 'vaag'. Synoniem: 'specifiek', 'tastbaar'. Figuurlijk: 'concreet worden' = van theorie naar praktijk gaan; 'concrete afspraken maken' = duidelijke, specifieke afspraken maken.",
+    "hint": "Concreet en abstract zijn tegengestelden. Concreet is tastbaar en uitgewerkt — wat maakt een voorbeeld 'concreet' in plaats van vaag?",
+    "collocations": [
+      "concreet voorbeeld",
+      "concrete afspraken",
+      "concreet worden"
+    ]
+  },
+  {
+    "word": "divers",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Het team is <mark>divers</mark> samengesteld — verschillende achtergronden en expertises.",
+      "Er waren <mark>diverse</mark> redenen voor het mislukken van het project.",
+      "Ze heeft <mark>diverse</mark> talen geleerd door veel te reizen."
+    ],
+    "options": [
+      "uit verschillende soorten bestaand, gevarieerd van samenstelling",
+      "uit precies één type of bron bestaand, homogeen van samenstelling",
+      "regelmatig gerangschikt in een herhaalbaar patroon",
+      "uitsluitend bestaand uit elementen die elkaar aanvullen"
+    ],
+    "correct": 0,
+    "explanation": "'Divers' = gevarieerd, uit verschillende soorten bestaand. Synoniem: 'verscheiden', 'gevarieerd'. Antonym: 'homogeen', 'uniform'. Figuurlijk: 'diversiteit' = verscheidenheid in samenstelling; 'diverse redenen' = meerdere, uiteenlopende redenen.",
+    "hint": "Divers en homogeen zijn tegengestelden. Een divers team heeft leden van...?",
+    "collocations": [
+      "divers team",
+      "diverse redenen",
+      "diversiteit"
+    ]
+  },
+  {
+    "word": "dik",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze droeg een <mark>dikke</mark> winterjas bij min tien graden.",
+      "Het boek is <mark>dik</mark> — meer dan achthonderd bladzijden.",
+      "Ze zijn <mark>dikke</mark> vrienden — al meer dan twintig jaar."
+    ],
+    "options": [
+      "dun en met weinig massa of materiaal",
+      "licht en transparant van structuur",
+      "met veel massa of materiaal, groot in omvang of dikte",
+      "klein en compact van formaat"
+    ],
+    "correct": 2,
+    "explanation": "'Dik' = veel massa of dikte hebbend. Antonym: 'dun'. Synoniem: 'zwaarlijvig', 'dicht'. Figuurlijk: 'dikke vrienden' = hechte vrienden; 'dik tevreden' = heel tevreden.",
+    "hint": "Dik en dun zijn tegengestelden van massa of dikte. Maar 'dikke vrienden' is figuurlijk — wat betekent dat?",
+    "collocations": [
+      "dikke vrienden",
+      "dik tevreden",
+      "een dikke laag"
+    ]
+  },
+  {
+    "word": "donker",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het was zo <mark>donker</mark> buiten dat ze niets kon zien.",
+      "Ze heeft <mark>donker</mark> haar en groene ogen.",
+      "Hij kijkt <mark>donker</mark> naar de toekomst — weinig optimisme."
+    ],
+    "options": [
+      "warm en rood van kleur door de zon of warmtebron",
+      "helder verlicht door veel zonlicht of kunstlicht",
+      "weinig of geen licht hebbend, of somber van toon",
+      "transparant en licht van kleur, bijna doorschijnend"
+    ],
+    "correct": 2,
+    "explanation": "'Donker' = weinig licht of somber van toon. Antonym: 'licht', 'helder'. Synoniem: 'duister', 'somber'. Figuurlijk: 'donkere gedachten' = sombere of negatieve gedachten; 'in het donker tasten' = zonder informatie handelen.",
+    "hint": "Donker en licht zijn tegengestelden. 'Een donkere toekomst' is figuurlijk — wat betekent dat over iemands verwachtingen?",
+    "collocations": [
+      "donkere gedachten",
+      "in het donker tasten",
+      "donker haar"
+    ]
+  },
+  {
+    "word": "droog",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Na drie weken droogte was de grond kurkdroog.",
+      "Hij heeft een <mark>droge</mark> humor — subtiel en zonder overdrijving.",
+      "Ze nam een <mark>droge</mark> doek om de tafel af te nemen."
+    ],
+    "options": [
+      "geen of weinig vocht hebbend, of nuchter van stijl",
+      "warm en klam door hoge luchtvochtigheid",
+      "koud en ijzig, bevroren door lage temperaturen",
+      "vol vocht of water, doorweekt van regen of vloeistof"
+    ],
+    "correct": 0,
+    "explanation": "'Droog' = geen of weinig vocht hebbend, of nuchter/laconiek. Antonym: 'nat'. Synoniem: 'kurkdroog', 'nuchter'. Figuurlijk: 'droge humor' = nuchter, ondertoon van ironie; 'een droge opmerking' = een laconieke of wrange opmerking.",
+    "hint": "Droog en nat zijn tegengestelden. 'Droge humor' is figuurlijk — welke eigenschap van droog (geen vocht, geen overdrijving) past daarbij?",
+    "collocations": [
+      "droge humor",
+      "droog staan",
+      "kurkdroog"
+    ]
+  },
+  {
+    "word": "duidelijk",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De instructies waren zo <mark>duidelijk</mark> dat niemand vragen stelde.",
+      "Ze sprak <mark>duidelijk</mark> en langzaam zodat iedereen haar kon volgen.",
+      "Het is <mark>duidelijk</mark> dat hij niet blij is met de uitkomst."
+    ],
+    "options": [
+      "abstract en theoretisch, moeilijk in de praktijk te brengen",
+      "ingewikkeld en veelzijdig, pas begrijpelijk na lang nadenken",
+      "vaag en moeilijk te begrijpen zonder extra uitleg",
+      "helder en makkelijk te begrijpen of te zien, zonder ambiguïteit"
+    ],
+    "correct": 3,
+    "explanation": "'Duidelijk' = helder en begrijpelijk, zonder ambiguïteit. Antonym: 'onduidelijk', 'vaag'. Synoniem: 'helder', 'expliciet'. Figuurlijk: 'duidelijk zijn' = geen twijfel laten; 'klip en klaar' = volstrekt duidelijk.",
+    "hint": "Duidelijk en vaag zijn tegengestelden. Als iets duidelijk is, hoeft niemand extra...?",
+    "collocations": [
+      "duidelijk zijn",
+      "duidelijk maken",
+      "klip en klaar"
+    ]
+  },
+  {
+    "word": "dun",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze sneed het vlees in <mark>dunne</mark> plakjes.",
+      "Het ijs was te <mark>dun</mark> om op te schaatsen — gevaarlijk.",
+      "Het verhaal staat op <mark>dunne</mark> ijsgrond — weinig bewijs."
+    ],
+    "options": [
+      "dik en met veel massa of materiaal",
+      "weinig dikte of massa hebbend, slank van vorm",
+      "groot en omvangrijk in alle dimensies",
+      "hard en stevig van structuur, moeilijk te buigen"
+    ],
+    "correct": 1,
+    "explanation": "'Dun' = weinig dikte hebbend, slank. Antonym: 'dik'. Synoniem: 'slank', 'tenger'. Figuurlijk: 'dun ijs' = een riskante situatie; 'dun gezaaid' = zeldzaam.",
+    "hint": "Dun en dik zijn tegengestelden. 'Op dun ijs staan' is figuurlijk — wat beschrijft het over de situatie?",
+    "collocations": [
+      "dun ijs",
+      "dun gezaaid",
+      "een dunne laag"
+    ]
+  },
+  {
+    "word": "duur",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het restaurant was <mark>duur</mark> maar de kwaliteit was ook uitstekend.",
+      "Ze koopt bewust <mark>duurzame</mark> producten, ook al zijn ze <mark>duurder</mark>.",
+      "Die fout heeft hem <mark>duur</mark> te staan gekomen — hij verloor zijn baan."
+    ],
+    "options": [
+      "goedkoop en bereikbaar voor mensen met een beperkt budget",
+      "tijdelijk beschikbaar tegen een lagere prijs dan normaal",
+      "hoog van prijs of van grote kostprijs, of zwaar als gevolg",
+      "van goede kwaliteit maar voor een eerlijke prijs"
+    ],
+    "correct": 2,
+    "explanation": "'Duur' = hoog van prijs, of met grote gevolgen. Antonym: 'goedkoop'. Synoniem: 'kostbaar'. Figuurlijk: 'duur te staan komen' = grote (negatieve) gevolgen hebben; 'iets duur betalen' = een hoge prijs betalen in figuurlijke zin.",
+    "hint": "Duur en goedkoop zijn tegengestelden. 'Dat is hem duur komen te staan' is figuurlijk — wat betekent het?",
+    "collocations": [
+      "duur te staan komen",
+      "duur betalen",
+      "goedkoop en duurkoop"
+    ]
+  },
+  {
+    "word": "eerlijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is altijd <mark>eerlijk</mark> — ze zegt wat ze denkt, ook als het pijn doet.",
+      "Eerlijk gezegd had ik meer verwacht van zijn prestatie.",
+      "Dat is niet <mark>eerlijk</mark>! Hij krijgt meer dan ik voor hetzelfde werk."
+    ],
+    "options": [
+      "voorzichtig en terughoudend in uitspraken over anderen",
+      "vriendelijk en beleefd in de omgang met anderen",
+      "oprecht en zonder bedrog, of rechtvaardig in behandeling",
+      "bereid om te liegen of te bedriegen voor eigen voordeel"
+    ],
+    "correct": 2,
+    "explanation": "'Eerlijk' = oprecht en zonder bedrog, of rechtvaardig. Antonym: 'oneerlijk', 'vals'. Synoniem: 'oprecht', 'rechtvaardig'. Figuurlijk: 'eerlijk gezegd' = om het openlijk te zeggen; 'eerlijk duurt het langst' = integriteit loont op lange termijn.",
+    "hint": "Eerlijk heeft twee betekenissen: oprecht (geen leugens) en rechtvaardig (gelijke behandeling). 'Dat is niet eerlijk' — welke betekenis is dat?",
+    "collocations": [
+      "eerlijk gezegd",
+      "eerlijk duurt het langst",
+      "eerlijk zijn"
+    ]
+  },
+  {
+    "word": "eenvoudig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De oplossing was verrassend <mark>eenvoudig</mark> — niemand had eraan gedacht.",
+      "Ze leidt een <mark>eenvoudig</mark> leven zonder onnodige luxe.",
+      "Dat is <mark>eenvoudig</mark> te begrijpen — geen speciale kennis nodig."
+    ],
+    "options": [
+      "saai en zonder enige uitdaging of interesse",
+      "goedkoop en van lage kwaliteit door gebrek aan materiaal",
+      "simpel en niet complex, makkelijk te begrijpen of te doen",
+      "complex en ingewikkeld, vereisend veel kennis of moeite"
+    ],
+    "correct": 2,
+    "explanation": "'Eenvoudig' = simpel, niet complex, ook bescheiden. Antonym: 'ingewikkeld', 'complex'. Synoniem: 'simpel', 'gemakkelijk'. Figuurlijk: 'een eenvoudig leven leiden' = bescheiden en sober leven; 'eenvoudig gezegd' = simpel geformuleerd.",
+    "hint": "Eenvoudig, simpel en makkelijk zijn bijna synoniemen. Eenvoudig heeft ook een connotatie van bescheidenheid — 'een eenvoudig mens'. Wat voegt dat toe?",
+    "collocations": [
+      "eenvoudig gezegd",
+      "een eenvoudig leven",
+      "eenvoudig te begrijpen"
+    ]
+  },
+  {
+    "word": "eigen",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze heeft eindelijk haar <mark>eigen</mark> appartement — niet meer bij haar ouders.",
+      "Hij doet altijd zijn <mark>eigen</mark> ding zonder naar anderen te kijken.",
+      "Dat is een <mark>eigenaardig</mark>e opmerking — ik begrijp hem niet."
+    ],
+    "options": [
+      "geleend van iemand anders voor tijdelijk gebruik",
+      "toebehorend aan of kenmerkend voor de persoon zelf",
+      "verplicht gesteld door een externe autoriteit",
+      "toebehorend aan of gedeeld met een ander persoon"
+    ],
+    "correct": 1,
+    "explanation": "'Eigen' = toebehorend aan of kenmerkend voor zichzelf. Synoniem: 'persoonlijk', 'zelf'. Figuurlijk: 'zijn eigen ding doen' = onafhankelijk handelen; 'eigenaardig' = vreemd of bijzonder.",
+    "hint": "Eigen en geleend zijn tegengestelden. 'Mijn eigen auto' geeft aan dat de auto van mij is — niet van iemand anders. Wat maakt het persoonlijk?",
+    "collocations": [
+      "zijn eigen ding",
+      "op eigen kracht",
+      "eigenaardig"
+    ]
+  },
+  {
+    "word": "flink",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Ze heeft <mark>flink</mark> haar best gedaan voor het examen.",
+      "Hij kreeg een <mark>flinke</mark> tik op zijn vingers van de leraar.",
+      "Het was een <mark>flinke</mark> wandeling — twintig kilometer."
+    ],
+    "options": [
+      "klein en onbeduidend van afmeting of impact",
+      "aanzienlijk in omvang of kracht, of dapper en vastberaden",
+      "licht en nauwelijks merkbaar, zonder noemenswaardig effect",
+      "langzaam en aarzelend, zonder overtuiging of energie"
+    ],
+    "correct": 1,
+    "explanation": "'Flink' = aanzienlijk in omvang, of dapper/vastberaden. Synoniem: 'aanzienlijk', 'dapper'. Figuurlijk: 'flink zijn' = moedig zijn; 'een flinke stap' = een aanzienlijke stap voorwaarts.",
+    "hint": "Flink heeft twee betekenissen: aanzienlijk (een flinke afstand) en dapper/vastberaden (wees flink). Wat verbindt die twee?",
+    "collocations": [
+      "flink zijn best doen",
+      "een flinke stap",
+      "flink zijn"
+    ]
+  },
+  {
+    "word": "fraai",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze had een <mark>fraai</mark>e jurk aan voor de gelegenheid.",
+      "Het uitzicht over de stad was <mark>fraai</mark> vanuit het raam.",
+      "Dat is een <mark>fraai</mark>e oplossing voor een complex probleem."
+    ],
+    "options": [
+      "groot en imposant van afmeting maar niet noodzakelijk mooi",
+      "lelijk en onaantrekkelijk van uiterlijk of uitvoering",
+      "mooi en aantrekkelijk, goed van uitvoering",
+      "duur en exclusief maar niet per se esthetisch aantrekkelijk"
+    ],
+    "correct": 2,
+    "explanation": "'Fraai' = mooi en aantrekkelijk, goed van uitvoering. Synoniem: 'mooi', 'prachtig', 'elegant'. Antonym: 'lelijk'. Figuurlijk: 'een fraaie oplossing' = een elegante of ingenieuze aanpak.",
+    "hint": "Fraai, mooi en prachtig zijn gradaties van schoonheid. Fraai is iets formeler dan 'mooi' maar minder intens dan 'prachtig'. Wanneer zou je fraai gebruiken?",
+    "collocations": [
+      "een fraaie oplossing",
+      "fraai uitzicht",
+      "fraai werk"
+    ]
+  },
+  {
+    "word": "fris",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze stapte de <mark>frisse</mark> buitenlucht in na uren binnen te hebben gewerkt.",
+      "Hij nam een <mark>frisse</mark> douche na zijn sportronde.",
+      "Ze brengt een <mark>frisse</mark> blik mee — ze is nieuw in het team."
+    ],
+    "options": [
+      "aangenaam koel, helder en vitaal of nieuw van aanpak",
+      "droog en stoflig, niet aangenaam om in te ademen",
+      "warm en klam door hoge luchtvochtigheid en temperatuur",
+      "koud en ijzig, onaangenaam door te lage temperatuur"
+    ],
+    "correct": 0,
+    "explanation": "'Fris' = aangenaam koel en helder, of nieuw en vitaal. Synoniem: 'koel', 'levendig'. Figuurlijk: 'een frisse blik' = een nieuw perspectief; 'fris eruit zien' = er gezond en uitgerust uitzien.",
+    "hint": "Fris en muf zijn tegengestelden. 'Frisse lucht' is letterlijk; 'een frisse blik' is figuurlijk — wat beschrijft het?",
+    "collocations": [
+      "frisse lucht",
+      "een frisse blik",
+      "fris eruit zien"
+    ]
+  },
+  {
+    "word": "gevaarlijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De weg was <mark>gevaarlijk</mark> glad na de ijzel.",
+      "Roken is <mark>gevaarlijk</mark> voor de gezondheid.",
+      "Ze is een <mark>gevaarlijk</mark>e tegenstander — slim en onvoorspelbaar."
+    ],
+    "options": [
+      "moeilijk maar niet schadelijk voor de betrokkenen",
+      "een risico of dreiging vormend voor personen of zaken",
+      "veilig en zonder risico voor de persoon of omgeving",
+      "ongemakkelijk maar zonder werkelijk gevaar voor de veiligheid"
+    ],
+    "correct": 1,
+    "explanation": "'Gevaarlijk' = een risico of dreiging vormend. Antonym: 'veilig'. Synoniem: 'riskant', 'risicovol'. Figuurlijk: 'gevaarlijk slim' = zo slim dat het een bedreiging vormt; 'gevaarlijk dicht bij' = bijna te dicht bij iets negatiefs.",
+    "hint": "Gevaarlijk en veilig zijn tegengestelden. Gevaarlijk impliceert een risico op schade — wat maakt een situatie of persoon gevaarlijk?",
+    "collocations": [
+      "gevaarlijk glad",
+      "gevaarlijk dicht bij",
+      "levensgevaarlijk"
+    ]
+  },
+  {
+    "word": "gezamenlijk",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Ze namen een <mark>gezamenlijk</mark>e beslissing na lang overleg.",
+      "<mark>Gezamenlijk</mark> konden ze het zware meubel de trap op sjouwen.",
+      "Het is een <mark>gezamenlijk</mark>e verantwoordelijkheid — niet alleen van mij."
+    ],
+    "options": [
+      "door meerdere personen samen gedaan of gedeeld",
+      "vrijwillig en zonder dwang door één partij ondernomen",
+      "door één persoon alleen gedaan of gedragen",
+      "verplicht gesteld door een externe autoriteit"
+    ],
+    "correct": 0,
+    "explanation": "'Gezamenlijk' = door meerdere personen samen. Synoniem: 'samen', 'collectief'. Antonym: 'individueel', 'alleen'. Figuurlijk: 'gezamenlijke inspanning' = collectieve inzet.",
+    "hint": "Gezamenlijk en individueel zijn tegengestelden. 'Gezamenlijk een beslissing nemen' betekent dat...?",
+    "collocations": [
+      "gezamenlijk beslissen",
+      "gezamenlijke inspanning",
+      "gezamenlijk verantwoordelijk"
+    ]
+  },
+  {
+    "word": "goedkoop",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De supermarkt heeft <mark>goedkope</mark> merken naast de duurdere A-merken.",
+      "Ze kocht een <mark>goedkoop</mark> vliegticket door vroeg te boeken.",
+      "Dat was een <mark>goedkoop</mark>e opmerking — hij deed het om te kwetsen."
+    ],
+    "options": [
+      "laag van prijs, bereikbaar zonder grote financiële inspanning",
+      "duur en hoog geprijsd, alleen bereikbaar voor mensen met veel geld",
+      "gratis beschikbaar zonder enige financiële verplichting",
+      "van hoge kwaliteit maar aangeboden tegen een eerlijke prijs"
+    ],
+    "correct": 0,
+    "explanation": "'Goedkoop' = laag van prijs. Antonym: 'duur'. Synoniem: 'betaalbaar', 'voordelig'. Figuurlijk: 'een goedkope opmerking' = een lage, kwetsende opmerking; 'goedkoop is duurkoop' = lage prijs leidt vaak tot lagere kwaliteit.",
+    "hint": "Goedkoop en duur zijn tegengestelden. 'Goedkoop is duurkoop' is een spreekwoord — wat betekent het?",
+    "collocations": [
+      "goedkoop is duurkoop",
+      "goedkoop kopen",
+      "een goedkope opmerking"
+    ]
+  },
+  {
+    "word": "goed",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze deed het zo <mark>goed</mark> dat ze een promotie kreeg.",
+      "Hij voelt zich vandaag niet zo <mark>goed</mark> — hij heeft koorts.",
+      "Dat is een <mark>goed</mark> idee — laten we dat proberen."
+    ],
+    "options": [
+      "slecht van kwaliteit of uitvoering, onvoldoende",
+      "gemiddeld en niet bijzonder in kwaliteit of prestatie",
+      "uitsluitend aangenaam maar zonder echte kwaliteit",
+      "van hoge kwaliteit, positief beoordeeld of in goede toestand"
+    ],
+    "correct": 3,
+    "explanation": "'Goed' = van hoge kwaliteit of positief. Antonym: 'slecht'. Synoniem: 'prima', 'uitstekend'. Figuurlijk: 'goed doen' = iets positief bijdragen; 'het goede doen' = moreel juist handelen.",
+    "hint": "Goed en slecht zijn de meest fundamentele kwaliteitstegengestelden. Goed heeft vele toepassingen — kwaliteit, gezondheid, moreel. Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "goed doen",
+      "het goede doen",
+      "goed in zijn werk"
+    ]
+  },
+  {
+    "word": "grappig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Zijn grapje was zo <mark>grappig</mark> dat iedereen begon te lachen.",
+      "Ze heeft een <mark>grappige</mark> manier van vertellen — altijd met timing.",
+      "Dat is <mark>grappig</mark> — ik had precies hetzelfde gedacht."
+    ],
+    "options": [
+      "ironisch en cynisch, niet bedoeld om echt te lachen",
+      "saai en zonder enige humor of vermakelijk element",
+      "humoristisch en vreugdevol, veroorzakend van lachen",
+      "ernstig en stemmig van toon, niet bedoeld voor vermaak"
+    ],
+    "correct": 2,
+    "explanation": "'Grappig' = humoristisch, lachen opwekkend. Synoniem: 'leuk', 'komisch'. Antonym: 'saai', 'serieus'. Figuurlijk: 'grappig genoeg' = merkwaardig genoeg; 'dat is grappig' = dat is opmerkelijk of toevallig.",
+    "hint": "Grappig, serieus en interessant zijn kwalificaties van inhoud. Grappig roept lachen op — wat is het verschil met ironisch?",
+    "collocations": [
+      "grappig zijn",
+      "grappig genoeg",
+      "een grappige opmerking"
+    ]
+  },
+  {
     "word": "groot",
     "pos": "bijvoeglijk naamwoord",
     "level": 1,
     "examples": [
-      "Het nieuwe stadion is zo <mark>groot</mark> dat er 50.000 mensen in passen.",
-      "Ze heeft een <mark>grote</mark> tuin achter het huis.",
-      "Dit is een <mark>groot</mark> probleem dat snel opgelost moet worden."
+      "Amsterdam is een <mark>grote</mark> stad maar voelt soms intiem.",
+      "Ze heeft een <mark>groot</mark> hart — altijd bereid te helpen.",
+      "Het is een <mark>groots</mark> plan maar ook erg ambitieus."
     ],
     "options": [
-      "zwaar in gewicht",
-      "klein van afmeting of omvang",
-      "ver weg gelegen",
-      "met veel ruimte of omvang, niet klein"
+      "aanzienlijk van afmeting, omvang of belang",
+      "lang maar smal, hoog maar niet breed",
+      "precies gemiddeld van grootte voor zijn soort",
+      "klein en compact van afmeting of omvang"
     ],
-    "correct": 3,
-    "explanation": "'Groot' = met een grote omvang of afmeting. Tegendeel: 'klein'. Ook figuurlijk: 'een groot probleem' = een ernstig probleem.",
-    "hint": "Het tegendeel van klein. Een olifant is... een muis is klein."
+    "correct": 0,
+    "explanation": "'Groot' = aanzienlijk van afmeting, omvang of belang. Antonym: 'klein'. Synoniem: 'aanzienlijk', 'omvangrijk'. Figuurlijk: 'groot hart' = genereus zijn; 'grootschalig' = op grote schaal.",
+    "hint": "Groot en klein zijn de meest fundamentele ruimtelijke tegengestelden. 'Een groot hart hebben' is figuurlijk — wat beschrijft het?",
+    "collocations": [
+      "groot hart",
+      "op grote schaal",
+      "groots denken"
+    ]
   },
   {
-    "word": "snel",
+    "word": "hard",
     "pos": "bijvoeglijk naamwoord / bijwoord",
     "level": 1,
     "examples": [
-      "De trein is <mark>sneller</mark> dan de bus voor lange afstanden.",
-      "Ze werkt <mark>snel</mark> en maakt weinig fouten.",
-      "Een <mark>snelle</mark> reactie kan levens redden."
+      "De grond was zo <mark>hard</mark> dat ze er nauwelijks een schep in kon steken.",
+      "Ze werkt <mark>hard</mark> — zestig uur per week.",
+      "Dat was een <mark>harde</mark> waarheid maar ze had het nodig te horen."
     ],
     "options": [
-      "langzaam en voorzichtig",
-      "stil en onopvallend",
-      "in korte tijd, met hoge snelheid",
-      "met veel kracht"
-    ],
-    "correct": 2,
-    "explanation": "'Snel' = met hoge snelheid, in korte tijd. Tegendeel: 'langzaam'. Zelfstandig naamwoord: 'snelheid'.",
-    "hint": "Een raceauto rijdt... en een schildpad beweegt langzaam."
-  },
-  {
-    "word": "leeg",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 1,
-    "examples": [
-      "De fles was <mark>leeg</mark> — er zat geen water meer in.",
-      "De straten zijn <mark>leeg</mark> op zondagochtend vroeg.",
-      "Zijn blik was <mark>leeg</mark>, alsof hij nergens aan dacht."
-    ],
-    "options": [
-      "vol met mensen of dingen",
-      "zonder inhoud, niets erin of erop",
-      "vies en onopgeruimd",
-      "kapot of beschadigd"
+      "langzaam en geleidelijk van tempo of intensiteit",
+      "stevig van structuur of intensief van inspanning, of pijnlijk direct",
+      "licht en luchtig, zonder gewicht of druk",
+      "zacht en toegeeflijk, makkelijk te buigen of te overtuigen"
     ],
     "correct": 1,
-    "explanation": "'Leeg' = zonder inhoud of mensen. Tegendeel: 'vol'. Ook figuurlijk: 'een leeg gevoel' = een gevoel van leegte of zinloosheid.",
-    "hint": "Een fles zonder water is... Een volle fles is het tegendeel."
+    "explanation": "'Hard' = stevig/sterk, intensief, of confronterend. Antonym: 'zacht'. Synoniem: 'stevig', 'intensief'. Figuurlijk: 'harde waarheden' = moeilijke maar eerlijke feiten; 'hard werken' = intensief werken.",
+    "hint": "Hard heeft drie betekenissen: een fysieke (harde steen), een intensieve (hard werken), en een emotionele (harde opmerking). Wat verbindt ze?",
+    "collocations": [
+      "hard werken",
+      "harde waarheden",
+      "hard als steen"
+    ]
   },
   {
-    "word": "zwaar",
+    "word": "heet",
     "pos": "bijvoeglijk naamwoord",
     "level": 1,
     "examples": [
-      "De doos was zo <mark>zwaar</mark> dat ze hem niet alleen kon tillen.",
-      "Het was een <mark>zware</mark> dag — ze was uitgeput.",
-      "Dit vak staat bekend als <mark>zwaar</mark> en veeleisend."
+      "De soep was zo <mark>heet</mark> dat ze haar tong brandde.",
+      "Het was een <mark>hete</mark> zomer — meer dan veertig graden.",
+      "Hij heeft een <mark>heet</mark> hoofd — hij reageert snel en emotioneel."
     ],
     "options": [
-      "veel wegende, of moeilijk en inspannend",
-      "duur en kostbaar",
-      "licht in gewicht, makkelijk te tillen",
-      "gevaarlijk en risicovol"
+      "lauwwarm en niet extreem in temperatuur",
+      "zeer warm van temperatuur, gloeiend of verhit",
+      "koud en bevroren door lage temperatuur",
+      "koel en aangenaam, net boven de kamertemperatuur"
+    ],
+    "correct": 1,
+    "explanation": "'Heet' = zeer hoge temperatuur hebbend. Antonym: 'koud', 'ijskoud'. Synoniem: 'gloeiend', 'brandend'. Figuurlijk: 'een heet hoofd hebben' = snel opvliegend zijn; 'een hete aardappel' = een controversieel onderwerp.",
+    "hint": "Heet, warm en koud zijn temperatuurgradaties. Heet is het sterkste uiterste — wat is een goed voorbeeld?",
+    "collocations": [
+      "heet hoofd",
+      "een hete aardappel",
+      "heet van de naald"
+    ]
+  },
+  {
+    "word": "heel",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze at de <mark>hele</mark> taart op — niets laten over.",
+      "Dat was <mark>heel</mark> aardig van hem.",
+      "Het glas is nog <mark>heel</mark> — het is niet gebroken."
+    ],
+    "options": [
+      "slechts een klein deel van het geheel",
+      "volledig en compleet, of onbeschadigd, of als versterker",
+      "kapot en beschadigd, niet meer in originele staat",
+      "gedeeltelijk en niet volledig aanwezig of intact"
+    ],
+    "correct": 1,
+    "explanation": "'Heel' = volledig (de hele taart), onbeschadigd (het glas is heel), of versterker (heel aardig). Antonym: 'gedeeltelijk' (volledigheid), 'kapot' (schade). Figuurlijk: 'heel Holland' = gans Nederland.",
+    "hint": "Heel heeft drie veelgebruikte betekenissen: volledig ('de hele dag'), onbeschadigd ('het glas is heel'), en als bijwoord-versterker ('heel mooi'). Wat verbindt die drie?",
+    "collocations": [
+      "heel Nederland",
+      "het is heel",
+      "heel de dag"
+    ]
+  },
+  {
+    "word": "hoog",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De berg was zo <mark>hoog</mark> dat de top in de wolken stak.",
+      "Ze heeft een <mark>hoge</mark> functie bij de overheid.",
+      "De verwachtingen zijn <mark>hoog</mark> gesteld — ze moet presteren."
+    ],
+    "options": [
+      "laag en dicht bij de grond of het gemiddelde niveau",
+      "breed en wijd van afmeting, veel beslaan in de breedte",
+      "diep en ver reikend van boven naar beneden",
+      "ver boven het gemiddelde of de grond, groot in verticale omvang"
+    ],
+    "correct": 3,
+    "explanation": "'Hoog' = ver boven het gemiddelde of de grond. Antonym: 'laag'. Synoniem: 'verheven', 'aanzienlijk'. Figuurlijk: 'hoge verwachtingen' = veel van iemand vragen; 'in hoog aanzien staan' = veel respect genieten.",
+    "hint": "Hoog en laag zijn verticale tegengestelden. 'Hoge verwachtingen' en 'een hoge functie' zijn figuurlijk — wat beschrijven ze?",
+    "collocations": [
+      "hoge verwachtingen",
+      "in hoog aanzien",
+      "hoog tijd"
+    ]
+  },
+  {
+    "word": "interessant",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De lezing was zo <mark>interessant</mark> dat niemand naar zijn telefoon keek.",
+      "Ze is een <mark>interessante</mark> persoon — vol verhalen en ervaringen.",
+      "Dat is een <mark>interessant</mark> aanbod — ik moet er over nadenken."
+    ],
+    "options": [
+      "saai en zonder enige prikkelende of nieuwe elementen",
+      "vermakelijk maar zonder diepgang of informatieve waarde",
+      "nieuwsgierigheid en aandacht opwekkend, de moeite waard",
+      "ingewikkeld en moeilijk te begrijpen zonder specialistische kennis"
+    ],
+    "correct": 2,
+    "explanation": "'Interessant' = nieuwsgierigheid opwekkend en de moeite waard. Antonym: 'saai'. Synoniem: 'boeiend', 'fascinerend'. Figuurlijk: 'interessant!' = uitroep van verrassing of intrigue.",
+    "hint": "Interessant, grappig en saai zijn kwalificaties van inhoud of persoon. Interessant wekt nieuwsgierigheid — wat is het verschil met grappig?",
+    "collocations": [
+      "interessant aanbod",
+      "een interessante persoon",
+      "interessant genoeg"
+    ]
+  },
+  {
+    "word": "jong",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze is nog <mark>jong</mark> — ze heeft haar hele leven voor zich.",
+      "Hij voelt zich <mark>jong</mark> in hart en nieren, ondanks zijn leeftijd.",
+      "Het is een <mark>jonge</mark> onderneming — pas twee jaar oud."
+    ],
+    "options": [
+      "oud en met veel levenservaring achter de rug",
+      "volwassen en in de meest productieve fase van het leven",
+      "verouderd en niet meer actueel of modern",
+      "in een vroeg stadium van leven of bestaan, niet lang geleden begonnen"
+    ],
+    "correct": 3,
+    "explanation": "'Jong' = in een vroeg stadium van leven of bestaan. Antonym: 'oud'. Synoniem: 'jeugdig'. Figuurlijk: 'jong van hart' = levenslustig ondanks de leeftijd; 'de jongste niet meer' = niet meer zo jong zijn.",
+    "hint": "Jong en oud zijn leeftijdstegengestelden. 'Jong van hart' is figuurlijk — wat beschrijft het over de persoon?",
+    "collocations": [
+      "jong van hart",
+      "de jongste niet meer",
+      "jonge onderneming"
+    ]
+  },
+  {
+    "word": "klein",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De kamer is <mark>klein</mark> — nauwelijks genoeg ruimte voor een bed.",
+      "Ze heeft <mark>kleine</mark> stappen gezet maar het zijn de juiste.",
+      "Dat is een <mark>klein</mark>igheid — maak je er niet druk over."
+    ],
+    "options": [
+      "gering van afmeting, omvang of belang",
+      "dun maar lang, compact maar hoog",
+      "precies groot genoeg voor het beoogde gebruik",
+      "groot en aanzienlijk van afmeting of omvang"
     ],
     "correct": 0,
-    "explanation": "'Zwaar' = veel wogend, of figuurlijk: moeilijk en veeleisend. Tegendeel: 'licht'. 'Een zware taak' = een moeilijke taak.",
-    "hint": "Een steen is... Een veertje is licht. Ook een moeilijke dag kan... zijn."
+    "explanation": "'Klein' = gering van afmeting of belang. Antonym: 'groot'. Synoniem: 'gering', 'minuscuul'. Figuurlijk: 'een kleine geest' = bekrompen denken; 'kleingeld' = munten van lage waarde.",
+    "hint": "Klein en groot zijn fundamentele ruimtelijke tegengestelden. 'Dat is een kleinigheid' is figuurlijk — wat beschrijft het?",
+    "collocations": [
+      "klein beginnen",
+      "kleingeld",
+      "een klein gebaar"
+    ]
+  },
+  {
+    "word": "koud",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het water was ijskoud — ze slaakte een kreet toen ze erin dook.",
+      "Ze liet hem <mark>koud</mark> — zijn charme werkte niet op haar.",
+      "Dat bericht liet hem niet <mark>koud</mark> — hij was zichtbaar aangedaan."
+    ],
+    "options": [
+      "laag van temperatuur of emotioneel onbewogen",
+      "heet en gloeiend van extreme warmte",
+      "warm en aangenaam van temperatuur, comfortabel",
+      "vochtig en klam door neerslag of transpiratie"
+    ],
+    "correct": 0,
+    "explanation": "'Koud' = lage temperatuur of emotioneel afstandelijk. Antonym: 'warm'. Synoniem: 'ijzig', 'fris'. Figuurlijk: 'iemand koud laten' = iemand niet raken; 'koud gepakt worden' = onverwacht betrapt worden.",
+    "hint": "Koud en warm zijn temperatuurtegengestelden. 'Dat liet hem koud' is figuurlijk — wat betekent het over zijn reactie?",
+    "collocations": [
+      "koud laten",
+      "koud gepakt",
+      "ijskoud"
+    ]
+  },
+  {
+    "word": "kort",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze schreef een <mark>korte</mark> samenvatting van drie alinea's.",
+      "Het gesprek was <mark>kort</mark> maar krachtig — alles gezegd in vijf minuten.",
+      "Hij werd <mark>kort</mark> geleden ontslagen — vorige week."
+    ],
+    "options": [
+      "groot in lengte of duur van begin tot eind",
+      "recent en van korte tijd geleden",
+      "langzaam en traag van tempo of verloop",
+      "beperkt in lengte, duur of omvang"
+    ],
+    "correct": 3,
+    "explanation": "'Kort' = beperkt in lengte of duur. Antonym: 'lang'. Synoniem: 'beknopt', 'bondig'. Figuurlijk: 'kort geleden' = recent; 'kort door de bocht' = te simplistisch geredeneerd; 'kort en goed' = in het kort.",
+    "hint": "Kort en lang zijn tegengestelden in lengte of duur. 'Kort geleden' is een vaste uitdrukking — betekent dit 'een korte tijd geleden'?",
+    "collocations": [
+      "kort geleden",
+      "kort en goed",
+      "kort door de bocht"
+    ]
+  },
+  {
+    "word": "laat",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze arriveerde te <mark>laat</mark> voor de vergadering — iedereen was al begonnen.",
+      "Hij werkt altijd tot <mark>laat</mark> in de avond.",
+      "Het is al <mark>laat</mark> — we moeten naar huis."
+    ],
+    "options": [
+      "op het afgesproken tijdstip of eerder dan verwacht",
+      "op een tijdstip dat voor iedereen goed uitkomt",
+      "vroeg op de dag of in het begin van een periode",
+      "na de verwachte, afgesproken of gebruikelijke tijd"
+    ],
+    "correct": 3,
+    "explanation": "'Laat' = na het verwachte tijdstip, of ver in de dag/avond. Antonym: 'vroeg', 'op tijd'. Synoniem: 'te laat', 'vertraagd'. Figuurlijk: 'beter laat dan nooit' = ook al is het te laat, het is nog steeds beter dan niets.",
+    "hint": "Laat en vroeg zijn tegengestelden in tijd. 'Beter laat dan nooit' is een spreekwoord — wat betekent het?",
+    "collocations": [
+      "te laat",
+      "laat op de avond",
+      "beter laat dan nooit"
+    ]
+  },
+  {
+    "word": "lang",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze heeft <mark>lang</mark> haar dat tot haar schouders reikt.",
+      "De vergadering duurde erg <mark>lang</mark> — meer dan drie uur.",
+      "Hij is zo <mark>lang</mark> dat hij overal tegenaan stoot."
+    ],
+    "options": [
+      "zwaar van gewicht en massa",
+      "groot in lengte, hoogte of duur",
+      "breed van links naar rechts gemeten",
+      "beperkt in lengte, hoogte of duur"
+    ],
+    "correct": 1,
+    "explanation": "'Lang' = groot in lengte, hoogte of duur. Antonym: 'kort'. Synoniem: 'uitgestrekt', 'langdurig'. Figuurlijk: 'lang niet zo goed' = bij lange na niet zo goed; 'op de lange termijn' = in de verre toekomst.",
+    "hint": "Lang en kort zijn tegengestelden. Lang beschrijft lengte (haar), hoogte (persoon) en duur (vergadering) — wat is het gemeenschappelijke?",
+    "collocations": [
+      "lang geleden",
+      "op de lange termijn",
+      "lang niet"
+    ]
+  },
+  {
+    "word": "lelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze vond het gebouw <mark>lelijk</mark> — grijze beton zonder enige charme.",
+      "Hij maakte een <mark>lelijke</mark> opmerking die haar diep raakte.",
+      "Dat was een <mark>lelijke</mark> val — ze heeft haar enkel verzwikt."
+    ],
+    "options": [
+      "oud en versleten maar met historische waarde",
+      "onaantrekkelijk van uiterlijk of onaangenaam van aard",
+      "aantrekkelijk van uiterlijk of op een aangename manier onaangenaam",
+      "gemiddeld van uiterlijk zonder opvallende kenmerken"
+    ],
+    "correct": 1,
+    "explanation": "'Lelijk' = onaantrekkelijk of onaangenaam. Antonym: 'mooi', 'fraai'. Synoniem: 'onaantrekkelijk', 'afschuwelijk'. Figuurlijk: 'een lelijke opmerking' = een kwetsende opmerking; 'lelijk vallen' = hard vallen.",
+    "hint": "Lelijk en mooi zijn esthetische tegengestelden. 'Een lelijke val' en 'een lelijke opmerking' zijn figuurlijk — wat beschrijven ze?",
+    "collocations": [
+      "lelijk vallen",
+      "een lelijke opmerking",
+      "lelijk zijn"
+    ]
+  },
+  {
+    "word": "lekker",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De soep smaakt zo <mark>lekker</mark> — wat heb je erin gedaan?",
+      "Ze voelt zich vandaag niet <mark>lekker</mark> — ze heeft hoofdpijn.",
+      "Het is <mark>lekker</mark> warm buiten — ideaal voor een wandeling."
+    ],
+    "options": [
+      "onaangenaam van smaak, geur of gevoel",
+      "scherp en sterk van smaak door kruiden of specerijen",
+      "aangenaam van smaak, gevoel of toestand",
+      "neutraal van smaak zonder opvallende eigenschappen"
+    ],
+    "correct": 2,
+    "explanation": "'Lekker' = aangenaam, prettig — voor smaak, gevoel of toestand. Antonym: 'vies', 'onlekker'. Synoniem: 'heerlijk', 'aangenaam'. Figuurlijk: 'niet lekker zijn' = zich ziek voelen; 'lekker warm' = aangenaam warm.",
+    "hint": "Lekker beschrijft smaak, lichamelijk gevoel én het weer. Wat is de gemeenschappelijke betekenis in al die gevallen?",
+    "collocations": [
+      "lekker eten",
+      "niet lekker zijn",
+      "lekker warm"
+    ]
+  },
+  {
+    "word": "licht",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De kamer was <mark>licht</mark> en zonnig door de grote ramen.",
+      "Ze draagt graag <mark>lichte</mark> kleuren in de zomer.",
+      "Het was een <mark>lichte</mark> maaltijd — een salade en een soepje."
+    ],
+    "options": [
+      "hel en schitterend door kunstmatige verlichting",
+      "donker van kleur of slecht verlicht",
+      "zwaar van gewicht en moeilijk te tillen",
+      "weinig gewicht hebbend, goed verlicht of licht van kleur of intensiteit"
+    ],
+    "correct": 3,
+    "explanation": "'Licht' = weinig gewicht, goed verlicht, of licht van kleur of intensiteit. Antonym: 'zwaar', 'donker'. Synoniem: 'helder', 'luchtig'. Figuurlijk: 'licht op iets werpen' = iets verduidelijken; 'het licht zien' = beseffen.",
+    "hint": "Licht heeft minstens drie betekenissen: gewicht (lichte tas), verlichting (lichte kamer) en kleur/intensiteit (lichte maaltijd). Welke drie zijn dat?",
+    "collocations": [
+      "licht op iets werpen",
+      "licht van gewicht",
+      "lichte maaltijd"
+    ]
   },
   {
     "word": "mooi",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze woont in een <mark>mooie</mark> stad aan de kust.",
+      "Dat is een <mark>mooi</mark> verhaal maar ik geloof er niets van.",
+      "Het was een <mark>mooie</mark> dag — stralend zonnetje en blauwe lucht."
+    ],
+    "options": [
+      "indrukwekkend door grootte maar niet per se aantrekkelijk",
+      "gemiddeld en zonder bijzondere eigenschappen",
+      "onaantrekkelijk of onaangenaam van uiterlijk",
+      "aantrekkelijk van uiterlijk of aangenaam van aard"
+    ],
+    "correct": 3,
+    "explanation": "'Mooi' = aantrekkelijk of aangenaam. Antonym: 'lelijk'. Synoniem: 'fraai', 'aantrekkelijk'. Figuurlijk: 'mooi verhaal' = scepticisme over een bewering; 'mooi zo' = uitdrukking van goedkeuring.",
+    "hint": "Mooi, prachtig en fraai zijn positieve esthetische oordelen. 'Mooi verhaal' in de tweede zin drukt scepsis uit — hoe werkt dat?",
+    "collocations": [
+      "mooi verhaal",
+      "mooi weer",
+      "mooi zo"
+    ]
+  },
+  {
+    "word": "mogelijk",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Is het <mark>mogelijk</mark> om de afspraak te verzetten naar vrijdag?",
+      "Ze doet alles wat <mark>mogelijk</mark> is om hem te helpen.",
+      "Het is <mark>mogelijk</mark> dat het morgen regent."
+    ],
+    "options": [
+      "zeker en onvermijdelijk, zonder enige twijfel",
+      "niet onmogelijk, uitvoerbaar of wellicht het geval",
+      "onmogelijk en niet haalbaar onder geen enkele omstandigheid",
+      "wenselijk maar niet realiseerbaar in de praktijk"
+    ],
+    "correct": 1,
+    "explanation": "'Mogelijk' = niet onmogelijk, haalbaar, of misschien. Antonym: 'onmogelijk'. Synoniem: 'haalbaar', 'eventueel'. Figuurlijk: 'zo snel mogelijk' = zo snel als het kan; 'mogelijk is er een oplossing' = misschien.",
+    "hint": "Mogelijk, zeker en onmogelijk staan op een kansschaal. Mogelijk zit in het midden — wat is het verschil met 'zeker'?",
+    "collocations": [
+      "zo snel mogelijk",
+      "alles wat mogelijk is",
+      "het is mogelijk dat"
+    ]
+  },
+  {
+    "word": "nat",
     "pos": "bijvoeglijk naamwoord",
     "level": 1,
     "examples": [
-      "De zonsondergang was zo <mark>mooi</mark> dat iedereen bleef kijken.",
-      "Ze droeg een <mark>mooie</mark> jurk naar het feest.",
-      "Wat een <mark>mooi</mark> verhaal — ik was helemaal geroerd."
+      "Ze werd <mark>nat</mark> van de regen omdat ze haar paraplu vergeten was.",
+      "De verf is nog <mark>nat</mark> — niet aanraken.",
+      "Hij had een <mark>natte</mark> droom — letterlijk, na een emmer water."
     ],
     "options": [
-      "aangenaam voor het oog of gevoel, aantrekkelijk",
-      "duur en exclusief",
-      "lelijk en onaantrekkelijk",
-      "nieuw en ongebruikt"
-    ],
-    "correct": 0,
-    "explanation": "'Mooi' = esthetisch aantrekkelijk, aangenaam. Tegendeel: 'lelijk'. Ook figuurlijk: 'een mooi gebaar' = iets vriendelijks doen.",
-    "hint": "Een prachtige zonsondergang of een mooie schilderij is... Het tegendeel is lelijk."
-  },
-  {
-    "word": "rustig",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 2,
-    "examples": [
-      "Na de drukte van de stad was het heerlijk <mark>rustig</mark> op het platteland.",
-      "Ze heeft een <mark>rustige</mark> persoonlijkheid — ze raakt nooit gestresst.",
-      "De zee was <mark>rustig</mark> en er waren geen golven."
-    ],
-    "options": [
-      "zonder drukte, lawaai of onrust",
-      "saai en oninteressant",
-      "traag en inefficiënt",
-      "luidruchtig en druk"
-    ],
-    "correct": 0,
-    "explanation": "'Rustig' = kalm, zonder drukte of lawaai. Tegendeel: 'druk' of 'lawaaierig'. Zelfstandig naamwoord: 'rust'.",
-    "hint": "Een stille, kalme plek zonder drukte. Het tegendeel van druk en lawaaierig."
-  },
-  {
-    "word": "scherp",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 2,
-    "examples": [
-      "Het mes was zo <mark>scherp</mark> dat het door het vlees sneed als boter.",
-      "Ze stelde een <mark>scherpe</mark> vraag die niemand had verwacht.",
-      "Zijn <mark>scherpe</mark> verstand maakte hem een uitstekende advocaat."
-    ],
-    "options": [
-      "met een puntige rand die snijdt, of bijdehand en precies",
-      "bot en niet snijdend",
-      "helder en duidelijk zichtbaar",
-      "pijnlijk en onaangenaam"
-    ],
-    "correct": 0,
-    "explanation": "'Scherp' = snijdend of puntig, ook figuurlijk: intelligent en precies. Tegendeel: 'bot'. 'Een scherp verstand' = een snel, analytisch denkvermogen.",
-    "hint": "Een goed geslepen mes is... Het tegendeel is bot. Ook een slimme opmerking kan... zijn."
-  },
-  {
-    "word": "glad",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 2,
-    "examples": [
-      "De weg was <mark>glad</mark> door de ijzel en er gebeurden veel ongelukken.",
-      "Het oppervlak van het glas was perfect <mark>glad</mark>.",
-      "Hij is een <mark>gladde</mark> verkoper — je koopt altijd meer dan je wilt."
-    ],
-    "options": [
-      "ruw en oneffen van oppervlak",
-      "nat en doorweekt",
-      "effen zonder hobbels, of te glad van tong",
-      "koud en bevroren"
+      "koud maar niet per se vochtig of doorweekt",
+      "volledig droog en zonder enig vocht",
+      "vochtig of doordrenkt met water of een andere vloeistof",
+      "glimmend door een laag van olie of wax"
     ],
     "correct": 2,
-    "explanation": "'Glad' = effen, zonder hobbels. Ook figuurlijk: te vriendelijk en onbetrouwbaar — 'een gladde vent'. Tegendeel: 'ruw'.",
-    "hint": "IJzel maakt de weg gevaarlijk... Een ruw oppervlak is het tegendeel."
+    "explanation": "'Nat' = doordrenkt met vocht. Antonym: 'droog'. Synoniem: 'vochtig', 'kletsnat'. Figuurlijk: 'nat gaan' = een mislukking zijn; 'kletsnat' = helemaal doorweekt.",
+    "hint": "Nat en droog zijn tegengestelden in vochtgehalte. 'Nat gaan' is een spreektaaluitdrukking — wat betekent het?",
+    "collocations": [
+      "nat worden",
+      "kletsnat",
+      "nat gaan"
+    ]
   },
   {
-    "word": "vaag",
+    "word": "nauw",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "De broek is te <mark>nauw</mark> — hij knelt om de taille.",
+      "Ze werken <mark>nauw</mark> samen aan het project.",
+      "Hij nam het niet zo <mark>nauw</mark> met de regels."
+    ],
+    "options": [
+      "smal, strak passend, of intensief en precies",
+      "kort van lengte maar niet smal van breedte",
+      "los en ruim zonder enige beperking",
+      "breed en ruimtelijk zonder beperking van beweging"
+    ],
+    "correct": 0,
+    "explanation": "'Nauw' = smal, strak, of intensief. Antonym: 'ruim', 'wijd'. Synoniem: 'smal', 'strak'. Figuurlijk: 'nauw samenwerken' = intensief samenwerken; 'het nauw nemen met' = precies zijn in.",
+    "hint": "Nauw en breed zijn tegengestelden. 'Nauw samenwerken' is figuurlijk — wat beschrijft het? Hoe verhoudt 'nauw' zich tot 'smal'?",
+    "collocations": [
+      "nauw samenwerken",
+      "het niet zo nauw nemen",
+      "een nauw pak"
+    ]
+  },
+  {
+    "word": "nieuw",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze kocht een <mark>nieuwe</mark> laptop omdat de oude het niet meer deed.",
+      "Hij begon een <mark>nieuw</mark> leven na zijn emigratie naar Canada.",
+      "Dat is niets <mark>nieuws</mark> — dit probleem bestaat al jaren."
+    ],
+    "options": [
+      "recent gemaakt, aangeschaft of begonnen",
+      "hetzelfde als voorheen zonder enige wijziging",
+      "tweedehands maar in goede staat van onderhoud",
+      "oud en al lange tijd in gebruik of bestaan"
+    ],
+    "correct": 0,
+    "explanation": "'Nieuw' = recent gemaakt of begonnen. Antonym: 'oud'. Synoniem: 'recent', 'fris'. Figuurlijk: 'nieuw leven inblazen' = iets revitaliseren; 'niets nieuws onder de zon' = alles is al eerder gezien.",
+    "hint": "Nieuw en oud zijn tegengestelden in leeftijd of gebruik. 'Niets nieuws onder de zon' is een spreukje — wat betekent het?",
+    "collocations": [
+      "nieuw leven inblazen",
+      "niets nieuws",
+      "een nieuw begin"
+    ]
+  },
+  {
+    "word": "open",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De deur stond <mark>open</mark> — iedereen kon binnenlopen.",
+      "Ze is erg <mark>open</mark> over haar ervaringen met burn-out.",
+      "Hij had een <mark>open</mark> houding tegenover nieuwe ideeën."
+    ],
+    "options": [
+      "niet gesloten, toegankelijk of transparant van karakter",
+      "beveiligd en alleen toegankelijk met toestemming",
+      "beperkt toegankelijk voor een selecte groep",
+      "gesloten en niet toegankelijk voor anderen"
+    ],
+    "correct": 0,
+    "explanation": "'Open' = niet gesloten, toegankelijk of transparant. Antonym: 'gesloten', 'dicht'. Synoniem: 'toegankelijk', 'transparant'. Figuurlijk: 'een open houding' = receptief en niet defensief; 'open kaart spelen' = eerlijk en transparant zijn.",
+    "hint": "Open en gesloten zijn tegengestelden. Open beschrijft een deur (fysiek), een persoon (sociaal) en een houding (mentaal). Wat is de kern?",
+    "collocations": [
+      "open kaart spelen",
+      "een open houding",
+      "open staan voor"
+    ]
+  },
+  {
+    "word": "oud",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De kerk is <mark>oud</mark> — gebouwd in de dertiende eeuw.",
+      "Ze is te <mark>oud</mark> voor deze onzin, vindt ze zelf.",
+      "Dat is een <mark>oud</mark> probleem waarvoor nog geen oplossing is."
+    ],
+    "options": [
+      "versleten en niet meer bruikbaar",
+      "al lange tijd bestaand, in gebruik of van hoge leeftijd",
+      "recent gemaakt of pas begonnen",
+      "klassiek maar niet per se van hoge leeftijd"
+    ],
+    "correct": 1,
+    "explanation": "'Oud' = al lange tijd bestaand of van hoge leeftijd. Antonym: 'nieuw', 'jong'. Synoniem: 'bejaard', 'antiek'. Figuurlijk: 'een oude bekende' = iemand die men al lang kent; 'oude gewoonten' = ingesleten patronen.",
+    "hint": "Oud en nieuw zijn tegengestelden in leeftijd of tijdsduur. 'Een oude bekende' is figuurlijk — wat betekent het?",
+    "collocations": [
+      "een oude bekende",
+      "oud en nieuw",
+      "oud worden"
+    ]
+  },
+  {
+    "word": "overig",
     "pos": "bijvoeglijk naamwoord",
     "level": 2,
     "examples": [
-      "Zijn uitleg was zo <mark>vaag</mark> dat niemand begreep wat hij bedoelde.",
-      "Ze had een <mark>vaag</mark> gevoel dat er iets niet klopte.",
-      "Het plan was nog <mark>vaag</mark> — er waren geen concrete stappen."
+      "De <mark>overige</mark> deelnemers mogen in de lobby wachten.",
+      "Voor het <mark>overige</mark> verwijzen we naar de bijlagen.",
+      "Al het <mark>overige</mark> is geregeld — alleen de catering staat nog open."
     ],
     "options": [
-      "onduidelijk, niet concreet of moeilijk te begrijpen",
-      "heel duidelijk en precies omschreven",
-      "simpel en makkelijk te begrijpen",
-      "onwaar en misleidend"
+      "het meest importante of centrale deel van het geheel",
+      "het resterende of nog niet besproken deel",
+      "het meest recente of nieuwste onderdeel",
+      "het eerste of meest urgente onderdeel"
+    ],
+    "correct": 1,
+    "explanation": "'Overig' = het resterende gedeelte dat nog niet is besproken of behandeld. Synoniem: 'rest', 'resterend'. Figuurlijk: 'voor het overige' = voor de rest, in andere opzichten; 'al het overige' = de rest van alles.",
+    "hint": "Overig en resterend zijn nauw verwant. 'Voor het overige' is een vaste uitdrukking in formele teksten — wat betekent het?",
+    "collocations": [
+      "voor het overige",
+      "de overige deelnemers",
+      "al het overige"
+    ]
+  },
+  {
+    "word": "prachtig",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het uitzicht vanuit de hut was <mark>prachtig</mark> — bergen en meren.",
+      "Ze droeg een <mark>prachtige</mark> jurk op de bruiloft.",
+      "Dat is <mark>prachtig</mark> nieuws — gefeliciteerd!"
+    ],
+    "options": [
+      "uitzonderlijk mooi of indrukwekkend, prachtig om te zien",
+      "gewoon aantrekkelijk maar niet bijzonder opvallend",
+      "groot en imposant maar niet per se aantrekkelijk",
+      "functioneel maar zonder esthetische kwaliteiten"
     ],
     "correct": 0,
-    "explanation": "'Vaag' = onduidelijk, niet concreet. Tegendeel: 'duidelijk' of 'concreet'. Ook: 'vaag kijken' = een afwezige blik hebben.",
-    "hint": "Een uitleg die niemand begrijpt omdat er geen details in zitten, is..."
+    "explanation": "'Prachtig' = uitzonderlijk mooi. Antonym: 'lelijk'. Synoniem: 'schitterend', 'magnifiek'. Figuurlijk: 'prachtig nieuws' = uitstekend nieuws; 'dat is prachtig' = uitdrukking van grote vreugde of goedkeuring.",
+    "hint": "Mooi, prachtig en fraai beschrijven esthetische kwaliteiten. Prachtig is intensiever dan mooi — hoe verhouden ze zich als gradatie?",
+    "collocations": [
+      "prachtig nieuws",
+      "een prachtig uitzicht",
+      "prachtig gedaan"
+    ]
   },
   {
-    "word": "duurzaam",
+    "word": "rijk",
     "pos": "bijvoeglijk naamwoord",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "<mark>Duurzame</mark> energie zoals zonne- en windenergie vervangt fossiele brandstoffen.",
-      "Ze kocht een <mark>duurzame</mark> jas die twintig jaar mee zou gaan.",
-      "Het bedrijf werkt aan een <mark>duurzamere</mark> productiewijze."
+      "Ze is rijk genoeg om nooit meer te hoeven werken.",
+      "De stad heeft een <mark>rijke</mark> geschiedenis die teruggaat tot de Middeleeuwen.",
+      "Dit gerecht heeft een <mark>rijke</mark> smaak door de vele kruiden."
     ],
     "options": [
-      "biologisch en naturlijk geteeld",
-      "lang meegaand of milieuvriendelijk en toekomstbestendig",
-      "modern en innovatief",
-      "goedkoop en makkelijk te vervangen"
+      "een gemiddeld inkomen hebben zonder extreme armoede of rijkdom",
+      "schuldenvrij zijn maar zonder grote reserves",
+      "veel geld, bezittingen of iets in grote mate bezitten",
+      "weinig geld of bezittingen hebben"
     ],
-    "correct": 1,
-    "explanation": "'Duurzaam' = lang meegaand, of milieuvriendelijk en toekomstbestendig. Van 'duren' = lang voortbestaan. Zelfstandig naamwoord: 'duurzaamheid'.",
-    "hint": "Zonne-energie is... voor het milieu. Een goede jas die jaren meegaat is ook..."
+    "correct": 2,
+    "explanation": "'Rijk' = veel geld bezitten, of iets in grote mate hebben. Antonym: 'arm'. Synoniem: 'welvarend', 'vermogend'. Figuurlijk: 'een rijke geschiedenis' = een uitgebreide en gevarieerde geschiedenis; 'rijk aan' = veel van iets bezitten.",
+    "hint": "Rijk en arm zijn financiële tegengestelden. 'Een rijke smaak' en 'rijke geschiedenis' zijn figuurlijk — wat is de gemeenschappelijke betekenis?",
+    "collocations": [
+      "rijk aan",
+      "een rijke geschiedenis",
+      "rijk worden"
+    ]
   },
   {
-    "word": "kwetsbaar",
+    "word": "saai",
     "pos": "bijvoeglijk naamwoord",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "Ouderen en kinderen zijn <mark>kwetsbare</mark> groepen tijdens een epidemie.",
-      "Ze voelde zich <mark>kwetsbaar</mark> na het delen van haar persoonlijke verhaal.",
-      "Het ecosysteem is <mark>kwetsbaar</mark> voor veranderingen in het klimaat."
+      "De lezing was zo <mark>saai</mark> dat de helft in slaap viel.",
+      "Hij leidt een <mark>saai</mark> leven — altijd hetzelfde, nooit iets nieuws.",
+      "Het werk is <mark>saai</mark> maar het loon is goed."
     ],
     "options": [
-      "ziek en verzwakt",
-      "gemakkelijk te beschadigen of te raken",
-      "sterk en goed beschermd",
-      "onzeker en wisselvallig"
+      "vervelend en zonder interessante of stimulerende elementen",
+      "boeiend en vol interessante momenten en gebeurtenissen",
+      "rustig en ontspannen zonder druk of stress",
+      "eenvoudig maar prettig door de regelmaat en voorspelbaarheid"
     ],
-    "correct": 1,
-    "explanation": "'Kwetsbaar' = gemakkelijk te beschadigen, verwonden of raken — fysiek of emotioneel. Van 'kwetsen' = pijn doen. Zelfstandig naamwoord: 'kwetsbaarheid'.",
-    "hint": "Iemand die makkelijk geraakt of beschadigd kan worden — fysiek of emotioneel — is..."
+    "correct": 0,
+    "explanation": "'Saai' = vervelend, zonder prikkels. Antonym: 'interessant', 'boeiend'. Synoniem: 'vervelend', 'eentonig'. Figuurlijk: 'saai als een deur' = extreem saai; 'het is saai hier' = er is niets te doen.",
+    "hint": "Saai en interessant zijn tegengestelden op de boeiendheidsschaal. Saai beschrijft zowel een activiteit als een persoon — wat is het verschil?",
+    "collocations": [
+      "saai als een deur",
+      "een saai leven",
+      "saai werk"
+    ]
   },
   {
-    "word": "aanzienlijk",
+    "word": "schoon",
     "pos": "bijvoeglijk naamwoord / bijwoord",
-    "level": 3,
+    "level": 1,
     "examples": [
-      "De kosten zijn <mark>aanzienlijk</mark> gestegen het afgelopen jaar.",
-      "Er is een <mark>aanzienlijk</mark> verschil tussen de twee aanbiedingen.",
-      "Ze heeft een <mark>aanzienlijke</mark> bijdrage geleverd aan het project."
+      "Ze maakte de keuken <mark>schoon</mark> voordat haar gasten kwamen.",
+      "De lucht was kristalhelder en <mark>schoon</mark> na de regen.",
+      "Ze is het <mark>schoon</mark> genoeg — ze wil er niets meer van weten."
     ],
     "options": [
-      "precies gelijk aan het gemiddelde",
-      "groot en opmerkelijk, meer dan gemiddeld",
-      "heel klein en nauwelijks merkbaar",
-      "onverwacht en verrassend"
-    ],
-    "correct": 1,
-    "explanation": "'Aanzienlijk' = behoorlijk groot, opvallend veel. Synoniem: 'aanzienlijk', 'flink', 'significant'. Van 'aanzien' = belang.",
-    "hint": "Niet een beetje, maar behoorlijk veel. Een... stijging is een grote stijging."
-  },
-  {
-    "word": "vluchtig",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 3,
-    "examples": [
-      "Ze wierp een <mark>vluchtige</mark> blik op de klok voor ze de kamer uitliep.",
-      "Het was een <mark>vluchtige</mark> ontmoeting — ze spraken maar twee minuten.",
-      "De <mark>vluchtige</mark> geur van koffie deed hem aan thuis denken."
-    ],
-    "options": [
-      "regelmatig terugkerend",
-      "heel kort en snel voorbijgaand",
-      "intens en overweldigend",
-      "langdurig en grondig"
-    ],
-    "correct": 1,
-    "explanation": "'Vluchtig' = snel voorbijgaand, oppervlakkig. Van 'vlucht'. Tegendeel: 'grondig' of 'langdurig'.",
-    "hint": "Een blik die maar een seconde duurt. Niet diep, niet lang — heel..."
-  },
-  {
-    "word": "subtiel",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
-    "examples": [
-      "Er was een <mark>subtiel</mark> verschil in kleur dat alleen experts konden zien.",
-      "Ze maakte een <mark>subtiele</mark> opmerking die niet iedereen oppakte.",
-      "Zijn <mark>subtiele</mark> humor was niet voor iedereen."
-    ],
-    "options": [
-      "zacht en stil",
-      "luid en overduidelijk aanwezig",
-      "ingewikkeld en moeilijk te begrijpen",
-      "fijn en niet meteen opvallend, indirect"
+      "vers en nieuw, nog niet gebruikt of aangeraakt",
+      "vuil en bezoedeld door gebruik of verwaarlozing",
+      "geordend en netjes maar niet noodzakelijkerwijs vrij van vuil",
+      "vrij van vuil of onzuiverheden, of volledig beu van iets"
     ],
     "correct": 3,
-    "explanation": "'Subtiel' = fijn, niet overduidelijk, vereist aandacht om op te merken. Van het Latijn 'subtilis'. Tegendeel: 'opvallend' of 'grof'.",
-    "hint": "Iets wat er is maar niet meteen opvalt. Een klein, fijn verschil. Dat is..."
+    "explanation": "'Schoon' = vrij van vuil, of helemaal beu. Antonym: 'vuil', 'vies'. Synoniem: 'netjes', 'rein'. Figuurlijk: 'schoon genoeg zijn' = er helemaal klaar mee zijn; 'schone lei' = een frisse start.",
+    "hint": "Schoon heeft een letterlijke (vrij van vuil) en een figuurlijke betekenis ('schoon genoeg van iets'). Hoe weet je welke betekenis wordt bedoeld?",
+    "collocations": [
+      "schoon genoeg",
+      "een schone lei",
+      "schoon maken"
+    ]
   },
   {
-    "word": "eigenzinnig",
-    "pos": "bijvoeglijk naamwoord",
-    "level": 4,
+    "word": "serieus",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
     "examples": [
-      "Ze was een <mark>eigenzinnige</mark> ontwerper die nooit trends volgde.",
-      "Het kind was <mark>eigenzinnig</mark> en deed altijd precies wat het zelf wilde.",
-      "Zijn <mark>eigenzinnige</mark> aanpak leverde verrassende resultaten op."
+      "Ze nam de situatie <mark>serieus</mark> en handelde meteen.",
+      "Hij is een <mark>serieuze</mark> kandidaat voor de functie.",
+      "<mark>Serieus</mark>? Dat meen je toch niet?!"
     ],
     "options": [
-      "met een sterk eigen wil en mening, onafhankelijk denkend",
-      "gehoorzaam en volgzaam",
-      "creatief maar ongeorganiseerd",
-      "verward en onzeker"
+      "negatief en somber in de benadering van situaties",
+      "ernstig, niet ludiek en van wezenlijk belang",
+      "luchtig en grappig zonder enige ernst",
+      "formeel van toon maar niet per se van groot belang"
+    ],
+    "correct": 1,
+    "explanation": "'Serieus' = ernstig, van belang, niet ludiek. Antonym: 'grappig', 'luchtig'. Synoniem: 'ernstig', 'wezenlijk'. Figuurlijk: 'serieus nemen' = als belangrijk beschouwen; 'serieuze situatie' = gevaarlijke of kritieke omstandigheid.",
+    "hint": "Serieus en grappig zijn tegengestelden in ernst. Als uitroep ('Serieus?!') heeft het een andere functie — welke?",
+    "collocations": [
+      "serieus nemen",
+      "een serieuze situatie",
+      "het serieus menen"
+    ]
+  },
+  {
+    "word": "simpel",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De oplossing was verrassend <mark>simpel</mark> — niemand had eraan gedacht.",
+      "Ze kookt graag <mark>simpel</mark>: pasta, saus, kaas.",
+      "Hou het <mark>simpel</mark> — niet te veel details in één keer."
+    ],
+    "options": [
+      "efficiënt maar technisch complex van opzet",
+      "ingewikkeld en vereisend veel kennis of stappen",
+      "snel maar niet per se eenvoudig te begrijpen",
+      "eenvoudig en zonder onnodige complexiteit"
+    ],
+    "correct": 3,
+    "explanation": "'Simpel' = eenvoudig, zonder complexiteit. Antonym: 'ingewikkeld'. Synoniem: 'eenvoudig', 'makkelijk'. Figuurlijk: 'simpel gezegd' = in eenvoudige woorden; 'het simpele feit' = het voor de hand liggende gegeven.",
+    "hint": "Simpel en eenvoudig zijn bijna synoniemen maar simpel heeft soms een licht neerbuigende connotatie. Wanneer zeg je 'dat is simpel' en wanneer 'dat is eenvoudig'?",
+    "collocations": [
+      "simpel gezegd",
+      "hou het simpel",
+      "simpel en doeltreffend"
+    ]
+  },
+  {
+    "word": "slecht",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het weer was <mark>slecht</mark> — regen en wind de hele dag.",
+      "Ze sliep <mark>slecht</mark> door de hitte en de stress.",
+      "Hij is een <mark>slechte</mark> verliezer — hij klaagt altijd."
+    ],
+    "options": [
+      "van lage kwaliteit, onaangenaam of moreel verwerpelijk",
+      "van hoge kwaliteit of prettig om te ervaren",
+      "onverwacht en verrassend in uitkomst of kwaliteit",
+      "gemiddeld en niet bijzonder in positieve of negatieve zin"
     ],
     "correct": 0,
-    "explanation": "'Eigenzinnig' = met een sterke eigen mening, die je niet snel laat beïnvloeden. Samengesteld van 'eigen' + 'zin' (wil, mening). Kan positief of negatief zijn.",
-    "hint": "'Eigen' + 'zin'. Iemand die altijd zijn eigen wil volgt en zich niets aantrekt van anderen."
+    "explanation": "'Slecht' = van lage kwaliteit of moreel verwerpelijk. Antonym: 'goed'. Synoniem: 'matig', 'beroerd'. Figuurlijk: 'slecht nieuws' = ongewenste mededeling; 'slechte gewoonten' = negatieve gedragspatronen.",
+    "hint": "Slecht en goed zijn de basale kwaliteitsschaal. 'Slecht slapen' en 'een slecht persoon' — beschrijven ze hetzelfde soort slecht?",
+    "collocations": [
+      "slecht nieuws",
+      "slechte gewoonten",
+      "het gaat slecht"
+    ]
+  },
+  {
+    "word": "smal",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Het straatje was zo <mark>smal</mark> dat er geen auto doorheen kon.",
+      "Ze heeft een <mark>smalle</mark> taille en brede schouders.",
+      "Het zijn <mark>smalle</mark> marges — er is weinig ruimte voor fouten."
+    ],
+    "options": [
+      "kort van lengte maar niet smal van breedte",
+      "breed en ruimtelijk van links naar rechts gemeten",
+      "dun en fragiel van materiaal of structuur",
+      "weinig breed, beperkt van links naar rechts"
+    ],
+    "correct": 3,
+    "explanation": "'Smal' = weinig breed. Antonym: 'breed'. Synoniem: 'nauw'. Figuurlijk: 'smalle marges' = weinig speelruimte; 'het smal zien' = weinig toekomst zien.",
+    "hint": "Smal en breed zijn tegengestelden in breedte. 'Smalle marges' is figuurlijk — wat beschrijft het? Hoe verschilt 'smal' van 'dun'?",
+    "collocations": [
+      "smalle marges",
+      "een smal steegje",
+      "smal en lang"
+    ]
+  },
+  {
+    "word": "stijf",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Ze had een <mark>stijve</mark> nek na een nacht slecht slapen.",
+      "Hij is erg <mark>stijf</mark> in zijn optreden — geen spontaniteit.",
+      "Het karton is <mark>stijf</mark> — het buigt niet mee."
+    ],
+    "options": [
+      "hard van materiaal maar niet per se onbuigzaam",
+      "gespannen door nervositeit in een sociale situatie",
+      "onbuigzaam, weinig flexibel of onbeweeglijk",
+      "soepel en makkelijk te buigen of bewegen"
+    ],
+    "correct": 2,
+    "explanation": "'Stijf' = onbuigzaam, inflexibel. Antonym: 'soepel', 'flexibel'. Synoniem: 'strak', 'rigide'. Figuurlijk: 'stijf van de kou' = verstijfd door de kou; 'stijf staan van' = een grote hoeveelheid hebben van.",
+    "hint": "Stijf beschrijft zowel het lichaam (nek), een persoon (optreden) als een materiaal (karton). Wat is de gemeenschappelijke eigenschap?",
+    "collocations": [
+      "stijf van de kou",
+      "een stijve houding",
+      "stijf staan van"
+    ]
+  },
+  {
+    "word": "sterk",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze is fysiek <mark>sterk</mark> — ze traint vijf keer per week.",
+      "Het argument was <mark>sterk</mark> — moeilijk te weerleggen.",
+      "De koffie is te <mark>sterk</mark> — ze verdunt hem altijd met water."
+    ],
+    "options": [
+      "groot van omvang maar niet per se van grote kracht",
+      "snel en wendbaar maar niet noodzakelijkerwijs krachtig",
+      "zwak en weinig kracht of invloed hebbend",
+      "veel kracht, invloed of intensiteit hebbend"
+    ],
+    "correct": 3,
+    "explanation": "'Sterk' = veel kracht of intensiteit hebbend. Antonym: 'zwak'. Synoniem: 'krachtig', 'kloek'. Figuurlijk: 'een sterk argument' = een overtuigend betoog; 'sterke koffie' = geconcentreerde koffie.",
+    "hint": "Sterk en zwak zijn tegengestelden in kracht. 'Sterk' beschrijft fysieke kracht, argumenten én koffie — wat is de gemeenschappelijke betekenis?",
+    "collocations": [
+      "sterk argument",
+      "sterk staan",
+      "zo sterk als een os"
+    ]
+  },
+  {
+    "word": "stil",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De klas was <mark>stil</mark> toen de leraar binnenkwam.",
+      "Ze woont in een <mark>stille</mark> buurt — nauwelijks verkeer.",
+      "Hij is een <mark>stille</mark> kracht achter het succes van de organisatie."
+    ],
+    "options": [
+      "verlaten en leeg door gebrek aan mensen of activiteit",
+      "zonder geluid of beweging, of teruggetrokken van aard",
+      "rustig van tempo maar niet per se zonder geluid",
+      "luid en druk met veel geluid en beweging"
+    ],
+    "correct": 1,
+    "explanation": "'Stil' = zonder geluid, of teruggetrokken van aard. Antonym: 'luid', 'druk'. Synoniem: 'rustig', 'geruisloos'. Figuurlijk: 'stille kracht' = iemand die onopvallend maar effectief bijdraagt; 'stil zijn' = niets zeggen.",
+    "hint": "Stil beschrijft geluid (klas), omgeving (buurt) en persoonlijkheid (stille kracht). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "stille kracht",
+      "stil blijven",
+      "een stille buurt"
+    ]
+  },
+  {
+    "word": "streng",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "De rechter was <mark>streng</mark> en legde een zware straf op.",
+      "Ze had een <mark>strenge</mark> opvoeding — weinig vrijheid.",
+      "De regels zijn <mark>streng</mark> — geen uitzonderingen mogelijk."
+    ],
+    "options": [
+      "veeleisend, weinig toegeeflijk en met weinig ruimte voor uitzonderingen",
+      "eerlijk en rechtvaardig in het toepassen van regels",
+      "soepel en bereid tot uitzonderingen of compromissen",
+      "formeel en zakelijk maar niet per se veeleisend"
+    ],
+    "correct": 0,
+    "explanation": "'Streng' = veeleisend, weinig toegeeflijk. Antonym: 'soepel', 'mild'. Synoniem: 'rigide', 'hard'. Figuurlijk: 'strenge winter' = een harde winter met veel kou; 'streng optreden' = hard ingrijpen.",
+    "hint": "Streng en soepel zijn tegengestelden in toegeeflijkheid. 'Een strenge winter' is figuurlijk — wat beschrijft het?",
+    "collocations": [
+      "streng optreden",
+      "een strenge winter",
+      "strenge regels"
+    ]
+  },
+  {
+    "word": "typisch",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Dat is <mark>typisch</mark> Nederlands — direct en zonder omhaal.",
+      "Zij vertoonde <mark>typische</mark> symptomen van een griep.",
+      "<mark>Typisch</mark>! Net als ik haast heb, regent het."
+    ],
+    "options": [
+      "kenmerkend voor een bepaalde groep of situatie, of ironisch voorspelbaar",
+      "uitzonderlijk en zelden voorkomend in zijn soort",
+      "gemiddeld en zonder onderscheidende kenmerken",
+      "origineel en uniek zonder vergelijkbaar voorbeeld"
+    ],
+    "correct": 0,
+    "explanation": "'Typisch' = kenmerkend voor een categorie, of ironisch voorspelbaar. Synoniem: 'karakteristiek', 'exemplarisch'. Figuurlijk: 'typisch!' = uitroep bij een ironisch voorspelbare situatie; 'typisch geval' = een klassiek voorbeeld.",
+    "hint": "Typisch heeft twee gebruiken: beschrijvend (kenmerkend voor) en uitroepend (ironisch 'van course!'). Welke twee voorbeeldzinnen illustreren elk gebruik?",
+    "collocations": [
+      "typisch Nederlands",
+      "een typisch geval",
+      "typisch!"
+    ]
+  },
+  {
+    "word": "vals",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "De munten bleken <mark>vals</mark> — ze waren niet echt.",
+      "Ze heeft een <mark>vals</mark> karakter — ze doet vriendelijk maar bedriegt.",
+      "De hond beet hem zonder waarschuwing — een <mark>vals</mark> beest."
+    ],
+    "options": [
+      "oud en versleten maar nog steeds functioneel",
+      "fout door vergissing maar zonder kwade opzet",
+      "echt en authentiek, niet nagemaakt of bedrieglijk",
+      "nep, bedrieglijk of van slechte wil"
+    ],
+    "correct": 3,
+    "explanation": "'Vals' = nep, bedrieglijk of agressief zonder aanleiding. Antonym: 'echt', 'eerlijk'. Synoniem: 'nep', 'bedrieglijk'. Figuurlijk: 'vals spelen' = bedriegen; 'vals zingen' = buiten toon zingen; 'vals alarm' = een loos alarm.",
+    "hint": "Vals heeft drie gebruiken: nep (valse munt), bedrieglijk (vals karakter) en agressief (valse hond). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "vals spelen",
+      "vals zingen",
+      "vals alarm"
+    ]
+  },
+  {
+    "word": "veilig",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De wijk is <mark>veilig</mark> — weinig criminaliteit en goed verlicht.",
+      "Ze voelde zich <mark>veilig</mark> in zijn aanwezigheid.",
+      "Dat is de <mark>veiligste</mark> optie — neem geen onnodige risico's."
+    ],
+    "options": [
+      "vrij van gevaar of risico, of bescherming biedend",
+      "gevaarlijk en vol risico's voor wie er gebruik van maakt",
+      "onzeker en afhankelijk van omstandigheden die men niet controleert",
+      "verboden en niet toegestaan voor het grote publiek"
+    ],
+    "correct": 0,
+    "explanation": "'Veilig' = vrij van gevaar. Antonym: 'gevaarlijk', 'onveilig'. Synoniem: 'veilig gesteld', 'beschermd'. Figuurlijk: 'op veilig spelen' = geen risico's nemen; 'veilig gevoel' = geborgenheid ervaren.",
+    "hint": "Veilig en gevaarlijk zijn tegengestelden. 'Op veilig spelen' is een vaste uitdrukking — wat betekent het?",
+    "collocations": [
+      "op veilig spelen",
+      "veilig stellen",
+      "een veilig gevoel"
+    ]
+  },
+  {
+    "word": "verantwoordelijk",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Ze is <mark>verantwoordelijk</mark> voor de financiën van het bedrijf.",
+      "Hij voelde zich <mark>verantwoordelijk</mark> voor het ongeluk.",
+      "Je bent <mark>verantwoordelijk</mark> voor je eigen keuzes in het leven."
+    ],
+    "options": [
+      "bevrijd van alle verplichtingen en geen verplichtingen hebben",
+      "schuldig aan een vergissing maar zonder opzet",
+      "bevoegd om beslissingen te nemen zonder overleg met anderen",
+      "aansprakelijk voor of de zorg dragend voor iemand of iets"
+    ],
+    "correct": 3,
+    "explanation": "'Verantwoordelijk' = aansprakelijk of de zorg dragend voor. Synoniem: 'aansprakelijk', 'rekenschap schuldig'. Figuurlijk: 'verantwoordelijkheid nemen' = aansprakelijkheid accepteren; 'verantwoordelijk stellen' = iemand aansprakelijk achten.",
+    "hint": "Verantwoordelijk zijn impliceert een verplichting en een mogelijke aansprakelijkheid. Hoe verschilt 'verantwoordelijk zijn voor' van 'schuldig zijn aan'?",
+    "collocations": [
+      "verantwoordelijk zijn voor",
+      "verantwoordelijkheid nemen",
+      "verantwoordelijk stellen"
+    ]
+  },
+  {
+    "word": "verplicht",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Het dragen van een veiligheidshesje is <mark>verplicht</mark> op de bouwplaats.",
+      "Ze voelde zich <mark>verplicht</mark> hem te helpen na alles wat hij voor haar had gedaan.",
+      "Aanwezigheid bij de vergadering is <mark>verplicht</mark> voor alle managers."
+    ],
+    "options": [
+      "vereist of bindend, niet aan keuze onderhevig",
+      "aanbevolen maar niet bindend als men dat niet wil",
+      "vrijwillig en op basis van eigen keuze zonder verplichting",
+      "gebruikelijk maar niet formeel vastgelegd"
+    ],
+    "correct": 0,
+    "explanation": "'Verplicht' = bindend, niet vrijwillig. Antonym: 'vrijwillig', 'optioneel'. Synoniem: 'verplichtend', 'bindend'. Figuurlijk: 'verplicht gevoel' = een morele verplichting voelen; 'verplichte kost' = iets wat iedereen moet kennen.",
+    "hint": "Verplicht en vrijwillig zijn tegengestelden. 'Verplichte kost' is een figuurlijke uitdrukking — wat betekent het in culturele context?",
+    "collocations": [
+      "verplicht zijn",
+      "verplichte kost",
+      "zich verplicht voelen"
+    ]
+  },
+  {
+    "word": "verloren",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze zocht haar <mark>verloren</mark> sleutels overal maar vond ze niet.",
+      "Hij voelde zich <mark>verloren</mark> in de grote stad — alles was onbekend.",
+      "Dat is <mark>verloren</mark> moeite — het heeft geen enkel nut."
+    ],
+    "options": [
+      "gevonden en veilig op de juiste plek teruggekeerd",
+      "tijdelijk afwezig maar zeker terug te vinden",
+      "kwijtgeraakt, niet meer aanwezig of zonder oriëntatie",
+      "verborgen op een plek die later zal worden ontdekt"
+    ],
+    "correct": 2,
+    "explanation": "'Verloren' = kwijtgeraakt of zonder oriëntatie. Antonym: 'gevonden'. Synoniem: 'kwijtgeraakt', 'zoekgeraakt'. Figuurlijk: 'verloren moeite' = zinloze inspanning; 'verloren zijn' = geen uitweg zien.",
+    "hint": "Verloren beschrijft een sleutel (kwijtgeraakt), een gevoel (desoriëntatie) en een inspanning (zinloos). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "verloren moeite",
+      "verloren gaan",
+      "verloren voelen"
+    ]
+  },
+  {
+    "word": "verschillend",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze hebben <mark>verschillende</mark> meningen over het onderwerp.",
+      "Er zijn <mark>verschillende</mark> manieren om dit probleem aan te pakken.",
+      "Ze zijn heel <mark>verschillend</mark> van karakter, hoewel ze tweelingzussen zijn."
+    ],
+    "options": [
+      "willekeurig gekozen zonder ordening of patroon",
+      "volledig gelijk aan elkaar in alle opzichten",
+      "gelijkend op elkaar maar met kleine nuanceverschillen",
+      "niet gelijk aan elkaar of meerdere in soort"
+    ],
+    "correct": 3,
+    "explanation": "'Verschillend' = niet gelijk, of meerdere. Antonym: 'gelijk', 'identiek'. Synoniem: 'uiteenlopend', 'divers'. Figuurlijk: 'verschillende meningen' = meerdere niet-identieke standpunten; 'van elkaar verschillen' = niet hetzelfde zijn.",
+    "hint": "Verschillend en gelijk zijn tegengestelden. 'Verschillende manieren' betekent meerdere én niet-identieke manieren — welke twee betekenissen heeft het?",
+    "collocations": [
+      "verschillende meningen",
+      "van elkaar verschillen",
+      "heel verschillend"
+    ]
+  },
+  {
+    "word": "vlug",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze werkt <mark>vlug</mark> — ze is altijd als eerste klaar.",
+      "Hij nam een <mark>vlugge</mark> beslissing zonder lang na te denken.",
+      "Doe het maar <mark>vlug</mark> — we hebben weinig tijd."
+    ],
+    "options": [
+      "efficiënt maar op een rustig en bedaard tempo",
+      "snel en zonder onnodige vertraging",
+      "zorgvuldig maar niet per se snel van uitvoering",
+      "langzaam en met aandacht voor elk detail"
+    ],
+    "correct": 1,
+    "explanation": "'Vlug' = snel, zonder vertraging. Antonym: 'langzaam'. Synoniem: 'snel', 'rap'. Figuurlijk: 'vlug van begrip' = snel van bevatting, intelligent; 'vlug handelen' = snel ingrijpen.",
+    "hint": "Vlug en snel zijn bijna synoniemen. Vlug heeft soms een licht speelsere of informelere toon. Wat is het verschil met 'snel'?",
+    "collocations": [
+      "vlug handelen",
+      "vlug van begrip",
+      "doe het vlug"
+    ]
+  },
+  {
+    "word": "vol",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De zaal was <mark>vol</mark> — geen lege stoel meer te zien.",
+      "Ze heeft een <mark>volle</mark> agenda deze week.",
+      "Hij gaf haar een <mark>volle</mark> mond van terugpraat."
+    ],
+    "options": [
+      "overladen en ongeordend door een teveel aan inhoud",
+      "half gevuld maar met genoeg ruimte voor meer",
+      "gevuld tot de rand, druk bezet of intens van karakter",
+      "leeg en zonder inhoud of bezoekers"
+    ],
+    "correct": 2,
+    "explanation": "'Vol' = gevuld tot de rand of druk bezet. Antonym: 'leeg'. Synoniem: 'gevuld', 'bezet'. Figuurlijk: 'volle agenda' = druk bezet schema; 'vol van iets zijn' = geheel in beslag genomen zijn door iets.",
+    "hint": "Vol en leeg zijn tegengestelden in vulling. 'Een volle mond van terugpraat' is figuurlijk — wat betekent het?",
+    "collocations": [
+      "vol zijn",
+      "een volle agenda",
+      "vol van iets zijn"
+    ]
+  },
+  {
+    "word": "volledig",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze gaf een <mark>volledig</mark> overzicht van alle kosten.",
+      "De informatie is niet <mark>volledig</mark> — er ontbreken details.",
+      "Hij is <mark>volledig</mark> hersteld van zijn operatie."
+    ],
+    "options": [
+      "uitgebreid maar met overbodige informatie erin",
+      "nauwkeurig en precies maar niet noodzakelijkerwijs compleet",
+      "gedeeltelijk en nog niet afgerond of compleet",
+      "compleet, zonder ontbrekende onderdelen of informatie"
+    ],
+    "correct": 3,
+    "explanation": "'Volledig' = compleet, zonder lacunes. Antonym: 'onvolledig'. Synoniem: 'compleet', 'geheel'. Figuurlijk: 'volledig hersteld' = helemaal beter; 'volledig akkoord' = volledig eens.",
+    "hint": "Volledig en vol zijn verwant maar niet hetzelfde. 'Volledig hersteld' betekent 100% beter — hoe verschilt 'volledig' van gewoon 'vol'?",
+    "collocations": [
+      "volledig hersteld",
+      "volledig akkoord",
+      "een volledig overzicht"
+    ]
+  },
+  {
+    "word": "vreemde",
+    "pos": "bijvoeglijk naamwoord (verbogen vorm)",
+    "level": 1,
+    "examples": [
+      "Er staat een <mark>vreemde</mark> auto voor de deur — van wie is die?",
+      "Ze had een <mark>vreemd</mark> gevoel dat er iemand haar volgde.",
+      "Hij zei iets <mark>vreemds</mark> dat niemand begreep."
+    ],
+    "options": [
+      "gevaarlijk en bedreigend voor de omgeving",
+      "interessant en afwijkend op een positieve manier",
+      "vertrouwd en volledig in overeenstemming met de verwachting",
+      "onbekend, ongewoon of moeilijk te verklaren"
+    ],
+    "correct": 3,
+    "explanation": "'Vreemd' = onbekend, ongewoon of onverklaarbaar. Antonym: 'vertrouwd', 'gewoon'. Synoniem: 'merkwaardig', 'onbekend'. Figuurlijk: 'hoe vreemd ook' = hoe ongewoon ook; 'een vreemde' = een onbekende persoon.",
+    "hint": "Vreemd beschrijft iets onbekends (auto), een gevoel (intuïtie) en een uitspraak (onbegrijpelijk). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "hoe vreemd ook",
+      "een vreemde situatie",
+      "dat is vreemd"
+    ]
+  },
+  {
+    "word": "vrij",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze is eindelijk <mark>vrij</mark> na vijf jaar gevangenis.",
+      "Ben je morgen <mark>vrij</mark>? Dan spreken we af.",
+      "Het is <mark>vrij</mark> koud voor de tijd van het jaar."
+    ],
+    "options": [
+      "volledig afwezig van verplichtingen voor onbepaalde tijd",
+      "niet gebonden of beperkt, beschikbaar, of tamelijk",
+      "onafhankelijk financieel en zonder zorgen",
+      "gebonden en niet in staat zelf te kiezen"
+    ],
+    "correct": 1,
+    "explanation": "'Vrij' = niet gebonden, beschikbaar, of tamelijk. Antonym: 'gebonden', 'druk'. Synoniem: 'ongebonden', 'beschikbaar'. Figuurlijk: 'vrij zijn' = niet gevangen of bezet; 'vrij koud' = tamelijk koud; 'vrije tijd' = tijd zonder verplichtingen.",
+    "hint": "Vrij heeft drie betekenissen: niet gevangen (vrije mens), beschikbaar (vrije middag) en intensifierend bijwoord (vrij koud). Welke drie zijn dat?",
+    "collocations": [
+      "vrije tijd",
+      "vrij koud",
+      "vrij zijn van"
+    ]
+  },
+  {
+    "word": "vuil",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "De was is <mark>vuil</mark> — stop hem maar in de machine.",
+      "Hij had <mark>vuile</mark> handen na het werken in de tuin.",
+      "Dat was een <mark>vuile</mark> truc — absoluut oneerlijk."
+    ],
+    "options": [
+      "schoon en vrij van vuil of onzuiverheden",
+      "nat en vochtig door regen of water",
+      "oud en versleten maar niet per se vies",
+      "bevuild, niet schoon of moreel verwerpelijk"
+    ],
+    "correct": 3,
+    "explanation": "'Vuil' = bevuild of moreel verwerpelijk. Antonym: 'schoon', 'netjes'. Synoniem: 'vies', 'smerig'. Figuurlijk: 'vuile truc' = een oneerlijke list; 'vuil spelen' = oneerlijk spelen.",
+    "hint": "Vuil en schoon zijn tegengestelden in reinheid. 'Een vuile truc' is figuurlijk — wat maakt het 'vuil'?",
+    "collocations": [
+      "vuile was",
+      "vuile truc",
+      "vuil spelen"
+    ]
+  },
+  {
+    "word": "wakker",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze lag <mark>wakker</mark> de hele nacht van de stress.",
+      "Hij werd <mark>wakker</mark> door het lawaai buiten.",
+      "Blijf <mark>wakker</mark> — de vergadering is nog niet voorbij."
+    ],
+    "options": [
+      "niet slapend en bewust van de omgeving",
+      "uitgerust na een goede nachtrust",
+      "slaperig en moeite hebbend om de ogen open te houden",
+      "diep in slaap en volledig bewusteloos"
+    ],
+    "correct": 0,
+    "explanation": "'Wakker' = niet slapend, bij bewustzijn. Antonym: 'slapend', 'in slaap'. Synoniem: 'bij bewustzijn', 'alert'. Figuurlijk: 'wakker worden' = beseffen dat er actie nodig is; 'iemand wakker schudden' = iemand confronteren met de werkelijkheid.",
+    "hint": "Wakker en slapend zijn tegengestelden. 'Iemand wakker schudden' is figuurlijk — wat betekent het?",
+    "collocations": [
+      "wakker worden",
+      "wakker liggen",
+      "iemand wakker schudden"
+    ]
+  },
+  {
+    "word": "warm",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het was een warme zomerdag — meer dan dertig graden.",
+      "Ze ontving haar gast met een <mark>warm</mark> welkom.",
+      "Hij heeft een <mark>warme</mark> persoonlijkheid — iedereen voelt zich bij hem op zijn gemak."
+    ],
+    "options": [
+      "heet en oncomfortabel door extreme temperatuur",
+      "hoog van temperatuur of hartelijk en vriendelijk",
+      "lauw en niet echt warm maar ook niet koud",
+      "koud en onaangenaam door lage temperatuur"
+    ],
+    "correct": 1,
+    "explanation": "'Warm' = hoog van temperatuur of hartelijk. Antonym: 'koud'. Synoniem: 'lauw', 'hartelijk'. Figuurlijk: 'een warm welkom' = een hartelijke ontvangst; 'warm lopen voor' = enthousiast raken over iets.",
+    "hint": "Warm beschrijft temperatuur (zomerdag) en karakter (persoonlijkheid). Wat is de gemeenschappelijke kern? Hoe verschilt 'warm' van 'heet'?",
+    "collocations": [
+      "warm welkom",
+      "warm lopen voor",
+      "warm en koud"
+    ]
+  },
+  {
+    "word": "weinig",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze heeft <mark>weinig</mark> tijd — ze werkt twaalf uur per dag.",
+      "Er waren <mark>weinig</mark> mensen bij de vergadering — minder dan verwacht.",
+      "Dat is <mark>weinig</mark> verrassend — iedereen had dit verwacht."
+    ],
+    "options": [
+      "helemaal niets hebben van het genoemde",
+      "een kleine hoeveelheid bezitten of nauwelijks aanwezig zijn",
+      "een grote hoeveelheid van iets bezitten of aanwezig hebben",
+      "precies voldoende hebben zonder tekort of overschot"
+    ],
+    "correct": 1,
+    "explanation": "'Weinig' = een kleine hoeveelheid. Antonym: 'veel'. Synoniem: 'nauwelijks', 'niet veel'. Figuurlijk: 'weinig verrassend' = nauwelijks verrassend; 'zo weinig mogelijk' = het minimum.",
+    "hint": "Weinig, veel en niets staan op een hoeveelheidsschaal. Weinig zit dicht bij niets maar is er iets. Hoe verschilt het van 'nauwelijks'?",
+    "collocations": [
+      "weinig tijd",
+      "zo weinig mogelijk",
+      "een weinig"
+    ]
+  },
+  {
+    "word": "wit",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze droeg een <mark>witte</mark> jurk op haar bruiloft.",
+      "Het sneeuwde de hele nacht — alles was <mark>wit</mark>.",
+      "Zijn haar werd <mark>wit</mark> toen hij begin veertig was."
+    ],
+    "options": [
+      "de kleur van de nacht en de afwezigheid van licht",
+      "de kleur van aarde en hout",
+      "de kleur van sneeuw, melk en een onbeschreven vel papier",
+      "de kleur van de hemel op een bewolkte dag"
+    ],
+    "correct": 2,
+    "explanation": "'Wit' = de kleur van sneeuw en melk. Antonym: 'zwart'. Synoniem: 'spierwit', 'albawit'. Figuurlijk: 'wit van woede' = zo kwaad dat men verbleekt; 'een wit voetje halen' = in de gunst komen.",
+    "hint": "Wit en zwart zijn kleurtegengestelden. 'Een wit voetje halen' is een vaste uitdrukking — wat betekent het?",
+    "collocations": [
+      "wit van woede",
+      "een wit voetje halen",
+      "zwart op wit"
+    ]
+  },
+  {
+    "word": "zacht",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Het bed was lekker <mark>zacht</mark> — ze viel meteen in slaap.",
+      "Ze sprak op een <mark>zachte</mark> toon om niemand te storen.",
+      "Hij heeft een <mark>zacht</mark> karakter — nooit conflicten."
+    ],
+    "options": [
+      "soepel en buigzaam maar niet per se zacht van aanraking",
+      "dun en fragiel zodat het snel breekt of scheurt",
+      "hard en rigide, moeilijk te buigen of in te drukken",
+      "aanvoelend als weinig weerstand biedend, zacht van stem of mild van karakter"
+    ],
+    "correct": 3,
+    "explanation": "'Zacht' = weinig weerstand biedend, zacht van geluid of mild. Antonym: 'hard'. Synoniem: 'teder', 'mild'. Figuurlijk: 'zachte aanpak' = milde, niet confronterende methode; 'zachte G' = de niet-scrapende uitspraak van de G.",
+    "hint": "Zacht en hard zijn tegengestelden in textuur, geluid én karakter. Welke drie dimensies beschrijven de voorbeeldzinnen?",
+    "collocations": [
+      "zachte aanpak",
+      "zacht van aard",
+      "op zachte toon"
+    ]
+  },
+  {
+    "word": "zeker",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "Ze was <mark>zeker</mark> van haar antwoord — geen twijfel.",
+      "<mark>Zeker</mark>! Ik doe graag mee.",
+      "Een <mark>zeker</mark> iemand belde gisteren voor je."
+    ],
+    "options": [
+      "bijna zeker maar nog niet volledig overtuigd",
+      "zonder twijfel, of als bevestiging, of onbepaald maar specifiek",
+      "wenselijk maar niet gegarandeerd",
+      "onzeker en twijfelend over de uitkomst of waarheid"
+    ],
+    "correct": 1,
+    "explanation": "'Zeker' = zonder twijfel, of bevestiging, of onbepaald specifiek. Antonym: 'onzeker'. Synoniem: 'absoluut', 'vast'. Figuurlijk: 'zeker weten' = met absolute zekerheid weten; 'een zeker iemand' = een onbekend persoon die toch specifiek is.",
+    "hint": "Zeker heeft drie gebruiken: zekerheid (zeker van het antwoord), bevestiging (zeker! = ja) en onbepaald (een zeker iemand). Welke drie zijn dat?",
+    "collocations": [
+      "zeker weten",
+      "voor zeker",
+      "een zekere mate"
+    ]
+  },
+  {
+    "word": "zenuwachtig",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was <mark>zenuwachtig</mark> voor haar eerste sollicitatiegesprek.",
+      "Hij is altijd <mark>zenuwachtig</mark> voor een presentatie — zijn handen trillen.",
+      "De kat gedroeg zich <mark>zenuwachtig</mark> door het onweer."
+    ],
+    "options": [
+      "volledig ontspannen en op zijn gemak in elke situatie",
+      "gespannen en onrustig door opwinding of onzekerheid",
+      "moe en uitgeput door langdurige inspanning",
+      "woedend door oneerlijke behandeling of frustratie"
+    ],
+    "correct": 1,
+    "explanation": "'Zenuwachtig' = gespannen en onrustig door onzekerheid. Antonym: 'ontspannen', 'kalm'. Synoniem: 'nerveus', 'gespannen'. Figuurlijk: 'zenuwachtig maken' = iemand nerveus maken; 'ze ging er zenuwachtig van worden' = het maakte haar steeds gespannener.",
+    "hint": "Zenuwachtig, gespannen en rustig zijn gemoedstoestanden. Zenuwachtig is negatiever dan gespannen — wat is het onderscheid?",
+    "collocations": [
+      "zenuwachtig zijn voor",
+      "zenuwachtig maken",
+      "zenuwachtige reactie"
+    ]
+  },
+  {
+    "word": "zuiver",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 2,
+    "examples": [
+      "Het water is <mark>zuiver</mark> — direct uit de berg gefilterd.",
+      "Dat is <mark>zuiver</mark> toeval — er is geen verband.",
+      "Ze zingt <mark>zuiver</mark> — elke noot op de juiste toonhoogte."
+    ],
+    "options": [
+      "zorgvuldig uitgevoerd maar met kleine afwijkingen",
+      "helder maar niet per se vrij van onzuiverheden",
+      "onvervuild, ongemengd, of uitsluitend en precies",
+      "bevuild of gemengd met andere stoffen"
+    ],
+    "correct": 2,
+    "explanation": "'Zuiver' = onvervuild, of uitsluitend. Antonym: 'onzuiver', 'besmet'. Synoniem: 'puur', 'rein'. Figuurlijk: 'zuiver toeval' = absoluut toeval; 'zuiver zingen' = precies op toon; 'zuiver geweten' = zonder schuldgevoel.",
+    "hint": "Zuiver beschrijft water (onvervuild), toeval (uitsluitend) en zingen (precies op toon). Wat is de gemeenschappelijke kern in al die gevallen?",
+    "collocations": [
+      "zuiver toeval",
+      "zuiver zingen",
+      "een zuiver geweten"
+    ]
+  },
+  {
+    "word": "zwaar",
+    "pos": "bijvoeglijk naamwoord / bijwoord",
+    "level": 1,
+    "examples": [
+      "De koffer was zo <mark>zwaar</mark> dat ze hem niet kon optillen.",
+      "Ze had een <mark>zware</mark> dag — alles ging mis.",
+      "Het is een <mark>zware</mark> operatie — de hersteltijd is weken."
+    ],
+    "options": [
+      "groot van omvang maar niet per se van groot gewicht",
+      "gevaarlijk maar zonder bijzonder gewicht",
+      "licht en gemakkelijk te tillen of te dragen",
+      "veel gewicht hebbend, moeilijk of intensief"
+    ],
+    "correct": 3,
+    "explanation": "'Zwaar' = veel gewicht hebbend of moeilijk en intensief. Antonym: 'licht'. Synoniem: 'zwaarwichtig', 'intensief'. Figuurlijk: 'een zware dag' = een moeilijke dag; 'zwaar tillen aan' = iets als zeer ernstig beschouwen.",
+    "hint": "Zwaar beschrijft fysiek gewicht (koffer), emotionele intensiteit (dag) en medische ernst (operatie). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "zwaar tillen aan",
+      "een zware dag",
+      "zwaar werk"
+    ]
+  },
+  {
+    "word": "zwak",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze was nog <mark>zwak</mark> na haar ziekte — nauwelijks kracht.",
+      "Dat was een <mark>zwak</mark> argument — niemand was overtuigd.",
+      "Hij heeft een <mark>zwak</mark> voor chocolade — hij kan er niet van afblijven."
+    ],
+    "options": [
+      "sterk en vol energie, moeilijk te overwinnen",
+      "langzaam maar consistent en vasthoudend",
+      "weinig kracht of overtuigingskracht hebbend, of een voorkeur",
+      "klein van omvang en daardoor kwetsbaar"
+    ],
+    "correct": 2,
+    "explanation": "'Zwak' = weinig kracht hebbend, of een zwak punt of voorkeur. Antonym: 'sterk'. Synoniem: 'krachteloos', 'breekbaar'. Figuurlijk: 'een zwak voor iets hebben' = een speciale voorkeur voor iets; 'zwak punt' = een kwetsbaarheid.",
+    "hint": "Zwak en sterk zijn tegengestelden. 'Een zwak voor chocolade' is positief figuurlijk — wat betekent het?",
+    "collocations": [
+      "een zwak voor",
+      "zwak punt",
+      "zwak staan"
+    ]
+  },
+  {
+    "word": "zwart",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 1,
+    "examples": [
+      "Ze droeg een <mark>zwart</mark> pak naar de begrafenis.",
+      "Hij ziet alles <mark>zwart</mark> in — een echte pessimist.",
+      "Ze werkt <mark>zwart</mark> bij — geen belasting betaald."
+    ],
+    "options": [
+      "de kleur van de lucht op een heldere zomerdag",
+      "de kleur van vers gras en jonge bladeren",
+      "de kleur van de nacht, roet en kool, of informeel en onbetaald",
+      "de kleur van sneeuw en een vel wit papier"
+    ],
+    "correct": 2,
+    "explanation": "'Zwart' = de kleur van de nacht, of illegaal/onbelast. Antonym: 'wit'. Synoniem: 'pikzwart', 'ravenzwart'. Figuurlijk: 'zwart werken' = illegaal werken zonder belasting; 'zwart inzien' = pessimistisch zijn.",
+    "hint": "Zwart heeft een kleurmeaning (pak) en twee figuurlijke betekenissen: pessimisme (zwart inzien) en illegaal werken (zwart werken). Welke drie zijn dat?",
+    "collocations": [
+      "zwart werken",
+      "zwart inzien",
+      "zwart op wit"
+    ]
   }
 ]
