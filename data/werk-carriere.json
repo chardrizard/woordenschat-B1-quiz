@@ -1,0 +1,1058 @@
+[
+  {
+    "word": "administratie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De <mark>administratie</mark> van het bedrijf verwerkt honderden facturen per dag.",
+      "Ze werkt op de afdeling <mark>administratie</mark> en houdt alle dossiers bij.",
+      "De <mark>administratie</mark> van de belastingaangifte kostte hem een hele middag."
+    ],
+    "options": [
+      "het beheren en bijhouden van documenten, financiën en gegevens",
+      "het leiden van een team en beslissingen nemen voor de organisatie",
+      "het verkopen van producten aan klanten via directe gesprekken",
+      "het creatieve proces van nieuwe producten of diensten bedenken"
+    ],
+    "correct": 0,
+    "explanation": "'Administratie' = het bijhouden en beheren van documenten, financiën en gegevens. Synoniem: 'beheer', 'secretariaat'. Figuurlijk: 'de administratie bijhouden' = alles ordelijk documenteren; 'administratieve rompslomp' = bureaucratisch papierwerk.",
+    "hint": "Dit woord beschrijft een functie die voor orde zorgt in een organisatie — niet door te leiden of te verkopen, maar door bij te houden. Wat houdt het bij?",
+    "collocations": [
+      "de administratie bijhouden",
+      "administratieve taken",
+      "afdeling administratie"
+    ]
+  },
+  {
+    "word": "afdeling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze werkt op de <mark>afdeling</mark> marketing van een groot cosmeticabedrijf.",
+      "De <mark>afdeling</mark> klantenservice ontving deze week driehonderd klachten.",
+      "Na zijn promotie werd hij hoofd van de <mark>afdeling</mark> financiën."
+    ],
+    "options": [
+      "een tijdelijk team dat samengesteld wordt voor één specifiek project",
+      "een vestiging van een bedrijf op een andere geografische locatie",
+      "een apart bedrijf dat samenwerkt met een groter moederbedrijf",
+      "een onderdeel van een organisatie met een eigen taak en team"
+    ],
+    "correct": 3,
+    "explanation": "'Afdeling' = een gespecialiseerd onderdeel van een organisatie. Meervoud: 'afdelingen'. Synoniem: 'departement', 'divisie'. Figuurlijk: 'afdelingsoverleg' = overleg binnen één team; 'afdelingshoofd' = de leidinggevende van een afdeling.",
+    "hint": "Een organisatie bestaat uit meerdere van deze, elk met hun eigen focus. Wat onderscheidt een afdeling van een apart bedrijf?",
+    "collocations": [
+      "hoofd van de afdeling",
+      "tussen afdelingen",
+      "afdelingsoverleg"
+    ]
+  },
+  {
+    "word": "baan",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze heeft een nieuwe <mark>baan</mark> gevonden na drie maanden zoeken.",
+      "Zijn <mark>baan</mark> als accountant geeft hem weinig voldoening meer.",
+      "De fabriek sloot en honderden medewerkers verloren hun <mark>baan</mark>."
+    ],
+    "options": [
+      "een freelance project dat je naast je hoofdactiviteit uitvoert",
+      "een betaalde positie bij een werkgever waarbij je regelmatig werkt",
+      "een tijdelijke opdracht die je uitvoert voor één specifieke klant",
+      "een stage waarbij je werkervaring opdoet zonder vast contract"
+    ],
+    "correct": 1,
+    "explanation": "'Baan' = een betaalde, reguliere werksituatie bij een werkgever. Meervoud: 'banen'. Synoniem: 'functie', 'betrekking', 'beroep'. Figuurlijk: 'zijn baan kwijtraken' = ontslagen worden; 'op de baan zijn' = actief op zoek naar werk.",
+    "hint": "Baan, functie en beroep beschrijven alledrie werk. 'Baan' is informeler en nadruk op de positie. Wat is het verschil met een tijdelijke opdracht?",
+    "collocations": [
+      "een baan vinden",
+      "zijn baan kwijtraken",
+      "een vaste baan"
+    ]
+  },
+  {
+    "word": "baas",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Mijn <mark>baas</mark> heeft gezegd dat ik volgende maand promotie krijg.",
+      "Ze is haar eigen <mark>baas</mark> als zelfstandig ondernemer — niemand geeft haar opdrachten.",
+      "Hij deed alsof hij de <mark>baas</mark> was, maar had eigenlijk geen formele autoriteit."
+    ],
+    "options": [
+      "de eigenaar van een bedrijf die zelf niet op de werkvloer werkt",
+      "iemand die extern advies geeft aan een organisatie of team",
+      "de persoon die leiding geeft aan anderen in een werksituatie",
+      "een collega met dezelfde functie en hetzelfde niveau als jijzelf"
+    ],
+    "correct": 2,
+    "explanation": "'Baas' = de informele term voor de leidinggevende. Meervoud: 'bazen'. Synoniem: 'chef', 'manager', 'directeur' (formeler). Figuurlijk: 'eigen baas zijn' = zelfstandig werken; 'de baas spelen' = doen alsof je de leiding hebt.",
+    "hint": "Baas, chef en manager betekenen iets vergelijkbaars. 'Baas' is informeler — wat heeft hij of zij wat een collega niet heeft?",
+    "collocations": [
+      "de baas zijn",
+      "eigen baas",
+      "de baas spelen"
+    ]
+  },
+  {
+    "word": "behoefte",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Het bedrijf heeft <mark>behoefte</mark> aan meer gekwalificeerd technisch personeel.",
+      "De <mark>behoeften</mark> van de klant staan altijd centraal in ons ontwerpproces.",
+      "Ze voelde een sterke <mark>behoefte</mark> om haar carrière een andere wending te geven."
+    ],
+    "options": [
+      "een gevoel van tekort of wens die om vervulling vraagt",
+      "een prestatienorm waaraan je moet voldoen om je functie te behouden",
+      "een concrete taak die je van je werkgever moet uitvoeren",
+      "een verzoek dat je formeel indient bij een leidinggevende"
+    ],
+    "correct": 0,
+    "explanation": "'Behoefte' = een gevoeld tekort of verlangen dat om vervulling vraagt. Meervoud: 'behoeften'. Synoniem: 'nood', 'wens', 'vraag'. Figuurlijk: 'behoefte hebben aan' = iets nodig hebben; 'in een behoefte voorzien' = iets leveren wat mensen nodig hebben.",
+    "hint": "Behoefte en wens zijn nauw verwant maar niet identiek. Een behoefte voelt urgenter. Wat is het verschil?",
+    "collocations": [
+      "behoefte hebben aan",
+      "in een behoefte voorzien",
+      "behoeften van de klant"
+    ]
+  },
+  {
+    "word": "beroep",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Zijn <mark>beroep</mark> als chirurg vereist jarenlange specialistische opleiding.",
+      "Wat is uw <mark>beroep</mark>? staat als vraag op het aanmeldingsformulier.",
+      "Ze deed een <mark>beroep</mark> op haar collega's om extra te helpen tijdens de drukke periode."
+    ],
+    "options": [
+      "de benaming voor het soort werk dat iemand beroepsmatig uitoefent",
+      "een functie binnen een organisatie met bijbehorende verantwoordelijkheden",
+      "een tijdelijke betrekking bij een werkgever voor een specifiek project",
+      "een opleiding die je volgt om je te kwalificeren voor een bepaald vakgebied"
+    ],
+    "correct": 0,
+    "explanation": "'Beroep' = de aanduiding van het soort werk dat iemand uitoefent als professie. Meervoud: 'beroepen'. Synoniem: 'vak', 'professie', 'baan'. Figuurlijk: 'een beroep doen op iemand' = een beroep doen op iemands hulp of verantwoordelijkheid.",
+    "hint": "Beroep en baan zijn beiden gerelateerd aan werk. Beroep is breder en beschrijft een categorie — arts, leraar — terwijl baan een specifieke positie beschrijft. Wat is het verschil?",
+    "collocations": [
+      "van beroep zijn",
+      "een beroep uitoefenen",
+      "een beroep doen op"
+    ]
+  },
+  {
+    "word": "bestuur",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het <mark>bestuur</mark> van de vereniging vergadert één keer per maand.",
+      "Ze werd gekozen tot voorzitter van het <mark>bestuur</mark> van de stichting.",
+      "Het <mark>bestuur</mark> van de gemeente nam het besluit om de subsidie te verhogen."
+    ],
+    "options": [
+      "een adviescommissie die aanbevelingen doet maar geen formele bevoegdheid heeft",
+      "een groep mensen die gezamenlijk verantwoordelijk zijn voor het beleid van een organisatie",
+      "de afdeling die de administratie en financiën van een organisatie beheert",
+      "één persoon die eindverantwoordelijk is voor alle beslissingen in een organisatie"
+    ],
+    "correct": 1,
+    "explanation": "'Bestuur' = een groep die gezamenlijk de eindverantwoordelijkheid draagt voor een organisatie. Werkwoord: 'besturen'. Synoniem: 'raad van bestuur', 'directie'. Figuurlijk: 'het bestuur overnemen' = de controle over een organisatie overnemen.",
+    "hint": "Bestuur en directeur zijn allebei leidinggevend. Bestuur is een groep; directeur is een individu. Wat doet het bestuur als collectief?",
+    "collocations": [
+      "raad van bestuur",
+      "het bestuur vergadert",
+      "in het bestuur zitten"
+    ]
+  },
+  {
+    "word": "chef",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Mijn <mark>chef</mark> verwacht dat ik het rapport voor vrijdag af heb.",
+      "Ze sprak de <mark>chef</mark> aan over de werkomstandigheden in haar team.",
+      "De <mark>chef</mark>-kok won een Michelinster voor zijn restaurant in de binnenstad."
+    ],
+    "options": [
+      "een medewerker die informeel gezag heeft maar geen formele titel",
+      "een collega op hetzelfde hiërarchische niveau als jijzelf",
+      "de directe leidinggevende die dagelijks aansturing geeft",
+      "een externe consultant die tijdelijk advies geeft aan een team"
+    ],
+    "correct": 2,
+    "explanation": "'Chef' = de directe leidinggevende, formeler dan 'baas'. Meervoud: 'chefs'. Van het Frans 'chef' (hoofd). Synoniem: 'baas', 'manager', 'leidinggevende'. Let op: 'chef-kok' = kok die leiding geeft in een keuken.",
+    "hint": "Chef en baas betekenen bijna hetzelfde maar chef is iets formeler. In welke situaties gebruik je eerder 'chef' dan 'baas'?",
+    "collocations": [
+      "mijn directe chef",
+      "chef-kok",
+      "rapporteren aan de chef"
+    ]
+  },
+  {
+    "word": "collega",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze luncht elke dag met haar <mark>collega's</mark> in de kantine.",
+      "Een van mijn <mark>collega's</mark> heeft mij enorm geholpen bij de overstap.",
+      "Behandel je <mark>collega's</mark> altijd met respect, ook als er spanningen zijn."
+    ],
+    "options": [
+      "iemand die in dezelfde organisatie of hetzelfde beroepsveld werkt",
+      "iemand die dezelfde opleiding heeft gevolgd als jijzelf",
+      "iemand die bij hetzelfde bedrijf werkt maar in een hogere functie",
+      "iemand die je inhuurt voor een tijdelijke opdracht of klus"
+    ],
+    "correct": 0,
+    "explanation": "'Collega' = iemand met wie je samenwerkt in dezelfde organisatie of hetzelfde vakgebied. Meervoud: 'collega's'. Synoniem: 'medewerker', 'vakgenoot'. Figuurlijk: 'een goede collega zijn' = betrouwbaar en behulpzaam zijn op de werkvloer.",
+    "hint": "Collega en medewerker zijn verwant maar collega benadrukt de horizontale relatie — niet boven je. Wat verbindt jullie?",
+    "collocations": [
+      "collega's begroeten",
+      "nauw samenwerken met collega's",
+      "oud-collega"
+    ]
+  },
+  {
+    "word": "contract",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze tekende haar <mark>contract</mark> en begon maandag met haar nieuwe baan.",
+      "Zijn <mark>contract</mark> loopt af eind december en wordt niet verlengd.",
+      "De leverancier brak het <mark>contract</mark> en moest een boete betalen."
+    ],
+    "options": [
+      "een certificaat dat bewijst dat je een opleiding hebt afgerond",
+      "een mondelinge afspraak tussen twee partijen zonder juridische waarde",
+      "een schriftelijke, juridisch bindende overeenkomst tussen twee of meer partijen",
+      "een intern bedrijfsdocument met de functiebeschrijving van een medewerker"
+    ],
+    "correct": 2,
+    "explanation": "'Contract' = een juridisch bindende schriftelijke overeenkomst. Meervoud: 'contracten'. Synoniem: 'overeenkomst', 'akkoord'. Figuurlijk: 'een contract breken' = een overeenkomst niet nakomen; 'vast contract' = een contract zonder einddatum.",
+    "hint": "Een afspraak en een contract zijn allebei overeenkomsten. Wat maakt een contract formeler en juridisch afdwingbaar?",
+    "collocations": [
+      "een contract tekenen",
+      "een vast contract",
+      "een contract verlengen"
+    ]
+  },
+  {
+    "word": "dienst",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze werkt in de avond<mark>dienst</mark> en begint pas om vijf uur.",
+      "Het bedrijf biedt uitstekende after-sales <mark>diensten</mark> aan haar klanten.",
+      "Hij heeft twintig jaar <mark>dienst</mark> bij dezelfde werkgever en kent het bedrijf door en door."
+    ],
+    "options": [
+      "een product dat je aan klanten verkoopt in een fysieke winkel",
+      "een subsidie die de overheid verstrekt aan bedrijven in nood",
+      "een werkverschuiving of dienstbetrekking, of een geleverde prestatie",
+      "een bonusregeling die wordt uitgekeerd boven op het basissalaris"
+    ],
+    "correct": 2,
+    "explanation": "'Dienst' = een werkverschuiving (dag/nacht), een dienstbetrekking (jaren dienst), of een geleverde prestatie aan klanten. Meervoud: 'diensten'. Synoniem: 'beurt', 'shift', 'service'. Figuurlijk: 'in dienst zijn' = werkzaam zijn bij een werkgever.",
+    "hint": "Dit woord heeft drie gerelateerde betekenissen in een werkomgeving. Welke drie zijn dat?",
+    "collocations": [
+      "in dienst zijn",
+      "een dienst verlenen",
+      "nachtdienst draaien"
+    ]
+  },
+  {
+    "word": "directeur",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>directeur</mark> hield een toespraak voor alle medewerkers op de jaarvergadering.",
+      "Ze werd benoemd tot <mark>directeur</mark> na vijftien jaar bij het bedrijf.",
+      "De <mark>directeur</mark> neemt de eindverantwoordelijkheid voor alle strategische beslissingen."
+    ],
+    "options": [
+      "de hoogste leidinggevende van een organisatie of grote afdeling",
+      "een adviseur die tijdelijk wordt ingehuurd voor een specifiek vraagstuk",
+      "een medewerker die operationele taken uitvoert op de werkvloer",
+      "een bestuurslid dat toezicht houdt maar geen operationele bevoegdheid heeft"
+    ],
+    "correct": 0,
+    "explanation": "'Directeur' = de hoogste leidinggevende van een organisatie. Meervoud: 'directeuren'. Vrouwelijk: 'directrice'. Synoniem: 'CEO', 'algemeen directeur'. Figuurlijk: 'directeur-generaal' = hoogste functionaris bij een overheidsorganisatie.",
+    "hint": "Manager, chef en directeur zijn alle drie leidinggevenden. Directeur staat het hoogst. Wat is zijn of haar meest kenmerkende verantwoordelijkheid?",
+    "collocations": [
+      "algemeen directeur",
+      "directeur worden",
+      "de directeur aanspreken"
+    ]
+  },
+  {
+    "word": "doel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het <mark>doel</mark> van het project is om de klanttevredenheid met tien procent te verhogen.",
+      "Ze stelde zichzelf een ambitieus <mark>doel</mark>: binnen vijf jaar directeur worden.",
+      "De bal vloog recht in het <mark>doel</mark> bij de eerste vrije trap."
+    ],
+    "options": [
+      "de beoordeling van de resultaten na afronding van een project",
+      "de tijdlijn waarop je een activiteit plant uit te voeren",
+      "het resultaat of eindpunt dat je nastreeft of wilt bereiken",
+      "de middelen of methoden die je gebruikt om iets te bereiken"
+    ],
+    "correct": 2,
+    "explanation": "'Doel' = het gewenste eindresultaat of streefpunt. Meervoud: 'doelen'. Synoniem: 'doelstelling', 'target', 'ambitie'. Figuurlijk: 'het doel bereiken' = succesvol zijn; 'doel in het voetbal' = de poort waar je de bal in schiet.",
+    "hint": "Dit woord beschrijft waar je naartoe werkt, niet hoe je er komt. Wat is het verschil tussen een doel en een plan?",
+    "collocations": [
+      "een doel stellen",
+      "het doel bereiken",
+      "doelgericht werken"
+    ]
+  },
+  {
+    "word": "fabriek",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De auto<mark>fabriek</mark> produceert elke dag meer dan vijfhonderd voertuigen.",
+      "Ze werkt in de <mark>fabriek</mark> aan de lopende band voor het assembleren van onderdelen.",
+      "De <mark>fabriek</mark> sloot haar deuren en honderden medewerkers raakten werkloos."
+    ],
+    "options": [
+      "een opslagplaats waar goederen worden bewaard voor distributie",
+      "een gebouw waar producten op grote schaal worden gemaakt of verwerkt",
+      "een winkel waar producten worden verkocht direct aan consumenten",
+      "een kantoorgebouw waar medewerkers achter bureau's werken"
+    ],
+    "correct": 1,
+    "explanation": "'Fabriek' = een industrieel gebouw waar producten worden geproduceerd. Meervoud: 'fabrieken'. Synoniem: 'productiebedrijf', 'plant'. Figuurlijk: 'een ideeënfabriek' = een plek die voortdurend nieuwe ideeën genereert.",
+    "hint": "Kantoor, fabriek en magazijn zijn drie soorten bedrijfsgebouwen. Wat is het meest kenmerkende dat er in een fabriek gebeurt?",
+    "collocations": [
+      "in de fabriek werken",
+      "de fabriek sluit",
+      "lopende band"
+    ]
+  },
+  {
+    "word": "financieel",
+    "pos": "bijvoeglijk naamwoord",
+    "level": 2,
+    "examples": [
+      "Het bedrijf verkeert in een moeilijke <mark>financiële</mark> situatie na de crisis.",
+      "Ze heeft een <mark>financiële</mark> achtergrond en werkt nu als controller.",
+      "De <mark>financiële</mark> resultaten van dit kwartaal zijn beter dan verwacht."
+    ],
+    "options": [
+      "betrekking hebbend op de interne communicatie binnen een organisatie",
+      "betrekking hebbend op de productie en logistiek van goederen",
+      "betrekking hebbend op geld, geldzaken en economische transacties",
+      "betrekking hebbend op de personeelszaken en het HR-beleid"
+    ],
+    "correct": 2,
+    "explanation": "'Financieel' = betrekking hebbend op geld en geldzaken. Zelfstandig naamwoord: 'financiën'. Synoniem: 'monetair', 'economisch'. Figuurlijk: 'financieel gezond zijn' = in een goede geldelijke situatie verkeren.",
+    "hint": "Dit bijvoeglijk naamwoord is de adjectiefvorm van 'financiën'. Welk domein beschrijft het?",
+    "collocations": [
+      "financiële situatie",
+      "financieel gezond",
+      "financieel advies"
+    ]
+  },
+  {
+    "word": "functie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Zijn <mark>functie</mark> als projectmanager brengt veel reiswerk met zich mee.",
+      "Ze solliciteerde op een <mark>functie</mark> als UX-designer bij een groot techbedrijf.",
+      "De knop heeft de <mark>functie</mark> om het scherm te vergrendelen."
+    ],
+    "options": [
+      "de beloning in geld die iemand ontvangt voor zijn werkzaamheden",
+      "de set van vaardigheden die iemand heeft opgedaan via ervaring",
+      "de naam van het bedrijf of de afdeling waar iemand werkzaam is",
+      "de officiële benaming van de rol of positie die iemand bekleedt"
+    ],
+    "correct": 3,
+    "explanation": "'Functie' = de officiële naam en rol van een positie. Meervoud: 'functies'. Synoniem: 'baan', 'betrekking', 'positie'. Figuurlijk: 'de functie van iets' = de rol of het doel dat iets vervult.",
+    "hint": "Baan en functie beschrijven allebei werk. Functie is formeler en verwijst naar de officiële titel. Wat is het verschil met 'salaris'?",
+    "collocations": [
+      "een functie bekleden",
+      "in functie zijn",
+      "de functie van"
+    ]
+  },
+  {
+    "word": "handel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Nederland heeft een lange geschiedenis als <mark>handels</mark>land met een groot havenbedrijf.",
+      "De <mark>handel</mark> tussen de twee landen groeide sterk na het vrijhandelsakkoord.",
+      "Hij drijft <mark>handel</mark> in tweedehands auto's vanuit zijn eigen kleine garage."
+    ],
+    "options": [
+      "het transporteren van goederen van producenten naar consumenten",
+      "het beheren van geld en investeringen voor bedrijven of particulieren",
+      "het kopen en verkopen van goederen of diensten als economische activiteit",
+      "het produceren van goederen in een industriële omgeving"
+    ],
+    "correct": 2,
+    "explanation": "'Handel' = de economische activiteit van kopen en verkopen. Werkwoord: 'handelen'. Synoniem: 'handel drijven', 'commerce'. Figuurlijk: 'handel drijven' = zaken doen; 'handelsgeest' = commercieel inzicht.",
+    "hint": "Productie, handel en logistiek zijn drie verwante economische activiteiten. Wat is specifiek de kern van handel — wat wisselt er van eigenaar?",
+    "collocations": [
+      "handel drijven",
+      "internationale handel",
+      "vrijhandel"
+    ]
+  },
+  {
+    "word": "inkomen",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Haar <mark>inkomen</mark> steeg aanzienlijk na haar promotie tot teamleider.",
+      "Hij heeft een aanvullend <mark>inkomen</mark> uit zijn freelancewerk naast zijn vaste baan.",
+      "Het gemiddelde <mark>inkomen</mark> in Nederland is hoger dan in de meeste andere EU-landen."
+    ],
+    "options": [
+      "de vergoeding die je ontvangt voor gemaakte kosten in het kader van werk",
+      "de vaste maandelijkse betaling die een werkgever aan een medewerker doet",
+      "het totaal aan geld dat iemand ontvangt uit werk, investeringen of uitkeringen",
+      "een eenmalige bonus die wordt uitgekeerd bij het behalen van een target"
+    ],
+    "correct": 2,
+    "explanation": "'Inkomen' = het totaal aan geld dat iemand ontvangt, breder dan salaris alleen. Meervoud: 'inkomens'. Synoniem: 'verdiensten', 'inkomsten'. Figuurlijk: 'passief inkomen' = geld dat binnenkomt zonder actief te werken.",
+    "hint": "Salaris en inkomen zijn verwant maar niet identiek. Salaris is één bron; inkomen is breder. Wat kan er allemaal onder inkomen vallen?",
+    "collocations": [
+      "een vast inkomen",
+      "inkomstenbelasting",
+      "passief inkomen"
+    ]
+  },
+  {
+    "word": "kantoor",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze werkt drie dagen op <mark>kantoor</mark> en twee dagen thuis.",
+      "Het nieuwe <mark>kantoor</mark> van het bedrijf bevindt zich in het centrum van Amsterdam.",
+      "Hij verlaat altijd als eerste het <mark>kantoor</mark> stipt om vijf uur."
+    ],
+    "options": [
+      "een gebouw waar goederen worden opgeslagen voor latere distributie",
+      "een winkelruimte waar klanten producten kunnen bekijken en kopen",
+      "een ruimte of gebouw waar administratief en zakelijk werk wordt verricht",
+      "een fabriek waar producten worden gemaakt aan een lopende band"
+    ],
+    "correct": 2,
+    "explanation": "'Kantoor' = een ruimte waar administratief en zakelijk werk wordt verricht. Meervoud: 'kantoren'. Synoniem: 'werkomgeving'. Figuurlijk: 'thuiskantoor' = werkplek thuis; 'op kantoor zijn' = op je werklocatie zijn.",
+    "hint": "Fabriek, kantoor en winkel zijn drie werkplekken. Wat is het kenmerkende type werk dat in een kantoor wordt gedaan?",
+    "collocations": [
+      "op kantoor werken",
+      "naar kantoor gaan",
+      "thuiskantoor"
+    ]
+  },
+  {
+    "word": "leider",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze is een natuurlijke <mark>leider</mark> — mensen volgen haar zonder dat ze het vraagt.",
+      "De <mark>leider</mark> van de partij hield een krachtige toespraak voor duizenden aanhangers.",
+      "Een goede <mark>leider</mark> luistert eerst naar zijn team voordat hij beslist."
+    ],
+    "options": [
+      "iemand die de administratie bijhoudt voor een team of organisatie",
+      "iemand die anderen inspireert en de richting aangeeft voor een groep",
+      "iemand die opdrachten uitvoert die door anderen zijn bedacht",
+      "iemand die gespecialiseerde kennis heeft maar geen mensen aanstuurt"
+    ],
+    "correct": 1,
+    "explanation": "'Leider' = iemand die anderen inspireert en richting geeft. Meervoud: 'leiders'. Vrouwelijk: 'leidster'. Synoniem: 'aanvoerder', 'voorman'. Figuurlijk: 'leiderschap tonen' = initiatief nemen en verantwoordelijkheid dragen.",
+    "hint": "Leider en manager hebben allebei te maken met leiding geven. Leider benadrukt inspiratie; manager meer structuur. Wat is het karakterverschil?",
+    "collocations": [
+      "een sterke leider",
+      "leiderschap tonen",
+      "de leider van een groep"
+    ]
+  },
+  {
+    "word": "leiding",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze gaf <mark>leiding</mark> aan een team van twintig mensen in drie landen.",
+      "De <mark>leiding</mark> van het bedrijf heeft besloten om te fuseren met een concurrent.",
+      "Onder zijn <mark>leiding</mark> groeide de afdeling van drie naar vijftien medewerkers."
+    ],
+    "options": [
+      "de formele opleiding die iemand heeft gevolgd voor zijn functie",
+      "het geheel van mensen aan het hoofd, of de activiteit van leidinggeven",
+      "de financiële resultaten die een bedrijf behaalt in een kwartaal",
+      "de set van regels en procedures die een organisatie hanteert"
+    ],
+    "correct": 1,
+    "explanation": "'Leiding' = het leidinggeven als activiteit, of de leidinggevenden als groep. Werkwoord: 'leidinggeven'. Synoniem: 'management', 'directie'. Figuurlijk: 'onder leiding van' = aangestuurd door; 'leiding nemen' = het voortouw nemen.",
+    "hint": "Leiding kan zowel een activiteit ('leiding geven') als een groep mensen ('de leiding van het bedrijf') beschrijven. Welke dubbele betekenis heeft het?",
+    "collocations": [
+      "leiding geven aan",
+      "de leiding nemen",
+      "onder leiding van"
+    ]
+  },
+  {
+    "word": "manager",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>manager</mark> plantte wekelijks een-op-een gesprekken met elk teamlid.",
+      "Ze werd <mark>manager</mark> na drie jaar als senior medewerker bij het bedrijf.",
+      "Een goede <mark>manager</mark> delegeert taken en vertrouwt zijn team."
+    ],
+    "options": [
+      "een externe adviseur die aanbevelingen doet over bedrijfsprocessen",
+      "een leidinggevende die een team of afdeling operationeel aanstuurt",
+      "een medewerker die uitvoerende taken verricht zonder personeel aan te sturen",
+      "een bestuurslid dat toezicht houdt op de directie van een organisatie"
+    ],
+    "correct": 1,
+    "explanation": "'Manager' = een leidinggevende die operationeel een team aanstuurt. Meervoud: 'managers'. Van het Engelse 'manage'. Synoniem: 'leidinggevende', 'teamleider'. Figuurlijk: 'micromanager' = iemand die elk detail controleert.",
+    "hint": "Manager, leider en directeur zijn alle drie leidinggevenden. Manager is het meest operationeel — dagelijks aansturen van een team. Wat onderscheidt hem van een directeur?",
+    "collocations": [
+      "een team managen",
+      "middle management",
+      "een goede manager zijn"
+    ]
+  },
+  {
+    "word": "mr.",
+    "pos": "afkorting · de",
+    "level": 3,
+    "examples": [
+      "<mark>Mr.</mark> de Vries is de advocaat die de zaak behandelt namens de gedaagde partij.",
+      "Ze heeft de titel <mark>mr.</mark> behaald na het afronden van haar rechtenstudie.",
+      "Op het naambordje stond: <mark>mr.</mark> J. Bakker, notaris — derde verdieping."
+    ],
+    "options": [
+      "de afkorting voor 'mijnheer', gebruikt als beleefde aanspreektitel voor mannen",
+      "de afkorting voor 'meester' in de zin van een ambachtelijk vakman",
+      "de juridische titel voor iemand die de universitaire opleiding rechten heeft voltooid",
+      "een internationale eretitel die wordt toegekend aan vooraanstaande zakenmensen"
+    ],
+    "correct": 2,
+    "explanation": "'Mr.' = afkorting van 'meester in de rechten', de Nederlandse juridische universitaire graad. Uitgesproken als 'meester'. Let op: verschilt van het Engelse 'Mr.' (mijnheer). Vrouwelijk equivalent: 'mr.' (zelfde afkorting voor beide geslachten in het Nederlands).",
+    "hint": "In het Nederlands is 'mr.' een academische titel, niet een aanspreektitel zoals in het Engels. Voor welk vakgebied is het de kwalificatie?",
+    "collocations": [
+      "mr. in de rechten",
+      "de titel mr.",
+      "mr. voor je naam"
+    ]
+  },
+  {
+    "word": "onderneming",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Hij richtte zijn eigen <mark>onderneming</mark> op na tien jaar in loondienst te hebben gewerkt.",
+      "De <mark>onderneming</mark> heeft vestigingen in vijftien landen wereldwijd.",
+      "Het was een risicovolle <mark>onderneming</mark>, maar uiteindelijk een groot succes."
+    ],
+    "options": [
+      "een afdeling binnen een groter bedrijf met een eigen budget",
+      "een non-profitorganisatie die subsidie ontvangt van de overheid",
+      "een tijdelijk project dat na afronding wordt ontbonden",
+      "een bedrijf of commerciële activiteit die op eigen risico wordt uitgevoerd"
+    ],
+    "correct": 3,
+    "explanation": "'Onderneming' = een bedrijf of risicovolle activiteit. Meervoud: 'ondernemingen'. Van 'ondernemen'. Synoniem: 'bedrijf', 'zaak', 'initiatief'. Figuurlijk: 'een gewaagde onderneming' = een risicovolle actie of poging.",
+    "hint": "Bedrijf en onderneming zijn synoniemen, maar onderneming kan ook een risicovolle actie beschrijven zonder commercieel karakter. Wat verbindt de twee betekenissen?",
+    "collocations": [
+      "een onderneming starten",
+      "een eigen onderneming",
+      "een gewaagde onderneming"
+    ]
+  },
+  {
+    "word": "opdracht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>opdracht</mark> was duidelijk: het rapport af hebben voor vrijdagmiddag.",
+      "Het reclamebureau ontving een grote <mark>opdracht</mark> van een multinational.",
+      "Ze voerde de <mark>opdracht</mark> uit met veel precisie en ruim op tijd."
+    ],
+    "options": [
+      "een set van regels waaraan je je werk moet houden",
+      "een langdurig strategisch plan dat meerdere jaren omvat",
+      "een evaluatie van de resultaten die je hebt behaald",
+      "een concrete taak of klus die je van iemand krijgt om uit te voeren"
+    ],
+    "correct": 3,
+    "explanation": "'Opdracht' = een concrete taak die je van iemand toebedeeld krijgt. Meervoud: 'opdrachten'. Synoniem: 'taak', 'klus', 'missie'. Figuurlijk: 'in opdracht van' = namens of op verzoek van; 'een gevaarlijke opdracht' = een risicovolle taak.",
+    "hint": "Opdracht en taak zijn nauw verwant. Een opdracht komt altijd van buiten — van een baas of klant. Wat is het kenmerkende van de herkomst?",
+    "collocations": [
+      "een opdracht uitvoeren",
+      "in opdracht van",
+      "een opdracht krijgen"
+    ]
+  },
+  {
+    "word": "organisatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Hij werkt bij een internationale <mark>organisatie</mark> die zich bezighoudt met mensenrechten.",
+      "De <mark>organisatie</mark> van het evenement vergde weken van voorbereiding.",
+      "Een goede <mark>organisatie</mark> maakt het verschil tussen succes en chaos."
+    ],
+    "options": [
+      "een groep mensen die samenwerkt voor een gemeenschappelijk doel, of het ordenen van activiteiten",
+      "een informeel netwerk van mensen zonder vaste structuur of doel",
+      "een overheidsinstantie met formele bevoegdheden om beleid te maken",
+      "uitsluitend een commercieel bedrijf dat winst nastreeft voor aandeelhouders"
+    ],
+    "correct": 0,
+    "explanation": "'Organisatie' = een gestructureerde groep met een gemeenschappelijk doel, of de activiteit van ordenen. Meervoud: 'organisaties'. Synoniem: 'instelling', 'instantie'. Figuurlijk: 'goede organisatie' = efficiënte planning en coördinatie.",
+    "hint": "Dit woord beschrijft zowel een entiteit (een bedrijf, vereniging) als een activiteit (het organiseren van iets). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "een organisatie leiden",
+      "de organisatie van een evenement",
+      "non-profitorganisatie"
+    ]
+  },
+  {
+    "word": "overleg",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Na uitgebreid <mark>overleg</mark> besloot het team de deadline te verschuiven.",
+      "Er is <mark>overleg</mark> gepland voor donderdag over de nieuwe strategie.",
+      "Ze neemt geen beslissingen zonder eerst <mark>overleg</mark> te plegen met haar team."
+    ],
+    "options": [
+      "een formeel document met de afspraken en besluiten van een vergadering",
+      "een beoordelingsgesprek tussen een leidinggevende en een medewerker",
+      "een gezamenlijke bespreking waarbij meerdere mensen een beslissing voorbereiden",
+      "een eenzijdige presentatie waarbij één persoon informatie deelt met anderen"
+    ],
+    "correct": 2,
+    "explanation": "'Overleg' = een gezamenlijke bespreking gericht op afstemming of besluitvorming. Werkwoord: 'overleggen'. Synoniem: 'bespreking', 'afstemming'. Figuurlijk: 'in overleg' = na bespreking; 'overleg plegen' = afstemmen met anderen.",
+    "hint": "Vergadering en overleg zijn verwant. Overleg is informeler en gericht op afstemming. Wat is het verschil met een presentatie?",
+    "collocations": [
+      "overleg plegen",
+      "in overleg gaan",
+      "intern overleg"
+    ]
+  },
+  {
+    "word": "overnemen",
+    "pos": "werkwoord · scheidbaar",
+    "level": 2,
+    "examples": [
+      "Het grote concern <mark>nam</mark> het kleine techbedrijf <mark>over</mark> voor tien miljoen euro.",
+      "Kun jij mijn taken <mark>overnemen</mark> als ik volgende week ziek ben?",
+      "Ze <mark>nam</mark> de leiding <mark>over</mark> toen de directeur plotseling moest vertrekken."
+    ],
+    "options": [
+      "de controle, taken of eigendom van iets van iemand anders overnemen",
+      "iets tijdelijk uitlenen aan iemand met de bedoeling het terug te krijgen",
+      "iets geleidelijk verbeteren totdat het een betere versie van zichzelf is",
+      "iets dupliceren en op dezelfde manier toepassen in een nieuwe context"
+    ],
+    "correct": 0,
+    "explanation": "'Overnemen' = de controle of verantwoordelijkheid van iets van een ander overnemen. Scheidbaar: 'neemt over', 'nam over', 'overgenomen'. Synoniem: 'acquireren', 'opkopen'. Figuurlijk: 'een bedrijf overnemen' = een bedrijf kopen; 'taken overnemen' = iemands werk tijdelijk doen.",
+    "hint": "Dit woord impliceert een overdracht van iets van de één naar de ander. Wat gaat er over en in welke richting?",
+    "collocations": [
+      "een bedrijf overnemen",
+      "taken overnemen",
+      "de leiding overnemen"
+    ]
+  },
+  {
+    "word": "plan",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het team presenteerde een gedetailleerd <mark>plan</mark> voor de komende zes maanden.",
+      "Ze had een slim <mark>plan</mark> bedacht om de kosten met twintig procent te verlagen.",
+      "Het <mark>plan</mark> mislukte omdat de marktomstandigheden volledig veranderden."
+    ],
+    "options": [
+      "een gestructureerde beschrijving van wat je wilt doen en hoe",
+      "een samenvatting van wat er in het verleden is gedaan en bereikt",
+      "een informele bespreking van ideeën zonder vaste structuur",
+      "de resultaten die je hebt behaald aan het einde van een project"
+    ],
+    "correct": 0,
+    "explanation": "'Plan' = een gestructureerde beschrijving van voorgenomen acties. Meervoud: 'plannen'. Synoniem: 'strategie', 'aanpak'. Figuurlijk: 'plannen maken' = nadenken over de toekomst; 'het plan van aanpak' = de gekozen methode.",
+    "hint": "Een plan gaat over de toekomst en beschrijft wat je wilt doen. Wat is het verschil tussen een plan en een resultaat?",
+    "collocations": [
+      "een plan maken",
+      "plan van aanpak",
+      "het plan uitvoeren"
+    ]
+  },
+  {
+    "word": "prestatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Zijn <mark>prestaties</mark> dit jaar overtrof de verwachtingen van het management.",
+      "Het halen van het kwaliteitskeurmerk was een belangrijke <mark>prestatie</mark> voor het team.",
+      "Ze werd beloond voor haar uitstekende <mark>prestaties</mark> met een bonus."
+    ],
+    "options": [
+      "een behaald resultaat dat getuigt van inzet, kwaliteit of vaardigheid",
+      "de set van taken die bij een functie horen volgens de functiebeschrijving",
+      "de maandelijkse betaling die een medewerker ontvangt voor zijn werk",
+      "een formele beoordeling van de kwaliteit van iemands werk door een leidinggevende"
+    ],
+    "correct": 0,
+    "explanation": "'Prestatie' = een behaald resultaat dat inzet en kwaliteit weerspiegelt. Meervoud: 'prestaties'. Synoniem: 'resultaat', 'verwezenlijking'. Figuurlijk: 'topprestatie' = uitzonderlijk resultaat; 'prestatiedruk' = druk om goed te presteren.",
+    "hint": "Prestatie en taak zijn allebei werkgerelateerd. Taak is wat je moet doen; prestatie is wat je hebt...?",
+    "collocations": [
+      "een goede prestatie leveren",
+      "prestatiedruk",
+      "topprestatie"
+    ]
+  },
+  {
+    "word": "proces",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het productie<mark>proces</mark> bestaat uit zeven stappen die strikt worden gevolgd.",
+      "Het aanvragen van een vergunning is een lang en bureaucratisch <mark>proces</mark>.",
+      "Het <mark>proces</mark> van cultuurverandering in een organisatie duurt jaren."
+    ],
+    "options": [
+      "een eenmalige activiteit die na afronding definitief stopt",
+      "een reeks van samenhangende stappen of activiteiten die tot een resultaat leiden",
+      "een juridische procedure waarbij een rechtbank uitspraak doet",
+      "een vergadering waarbij besluiten worden genomen over de toekomst"
+    ],
+    "correct": 1,
+    "explanation": "'Proces' = een reeks samenhangende stappen die tot een resultaat leiden. Meervoud: 'processen'. Synoniem: 'procedure', 'verloop'. Tweede betekenis: 'rechtszaak' (juridisch). Figuurlijk: 'een proces op gang brengen' = een ontwikkeling starten.",
+    "hint": "Dit woord heeft een algemene betekenis (stappen die ergens naartoe leiden) en een juridische (rechtbank). Welke context is hier centraal?",
+    "collocations": [
+      "een proces optimaliseren",
+      "een juridisch proces",
+      "het proces doorlopen"
+    ]
+  },
+  {
+    "word": "project",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze leidt een internationaal <mark>project</mark> met teams in vier landen.",
+      "Het bouw<mark>project</mark> loopt zes maanden vertraging op door materiaalgebrek.",
+      "Hij werkt na zijn vaste baan aan een persoonlijk <mark>project</mark> over duurzaamheid."
+    ],
+    "options": [
+      "een afdeling die verantwoordelijk is voor een specifiek productsegment",
+      "een permanente functie die iemand voor onbepaalde tijd bekleedt",
+      "een routine taak die elke dag op dezelfde manier wordt uitgevoerd",
+      "een tijdelijk, afgebakend geheel van activiteiten met een duidelijk doel en deadline"
+    ],
+    "correct": 3,
+    "explanation": "'Project' = een tijdelijk, afgebakend geheel van activiteiten met een specifiek doel. Meervoud: 'projecten'. Synoniem: 'klus', 'opdracht'. Figuurlijk: 'projectmatig werken' = werken met duidelijke mijlpalen en deadlines.",
+    "hint": "Een project en een taak zijn beide werkactiviteiten. Wat zijn de twee kenmerken die een project van dagelijks werk onderscheiden?",
+    "collocations": [
+      "een project leiden",
+      "projectmanagement",
+      "een project afronden"
+    ]
+  },
+  {
+    "word": "salaris",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Haar <mark>salaris</mark> steeg vijf procent na haar succesvolle jaargesprek.",
+      "Hij onderhandelde over zijn <mark>salaris</mark> voordat hij het contract tekende.",
+      "Het gemiddelde <mark>salaris</mark> in de ICT-sector ligt hoger dan in de zorgsector."
+    ],
+    "options": [
+      "het totaal aan geld dat iemand ontvangt uit meerdere bronnen per jaar",
+      "de vergoeding van gemaakte onkosten in het kader van het werk",
+      "de vaste maandelijkse geldelijke vergoeding voor geleverde arbeid",
+      "een eenmalige betaling als beloning voor een uitzonderlijke prestatie"
+    ],
+    "correct": 2,
+    "explanation": "'Salaris' = de vaste maandelijkse vergoeding voor werk in loondienst. Meervoud: 'salarissen'. Synoniem: 'loon', 'inkomen'. Figuurlijk: 'salarisonderhandeling' = onderhandelen over je loon; 'cao-salaris' = loon vastgesteld in een collectieve arbeidsovereenkomst.",
+    "hint": "Salaris, loon en inkomen overlappen. Salaris is het meest specifiek: vast, maandelijks, en voor wie? Wat onderscheidt het van een bonus?",
+    "collocations": [
+      "salaris onderhandelen",
+      "een salaris ontvangen",
+      "salarisverhoging"
+    ]
+  },
+  {
+    "word": "solliciteren",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>solliciteerde</mark> op vijf functies voordat ze een aanbod ontving.",
+      "Hij <mark>solliciteert</mark> morgen bij een groot consultancybedrijf in Amsterdam.",
+      "Je kunt <mark>solliciteren</mark> via de website door je cv en motivatiebrief te uploaden."
+    ],
+    "options": [
+      "een opleiding afronden om je te kwalificeren voor een bepaalde functie",
+      "onderhandelen over de arbeidsvoorwaarden na het ontvangen van een aanbod",
+      "je cv bijwerken met nieuwe werkervaring en vaardigheden",
+      "jezelf formeel kandidaat stellen voor een vacature of functie"
+    ],
+    "correct": 3,
+    "explanation": "'Solliciteren' = jezelf formeel aanmelden als kandidaat voor een vacature. Zelfstandig naamwoord: 'sollicitatie'. Synoniem: 'zich kandidaat stellen'. Figuurlijk: 'open sollicitatie' = solliciteren zonder dat er een concrete vacature is.",
+    "hint": "Dit woord beschrijft een specifieke stap in het proces van een baan vinden. Wat doe je precies — voor of na het gesprek?",
+    "collocations": [
+      "op een vacature solliciteren",
+      "een sollicitatiegesprek",
+      "open sollicitatie"
+    ]
+  },
+  {
+    "word": "taak",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Zijn <mark>taak</mark> is om klachten van klanten te behandelen en op te lossen.",
+      "Ze verdeelde de <mark>taken</mark> eerlijk over alle teamleden voor het project.",
+      "Het is de <mark>taak</mark> van de overheid om haar burgers te beschermen."
+    ],
+    "options": [
+      "een concrete activiteit of verantwoordelijkheid die je moet uitvoeren",
+      "het eindresultaat dat je moet opleveren aan het einde van een project",
+      "de beoordeling die je krijgt na het uitvoeren van je werkzaamheden",
+      "de set van vaardigheden die vereist zijn voor een bepaalde functie"
+    ],
+    "correct": 0,
+    "explanation": "'Taak' = een concrete activiteit of verantwoordelijkheid. Meervoud: 'taken'. Synoniem: 'klus', 'opdracht'. Figuurlijk: 'een zware taak hebben' = grote verantwoordelijkheid dragen; 'taakverdeling' = verdelen van verantwoordelijkheden in een team.",
+    "hint": "Taak en opdracht zijn nauw verwant. Een taak is iets wat bij je functie hoort of wat je krijgt toebedeeld. Wat is het verschil met een resultaat?",
+    "collocations": [
+      "een taak uitvoeren",
+      "taakverdeling",
+      "taken en verantwoordelijkheden"
+    ]
+  },
+  {
+    "word": "vergaderen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Het management <mark>vergadert</mark> elke maandagmorgen over de weekdoelen.",
+      "Ze <mark>vergaderden</mark> drie uur lang maar kwamen tot geen beslissing.",
+      "Hij heeft zo veel vergaderingen dat hij nauwelijks toekomt aan zijn eigenlijke werk."
+    ],
+    "options": [
+      "een presentatie geven aan een groot publiek in een conferentiezaal",
+      "formeel bijeenkomen in een georganiseerde sessie om zaken te bespreken",
+      "digitaal communiceren via e-mail of berichtenapp over werkzaken",
+      "informeel bijpraten met collega's bij de koffiemachine"
+    ],
+    "correct": 1,
+    "explanation": "'Vergaderen' = formeel bijeenkomen om zaken te bespreken en besluiten te nemen. Zelfstandig naamwoord: 'vergadering'. Synoniem: 'overleggen', 'bijeen zijn'. Figuurlijk: 'vergadercultuur' = een organisatiecultuur waarbij veel formeel overlegd wordt.",
+    "hint": "Vergaderen en overleggen beschrijven allebei bijeenkomsten. Vergaderen is formeler — wat zijn de typische kenmerken?",
+    "collocations": [
+      "een vergadering leiden",
+      "te veel vergaderen",
+      "vergadercultuur"
+    ]
+  },
+  {
+    "word": "vergadering",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>vergadering</mark> begon stipt om negen uur met een kort welkomstwoord.",
+      "Ze stuurde de agenda van de <mark>vergadering</mark> een dag van tevoren rond.",
+      "De aandeelhouders<mark>vergadering</mark> stemt morgen over de benoeming van een nieuwe directeur."
+    ],
+    "options": [
+      "een één-op-één gesprek tussen een medewerker en zijn leidinggevende",
+      "een informeel gesprek tussen twee collega's over een lopend project",
+      "een schriftelijk verslag van besluiten die eerder zijn genomen",
+      "een georganiseerde bijeenkomst van meerdere mensen om zaken te bespreken"
+    ],
+    "correct": 3,
+    "explanation": "'Vergadering' = een georganiseerde formele bijeenkomst. Meervoud: 'vergaderingen'. Synoniem: 'bespreking', 'sessie'. Figuurlijk: 'een vergadering beleggen' = een vergadering organiseren; 'notulen van de vergadering' = schriftelijk verslag.",
+    "hint": "Vergadering (zelfstandig naamwoord) en vergaderen (werkwoord) zijn verwant. Wat beschrijft de vergadering — de activiteit of de bijeenkomst zelf?",
+    "collocations": [
+      "een vergadering beleggen",
+      "de vergadering voorzitten",
+      "notulen van de vergadering"
+    ]
+  },
+  {
+    "word": "vertegenwoordigen",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>vertegenwoordigt</mark> haar bedrijf op internationale beurzen en conferenties.",
+      "De vakbond <mark>vertegenwoordigt</mark> de belangen van tienduizend werknemers.",
+      "Hij <mark>vertegenwoordigt</mark> de regio in het nationale parlement als gekozen lid."
+    ],
+    "options": [
+      "optreden als gemachtigde of woordvoerder namens anderen",
+      "informatie delen met een groep mensen tijdens een presentatie",
+      "toestemming geven voor iets wat iemand anders wil doen",
+      "iets namens jezelf beslissen zonder anderen daarin te kennen"
+    ],
+    "correct": 0,
+    "explanation": "'Vertegenwoordigen' = optreden namens anderen als gemachtigde. Zelfstandig naamwoord: 'vertegenwoordiger'. Synoniem: 'representeren', 'namens spreken'. Figuurlijk: 'de belangen vertegenwoordigen' = opkomen voor de rechten en wensen van een groep.",
+    "hint": "Dit woord impliceert dat je voor anderen optreedt — niet voor jezelf. Wat is de kern van de rol?",
+    "collocations": [
+      "belangen vertegenwoordigen",
+      "een bedrijf vertegenwoordigen",
+      "vertegenwoordiger zijn"
+    ]
+  },
+  {
+    "word": "werknemer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Het bedrijf heeft meer dan duizend <mark>werknemers</mark> in dienst wereldwijd.",
+      "Als <mark>werknemer</mark> heb je recht op een veilige werkomgeving.",
+      "De <mark>werknemers</mark> stemden voor een staking na mislukte cao-onderhandelingen."
+    ],
+    "options": [
+      "iemand die in dienst is bij een werkgever en loon ontvangt",
+      "iemand die een bedrijf bezit en anderen in dienst neemt",
+      "iemand die tijdelijk wordt ingehuurd via een uitzendbureau",
+      "iemand die zelfstandig werkt en zijn eigen opdrachten kiest"
+    ],
+    "correct": 0,
+    "explanation": "'Werknemer' = iemand die in loondienst werkt bij een werkgever. Meervoud: 'werknemers'. Antonym: 'werkgever'. Synoniem: 'medewerker', 'personeelslid'. Figuurlijk: 'werknemersrechten' = de rechten die mensen in loondienst hebben.",
+    "hint": "Werknemer en werkgever zijn elkaars tegengestelden in een arbeidsrelatie. De werknemer ontvangt loon — wie betaalt het?",
+    "collocations": [
+      "werknemersrechten",
+      "een medewerker aanstellen",
+      "in dienst als werknemer"
+    ]
+  },
+  {
+    "word": "werk",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze heeft veel <mark>werk</mark> liggen en werkt dit weekend extra door.",
+      "Zijn <mark>werk</mark> als architect geeft hem grote voldoening.",
+      "Het schilderij was het mooiste <mark>werk</mark> dat ze ooit had gezien in het museum."
+    ],
+    "options": [
+      "de activiteit van betaalde arbeid of het resultaat van een creatieve inspanning",
+      "de formele positie die iemand bekleedt bij een specifieke werkgever",
+      "de fysieke locatie waar iemand zijn beroepsactiviteiten uitoefent",
+      "de maandelijkse betaling die iemand ontvangt voor zijn geleverde diensten"
+    ],
+    "correct": 0,
+    "explanation": "'Werk' = betaalde arbeid, of het product van een creatieve of intellectuele inspanning. Ontelbaar als activiteit. Synoniem: 'arbeid', 'baan' (positie). Figuurlijk: 'aan het werk gaan' = beginnen; 'een kunstwerk' = creatief product.",
+    "hint": "Werk heeft twee betekenissen: de activiteit (wat je doet) en het product (wat je maakt). Wat is het verschil met 'baan'?",
+    "collocations": [
+      "aan het werk gaan",
+      "hard werken",
+      "een kunstwerk"
+    ]
+  },
+  {
+    "word": "werken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>werkt</mark> fulltime als UX-designer bij een tech startup.",
+      "Het nieuwe systeem <mark>werkt</mark> veel sneller dan het oude na de update.",
+      "Die aanpak <mark>werkt</mark> niet — we moeten een andere strategie bedenken."
+    ],
+    "options": [
+      "iets tijdelijk uitstellen tot een gunstiger moment",
+      "iets overlaten aan iemand anders die er beter in is",
+      "ergens aan nadenken zonder concrete actie te ondernemen",
+      "inspanning leveren voor een doel, of functioneren zoals bedoeld"
+    ],
+    "correct": 3,
+    "explanation": "'Werken' = arbeid verrichten of functioneren zoals bedoeld. Verleden tijd: 'werkte', voltooid deelwoord: 'gewerkt'. Synoniem: 'functioneren', 'opereren'. Figuurlijk: 'dat werkt niet' = dat heeft het gewenste effect niet.",
+    "hint": "Werken heeft een persoonlijke betekenis (jij werkt) en een functionele (iets werkt). Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "hard werken",
+      "werken aan iets",
+      "het werkt"
+    ]
+  },
+  {
+    "word": "werkgever",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Haar <mark>werkgever</mark> biedt uitstekende arbeidsvoorwaarden en flexibele werktijden.",
+      "Als <mark>werkgever</mark> ben je verplicht een veilige werkomgeving te bieden.",
+      "Hij wisselde van <mark>werkgever</mark> na vijf jaar bij hetzelfde bedrijf."
+    ],
+    "options": [
+      "iemand die anderen in dienst neemt en daarvoor loon betaalt",
+      "een recruiter die kandidaten koppelt aan vacatures bij bedrijven",
+      "iemand die in dienst is bij een organisatie en loon ontvangt",
+      "een overheidsinstantie die subsidies verstrekt aan bedrijven"
+    ],
+    "correct": 0,
+    "explanation": "'Werkgever' = een persoon of organisatie die anderen in dienst neemt en betaalt. Meervoud: 'werkgevers'. Antonym: 'werknemer'. Synoniem: 'baas', 'ondernemer'. Figuurlijk: 'een aantrekkelijke werkgever' = een populair bedrijf om voor te werken.",
+    "hint": "Werkgever en werknemer zijn elkaars tegengestelden. De werkgever geeft werk — en wat geeft hij nog meer?",
+    "collocations": [
+      "een goede werkgever",
+      "werkgeversorganisatie",
+      "arbeidsvoorwaarden van de werkgever"
+    ]
+  },
+  {
+    "word": "zaak",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Hij heeft een kleine <mark>zaak</mark> in de binnenstad die al twintig jaar bestaat.",
+      "De rechtbank behandelt morgen de <mark>zaak</mark> tegen de verdachte.",
+      "Dit is een ingewikkelde <mark>zaak</mark> — we moeten er goed over nadenken."
+    ],
+    "options": [
+      "een formeel document dat de rechten en plichten van twee partijen vastlegt",
+      "een groot internationaal bedrijf met vestigingen in meerdere landen",
+      "een product of dienst die aan klanten wordt aangeboden",
+      "een klein bedrijf, een juridische kwestie, of een aangelegenheid"
+    ],
+    "correct": 3,
+    "explanation": "'Zaak' = een klein bedrijf, een juridische kwestie, of een aangelegenheid. Meervoud: 'zaken'. Synoniem: 'kwestie', 'winkel' (zaak als bedrijf). Figuurlijk: 'een zaak van belang' = een belangrijke aangelegenheid; 'dat is mijn zaak' = dat gaat jou niet aan.",
+    "hint": "Dit woord heeft drie gerelateerde betekenissen: een winkel, een rechtszaak, en een kwestie. Wat verbindt ze?",
+    "collocations": [
+      "een eigen zaak hebben",
+      "een rechtszaak",
+      "dat is mijn zaak"
+    ]
+  },
+  {
+    "word": "zaken",
+    "pos": "zelfstandig naamwoord · de (meervoud)",
+    "level": 1,
+    "examples": [
+      "Hij doet veel <mark>zaken</mark> in het buitenland en reist minstens tien keer per jaar.",
+      "Ze wil <mark>zaken</mark> en privé strikt gescheiden houden.",
+      "Hoe gaan de <mark>zaken</mark>? Heeft het nieuwe product aangeslagen bij klanten?"
+    ],
+    "options": [
+      "de juridische procedures die lopen bij een rechtbank",
+      "commerciële activiteiten en transacties in een zakelijke context",
+      "de interne aangelegenheden van een organisatie zonder externe relaties",
+      "de persoonlijke bezittingen van een ondernemer of zakenmens"
+    ],
+    "correct": 1,
+    "explanation": "'Zaken' = commerciële activiteiten en transacties. Meervoud van 'zaak' maar met een eigen betekenis. Synoniem: 'handel', 'business'. Figuurlijk: 'zaken doen' = commercieel actief zijn; 'hoe gaan de zaken?' = hoe gaat het zakelijk?",
+    "hint": "'Zaak' (enkelvoud) en 'zaken' (meervoud) hebben elk een eigen betekenis. Zaken in de zakelijke context verwijst naar...?",
+    "collocations": [
+      "zaken doen",
+      "zakelijk reizen",
+      "hoe gaan de zaken?"
+    ]
+  }
+]
