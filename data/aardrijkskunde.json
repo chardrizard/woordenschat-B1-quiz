@@ -1,0 +1,1250 @@
+[
+  {
+    "word": "aarde",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>aarde</mark> draait één keer per jaar rond de zon.",
+      "De boer stak zijn handen in de vochtige <mark>aarde</mark> om te voelen of hij kon planten.",
+      "Wetenschappers bestuderen de geschiedenis van de <mark>aarde</mark> via gesteenten en fossielen."
+    ],
+    "options": [
+      "de grond onder je voeten als losse stof of als materiaal voor planten",
+      "de planeet waarop mensen leven, of de grond als materiaal",
+      "de atmosfeer die de planeet omhult en beschermt tegen zonnestraling",
+      "het binnenste van een planeet waar extreme hitte heerst"
+    ],
+    "correct": 1,
+    "explanation": "'Aarde' = de planeet waarop we leven, of de grond als materiaal. Met hoofdletter 'Aarde' als planeet, met kleine letter 'aarde' als grond. Synoniem: 'grond', 'bodem' (letterlijk), 'wereld' (figuurlijk). Figuurlijk: 'wat op aarde...?' = een uitroep van verbazing.",
+    "hint": "Dit woord heeft twee betekenissen die sterk samenhangen. Eén verwijst naar onze planeet, de andere naar de stof waaruit die planeet bestaat. Wat verbindt beide?",
+    "collocations": [
+      "de aarde draait",
+      "op aarde",
+      "aarde en water"
+    ]
+  },
+  {
+    "word": "berg",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen gleed van de sneeuw<mark>berg</mark> in het park.",
+      "De wandelaars bereikten de top van de <mark>berg</mark> na zes uur klimmen.",
+      "Er ligt een <mark>berg</mark> ongelezen e-mails in zijn inbox na twee weken vakantie."
+    ],
+    "options": [
+      "een langgerekte verhoging in het landschap lager dan een heuvel",
+      "een grote, hoge verheffing van het aardoppervlak met een duidelijke top",
+      "een diep gebied tussen twee hoge landschapsvormen ingeklemd",
+      "een vlak stuk land dat hoger ligt dan het omringende gebied"
+    ],
+    "correct": 1,
+    "explanation": "'Berg' = een grote, hoge verheffing van het aardoppervlak. Meervoud: 'bergen'. Synoniem: 'gebergte' (een reeks), 'top' (het hoogste punt). Figuurlijk: 'een berg werk' = een enorme hoeveelheid werk; 'hoge bergen, diepe dalen' = grote hoogte- en dieptepunten.",
+    "hint": "Heuvel, berg en dal zijn alle drie landschapsvormen die te maken hebben met hoogte. Welke is de hoogste en meest uitgesproken?",
+    "collocations": [
+      "een berg beklimmen",
+      "een berg werk",
+      "over de berg zijn"
+    ]
+  },
+  {
+    "word": "bloem",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze plukte een wilde <mark>bloem</mark> langs het wandelpad en stak hem achter haar oor.",
+      "De tulp is de bekendste Nederlandse <mark>bloem</mark> en wordt wereldwijd geëxporteerd.",
+      "Hij gaf haar een bos <mark>bloemen</mark> op haar verjaardag als verrassing."
+    ],
+    "options": [
+      "het groene blad van een plant dat energie opwekt via de zon",
+      "het gekleurde, vaak geurende deel van een plant dat zaad produceert",
+      "de stam of tak van een plant die water en voedingsstoffen transporteert",
+      "de wortel van een plant die onder de grond groeit voor steun"
+    ],
+    "correct": 1,
+    "explanation": "'Bloem' = het gekleurde, reproducerende deel van een plant. Meervoud: 'bloemen'. Synoniem: 'plant', 'bloemkelk'. Figuurlijk: 'de bloem van de natie' = de elite of het beste van een groep; 'bloemen strooien' = iemand complimenten geven.",
+    "hint": "Een plant heeft wortels, stengel, blad en dit. Welk deel is het meest opvallend en dient als aantrekking voor insecten?",
+    "collocations": [
+      "bloemen plukken",
+      "bloemen strooien",
+      "in bloei staan"
+    ]
+  },
+  {
+    "word": "boom",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen klommen in de grote eiken<mark>boom</mark> achter in de tuin.",
+      "Na de storm lagen drie <mark>bomen</mark> dwars over de weg geknapt.",
+      "Zijn stamboom gaat terug tot de zeventiende eeuw in deze regio."
+    ],
+    "options": [
+      "een kleine, lage plant met zachte stengels die niet hoger wordt dan een meter",
+      "een grote, meerjarige plant met een harde houten stam en takken",
+      "een groep planten die dicht op elkaar groeien in een nat gebied",
+      "een klimplant die langs andere planten of muren omhoog groeit"
+    ],
+    "correct": 1,
+    "explanation": "'Boom' = een grote, meerjarige plant met een houten stam. Meervoud: 'bomen'. Synoniem: 'gewas' (algemeen), 'hout' (materiaal). Figuurlijk: 'een boom van een vent' = een grote, imposante man; 'bomen verzetten' = grote dingen doen of bereiken.",
+    "hint": "Een struik en een boom zijn allebei houtige planten. Wat is het structurele verschil?",
+    "collocations": [
+      "een boom planten",
+      "bomen kappen",
+      "een boom van een vent"
+    ]
+  },
+  {
+    "word": "bos",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "We gingen een uur wandelen door het <mark>bos</mark> achter het dorp.",
+      "Het <mark>bos</mark> is 's avonds donker — je kunt er makkelijk de weg kwijtraken.",
+      "Er staat een dicht tropisch <mark>bos</mark> vol zeldzame diersoorten in dat gebied."
+    ],
+    "options": [
+      "een open vlakte met verspreide struiken en weinig bomen",
+      "een dicht begroeide oppervlakte met veel bomen naast elkaar",
+      "een gebied met één soort grote boom die voor hout wordt geteeld",
+      "een klein park in een stad met een paar bomen en paden"
+    ],
+    "correct": 1,
+    "explanation": "'Bos' = een dicht begroeide oppervlakte met bomen. Meervoud: 'bossen'. Synoniem: 'woud' (groter/wilder), 'struikgewas' (lager). Figuurlijk: 'door de bomen het bos niet meer zien' = door details het grote geheel verliezen.",
+    "hint": "Een bos en een woud zijn allebei verzamelingen bomen. Wat is het kwalitatieve verschil — welke is groter en wilder?",
+    "collocations": [
+      "een bos ingaan",
+      "door de bomen het bos niet zien",
+      "bos en heide"
+    ]
+  },
+  {
+    "word": "dal",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het kleine dorpje lag rustig in het groene <mark>dal</mark> tussen twee bergketens.",
+      "De rivier stroomt door het <mark>dal</mark> richting de zee.",
+      "Na een moeilijke periode beleefde het bedrijf een diep financieel <mark>dal</mark>."
+    ],
+    "options": [
+      "een verhoogd, vlak terrein dat hoger ligt dan het omringende landschap",
+      "een laagte in het landschap die zich tussen heuvels of bergen bevindt",
+      "een smalle opening in een rotswand waardoor water stroomt",
+      "een uitgestrekte vlakte zonder enige hoogteverschillen"
+    ],
+    "correct": 1,
+    "explanation": "'Dal' = een laagte in het landschap tussen heuvels of bergen. Meervoud: 'dalen'. Antonym: 'berg', 'heuvel'. Synoniem: 'vallei'. Figuurlijk: 'een dieptepunt beleven' of 'in een dal zitten' = in een slechte periode zijn.",
+    "hint": "Berg en dal zijn elkaars tegengestelden in het landschap. Als een berg omhoog gaat, gaat een dal...?",
+    "collocations": [
+      "een dal intrekken",
+      "hoge pieken en diepe dalen",
+      "een dal beleven"
+    ]
+  },
+  {
+    "word": "dier",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Een hond is een populair huisdier en ook een gewerveld <mark>dier</mark>.",
+      "In het tropische regenwoud leven miljoenen soorten <mark>dieren</mark> en planten.",
+      "Hij gedraagt zich als een <mark>dier</mark> als hij dronken is — helemaal geen zelfbeheersing."
+    ],
+    "options": [
+      "een levend organisme dat energie haalt uit zonlicht via bladgroen",
+      "een levend organisme dat zichzelf kan bewegen en geen plant is",
+      "een microscopisch klein wezen dat alleen onder een microscoop zichtbaar is",
+      "een organisme dat uitsluitend in water leeft en kieuwen heeft"
+    ],
+    "correct": 1,
+    "explanation": "'Dier' = een levend organisme dat beweegt en geen plant is. Meervoud: 'dieren'. Synoniem: 'beest', 'wezen'. Figuurlijk: 'een dier van een vent' = een brutale of onbeschaafde persoon; 'dierendag' = dag ter bescherming van dieren.",
+    "hint": "Planten en dieren zijn beide levende organismen. Wat is het kenmerkende verschil dat een dier van een plant onderscheidt?",
+    "collocations": [
+      "wilde dieren",
+      "huisdieren",
+      "dieren beschermen"
+    ]
+  },
+  {
+    "word": "eiland",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het gezin bracht de zomer door op een klein <mark>eiland</mark> in de Middellandse Zee.",
+      "Texel is het grootste <mark>eiland</mark> van Nederland en ligt in de Waddenzee.",
+      "Na het conflict voelde hij zich een <mark>eiland</mark> in een zee van vreemden."
+    ],
+    "options": [
+      "een smal stuk land dat aan twee zijden door water wordt omgeven",
+      "een stuk land dat aan alle kanten door water is omgeven",
+      "een laaggelegen stuk kustland dat regelmatig onder water loopt",
+      "een rotsachtig uitsteeksel boven het wateroppervlak zonder begroeiing"
+    ],
+    "correct": 1,
+    "explanation": "'Eiland' = land aan alle kanten omgeven door water. Meervoud: 'eilanden'. Synoniem: 'atol' (koraaleiland), 'schiereiland' (aan drie kanten water). Figuurlijk: 'een eiland zijn' = geïsoleerd zijn van anderen.",
+    "hint": "Een schiereiland en een eiland zijn allebei omgeven door water. Wat is het verschil — hoe veel kanten?",
+    "collocations": [
+      "op een eiland wonen",
+      "een onbewoond eiland",
+      "een eiland van rust"
+    ]
+  },
+  {
+    "word": "gebied",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het noorden van het land is een dun bevolkt <mark>gebied</mark> met veel natuur.",
+      "Ze is expert op het <mark>gebied</mark> van duurzame energie en klimaatbeleid.",
+      "Het militaire <mark>gebied</mark> is afgesloten voor burgers zonder speciale toestemming."
+    ],
+    "options": [
+      "een specifieke plek met een exact adres en coördinaten",
+      "een afgebakende ruimte met een bepaalde functie, eigenschap of grens",
+      "een kleine, duidelijk zichtbare plek in een stad of dorp",
+      "een terrein dat toebehoort aan één persoon of organisatie"
+    ],
+    "correct": 1,
+    "explanation": "'Gebied' = een afgebakend stuk ruimte of terrein. Meervoud: 'gebieden'. Synoniem: 'regio', 'zone', 'terrein'. Figuurlijk: 'op het gebied van' = op het terrein van, qua onderwerp.",
+    "hint": "Gebied en plek zijn allebei locaties. Wat is het verschil in grootte en afbakening?",
+    "collocations": [
+      "op het gebied van",
+      "een beschermd gebied",
+      "een gebied afbakenen"
+    ]
+  },
+  {
+    "word": "gras",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De kinderen lagen in het <mark>gras</mark> naar de wolken te kijken.",
+      "De boer maait het <mark>gras</mark> drie keer per jaar voor zijn vee.",
+      "Bij de buren is het <mark>gras</mark> altijd groener — ze zijn nooit tevreden."
+    ],
+    "options": [
+      "een lage struik met zachte bladeren die bloeien in het voorjaar",
+      "een lage plant met smalle groene bladeren die dichte matten vormt",
+      "een soort mos dat op vochtige rotsen en bomen groeit",
+      "een waterplant die langs de oevers van rivieren en meren groeit"
+    ],
+    "correct": 1,
+    "explanation": "'Gras' = een lage plant met smalle bladeren die weiden en gazons vormt. Ontelbaar zelfstandig naamwoord. Synoniem: 'grasland', 'gazon'. Figuurlijk: 'het gras is altijd groener bij de buren' = anderen lijken het altijd beter te hebben.",
+    "hint": "Gras, mos en struiken zijn alle drie lage begroeiing. Wat is het kenmerkende van gras qua bladstructuur en groeipatroon?",
+    "collocations": [
+      "gras maaien",
+      "in het gras liggen",
+      "het gras is groener"
+    ]
+  },
+  {
+    "word": "heuvel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Het dorp ligt op een kleine <mark>heuvel</mark> met uitzicht op de rivier.",
+      "De kinderen renden de <mark>heuvel</mark> af en gleden onderaan uit.",
+      "Zuid-Limburg heeft glooiende <mark>heuvels</mark> die uniek zijn in het verder vlakke Nederland."
+    ],
+    "options": [
+      "een grote, steile verheffing van het aardoppervlak met een duidelijke rotsachtige top",
+      "een lagere, zachtere verheffing van het landschap die minder hoog is dan een berg",
+      "een vlakke verhoging die abrupt eindigt aan één of meerdere zijden",
+      "een langgerekte rug in het landschap gevormd door een rivier"
+    ],
+    "correct": 1,
+    "explanation": "'Heuvel' = een lagere, zachte landschapsverhoging kleiner dan een berg. Meervoud: 'heuvels'. Synoniem: 'rug', 'hoogte'. Figuurlijk: 'over de heuvel zijn' = de moeilijkste fase achter de rug hebben.",
+    "hint": "Berg en heuvel zijn allebei verheffingen. Welke twee kenmerken onderscheiden een heuvel van een berg?",
+    "collocations": [
+      "een heuvel beklimmen",
+      "glooiende heuvels",
+      "over de heuvel zijn"
+    ]
+  },
+  {
+    "word": "hond",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze neemt haar <mark>hond</mark> elke ochtend mee voor een wandeling in het park.",
+      "De <mark>hond</mark> blafte luid toen de postbode de brievenbus opendeed.",
+      "Hij werkt als een <mark>hond</mark> — twaalf uur per dag zonder pauze."
+    ],
+    "options": [
+      "een wild roofdier dat in roedels leeft in bossen en op de steppe",
+      "een gedomesticeerd zoogdier dat als huisdier of werker door mensen wordt gehouden",
+      "een klein knaagdier dat als huisdier in een kooi wordt gehouden",
+      "een groot graseter dat wordt gebruikt voor rijden en transport"
+    ],
+    "correct": 1,
+    "explanation": "'Hond' = een gedomesticeerd roofdier, de meest populaire metgezel van de mens. Meervoud: 'honden'. Synoniem: 'hondachtige', 'viervoeter'. Figuurlijk: 'werken als een hond' = heel hard werken; 'hondenweer' = erg slecht weer.",
+    "hint": "Een wolf en een hond zijn nauw verwant. Wat is het essentiële verschil in hun relatie tot mensen?",
+    "collocations": [
+      "de hond uitlaten",
+      "hondenweer",
+      "werken als een hond"
+    ]
+  },
+  {
+    "word": "kat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>kat</mark> lag languit op de vensterbank in de middagzon te slapen.",
+      "Onze <mark>kat</mark> vangt 's nachts muizen in de tuin.",
+      "Ze is net een <mark>kat</mark> — altijd op haar pootjes terecht."
+    ],
+    "options": [
+      "een klein gedomesticeerd zoogdier bekend om zijn onafhankelijkheid en jachtgedrag",
+      "een groot gedomesticeerd zoogdier dat voor melk en vlees wordt gehouden",
+      "een klein knaagdier met lange oren dat in hokken of in het wild leeft",
+      "een gevleugeld huisdier dat kan praten en geluiden nabootst"
+    ],
+    "correct": 0,
+    "explanation": "'Kat' = een klein gedomesticeerd roofdier bekend om zijn onafhankelijke aard. Meervoud: 'katten'. Synoniem: 'poes' (vrouwelijk), 'kater' (mannelijk). Figuurlijk: 'altijd op je pootjes terechtkomen' = altijd goed uit een moeilijke situatie komen.",
+    "hint": "Hond en kat zijn beide populaire huisdieren. Wat is het bekende karakterverschil dat ze van elkaar onderscheidt?",
+    "collocations": [
+      "een kat aaien",
+      "de kat uit de boom kijken",
+      "altijd op je pootjes"
+    ]
+  },
+  {
+    "word": "klimaat",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Nederland heeft een gematigd <mark>klimaat</mark> met koele zomers en milde winters.",
+      "Wetenschappers waarschuwen dat het <mark>klimaat</mark> sneller verandert dan verwacht.",
+      "Het politieke <mark>klimaat</mark> in het land is gespannen na de verkiezingen."
+    ],
+    "options": [
+      "het dagelijkse weersverslag voor één specifieke locatie",
+      "het gemiddelde weerspatroon van een regio over een lange periode",
+      "de hoeveelheid neerslag die een gebied per jaar ontvangt",
+      "de temperatuur op een bepaalde dag of seizoen"
+    ],
+    "correct": 1,
+    "explanation": "'Klimaat' = het langdurige weerspatroon van een regio. Van het Griekse 'klima' (helling van de aarde). Synoniem: 'weersgesteldheid'. Figuurlijk: 'politiek klimaat' = de sfeer in de politiek; 'klimaatverandering' = verandering in de gemiddelde temperatuur van de aarde.",
+    "hint": "Klimaat en weer lijken op elkaar maar hebben een cruciaal tijdsverschil. Klimaat gaat over...?",
+    "collocations": [
+      "klimaatverandering",
+      "een gematigd klimaat",
+      "het politieke klimaat"
+    ]
+  },
+  {
+    "word": "koe",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>koeien</mark> staan elke ochtend te wachten bij het hek om gemolken te worden.",
+      "In de wei liepen tien zwartbonte <mark>koeien</mark> rustig te grazen.",
+      "Ze liep met de <mark>koe</mark> bij het stel vandaan en negeerde de kritiek volledig."
+    ],
+    "options": [
+      "een groot graseter dat als rijdier en voor transport wordt ingezet",
+      "een groot gedomesticeerd zoogdier dat voor melk en vlees wordt gehouden",
+      "een wild graseter dat in grote kuddes op de savanne leeft",
+      "een klein grasend dier met een wollen vacht dat voor wol wordt gehouden"
+    ],
+    "correct": 1,
+    "explanation": "'Koe' = een vrouwelijk rund dat voor melk en vlees wordt gehouden. Meervoud: 'koeien'. Mannelijk: 'stier', jong: 'kalf'. Synoniem: 'rund'. Figuurlijk: 'heilige koe' = iets wat niet bekritiseerd mag worden; 'met de koe bij het stel vandaan lopen' = direct to the point zijn.",
+    "hint": "Paard, koe en schaap zijn alle drie landbouwdieren. Wat is de meest bekende economische functie van de koe?",
+    "collocations": [
+      "koeien melken",
+      "heilige koe",
+      "zwartbonte koeien"
+    ]
+  },
+  {
+    "word": "kust",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze fietsten langs de <mark>kust</mark> van Zeeland en genoten van de zeebries.",
+      "De <mark>kust</mark> van Nederland wordt beschermd door duinen en dijken.",
+      "Hij hield de <mark>kust</mark> schoon — niemand mocht weten wat hij van plan was."
+    ],
+    "options": [
+      "het punt waar een rivier uitmondt in de zee",
+      "de zone waar land en zee elkaar raken",
+      "de lijn in de zee tot waar schepen mogen varen",
+      "het droge strand dat zichtbaar is bij laag water"
+    ],
+    "correct": 1,
+    "explanation": "'Kust' = de grenszone tussen land en zee. Meervoud: 'kusten'. Synoniem: 'zeekant', 'oever' (rivier). Figuurlijk: 'de kust is veilig' = het gevaar is geweken; 'de kust schoonhouden' = zorgen dat niemand iets merkt.",
+    "hint": "Strand en kust zijn nauw verwant maar niet hetzelfde. Strand is het zandige deel; wat is kust?",
+    "collocations": [
+      "langs de kust",
+      "de kust is veilig",
+      "kustlijn"
+    ]
+  },
+  {
+    "word": "licht",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het eerste <mark>licht</mark> van de ochtend scheen door de gordijnen de slaapkamer in.",
+      "Zet het <mark>licht</mark> aan — het is te donker om hier te lezen.",
+      "Ze ziet haar toekomst nu in een totaal ander <mark>licht</mark> na de reis."
+    ],
+    "options": [
+      "de warmte die door de zon of een vuur wordt uitgestraald",
+      "elektromagnetische straling die zichtbaar maakt wat er om je heen is",
+      "de energie die planten opslaan via fotosynthese",
+      "het schijnsel dat 's nachts door de maan wordt weerkaatst"
+    ],
+    "correct": 1,
+    "explanation": "'Licht' = zichtbare elektromagnetische straling die zien mogelijk maakt. Antonym: 'duisternis', 'donker'. Synoniem: 'schijnsel', 'glans'. Figuurlijk: 'iets in een ander licht zien' = iets anders beoordelen; 'een lichtpuntje' = een positief aspect in een slechte situatie.",
+    "hint": "Warmte en licht worden allebei door de zon uitgestraald maar zijn niet hetzelfde. Wat is de specifieke eigenschap van licht die het van warmte onderscheidt?",
+    "collocations": [
+      "het licht aandoen",
+      "in een ander licht zien",
+      "een lichtpuntje"
+    ]
+  },
+  {
+    "word": "lucht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Na de regen rook de <mark>lucht</mark> fris en schoon.",
+      "Het vliegtuig steeg op en verdween in de blauwe <mark>lucht</mark>.",
+      "Er hangt een gespannen <mark>lucht</mark> in de vergaderkamer na de aankondiging."
+    ],
+    "options": [
+      "de combinatie van gassen direct boven het aardoppervlak die we inademen",
+      "de zone buiten de atmosfeer waar sterren en planeten bevinden",
+      "de neerslag die vanuit wolken op het aardoppervlak valt",
+      "de wind die ontstaat door temperatuurverschillen in de atmosfeer"
+    ],
+    "correct": 0,
+    "explanation": "'Lucht' = de gaslaag om de aarde die we inademen, of de zichtbare hemel. Synoniem: 'atmosfeer', 'hemel' (de zichtbare lucht). Figuurlijk: 'er hangt iets in de lucht' = er is iets op til; 'lucht geven aan gevoelens' = gevoelens uiten.",
+    "hint": "Dit woord beschrijft zowel wat je inademt als wat je ziet als je omhoog kijkt. Wat is de dubbele betekenis?",
+    "collocations": [
+      "frisse lucht",
+      "in de lucht hangen",
+      "lucht geven aan"
+    ]
+  },
+  {
+    "word": "maan",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De volle <mark>maan</mark> verlichte de donkere landweg.",
+      "Astronauten hebben voor het eerst in 1969 op de <mark>maan</mark> gelopen.",
+      "Ze keek hem aan alsof hij de <mark>maan</mark> voor haar had geplukt."
+    ],
+    "options": [
+      "een grote gloeiende gasbal die het middelpunt van ons zonnestelsel vormt",
+      "een hemellichaam dat een planeet omcirkelt en geen eigen licht heeft",
+      "een klein rotsachtig object dat door de ruimte beweegt zonder vast pad",
+      "een lichtgevende stip aan de nachtelijke hemel op grote afstand"
+    ],
+    "correct": 1,
+    "explanation": "'Maan' = het natuurlijke satelliet van de Aarde. Met hoofdletter 'Maan' als onze maan specifiek. Synoniem: 'satelliet'. Figuurlijk: 'naar de maan zijn' = stuk of verloren zijn; 'de maan beloven' = iets beloven wat je niet kunt waarmaken.",
+    "hint": "Zon en maan zijn allebei hemellichamen. Wat is het fundamentele verschil — welke produceert zijn eigen licht?",
+    "collocations": [
+      "volle maan",
+      "maanlicht",
+      "naar de maan zijn"
+    ]
+  },
+  {
+    "word": "meer",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze zwommen in het koele <mark>meer</mark> na een lange wandeling door het bos.",
+      "Het IJsselmeer is het grootste <mark>meer</mark> van Nederland.",
+      "Er viel een <mark>meer</mark> aan tranen — iedereen was diep geraakt door de toespraak."
+    ],
+    "options": [
+      "een smalle, stromende waterloop die naar de zee beweegt",
+      "een grote, stilstaande watermassa die volledig door land is omgeven",
+      "een ondiepe plas water die na hevige regen tijdelijk ontstaat",
+      "een binnenzee die verbonden is met de oceaan via een zeestraat"
+    ],
+    "correct": 1,
+    "explanation": "'Meer' = een grote, stilstaande watermassa omgeven door land. Meervoud: 'meren'. Synoniem: 'plas' (kleiner), 'vijver' (heel klein). Figuurlijk: 'een meer van tranen' = heel veel tranen.",
+    "hint": "Meer, rivier en oceaan zijn alle drie grote waterlichamen. Wat onderscheidt een meer — beweegt het water en is het verbonden met de zee?",
+    "collocations": [
+      "zwemmen in een meer",
+      "aan het meer wonen",
+      "een meer van tranen"
+    ]
+  },
+  {
+    "word": "milieu",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Het bedrijf doet zijn best om het <mark>milieu</mark> zo min mogelijk te belasten.",
+      "Plastic afval vormt een ernstige bedreiging voor het <mark>milieu</mark>.",
+      "Ze groeide op in een intellectueel <mark>milieu</mark> waar boeken en kunst centraal stonden."
+    ],
+    "options": [
+      "de wilde natuur buiten de bewoonde wereld met bossen en bergen",
+      "de natuurlijke omgeving en de levensomstandigheden van organismen",
+      "het klimaatpatroon van een bepaalde regio over de afgelopen eeuwen",
+      "de overheid die verantwoordelijk is voor het beheer van de natuur"
+    ],
+    "correct": 1,
+    "explanation": "'Milieu' = de natuurlijke omgeving en levensomstandigheden. Van het Frans. Synoniem: 'omgeving', 'leefomgeving'. Figuurlijk: 'maatschappelijk milieu' = de sociale omgeving of klasse waarin iemand opgroeit.",
+    "hint": "Natuur en milieu overlappen maar zijn niet hetzelfde. Milieu benadrukt de interactie en impact — wat is het verschil?",
+    "collocations": [
+      "het milieu beschermen",
+      "milieubeleid",
+      "sociaal milieu"
+    ]
+  },
+  {
+    "word": "natuur",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen gingen de <mark>natuur</mark> in om insecten en planten te zoeken.",
+      "Het park grenst aan een groot <mark>natuur</mark>reservaat vol wilde flora en fauna.",
+      "Het is zijn <mark>natuur</mark> om anderen te helpen — hij kan het niet laten."
+    ],
+    "options": [
+      "alleen de wilde dieren die buiten de bewoonde wereld leven",
+      "al het levende en niet-levende buiten de door mensen gemaakte wereld",
+      "het landschap dat door mensen is aangepast voor recreatie en landbouw",
+      "de wetenschappelijke studie van levende organismen en hun omgeving"
+    ],
+    "correct": 1,
+    "explanation": "'Natuur' = al het bestaande buiten de door mensen gemaakte wereld. Synoniem: 'wilde omgeving', 'schepping'. Figuurlijk: 'van nature' = van zichzelf, als aangeboren eigenschap; 'de natuur van iets' = het wezen of karakter van iets.",
+    "hint": "Milieu en natuur zijn verwant maar verschillen in focus. Natuur beschrijft wat er is; milieu beschrijft de relatie met...?",
+    "collocations": [
+      "in de natuur zijn",
+      "van nature",
+      "de natuur beschermen"
+    ]
+  },
+  {
+    "word": "noorden",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Groningen ligt in het <mark>noorden</mark> van Nederland, ver van de Randstad.",
+      "De wind waaide uit het <mark>noorden</mark> en bracht koude lucht mee.",
+      "Hij is het <mark>noorden</mark> volledig kwijt na alle tegenslagen van de afgelopen maanden."
+    ],
+    "options": [
+      "de richting die je aanwijst als je naar de opkomende zon kijkt",
+      "de richting tegenover het zuiden, naar de Noordpool toe",
+      "de richting tegenover het oosten, naar de Atlantische Oceaan",
+      "de richting die wijst naar het midden van de aarde"
+    ],
+    "correct": 1,
+    "explanation": "'Noorden' = de richting naar de Noordpool, tegenover zuiden. Altijd met 'het'. Synoniem: 'noord'. Figuurlijk: 'het noorden kwijtraken' = de oriëntatie of controle verliezen.",
+    "hint": "Er zijn vier windrichtingen: noord, oost, west en zuid. Noorden is de richting naar de... pool?",
+    "collocations": [
+      "in het noorden",
+      "uit het noorden",
+      "het noorden kwijtraken"
+    ]
+  },
+  {
+    "word": "oceaan",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Het schip stak de <mark>oceaan</mark> over van Europa naar Amerika.",
+      "De <mark>Oceaan</mark> bedekt meer dan zeventig procent van het aardoppervlak.",
+      "De klimaatverandering heeft grote invloed op de temperatuur van de <mark>oceanen</mark>."
+    ],
+    "options": [
+      "een grote, binnenlandse watermassa omgeven door land",
+      "een van de grote zoutwaterzeeën die het grootste deel van de aarde bedekt",
+      "een smalle waterstrook tussen twee stukken land",
+      "een ondiepe kustzone waar het zeewater zoet en zout mengt"
+    ],
+    "correct": 1,
+    "explanation": "'Oceaan' = een van de vijf grote zoutwaterzeeën die de aarde bedekken. Meervoud: 'oceanen'. Synoniem: 'wereldzee', 'zee' (kleiner). Figuurlijk: 'een oceaan van mogelijkheden' = een enorme hoeveelheid kansen.",
+    "hint": "Zee en oceaan zijn allebei zout water, maar er is een duidelijk grootteverschil. Welke is groter?",
+    "collocations": [
+      "de Atlantische Oceaan",
+      "over de oceaan",
+      "een oceaan van mogelijkheden"
+    ]
+  },
+  {
+    "word": "omgeving",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze verkenden de <mark>omgeving</mark> van het hotel met een fiets op de eerste dag.",
+      "De fabriek heeft veel schade aangericht aan de <mark>omgeving</mark>.",
+      "In een vertrouwde <mark>omgeving</mark> voelt hij zich veel meer op zijn gemak."
+    ],
+    "options": [
+      "de verre wereld buiten het land waar iemand woont",
+      "het gebied of de sfeer rondom een bepaalde plek of persoon",
+      "de buurt in een stad met winkels en voorzieningen",
+      "het landschap specifiek buiten de bebouwde kom"
+    ],
+    "correct": 1,
+    "explanation": "'Omgeving' = het gebied of de sfeer rondom iets of iemand. Meervoud: 'omgevingen'. Synoniem: 'buurt', 'nabijheid', 'milieu'. Figuurlijk: 'sociale omgeving' = de mensen om je heen; 'in de omgeving van' = in de buurt van.",
+    "hint": "Omgeving, milieu en natuur beschrijven alle drie de context rondom je. Omgeving is het meest neutraal en breed — wat beschrijft het precies?",
+    "collocations": [
+      "de directe omgeving",
+      "in de omgeving van",
+      "sociale omgeving"
+    ]
+  },
+  {
+    "word": "oosten",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De zon komt op in het <mark>oosten</mark> en gaat onder in het westen.",
+      "Azië ligt ten <mark>oosten</mark> van Europa op de wereldkaart.",
+      "Het conflict tussen het <mark>oosten</mark> en westen van het land duurt al decennia."
+    ],
+    "options": [
+      "de richting tegenover het westen, waar de zon opkomt",
+      "de richting tegenover het noorden, naar de evenaar toe",
+      "de richting tegenover het zuiden, naar de Noordpool toe",
+      "de richting tegenover het oosten, waar de zon ondergaat"
+    ],
+    "correct": 0,
+    "explanation": "'Oosten' = de richting waar de zon opkomt, tegenover westen. Altijd met 'het'. Synoniem: 'oost'. Figuurlijk: 'het Oosten' = Azië of de voormalige Oostbloklanden.",
+    "hint": "De zon geeft je een dagelijkse aanwijzing voor deze richting. Aan welke kant komt de zon op?",
+    "collocations": [
+      "in het oosten",
+      "ten oosten van",
+      "het Verre Oosten"
+    ]
+  },
+  {
+    "word": "paard",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze rijdt elke weekend op haar <mark>paard</mark> door de bossen achter de boerderij.",
+      "Het <mark>paard</mark> werd historisch gebruikt als rijdier en trekdier in de landbouw.",
+      "Hij werkte als een <mark>paard</mark> — elke dag twaalf uur lang zonder te klagen."
+    ],
+    "options": [
+      "een groot gedomesticeerd zoogdier dat voor melk en vlees wordt gehouden",
+      "een groot gedomesticeerd zoogdier dat voor rijden en transport wordt ingezet",
+      "een groot wild zoogdier dat in kuddes op de savanne graast",
+      "een middelgroot gedomesticeerd dier met wol dat wordt gehouden voor zijn vacht"
+    ],
+    "correct": 1,
+    "explanation": "'Paard' = een groot gedomesticeerd zoogdier voor rijden en transport. Meervoud: 'paarden'. Vrouwelijk: 'merrie', mannelijk: 'hengst', jong: 'veulen'. Figuurlijk: 'werken als een paard' = zeer hard werken; 'een ander paard van stal halen' = een ander argument gebruiken.",
+    "hint": "Koe en paard zijn allebei grote gedomesticeerde zoogdieren. Wat is de bekendste functionele rol van het paard die de koe niet heeft?",
+    "collocations": [
+      "paardrijden",
+      "werken als een paard",
+      "een ander paard van stal"
+    ]
+  },
+  {
+    "word": "plaats",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Amsterdam is de grootste <mark>plaats</mark> van Nederland.",
+      "Zet de vase terug op zijn vaste <mark>plaats</mark> op de vensterbank.",
+      "Er was geen <mark>plaats</mark> meer in de trein — ze moest staan."
+    ],
+    "options": [
+      "een specifieke locatie, stad of dorp, of een beschikbare ruimte",
+      "uitsluitend een grote stad met meer dan honderdduizend inwoners",
+      "een stuk grond dat door iemand in bezit is genomen",
+      "een positie in een organisatie of hiërarchie"
+    ],
+    "correct": 0,
+    "explanation": "'Plaats' = een locatie in de ruimte, een stad of dorp, of een beschikbare ruimte. Meervoud: 'plaatsen'. Synoniem: 'plek', 'locatie', 'stad'. Figuurlijk: 'zijn plaats kennen' = zich bewust zijn van zijn positie; 'in de eerste plaats' = allereerst.",
+    "hint": "Plaats heeft meerdere betekenissen: een dorp of stad, maar ook een plek op een stoel of een ruimte. Wat verbindt al deze betekenissen?",
+    "collocations": [
+      "in de eerste plaats",
+      "een vaste plaats",
+      "zijn plaats kennen"
+    ]
+  },
+  {
+    "word": "planeet",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De Aarde is de derde <mark>planeet</mark> van de zon in ons zonnestelsel.",
+      "Wetenschappers hebben een nieuwe <mark>planeet</mark> ontdekt buiten ons zonnestelsel.",
+      "We moeten zuinig zijn op onze <mark>planeet</mark> — er is maar één Aarde."
+    ],
+    "options": [
+      "een groot hemellichaam dat zelf licht en warmte produceert",
+      "een groot hemellichaam dat een ster omcirkelt en geen eigen licht heeft",
+      "een kleine rots die door de ruimte beweegt en soms neerstort op aarde",
+      "een hemellichaam dat een planeet omcirkelt zoals onze maan"
+    ],
+    "correct": 1,
+    "explanation": "'Planeet' = een hemellichaam dat een ster omcirkelt. Meervoud: 'planeten'. Van het Griekse 'planetes' (zwervende ster). Synoniem: geen exact synoniem. Figuurlijk: 'op een andere planeet leven' = totaal niet in contact zijn met de realiteit.",
+    "hint": "Ster, planeet en maan zijn alle drie hemellichamen. Een planeet heeft één kenmerkende eigenschap die hem van een ster en een maan onderscheidt — welke?",
+    "collocations": [
+      "de planeet beschermen",
+      "op een andere planeet",
+      "planeten in ons zonnestelsel"
+    ]
+  },
+  {
+    "word": "poot",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De hond hief zijn <mark>poot</mark> op als hij iets vroeg.",
+      "De spin heeft acht <mark>poten</mark> waarmee ze haar web weeft en beweegt.",
+      "De tafel staat scheef omdat één <mark>poot</mark> korter is dan de andere drie."
+    ],
+    "options": [
+      "de vleugel van een vogel waarmee hij vliegt en zweeft",
+      "het been of de ledemaat van een dier of een meubel",
+      "de staart van een dier die voor balans of communicatie dient",
+      "de klauw of nagel die een dier gebruikt om te grijpen"
+    ],
+    "correct": 1,
+    "explanation": "'Poot' = het been van een dier of een poot van een meubel. Meervoud: 'poten'. Synoniem: 'been' (bij mensen), 'ledemaat'. Figuurlijk: 'geen poot uitsteken' = niets doen om te helpen; 'ergens poten voor hebben' = ergens talent voor hebben.",
+    "hint": "Been en poot beschrijven allebei een ledemaat. Wanneer zeg je 'poot' en wanneer 'been'?",
+    "collocations": [
+      "geen poot uitsteken",
+      "op vier poten staan",
+      "de poten van een tafel"
+    ]
+  },
+  {
+    "word": "regen",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze werd helemaal nat in de plotselinge <mark>regen</mark> zonder paraplu.",
+      "De boeren hoopten op <mark>regen</mark> na weken van droogte.",
+      "Er viel een <mark>regen</mark> van complimenten over haar na het optreden."
+    ],
+    "options": [
+      "bevroren neerslag die als witte vlokken uit wolken valt",
+      "vloeibaar water dat uit wolken op het aardoppervlak valt",
+      "kleine ijskorrels die bij onweer uit wolken vallen",
+      "waterdruppels die op het aardoppervlak condenseren als de temperatuur daalt"
+    ],
+    "correct": 1,
+    "explanation": "'Regen' = vloeibare neerslag uit wolken. Van 'regenen'. Synoniem: 'neerslag', 'buien'. Figuurlijk: 'een regen van complimenten' = heel veel complimenten tegelijk; 'nat als een kat' = doorweekt van de regen.",
+    "hint": "Regen, sneeuw en hagel zijn alle drie soorten neerslag. Wat is het onderscheidende kenmerk van regen?",
+    "collocations": [
+      "in de regen lopen",
+      "regen van complimenten",
+      "regenachtig weer"
+    ]
+  },
+  {
+    "word": "rivier",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen gooiden steentjes in de rustige <mark>rivier</mark> naast het wandelpad.",
+      "De Rijn is een van de belangrijkste <mark>rivieren</mark> van Europa voor scheepvaart.",
+      "Er stroomde een <mark>rivier</mark> van mensen door de straten tijdens het festival."
+    ],
+    "options": [
+      "een stilstaande, grote watermassa die door land is omgeven",
+      "een stromende waterloop die vanuit het binnenland naar de zee beweegt",
+      "een klein beekje dat alleen na hevige regenval water bevat",
+      "een kunstmatig aangelegde waterweg voor transport en irrigatie"
+    ],
+    "correct": 1,
+    "explanation": "'Rivier' = een stromende waterloop die naar zee beweegt. Meervoud: 'rivieren'. Synoniem: 'stroom', 'waterloop'. Figuurlijk: 'een rivier van mensen' = een grote stroom mensen; 'rivieren van bloed' = extreme geweldmetafoor.",
+    "hint": "Meer en rivier zijn allebei grote waterlichamen. Wat is het kenmerkende verschil tussen stilstaand en stromend water?",
+    "collocations": [
+      "langs de rivier",
+      "een rivier oversteken",
+      "de rivier stroomt"
+    ]
+  },
+  {
+    "word": "schaap",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De boer had een kudde van vijftig <mark>schapen</mark> op zijn boerderij.",
+      "Een <mark>schaap</mark> heeft een dikke wollen vacht die elk jaar wordt geschoren.",
+      "Ze liep als een volgzaam <mark>schaap</mark> mee met de groep zonder eigen mening."
+    ],
+    "options": [
+      "een groot gedomesticeerd dier met hoeven dat voor transport wordt gebruikt",
+      "een middelgroot gedomesticeerd graseter dat voor wol en vlees wordt gehouden",
+      "een groot gedomesticeerd zoogdier met hoorns dat voor melk staat bekend",
+      "een klein gedomesticeerd zoogdier met vacht dat als huisdier wordt gehouden"
+    ],
+    "correct": 1,
+    "explanation": "'Schaap' = een gedomesticeerd graseter gehouden voor wol en vlees. Meervoud: 'schapen'. Mannelijk: 'ram', vrouwelijk: 'ooi', jong: 'lam'. Figuurlijk: 'als een schaap meelopen' = kritiekloos volgen; 'het zwarte schaap' = het buitenbeentje van een groep.",
+    "hint": "Schaap, koe en varken zijn alle drie landbouwdieren. Wat is de meest specifieke economische functie van het schaap die de andere twee niet hebben?",
+    "collocations": [
+      "schapen tellen",
+      "het zwarte schaap",
+      "als een schaap meelopen"
+    ]
+  },
+  {
+    "word": "sneeuw",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen gingen naar buiten om in de verse <mark>sneeuw</mark> te spelen.",
+      "Na de zware <mark>sneeuw</mark>val werden meerdere vluchten gecanceld op het vliegveld.",
+      "Zijn haar is inmiddels zo wit als <mark>sneeuw</mark> geworden op zijn tachtigste."
+    ],
+    "options": [
+      "kleine ijskorrels die bij onweer uit de wolken vallen en pijn doen",
+      "bevroren neerslag die als witte, zachte vlokken uit wolken valt",
+      "een laag ijskristallen die 's nachts op het gras neerslaat",
+      "vloeibaar water dat bij hevige regen massaal op de grond valt"
+    ],
+    "correct": 1,
+    "explanation": "'Sneeuw' = bevroren neerslag in de vorm van vlokken. Van 'sneeuwen'. Synoniem: 'neerslag'. Figuurlijk: 'wit als sneeuw' = spierwit of onschuldig; 'dat is van geen kanten sneeuw' = dat klopt totaal niet.",
+    "hint": "Regen, sneeuw en hagel zijn alle drie neerslag. Wat is het kenmerkende van sneeuw qua temperatuur en vorm?",
+    "collocations": [
+      "sneeuw ruimen",
+      "wit als sneeuw",
+      "sneeuwval"
+    ]
+  },
+  {
+    "word": "steen",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Hij raapte een platte <mark>steen</mark> op en keilde die over het wateroppervlak.",
+      "De muur is gebouwd van oude bakstenen — elke <mark>steen</mark> is meer dan honderd jaar oud.",
+      "Er viel hem een <mark>steen</mark> van het hart toen hij hoorde dat alles goed was."
+    ],
+    "options": [
+      "een stuk hout dat van een gevelde boom is gezaagd",
+      "een hard, anorganisch materiaal dat van nature in de aardkorst voorkomt",
+      "een stuk metaal dat uit de grond gedolven wordt voor gebruik",
+      "een mengsel van zand en klei dat droog hard en duurzaam wordt"
+    ],
+    "correct": 1,
+    "explanation": "'Steen' = een hard, mineraal materiaal uit de aardkorst. Meervoud: 'stenen'. Synoniem: 'rots' (groot), 'kiezel' (klein). Figuurlijk: 'een steen van het hart vallen' = enorm opluchten; 'de eerste steen gooien' = de eerste beschuldiging uiten.",
+    "hint": "Hout, metaal en steen zijn alle drie bouwmaterialen. Wat maakt steen uniek — hoe is het gevormd?",
+    "collocations": [
+      "een steen gooien",
+      "steen van het hart",
+      "de eerste steen"
+    ]
+  },
+  {
+    "word": "storm",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>storm</mark> rukte bomen en dakpannen los in de hele regio.",
+      "Zeilers moeten goed voorbereid zijn als ze een zware <mark>storm</mark> verwachten.",
+      "Het besluit van de minister veroorzaakte een politieke <mark>storm</mark> in het parlement."
+    ],
+    "options": [
+      "een lichte bries die verkoeling brengt op een warme zomerdag",
+      "een zeer sterke wind met zware neerslag en mogelijk schade",
+      "een periode van aanhoudende, matige neerslag zonder wind",
+      "een luchtstroom die ontstaat door een temperatuurverschil tussen twee gebieden"
+    ],
+    "correct": 1,
+    "explanation": "'Storm' = extreme wind met potentieel gevaarlijke kracht. Meervoud: 'stormen'. Synoniem: 'orkaan' (tropisch), 'windstoot'. Figuurlijk: 'een storm van kritiek' = veel hevige kritiek; 'storm in een glas water' = veel ophef over weinig.",
+    "hint": "Wind en storm zijn allebei luchtbewegingen. Wat is het cruciale verschil in intensiteit en impact?",
+    "collocations": [
+      "een storm trekt over",
+      "storm van kritiek",
+      "storm in een glas water"
+    ]
+  },
+  {
+    "word": "strand",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De kinderen bouwden een zandkasteel op het <mark>strand</mark> bij de waterlijn.",
+      "Op zomerse dagen is het <mark>strand</mark> van Zandvoort bomvol met badgasten.",
+      "Ze strandde financieel na het faillissement van haar bedrijf."
+    ],
+    "options": [
+      "de zone waar zee en land elkaar raken, inclusief duinen",
+      "de smalle strook zand of kiezel direct langs het water",
+      "het ondiepe gedeelte van de zee dicht bij de kust",
+      "het gebied achter de duinen met specifieke kustvegetatie"
+    ],
+    "correct": 1,
+    "explanation": "'Strand' = de smalle strook zand direct langs het water. Meervoud: 'stranden'. Synoniem: 'badstrand', 'zeeoever'. Figuurlijk: 'stranden' (werkwoord) = mislukken of vastlopen; 'aangespoeld' = ergens onverwacht terechtkomen.",
+    "hint": "Strand en kust zijn beide aan het water. Strand is specifieker — welk deel van de kust is het strand precies?",
+    "collocations": [
+      "op het strand liggen",
+      "strand opruimen",
+      "aangespoeld op het strand"
+    ]
+  },
+  {
+    "word": "temperatuur",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>temperatuur</mark> buiten daalde gisteravond tot min vijf graden.",
+      "De dokter mat de <mark>temperatuur</mark> van het kind — het had koorts.",
+      "De politieke <mark>temperatuur</mark> in het land stijgt naarmate de verkiezingen naderen."
+    ],
+    "options": [
+      "de hoeveelheid regen of neerslag die een gebied ontvangt per jaar",
+      "de maat voor hoe warm of koud iets of iemand is",
+      "de kracht van de wind gemeten in meters per seconde",
+      "de vochtigheidsgraad van de lucht uitgedrukt in procenten"
+    ],
+    "correct": 1,
+    "explanation": "'Temperatuur' = een maat voor warmte uitgedrukt in graden. Meervoud: 'temperaturen'. Synoniem: 'warmtegraad'. Figuurlijk: 'de politieke temperatuur' = de spanning in de politiek; 'temperatuur opmeten' = de situatie peilen.",
+    "hint": "Het weer wordt beschreven door temperatuur, neerslag en wind. Temperatuur meet specifiek één aspect — welk?",
+    "collocations": [
+      "temperatuur meten",
+      "hoge temperaturen",
+      "de politieke temperatuur"
+    ]
+  },
+  {
+    "word": "varken",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De boer heeft twintig <mark>varkens</mark> in een grote schuur achter zijn huis.",
+      "Een <mark>varken</mark> is een intelligent dier dat meer leert dan men vaak denkt.",
+      "Eet niet zo snel — je lijkt wel een <mark>varken</mark>!"
+    ],
+    "options": [
+      "een gedomesticeerd dier met wol dat voor textiel wordt gehouden",
+      "een gedomesticeerd zoogdier met een snuit dat voor vlees wordt gehouden",
+      "een gedomesticeerd dier met hoeven dat voor transport wordt gebruikt",
+      "een gedomesticeerd dier dat voor melk en zuivelproducten wordt gehouden"
+    ],
+    "correct": 1,
+    "explanation": "'Varken' = een gedomesticeerd zoogdier dat voor vlees wordt gehouden. Meervoud: 'varkens'. Vrouwelijk: 'zeug', mannelijk: 'beer', jong: 'biggetje'. Figuurlijk: 'varken' als scheldwoord voor een vies of hebzuchtig persoon; 'het varken was gevonden' = de oplossing was gevonden.",
+    "hint": "Schaap, koe en varken zijn alle drie landbouwdieren. Wat is het meest bekende product van het varken?",
+    "collocations": [
+      "varkens fokken",
+      "een vuil varken",
+      "het varken is gevonden"
+    ]
+  },
+  {
+    "word": "vis",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze vingen drie grote <mark>vissen</mark> tijdens de vissersdag op het meer.",
+      "Een <mark>vis</mark> ademt via kieuwen en heeft vinnen om mee te zwemmen.",
+      "Hij voelde zich als een <mark>vis</mark> in het water in zijn nieuwe functie."
+    ],
+    "options": [
+      "een waterdier met kieuwen en vinnen dat in water ademt en zwemt",
+      "een waterdier met longen dat afwisselend in water en aan land leeft",
+      "een zeedier zonder ruggengraat met tentakels dat voortbeweegt via straling",
+      "een zeezoogdier dat adem haalt via een spuitgat bovenop zijn hoofd"
+    ],
+    "correct": 0,
+    "explanation": "'Vis' = een gewerveld waterdier met kieuwen. Meervoud: 'vissen' (dieren) of 'vis' (als voedsel). Synoniem: 'waterdiertje'. Figuurlijk: 'als een vis in het water zijn' = ergens volledig op zijn gemak zijn; 'een grote vis' = een belangrijk persoon.",
+    "hint": "Vis, walvis en kikker leven alle drie in het water. Wat onderscheidt een vis van een walvis in hoe het ademt?",
+    "collocations": [
+      "vis vangen",
+      "als een vis in het water",
+      "een grote vis"
+    ]
+  },
+  {
+    "word": "vlakte",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De trein reed urenlang door een uitgestrekte <mark>vlakte</mark> zonder enige heuvel.",
+      "De Sahara is een van de grootste woestijn<mark>vlakten</mark> ter wereld.",
+      "Op de Europese <mark>vlakte</mark> in Polen en Rusland ontbreekt elke vorm van reliëf."
+    ],
+    "options": [
+      "een landschapsvorm met diepe dalen en hoge toppen afgewisseld",
+      "een groot, uitgestrekt stuk land zonder noemenswaardige hoogteverschillen",
+      "een langgerekte verhoging in het landschap minder hoog dan een berg",
+      "een diep ingesneden terrein gevormd door millennia van riviererosie"
+    ],
+    "correct": 1,
+    "explanation": "'Vlakte' = een uitgestrekt, horizontaal stuk land. Meervoud: 'vlakten'. Synoniem: 'laagvlakte', 'prairie', 'steppe'. Figuurlijk: 'de vlakte kiezen' = een neutraal standpunt innemen om conflict te vermijden.",
+    "hint": "Berg, heuvel, dal en vlakte zijn alle vier landschapsvormen. Vlakte is de meest... horizontale. Wat is er specifiek afwezig?",
+    "collocations": [
+      "een uitgestrekte vlakte",
+      "de vlakte kiezen",
+      "vlak land"
+    ]
+  },
+  {
+    "word": "vogel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>vogels</mark> zingen elke ochtend vroeg in de tuin.",
+      "Een ooievaar is een grote <mark>vogel</mark> die in Nederland nestelt op schoorstenen.",
+      "Hij is een rare <mark>vogel</mark> — niemand begrijpt precies hoe hij denkt."
+    ],
+    "options": [
+      "een gewerveld dier met schubben dat in water leeft",
+      "een gewerveld dier met veren en vleugels dat meestal kan vliegen",
+      "een gevleugeld insect dat bloemen bestuift en honing produceert",
+      "een zoogdier dat als enige met vleugels kan vliegen"
+    ],
+    "correct": 1,
+    "explanation": "'Vogel' = een gewerveld dier met veren en vleugels. Meervoud: 'vogels'. Synoniem: 'gevogelte'. Figuurlijk: 'een rare vogel' = een eigenaardig persoon; 'vogels van gelijke veren vliegen samen' = mensen zoeken gelijkgezinden.",
+    "hint": "Vleermuizen en vogels kunnen allebei vliegen. Wat is het kenmerkende dat vogels uniek maakt als diergroep?",
+    "collocations": [
+      "vogels kijken",
+      "een rare vogel",
+      "vrij als een vogel"
+    ]
+  },
+  {
+    "word": "weer",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het <mark>weer</mark> was perfect voor een dagje strand: zonnig en warm.",
+      "Door het slechte <mark>weer</mark> werd de wedstrijd afgelast.",
+      "Hij is een <mark>weerhaan</mark> — zijn mening verandert met de wind mee."
+    ],
+    "options": [
+      "het langdurige gemiddelde van temperatuur en neerslag in een regio",
+      "de actuele atmosferische omstandigheden op een bepaald moment en locatie",
+      "de seizoensgebonden veranderingen in temperatuur en daglengte",
+      "de luchtvochtigheid en bewolking gemeten op één specifiek punt"
+    ],
+    "correct": 1,
+    "explanation": "'Weer' = de actuele atmosferische omstandigheden. Altijd met 'het'. Synoniem: 'weersgesteldheid'. Let op: 'weer' = nu; 'klimaat' = lange termijn gemiddelde. Figuurlijk: 'hondenweer' = vreselijk slecht weer; 'weerhaan' = iemand met wisselende meningen.",
+    "hint": "Weer en klimaat beschrijven allebei atmosferische omstandigheden. Wat is het cruciale tijdsverschil tussen de twee?",
+    "collocations": [
+      "het weer voorspellen",
+      "slecht weer",
+      "weerbericht"
+    ]
+  },
+  {
+    "word": "westen",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De zon gaat elke avond onder in het <mark>westen</mark>.",
+      "De Randstad ligt in het <mark>westen</mark> van Nederland.",
+      "Hij is het <mark>westen</mark> kwijt na alle tegenslagen van de afgelopen periode."
+    ],
+    "options": [
+      "de richting waar de zon opkomt, tegenover het oosten",
+      "de richting waar de zon ondergaat, tegenover het oosten",
+      "de richting tegenover het noorden, naar de evenaar",
+      "de richting tegenover het zuiden, naar de Noordpool"
+    ],
+    "correct": 1,
+    "explanation": "'Westen' = de richting waar de zon ondergaat, tegenover oosten. Altijd met 'het'. Synoniem: 'west'. Figuurlijk: 'het westen kwijtraken' = de oriëntatie verliezen.",
+    "hint": "De zon geeft dagelijks een aanwijzing. 's Ochtends staat ze in het oosten. Waar staat ze 's avonds?",
+    "collocations": [
+      "in het westen",
+      "ten westen van",
+      "het westen kwijtraken"
+    ]
+  },
+  {
+    "word": "wind",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De sterke <mark>wind</mark> blies haar hoed van haar hoofd.",
+      "Er staat een frisse <mark>wind</mark> — perfect om te zeilen op het IJmeer.",
+      "Er waait een nieuwe <mark>wind</mark> door het bedrijf na de komst van de nieuwe directeur."
+    ],
+    "options": [
+      "de neerslag die vanuit wolken op het aardoppervlak valt",
+      "de beweging van lucht veroorzaakt door luchtdruk- en temperatuurverschillen",
+      "de zonnestraling die warmte overbrengt naar het aardoppervlak",
+      "de verdamping van water die in de atmosfeer opstijgt als waterdamp"
+    ],
+    "correct": 1,
+    "explanation": "'Wind' = bewegende lucht door luchtdrukverschillen. Meervoud: 'winden'. Synoniem: 'bries' (zacht), 'storm' (sterk). Figuurlijk: 'er waait een nieuwe wind' = er zijn nieuwe ideeën of aanpakken; 'wind van de verandering'.",
+    "hint": "Storm en wind zijn gerelateerd maar beschrijven verschillende intensiteiten. Wat is het onderscheid?",
+    "collocations": [
+      "een frisse wind",
+      "wind van de verandering",
+      "met de wind mee"
+    ]
+  },
+  {
+    "word": "wolk",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Dikke grijze <mark>wolken</mark> pakten zich samen aan de horizon.",
+      "De kinderen wezen naar de <mark>wolken</mark> en zagen er dierenfiguren in.",
+      "Ze liep op een <mark>wolk</mark> na het goede nieuws — ze straalde."
+    ],
+    "options": [
+      "een laag ijskristallen die 's nachts op het gras neerslaat als het afkoelt",
+      "een zichtbare ophoping van kleine waterdruppels of ijskristallen in de lucht",
+      "de lichtgevende stralen van de zon die door de atmosfeer breken",
+      "een dichte mist die laag bij de grond hangt en het zicht belemmert"
+    ],
+    "correct": 1,
+    "explanation": "'Wolk' = een zichtbare concentratie waterdruppels of ijskristallen in de atmosfeer. Meervoud: 'wolken'. Synoniem: 'bewolking' (collectief). Figuurlijk: 'op een wolk lopen' = erg gelukkig zijn; 'wolken aan de horizon' = dreigende problemen.",
+    "hint": "Mist en wolken bestaan allebei uit waterdruppeltjes. Wat is het fundamentele verschil in hoogte?",
+    "collocations": [
+      "bewolkte lucht",
+      "op een wolk lopen",
+      "wolken samentrekken"
+    ]
+  },
+  {
+    "word": "woestijn",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De karavaan trok drie weken door de droge <mark>woestijn</mark> richting de oase.",
+      "De Sahara is de grootste hete <mark>woestijn</mark> ter wereld.",
+      "Het kantoor was een <mark>woestijn</mark> van creativiteit — niemand had ooit een nieuw idee."
+    ],
+    "options": [
+      "een gebied met dichte begroeiing en hevige jaarlijkse neerslag",
+      "een droog gebied met weinig neerslag en schaarse begroeiing",
+      "een koud en bevroren landschap op grote hoogte of in polaire zones",
+      "een uitgestrekte vlakte zonder enige begroeiing maar met veel neerslag"
+    ],
+    "correct": 1,
+    "explanation": "'Woestijn' = een gebied met extreme droogte en weinig begroeiing. Meervoud: 'woestijnen'. Synoniem: 'dorre vlakte'. Figuurlijk: 'een culturele woestijn' = een plek of periode zonder enige kunst of cultuur.",
+    "hint": "Woud en woestijn zijn twee extreme landschapstypen. Wat is het kenmerkende dat een woestijn heeft weinig van?",
+    "collocations": [
+      "door de woestijn trekken",
+      "een culturele woestijn",
+      "woestijnklimaat"
+    ]
+  },
+  {
+    "word": "woud",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "De avonturiers drongen het dichte oerwoud in op zoek naar de verloren stad.",
+      "Het Amazone<mark>woud</mark> is het grootste tropische regenwoud ter wereld.",
+      "Een <mark>woud</mark> van vragen kwamen op hem af tijdens de persconferentie."
+    ],
+    "options": [
+      "een klein groepje bomen in een park of langs een weg",
+      "een groot, dicht begroeid bosgebied dat vaak ongerept of wild is",
+      "een vlakte met verspreide bomen en struiken in een droog klimaat",
+      "een aangeplant bosgebied dat wordt beheerd voor houtproductie"
+    ],
+    "correct": 1,
+    "explanation": "'Woud' = een groot, dicht en vaak ongerept bosgebied. Meervoud: 'wouden'. Synoniem: 'oerwoud' (ongerept), 'bos' (kleiner/beheerster). Figuurlijk: 'een woud van vragen' = een enorme hoeveelheid vragen.",
+    "hint": "Bos en woud zijn allebei boomrijke gebieden. Welk woord suggereert meer grootsheid, wildheid of ongereptheid?",
+    "collocations": [
+      "het oerwoud",
+      "een woud van vragen",
+      "tropisch woud"
+    ]
+  },
+  {
+    "word": "zand",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "De kinderen maakten een zandkasteel met het vochtige <mark>zand</mark> aan de waterlijn.",
+      "De Sahara bestaat grotendeels uit rotsen, niet alleen uit <mark>zand</mark>.",
+      "Hij gooit <mark>zand</mark> in de ogen van de jury met zijn mooie woorden maar lege beloften."
+    ],
+    "options": [
+      "fijn, korrelig gesteente dat op stranden en in woestijnen voorkomt",
+      "een zachte, kleverige grondstof die in klei-grond voorkomt",
+      "losse steentjes van middelgrote grootte die in rivieren gevonden worden",
+      "een fijn poeder dat ontstaat bij het vermalen van kalk of gips"
+    ],
+    "correct": 0,
+    "explanation": "'Zand' = fijn korrelig gesteente. Ontelbaar zelfstandig naamwoord. Synoniem: 'grof zand', 'fijn zand'. Figuurlijk: 'zand in de ogen gooien' = iemand misleiden; 'zand erover' = laten we dit vergeten en doorgaan.",
+    "hint": "Klei, zand en grind zijn alle drie soorten grondmateriaal. Wat is het kenmerkende van zand qua korrelgrootte en textuur?",
+    "collocations": [
+      "zand in de ogen gooien",
+      "zand erover",
+      "zanderig strand"
+    ]
+  },
+  {
+    "word": "zee",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze zwommen elke ochtend in de koele <mark>zee</mark> voor het ontbijt.",
+      "De Noordzee is de <mark>zee</mark> die Nederland aan de westkant begrenst.",
+      "Er was een <mark>zee</mark> van tijd voor de deadline — alles was prima te regelen."
+    ],
+    "options": [
+      "een grote, stilstaande watermassa volledig omgeven door land",
+      "een uitgestrekte watermassa met zout water, kleiner dan een oceaan",
+      "een binnenmeer dat door een zeestraat verbonden is met de oceaan",
+      "de totale hoeveelheid water op aarde inclusief grondwater"
+    ],
+    "correct": 1,
+    "explanation": "'Zee' = een uitgestrekte zoutwatermassa, kleiner dan een oceaan. Meervoud: 'zeeën'. Synoniem: 'oceaan' (groter). Figuurlijk: 'een zee van tijd' = heel veel tijd; 'op zee zijn' = aan het varen zijn.",
+    "hint": "Meer, zee en oceaan zijn alle drie grote waterlichamen. Zee zit qua grootte tussen de twee andere in — maar wat is het kenmerkende van zee vergeleken met meer?",
+    "collocations": [
+      "naar zee gaan",
+      "op zee zijn",
+      "een zee van tijd"
+    ]
+  },
+  {
+    "word": "zon",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De <mark>zon</mark> scheen fel op de terrasjes en iedereen genoot van het mooie weer.",
+      "Gebruik zonnebrandcrème want de <mark>zon</mark> is vandaag erg sterk.",
+      "Zij is de <mark>zon</mark> in zijn leven — ze brengt altijd vrolijkheid mee."
+    ],
+    "options": [
+      "een hemellichaam dat een planeet omcirkelt en reflecteert licht",
+      "de ster die het middelpunt van ons zonnestelsel vormt en licht en warmte geeft",
+      "een gloeiende gasbal op grote afstand die 's nachts als ster zichtbaar is",
+      "een planetair systeem met meerdere sterren rond een centraal zwart gat"
+    ],
+    "correct": 1,
+    "explanation": "'Zon' = de ster die het middelpunt van ons zonnestelsel vormt. Met hoofdletter 'Zon' als astronomisch object. Synoniem: 'zonlicht', 'zonneschijn'. Figuurlijk: 'de zon van iemands leven' = iemands grootste vreugde; 'in de zon lopen' = de aandacht naar je toe trekken.",
+    "hint": "Zon en maan zijn de twee prominentste hemellichamen voor ons. Zon produceert haar eigen licht — wat weerkaatst de maan?",
+    "collocations": [
+      "in de zon zitten",
+      "de zon schijnt",
+      "de zon in iemands leven"
+    ]
+  },
+  {
+    "word": "zuiden",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Limburg ligt in het <mark>zuiden</mark> van Nederland, grenzend aan België.",
+      "Elke winter trekken veel vogels naar het warme <mark>zuiden</mark>.",
+      "Ze zoekt altijd het <mark>zuiden</mark> op bij conflicten — ze vermijdt elke confrontatie."
+    ],
+    "options": [
+      "de richting tegenover het noorden, naar de Zuidpool toe",
+      "de richting tegenover het oosten, waar de zon ondergaat",
+      "de richting tegenover het westen, waar de zon opkomt",
+      "de richting tegenover het zuiden, naar de Noordpool toe"
+    ],
+    "correct": 0,
+    "explanation": "'Zuiden' = de richting tegenover noorden, naar de Zuidpool. Altijd met 'het'. Synoniem: 'zuid'. Figuurlijk: 'naar het zuiden gaan' = naar warmere oorden gaan; 'het zuiden opzoeken' = conflict vermijden.",
+    "hint": "Er zijn vier windrichtingen. Zuiden is het tegenovergestelde van noorden. Naar welke pool wijst het zuiden?",
+    "collocations": [
+      "in het zuiden",
+      "naar het zuiden trekken",
+      "het zuiden opzoeken"
+    ]
+  }
+]
