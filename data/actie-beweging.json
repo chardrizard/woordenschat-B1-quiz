@@ -10,11 +10,11 @@
     ],
     "options": [
       "iets toevallig ontdekken zonder er bewust naar te zoeken",
-      "iets vaststellen of beslissen op basis van onderzoek of overweging",
+      "iets meten zonder er een conclusie aan te verbinden",
       "iets uitvoeren nadat een ander de beslissing heeft genomen",
-      "iets meten zonder er een conclusie aan te verbinden"
+      "iets vaststellen of beslissen op basis van onderzoek of overweging"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Bepalen' = vaststellen of beslissen, vaak na nadenken of onderzoek. Verleden tijd: 'bepaalde', voltooid deelwoord: 'bepaald'. Synoniem: 'vaststellen', 'beslissen'. Figuurlijk: 'de prijs bepalen' = de hoogte van een prijs vastleggen; 'zijn eigen koers bepalen' = zelfstandig keuzes maken.",
     "hint": "Dit woord impliceert een actief proces dat eindigt in een conclusie of keuze. Wat is het verschil tussen iets bepalen en iets raden?",
     "collocations": [
@@ -33,12 +33,12 @@
       "De organisatie hoopt met deze campagne een breed publiek te <mark>bereiken</mark>."
     ],
     "options": [
-      "ergens langzaam naartoe bewegen zonder zeker te weten of je aankomt",
       "ergens mee stoppen nadat je het een tijdje hebt geprobeerd",
-      "ergens naartoe gaan en er daadwerkelijk aankomen, of een doel behalen",
-      "contact opnemen met iemand zonder te weten of die persoon reageert"
+      "contact opnemen met iemand zonder te weten of die persoon reageert",
+      "ergens langzaam naartoe bewegen zonder zeker te weten of je aankomt",
+      "ergens naartoe gaan en er daadwerkelijk aankomen, of een doel behalen"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Bereiken' = ergens aankomen of een doel behalen. Verleden tijd: 'bereikte', voltooid deelwoord: 'bereikt'. Van 'reiken' (strekken). Synoniem: 'halen', 'behalen'. Figuurlijk: 'iemand bereiken' = contact krijgen met iemand; 'een publiek bereiken' = mensen aanspreken.",
     "hint": "Het gaat niet alleen om bewegen, maar om het eindpunt. Wat is het verschil tussen onderweg zijn naar iets en er daadwerkelijk zijn?",
     "collocations": [
@@ -57,12 +57,12 @@
       "Zijn gedrag <mark>bezorgde</mark> zijn ouders veel zorgen."
     ],
     "options": [
-      "iets opsturen via de post zonder te weten wanneer het aankomt",
-      "iets of iemand naar een bestemming brengen, of iets veroorzaken bij iemand",
       "iets achterlaten zonder te controleren of de juiste persoon het ontvangt",
-      "iets uitwisselen met iemand anders in ruil voor iets"
+      "iets uitwisselen met iemand anders in ruil voor iets",
+      "iets of iemand naar een bestemming brengen, of iets veroorzaken bij iemand",
+      "iets opsturen via de post zonder te weten wanneer het aankomt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Bezorgen' = iets naar een bestemming brengen (letterlijk), of iets veroorzaken bij iemand (figuurlijk). Verleden tijd: 'bezorgde', voltooid deelwoord: 'bezorgd'. Synoniem: 'afleveren', 'brengen'. Figuurlijk: 'zorgen bezorgen' = problemen of angst veroorzaken.",
     "hint": "Dit woord heeft een letterlijke en een figuurlijke betekenis. Beide impliceren dat iets bij iemand terechtkomt — maar wat is in de figuurlijke betekenis dat 'iets'?",
     "collocations": [
@@ -81,12 +81,12 @@
       "De resultaten van het onderzoek <mark>bleven</mark> onduidelijk na meerdere analyses."
     ],
     "options": [
-      "op een andere plek gaan zijn dan waar je nu bent",
       "op dezelfde plek of in dezelfde toestand voortduren",
-      "langzaam veranderen totdat je iets heel anders bent geworden",
-      "tijdelijk ergens zijn met de bedoeling daarna weg te gaan"
+      "tijdelijk ergens zijn met de bedoeling daarna weg te gaan",
+      "op een andere plek gaan zijn dan waar je nu bent",
+      "langzaam veranderen totdat je iets heel anders bent geworden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Blijven' = op dezelfde plek, toestand of situatie voortduren. Verleden tijd: 'bleef', voltooid deelwoord: 'gebleven'. Synoniem: 'aanblijven', 'verblijven'. Figuurlijk: 'kalm blijven' = je emoties beheersen; 'dat blijft zo' = dat verandert niet.",
     "hint": "Dit woord beschrijft het tegenovergestelde van verandering of vertrek. Wat blijft er gelijk?",
     "collocations": [
@@ -105,12 +105,12 @@
       "De twee landen <mark>bouwden</mark> aan een sterkere samenwerking na jaren van conflict."
     ],
     "options": [
-      "een bestaand gebouw of object repareren na schade",
-      "stap voor stap iets construeren of opbouwen uit materialen of elementen",
+      "iets verwijderen om ruimte te maken voor iets nieuws",
       "een ontwerp maken voor iets zonder het daadwerkelijk te maken",
-      "iets verwijderen om ruimte te maken voor iets nieuws"
+      "stap voor stap iets construeren of opbouwen uit materialen of elementen",
+      "een bestaand gebouw of object repareren na schade"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Bouwen' = stap voor stap iets construeren. Verleden tijd: 'bouwde', voltooid deelwoord: 'gebouwd'. Synoniem: 'construeren', 'oprichten'. Figuurlijk: 'bouwen aan iets' = geleidelijk aan iets werken; 'op iemand bouwen' = iemand vertrouwen.",
     "hint": "Dit woord impliceert dat iets nog niet bestaat en door menselijke inspanning tot stand komt. Wat is het verschil tussen bouwen en repareren?",
     "collocations": [
@@ -130,11 +130,11 @@
     ],
     "options": [
       "iets langzaam slijten totdat het niet meer bruikbaar is",
-      "iets in stukken splitsen door kracht, of een record of afspraak verbreken",
       "iets buigen totdat het een andere vorm heeft aangenomen",
+      "iets in stukken splitsen door kracht, of een record of afspraak verbreken",
       "iets zo hard drukken dat het zijn oorspronkelijke positie verliest"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Breken' = in stukken splijten door kracht, of figuurlijk een grens of afspraak verbreken. Verleden tijd: 'brak', voltooid deelwoord: 'gebroken'. Synoniem: 'stukgaan', 'verbreken'. Figuurlijk: 'een record breken' = een record verbeteren; 'een belofte breken' = een belofte niet nakomen.",
     "hint": "Dit woord beschrijft een abrupte verandering van de integriteit van iets. Wat is het verschil tussen breken en buigen?",
     "collocations": [
@@ -155,8 +155,8 @@
     "options": [
       "iets of iemand ophalen van een andere plek en meenemen",
       "iets of iemand van hier naar een andere plek verplaatsen",
-      "iets achterlaten op een plek zonder dat je het zelf draagt",
-      "iets sturen via de post naar een ander adres"
+      "iets sturen via de post naar een ander adres",
+      "iets achterlaten op een plek zonder dat je het zelf draagt"
     ],
     "correct": 1,
     "explanation": "'Brengen' = iets of iemand van de huidige plek naar een andere plek verplaatsen. Verleden tijd: 'bracht', voltooid deelwoord: 'gebracht'. Antonym: 'halen'. Synoniem: 'bezorgen', 'afleveren'. Figuurlijk: 'veranderingen brengen' = veranderingen veroorzaken.",
@@ -177,12 +177,12 @@
       "De populariteit van de partij <mark>daalde</mark> sterk na het schandaal."
     ],
     "options": [
-      "op hetzelfde niveau of dezelfde hoogte blijven zonder te bewegen",
-      "omhoog bewegen of in waarde of aantal toenemen",
+      "snel en ongecontroleerd naar beneden vallen zonder richting",
       "omlaag bewegen of in waarde, hoeveelheid of niveau afnemen",
-      "snel en ongecontroleerd naar beneden vallen zonder richting"
+      "omhoog bewegen of in waarde of aantal toenemen",
+      "op hetzelfde niveau of dezelfde hoogte blijven zonder te bewegen"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "'Dalen' = omlaag bewegen of in waarde/niveau afnemen. Verleden tijd: 'daalde', voltooid deelwoord: 'gedaald'. Antonym: 'stijgen'. Synoniem: 'zakken', 'afnemen'. Figuurlijk: 'de koersen daalden' = aandelenkoersen gingen omlaag; 'dalende populariteit'.",
     "hint": "Dit woord is het tegenovergestelde van stijgen. Maar wat is het verschil tussen dalen en vallen?",
     "collocations": [
@@ -201,12 +201,12 @@
       "De nieuwe maatregel <mark>doet</mark> weinig om het werkelijke probleem op te lossen."
     ],
     "options": [
+      "iets laten uitvoeren door iemand anders in jouw naam",
       "denken over een taak zonder hem daadwerkelijk uit te voeren",
-      "een handeling uitvoeren of ergens aan deelnemen",
       "iets plannen voor de toekomst zonder te weten of je het haalt",
-      "iets laten uitvoeren door iemand anders in jouw naam"
+      "een handeling uitvoeren of ergens aan deelnemen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Doen' = een handeling uitvoeren, het meest algemene werkwoord voor actie in het Nederlands. Verleden tijd: 'deed', voltooid deelwoord: 'gedaan'. Synoniem: 'uitvoeren', 'verrichten'. Figuurlijk: 'je best doen' = je uiterste best proberen; 'wat doet dat ertoe?' = wat maakt dat uit?",
     "hint": "Dit is het meest algemene Nederlandse werkwoord voor actie. Wat onderscheidt het van denken of plannen?",
     "collocations": [
@@ -225,12 +225,12 @@
       "De nieuwe film <mark>draait</mark> al weken in de bioscoop met groot succes."
     ],
     "options": [
-      "iets van de ene naar de andere kant verschuiven in een rechte lijn",
       "iets of jezelf ronddraaien of bewegen om een middelpunt",
+      "iets kantelen zodat de onder- en bovenkant van positie wisselen",
       "iets zo snel mogelijk in een bepaalde richting duwen",
-      "iets kantelen zodat de onder- en bovenkant van positie wisselen"
+      "iets van de ene naar de andere kant verschuiven in een rechte lijn"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Draaien' = ronddraaien of bewegen om een as of middelpunt. Verleden tijd: 'draaide', voltooid deelwoord: 'gedraaid'. Synoniem: 'ronddraaien', 'wentelen'. Figuurlijk: 'een film draait' = een film wordt vertoond; 'ergens omheen draaien' = een onderwerp vermijden.",
     "hint": "Dit woord beschrijft een cirkelvormige beweging. Wat is het verschil tussen draaien en verschuiven?",
     "collocations": [
@@ -250,11 +250,11 @@
     ],
     "options": [
       "iets op een plek neerzetten zodat het daar blijft staan",
-      "iets met je mee vervoeren of op je lichaam hebben",
       "iets van de ene naar de andere persoon overgeven",
+      "iets met je mee vervoeren of op je lichaam hebben",
       "iets vasthouden zonder het te bewegen of te verplaatsen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Dragen' = iets met je meenemen of op je lichaam hebben. Verleden tijd: 'droeg', voltooid deelwoord: 'gedragen'. Synoniem: 'torsen' (zwaar), 'meedragen'. Figuurlijk: 'verantwoordelijkheid dragen' = verantwoordelijk zijn; 'bij dragen aan' = een bijdrage leveren.",
     "hint": "Dit woord impliceert dat iets in contact met je lichaam is terwijl je beweegt. Wat is het verschil tussen dragen en duwen?",
     "collocations": [
@@ -273,10 +273,10 @@
       "De hoge huurprijzen <mark>drukken</mark> op het budget van veel jonge mensen."
     ],
     "options": [
-      "iets loslaten zodat het naar beneden valt door de zwaartekracht",
-      "kracht uitoefenen op iets of iemand door te duwen of te knijpen",
       "iets snel bewegen van de ene naar de andere kant",
-      "iets oppakken en vasthouden zonder kracht uit te oefenen"
+      "kracht uitoefenen op iets of iemand door te duwen of te knijpen",
+      "iets oppakken en vasthouden zonder kracht uit te oefenen",
+      "iets loslaten zodat het naar beneden valt door de zwaartekracht"
     ],
     "correct": 1,
     "explanation": "'Drukken' = kracht uitoefenen op iets door duwen of samendrukken. Verleden tijd: 'drukte', voltooid deelwoord: 'gedrukt'. Synoniem: 'duwen', 'indrukken'. Figuurlijk: 'op iemands gemoed drukken' = iemand zwaar vallen; 'druk uitoefenen' = iemand onder druk zetten.",
@@ -298,11 +298,11 @@
     ],
     "options": [
       "iets naar je toe bewegen door er kracht op uit te oefenen",
-      "iets van je af bewegen door er kracht op uit te oefenen",
       "iets op zijn plek houden door er kracht op te zetten",
+      "iets van je af bewegen door er kracht op uit te oefenen",
       "iets langzaam omhoog tillen met je handen of armen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Duwen' = iets van je af bewegen door kracht. Verleden tijd: 'duwde', voltooid deelwoord: 'geduwd'. Antonym: 'trekken'. Synoniem: 'stoten', 'wegduwen'. Figuurlijk: 'iemand duwen in een bepaalde richting' = iemand aansporen of onder druk zetten.",
     "hint": "Duwen en trekken zijn elkaars tegenovergestelde. Als je iets trekt, breng je het naar je toe. Wat doe je bij duwen?",
     "collocations": [
@@ -321,12 +321,12 @@
       "Het gesprek <mark>ging</mark> over de plannen voor de komende reorganisatie."
     ],
     "options": [
-      "op een plek blijven zonder van positie of richting te veranderen",
       "zich verplaatsen van de huidige locatie naar ergens anders",
+      "iets overdragen aan een ander persoon die daarvoor verantwoordelijk wordt",
       "langzaam nadenken over een beslissing die je wilt nemen",
-      "iets overdragen aan een ander persoon die daarvoor verantwoordelijk wordt"
+      "op een plek blijven zonder van positie of richting te veranderen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Gaan' = zich verplaatsen naar ergens. Verleden tijd: 'ging', voltooid deelwoord: 'gegaan'. Synoniem: 'vertrekken', 'zich begeven naar'. Figuurlijk: 'hoe gaat het?' = hoe is het met je?; 'het gaat over...' = het onderwerp is...",
     "hint": "Dit is het basiswerkwoord voor verplaatsing. Hoe verschilt het van 'komen'?",
     "collocations": [
@@ -345,12 +345,12 @@
       "De tijd <mark>gleed</mark> voorbij terwijl ze verdiept was in haar boek."
     ],
     "options": [
-      "snel en met veel kracht in een bepaalde richting bewegen",
       "soepel en zonder wrijving over een oppervlak bewegen",
-      "moeilijk en langzaam vooruitkomen door een taai of dik materiaal",
-      "springen en kort de grond verlaten voor een korte afstand"
+      "springen en kort de grond verlaten voor een korte afstand",
+      "snel en met veel kracht in een bepaalde richting bewegen",
+      "moeilijk en langzaam vooruitkomen door een taai of dik materiaal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Glijden' = soepel en zonder weerstand over een oppervlak bewegen. Verleden tijd: 'gleed', voltooid deelwoord: 'gegleden'. Synoniem: 'schuiven', 'slippen'. Figuurlijk: 'de tijd glijdt voorbij' = de tijd verstrijkt snel zonder dat je het merkt.",
     "hint": "Dit woord beschrijft een bijzondere kwaliteit van beweging. Wat is het kenmerk van het oppervlak of de beweging zelf?",
     "collocations": [
@@ -369,10 +369,10 @@
       "De politicus <mark>gooide</mark> zijn plannen overboord na het mislukken van de onderhandelingen."
     ],
     "options": [
-      "iets voorzichtig en nauwkeurig op een plek neerzetten",
-      "iets loslaten zodat het door de lucht beweegt door een armbeweging",
       "iets hard op de grond laten vallen door het niet meer vast te houden",
-      "iets naar iemand bewegen door het langzaam aan te reiken"
+      "iets loslaten zodat het door de lucht beweegt door een armbeweging",
+      "iets naar iemand bewegen door het langzaam aan te reiken",
+      "iets voorzichtig en nauwkeurig op een plek neerzetten"
     ],
     "correct": 1,
     "explanation": "'Gooien' = iets door de lucht laten bewegen door een armbeweging. Verleden tijd: 'gooide', voltooid deelwoord: 'gegooid'. Synoniem: 'werpen', 'smijten' (harder). Figuurlijk: 'plannen overboord gooien' = plannen opgeven; 'olie op het vuur gooien' = een situatie verergeren.",
@@ -417,12 +417,12 @@
       "Er <mark>hing</mark> een gespannen sfeer in de vergaderruimte voor de aankondiging."
     ],
     "options": [
-      "iets op de grond leggen zodat het een steun heeft van onderaf",
       "iets bevestigen aan een punt van bovenaf zodat het vrij naar beneden hangt",
-      "iets stevig vastzetten zodat het niet kan bewegen in welke richting dan ook",
-      "iets tegen een muur plaatsen zonder het te bevestigen"
+      "iets tegen een muur plaatsen zonder het te bevestigen",
+      "iets op de grond leggen zodat het een steun heeft van onderaf",
+      "iets stevig vastzetten zodat het niet kan bewegen in welke richting dan ook"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Hangen' = bevestigd zijn of hangen aan een punt van bovenaf. Verleden tijd: 'hing', voltooid deelwoord: 'gehangen'. Synoniem: 'ophangen'. Figuurlijk: 'er hangt iets in de lucht' = er is iets op til; 'een sfeer hangt' = een stemming is aanwezig.",
     "hint": "Dit woord beschrijft een positie waarbij iets van bovenaf wordt ondersteund. Wat is het verschil tussen hangen en staan?",
     "collocations": [
@@ -441,12 +441,12 @@
       "Het nieuwe medicijn <mark>helpt</mark> niet bij alle patiënten even goed."
     ],
     "options": [
-      "iets overnemen van iemand zodat diegene er niets meer mee te maken heeft",
       "iemand ondersteunen bij iets zodat het gemakkelijker of mogelijk wordt",
+      "iets voor iemand doen zonder dat die persoon het weet of vraagt",
       "iemand vertellen wat hij moet doen zonder zelf iets bij te dragen",
-      "iets voor iemand doen zonder dat die persoon het weet of vraagt"
+      "iets overnemen van iemand zodat diegene er niets meer mee te maken heeft"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Helpen' = iemand ondersteunen bij iets zodat het gemakkelijker of mogelijk wordt. Verleden tijd: 'hielp', voltooid deelwoord: 'geholpen'. Synoniem: 'bijstaan', 'ondersteunen'. Figuurlijk: 'dat helpt niet' = dat heeft geen effect; 'een medicijn helpt' = een medicijn werkt.",
     "hint": "Bij dit woord doe je iets samen met iemand of voor iemand die het nodig heeft. Wat is het verschil tussen helpen en overnemen?",
     "collocations": [
@@ -465,12 +465,12 @@
       "Het programma <mark>heette</mark> vroeger anders voordat het een nieuwe naam kreeg."
     ],
     "options": [
-      "een naam of titel aan iets of iemand geven",
-      "een naam of titel dragen, als aanduiding voor wie of wat je bent",
       "beschrijven hoe iets eruit ziet of aanvoelt",
-      "beweren dat iets of iemand een andere naam zou moeten hebben"
+      "beweren dat iets of iemand een andere naam zou moeten hebben",
+      "een naam of titel dragen, als aanduiding voor wie of wat je bent",
+      "een naam of titel aan iets of iemand geven"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Heten' = een bepaalde naam dragen. Verleden tijd: 'heette', voltooid deelwoord: 'geheten'. Synoniem: 'worden genoemd', 'de naam dragen'. Let op het verschil: 'noemen' = een naam geven; 'heten' = een naam hebben.",
     "hint": "Noemen en heten zijn verwant maar omgekeerd. Als je iemand iets noemt, geef jij de naam. Bij heten — wie heeft de naam?",
     "collocations": [
@@ -489,12 +489,12 @@
       "Dit gedrag <mark>hoort</mark> niet thuis in een professionele omgeving."
     ],
     "options": [
-      "bewust en aandachtig waarnemen wat iemand zegt",
       "geluid ontvangen via het gehoor, of ergens bij horen",
       "een geluid produceren dat anderen kunnen waarnemen",
+      "bewust en aandachtig waarnemen wat iemand zegt",
       "iets begrijpen na lang nadenken over wat er is gezegd"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Horen' = geluid ontvangen via het gehoor (passief), of ergens bij behoren. Verleden tijd: 'hoorde', voltooid deelwoord: 'gehoord'. Synoniem: 'vernemen'. Let op: 'horen' is passief, 'luisteren' is actief en bewust. Figuurlijk: 'dit hoort er niet bij' = dit past niet.",
     "hint": "Horen en luisteren zijn allebei auditief, maar één is passief en één is actief. Welke is welke?",
     "collocations": [
@@ -513,12 +513,12 @@
       "Hij <mark>keek</mark> somber toen hij het nieuws las op zijn telefoon."
     ],
     "options": [
-      "iets waarnemen met het gehoor zonder er bewust op te letten",
       "met de ogen gericht iets waarnemen of controleren",
-      "iets aanraken om te bepalen hoe het aanvoelt",
-      "iets ruiken om te bepalen of het nog goed is"
+      "iets waarnemen met het gehoor zonder er bewust op te letten",
+      "iets ruiken om te bepalen of het nog goed is",
+      "iets aanraken om te bepalen hoe het aanvoelt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Kijken' = met de ogen ergens op gericht zijn. Verleden tijd: 'keek', voltooid deelwoord: 'gekeken'. Synoniem: 'zien' (passief), 'observeren'. Figuurlijk: 'somber kijken' = er somber uitzien; 'kijken naar iets' = iets bekijken of onderzoeken.",
     "hint": "Kijken en zien zijn allebei visueel, maar één is actief en gericht, het andere is passief. Welke is welke?",
     "collocations": [
@@ -537,12 +537,12 @@
       "De temperatuur <mark>klimt</mark> deze zomer naar recordhoogte in grote steden."
     ],
     "options": [
-      "snel en met weinig inspanning naar beneden bewegen langs een steile helling",
-      "omhoog bewegen langs een steil oppervlak met gebruik van handen en voeten",
       "langzaam en horizontaal bewegen over een glad of glad oppervlak",
-      "springen om even boven de grond te zijn en dan terug te landen"
+      "springen om even boven de grond te zijn en dan terug te landen",
+      "snel en met weinig inspanning naar beneden bewegen langs een steile helling",
+      "omhoog bewegen langs een steil oppervlak met gebruik van handen en voeten"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Klimmen' = omhoog bewegen langs een steil oppervlak. Verleden tijd: 'klom', voltooid deelwoord: 'geklommen'. Synoniem: 'opklimmen', 'beklimmen'. Figuurlijk: 'de temperatuur klimt' = de temperatuur stijgt; 'de carrièreladder beklimmen' = promotie maken.",
     "hint": "Dit woord beschrijft omhoogse beweging, maar niet alle omhoogse beweging is klimmen. Wat is het typische kenmerk van de manier waarop je je beweegt?",
     "collocations": [
@@ -561,12 +561,12 @@
       "Er <mark>kwamen</mark> honderden bezoekers naar de tentoonstelling."
     ],
     "options": [
-      "zich verplaatsen weg van de huidige locatie naar een andere plek",
-      "zich verplaatsen naar de locatie waar de spreker is of naartoe verwijst",
       "stilstaan op een plek en wachten totdat iemand anders arriveert",
-      "langzaam vertrekken van een plek na een lang verblijf"
+      "zich verplaatsen weg van de huidige locatie naar een andere plek",
+      "langzaam vertrekken van een plek na een lang verblijf",
+      "zich verplaatsen naar de locatie waar de spreker is of naartoe verwijst"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Komen' = zich verplaatsen naar de plek van de spreker of een bepaald doel. Verleden tijd: 'kwam', voltooid deelwoord: 'gekomen'. Antonym: 'gaan'. Synoniem: 'arriveren', 'aankomen'. Figuurlijk: 'ergens vandaan komen' = oorspronkelijk zijn uit een plek.",
     "hint": "Gaan en komen zijn elkaars tegengestelden in perspectief. Wat is het verschil in richting ten opzichte van de spreker?",
     "collocations": [
@@ -585,12 +585,12 @@
       "De stad <mark>krijgt</mark> een nieuw metrostation in de komende vijf jaar."
     ],
     "options": [
-      "iets weggeven aan iemand anders die het nodig heeft",
-      "iets ontvangen van iemand of ergens aan komen",
+      "iets lenen van iemand met de bedoeling het terug te geven",
       "iets kopen met je eigen geld in een winkel",
-      "iets lenen van iemand met de bedoeling het terug te geven"
+      "iets weggeven aan iemand anders die het nodig heeft",
+      "iets ontvangen van iemand of ergens aan komen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Krijgen' = iets ontvangen of in bezit komen. Verleden tijd: 'kreeg', voltooid deelwoord: 'gekregen'. Antonym: 'geven'. Synoniem: 'ontvangen', 'verkrijgen'. Figuurlijk: 'het voor elkaar krijgen' = iets voor elkaar boxen; 'het warm krijgen' = warmte gaan voelen.",
     "hint": "Geven en krijgen zijn elkaars tegengestelden. Als je iets geeft, stuur je het weg. Wat doe je bij krijgen?",
     "collocations": [
@@ -609,12 +609,12 @@
       "De tijd <mark>kruipt</mark> voorbij als je je ergens vreselijk verveelt."
     ],
     "options": [
+      "voorzichtig rechtop staan terwijl je je evenwicht bewaart",
       "snel en rechtop vooruitbewegen op twee benen",
       "laag bij de grond bewegen op handen en knieën of buik",
-      "voorzichtig rechtop staan terwijl je je evenwicht bewaart",
       "langzaam omhoog bewegen langs een steile wand"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Kruipen' = laag bij de grond bewegen op handen en knieën. Verleden tijd: 'kroop', voltooid deelwoord: 'gekropen'. Synoniem: 'sluipen' (stiekemeriger). Figuurlijk: 'de tijd kruipt' = de tijd gaat erg langzaam; 'kruipen voor iemand' = iemand overdreven vleiend benaderen.",
     "hint": "Dit woord beschrijft een specifieke manier van bewegen waarbij je lichaamspositie cruciaal is. Hoe verhoudt je lichaam zich tot de grond?",
     "collocations": [
@@ -633,12 +633,12 @@
       "De gemeente <mark>legt</mark> nieuwe kabels aan in de hele wijk."
     ],
     "options": [
-      "iets of iemand omhoog brengen tot een staande positie",
       "iets neerplaatsen in een horizontale positie op een oppervlak",
+      "iets op een verhoogde plek plaatsen zodat anderen het kunnen zien",
       "iets tegen een muur of wand zetten zonder het te bevestigen",
-      "iets op een verhoogde plek plaatsen zodat anderen het kunnen zien"
+      "iets of iemand omhoog brengen tot een staande positie"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Leggen' = iets neerleggen in een horizontale positie. Verleden tijd: 'legde', voltooid deelwoord: 'gelegd'. Synoniem: 'neerleggen'. Figuurlijk: 'de nadruk leggen op' = ergens de aandacht op vestigen; 'kabels aanleggen' = kabels installeren.",
     "hint": "Leggen, zetten en hangen beschrijven allemaal plaatsen. Wat is het specifieke verschil in positie bij leggen?",
     "collocations": [
@@ -659,8 +659,8 @@
     "options": [
       "rechtop staan op een oppervlak met de voeten naar beneden",
       "horizontaal op een oppervlak zijn met het hele lichaam in contact",
-      "hangen aan een punt van bovenaf zodat je benen vrij hangen",
-      "zitten met gebogen knieën op een stoel of oppervlak"
+      "zitten met gebogen knieën op een stoel of oppervlak",
+      "hangen aan een punt van bovenaf zodat je benen vrij hangen"
     ],
     "correct": 1,
     "explanation": "'Liggen' = horizontaal op een oppervlak zijn. Verleden tijd: 'lag', voltooid deelwoord: 'gelegen'. Synoniem: 'neerliggen'. Figuurlijk: 'het ligt eraan' = het hangt ervan af; 'het probleem ligt bij...' = de oorzaak van het probleem is...",
@@ -681,12 +681,12 @@
       "De nieuwe wet <mark>maakt</mark> het eenvoudiger om een bedrijf te starten."
     ],
     "options": [
-      "iets bewust kapot of onbruikbaar maken",
       "iets produceren, creëren of veroorzaken",
       "iets van de ene persoon naar de andere overdragen",
+      "iets bewust kapot of onbruikbaar maken",
       "iets beoordelen op kwaliteit of geschiktheid"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Maken' = produceren, creëren of veroorzaken. Verleden tijd: 'maakte', voltooid deelwoord: 'gemaakt'. Synoniem: 'produceren', 'creëren'. Figuurlijk: 'het maakt niet uit' = het is niet belangrijk; 'iets mogelijk maken' = iets realiseerbaar maken.",
     "hint": "Dit woord beschrijft het tot stand brengen van iets wat er nog niet was, of het veroorzaken van een toestand. Wat is de kern?",
     "collocations": [
@@ -706,11 +706,11 @@
     ],
     "options": [
       "iets geven aan iemand anders zodat zij het kunnen gebruiken",
-      "iets pakken, gebruiken of in bezit nemen voor een bepaald doel",
+      "iets bewaren op een vaste plek zodat je het later kunt vinden",
       "iets bestellen bij een winkel of leverancier",
-      "iets bewaren op een vaste plek zodat je het later kunt vinden"
+      "iets pakken, gebruiken of in bezit nemen voor een bepaald doel"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Nemen' = iets pakken, gebruiken of in bezit nemen. Verleden tijd: 'nam', voltooid deelwoord: 'genomen'. Synoniem: 'pakken', 'grijpen'. Figuurlijk: 'een beslissing nemen' = een besluit nemen; 'de tijd nemen' = uitgebreid de tijd nemen voor iets.",
     "hint": "Dit woord beschrijft dat je iets in gebruik of bezit neemt. Wat is het verschil tussen nemen en kopen?",
     "collocations": [
@@ -729,12 +729,12 @@
       "Ze <mark>ontsnapte</mark> aan de realiteit door urenlang boeken te lezen."
     ],
     "options": [
+      "snel van plek veranderen zonder dat iemand je ziet",
       "bewust een situatie of plek verlaten na toestemming te hebben gevraagd",
       "vrijkomen uit een begrensde situatie of plek, vaak tegen de wil van anderen",
-      "snel van plek veranderen zonder dat iemand je ziet",
       "ergens naartoe bewegen om gevaar te vermijden voordat het te laat is"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Ontsnappen' = vrijkomen uit een beperkte situatie of plek. Verleden tijd: 'ontsnapte', voltooid deelwoord: 'ontsnapt'. Synoniem: 'ontfutselen', 'vluchten'. Figuurlijk: 'aan de werkelijkheid ontsnappen' = de realiteit even vergeten door iets te doen.",
     "hint": "Dit woord impliceert dat er een beperking of grens is. Wat maakt ontsnappen anders dan gewoon weggaan?",
     "collocations": [
@@ -753,12 +753,12 @@
       "Nieuwe kansen <mark>ontstaan</mark> vaak uit onverwachte situaties en crises."
     ],
     "options": [
-      "iets met opzet creëren of produceren na een zorgvuldig plan",
       "tot stand komen of voor het eerst verschijnen zonder bewuste creatie",
-      "iets langzaam laten groeien door er voortdurend aandacht aan te besteden",
-      "iets opdelen in kleinere stukken die onafhankelijk verder gaan"
+      "iets opdelen in kleinere stukken die onafhankelijk verder gaan",
+      "iets met opzet creëren of produceren na een zorgvuldig plan",
+      "iets langzaam laten groeien door er voortdurend aandacht aan te besteden"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Ontstaan' = tot stand komen, voor het eerst verschijnen. Verleden tijd: 'ontstond', voltooid deelwoord: 'ontstaan'. Synoniem: 'opkomen', 'beginnen'. Figuurlijk: 'een situatie ontstaat' = een situatie doet zich voor; 'een brand ontstaat' = een brand begint.",
     "hint": "Dit woord beschrijft het begin van iets. Wat is het essentiële verschil tussen iets dat ontstaat en iets dat gemaakt wordt?",
     "collocations": [
@@ -777,10 +777,10 @@
       "Het <mark>ontbreekt</mark> hem aan zelfvertrouwen om de stap te zetten."
     ],
     "options": [
-      "aanwezig zijn op een plek terwijl je er eigenlijk niet hoort te zijn",
-      "niet aanwezig zijn terwijl je er wel zou moeten zijn",
       "iets weggeven zodat het er niet meer is",
-      "iets zoeken wat je niet kunt vinden"
+      "niet aanwezig zijn terwijl je er wel zou moeten zijn",
+      "iets zoeken wat je niet kunt vinden",
+      "aanwezig zijn op een plek terwijl je er eigenlijk niet hoort te zijn"
     ],
     "correct": 1,
     "explanation": "'Ontbreken' = niet aanwezig zijn terwijl aanwezigheid verwacht wordt. Verleden tijd: 'ontbrak', voltooid deelwoord: 'ontbroken'. Synoniem: 'missen', 'afwezig zijn'. Figuurlijk: 'het ontbreekt aan iets' = er is een tekort aan iets.",
@@ -802,11 +802,11 @@
     ],
     "options": [
       "iets actief zoeken en na lang zoeken eindelijk vinden",
-      "iets voor het eerst waarnemen of te weten komen, al dan niet bewust",
+      "iets onderzoeken om meer details te weten te komen",
       "iets bedenken dat nog nooit eerder is gemaakt of bedacht",
-      "iets onderzoeken om meer details te weten te komen"
+      "iets voor het eerst waarnemen of te weten komen, al dan niet bewust"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Ontdekken' = voor het eerst waarnemen of te weten komen. Verleden tijd: 'ontdekte', voltooid deelwoord: 'ontdekt'. Synoniem: 'vinden', 'aantreffen'. Figuurlijk: 'iets ontdekken in jezelf' = een nieuwe eigenschap in jezelf waarnemen.",
     "hint": "Uitvinden en ontdekken lijken op elkaar. Wat is het verschil — bestaat het al voor het moment dat jij er kennis mee maakt?",
     "collocations": [
@@ -825,12 +825,12 @@
       "Het probleem <mark>lost</mark> zichzelf niet op — we moeten actie ondernemen."
     ],
     "options": [
-      "een probleem of conflict tijdelijk vermijden zodat het later minder erg is",
       "een probleem, conflict of stof laten verdwijnen door actie of een proces",
-      "een situatie zo veranderen dat de betrokkenen allebei iets moeten inleveren",
-      "een probleem doorsturen naar iemand anders die beter is uitgerust om het te behandelen"
+      "een probleem of conflict tijdelijk vermijden zodat het later minder erg is",
+      "een probleem doorsturen naar iemand anders die beter is uitgerust om het te behandelen",
+      "een situatie zo veranderen dat de betrokkenen allebei iets moeten inleveren"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Oplossen' = een probleem doen verdwijnen door actie, of een stof laten smelten in een vloeistof. Scheidbaar: 'los op', 'loste op', 'opgelost'. Synoniem: 'verhelpen', 'uitwerken'. Figuurlijk: 'een raadsel oplossen' = een raadsel beantwoorden.",
     "hint": "Dit woord heeft een letterlijke (chemie) en een figuurlijke betekenis. Wat is de gemeenschappelijke kern: wat verdwijnt er?",
     "collocations": [
@@ -849,12 +849,12 @@
       "De politie <mark>pakte</mark> de verdachte op na een achtervolging van drie uur."
     ],
     "options": [
+      "iets op een hogere plek plaatsen zodat anderen er niet bij kunnen",
       "iets voorzichtig op een plek leggen zodat het er veilig is",
-      "iets of iemand vastnemen of grijpen met de hand",
       "iets bestellen zodat het wordt thuisbezorgd",
-      "iets op een hogere plek plaatsen zodat anderen er niet bij kunnen"
+      "iets of iemand vastnemen of grijpen met de hand"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Pakken' = iets grijpen of vastnemen. Verleden tijd: 'pakte', voltooid deelwoord: 'gepakt'. Synoniem: 'grijpen', 'nemen'. Figuurlijk: 'iemand pakken' = iemand arresteren of betrappen; 'dat pakt me' = dat raakt me emotioneel.",
     "hint": "Dit woord beschrijft een actieve beweging van hand naar object. Wat is het verschil tussen pakken en vasthouden?",
     "collocations": [
@@ -873,12 +873,12 @@
       "<mark>Probeer</mark> het nog een keer — de eerste poging is niet altijd de beste."
     ],
     "options": [
-      "iets met zekerheid en zonder twijfel uitvoeren",
-      "een poging doen om iets te bereiken of te doen, zonder garantie op succes",
+      "iets onderzoeken voordat je beslist of je het wilt doen",
       "iets opgeven nadat je hebt vastgesteld dat het onmogelijk is",
-      "iets onderzoeken voordat je beslist of je het wilt doen"
+      "iets met zekerheid en zonder twijfel uitvoeren",
+      "een poging doen om iets te bereiken of te doen, zonder garantie op succes"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Proberen' = een poging doen, zonder garantie op succes. Verleden tijd: 'probeerde', voltooid deelwoord: 'geprobeerd'. Synoniem: 'trachten', 'pogen'. Figuurlijk: 'het is de moeite waard om te proberen' = het is het risico waard.",
     "hint": "Dit woord bevat altijd de mogelijkheid van mislukking. Wat is het essentiële verschil tussen proberen en slagen?",
     "collocations": [
@@ -897,12 +897,12 @@
       "Hij <mark>rent</mark> elke ochtend vijf kilometer als warming-up voor zijn dag."
     ],
     "options": [
+      "springen en voor korte tijd boven de grond zijn",
       "rustig en met een regelmatig tempo stappen op twee benen",
       "snel op twee benen voortbewegen, sneller dan lopen",
-      "springen en voor korte tijd boven de grond zijn",
       "langzaam bewegen op handen en knieën over de grond"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Rennen' = snel op twee benen voortbewegen. Verleden tijd: 'rende', voltooid deelwoord: 'gerend'. Synoniem: 'hardlopen', 'spurten'. Figuurlijk: 'de tijd rent voorbij' = de tijd gaat snel; 'rennen voor zijn leven' = zo snel mogelijk vluchten.",
     "hint": "Lopen en rennen zijn allebei twee-benige bewegingen. Wat is het verschil?",
     "collocations": [
@@ -921,12 +921,12 @@
       "Dit plan <mark>ruikt</mark> naar fraude — er klopt iets niet aan de cijfers."
     ],
     "options": [
-      "iets proeven om te bepalen of het lekker of bedorven is",
       "geuren waarnemen via de neus, actief of passief",
+      "iets horen dat moeilijk te identificeren is",
       "iets aanraken om de textuur of temperatuur te voelen",
-      "iets horen dat moeilijk te identificeren is"
+      "iets proeven om te bepalen of het lekker of bedorven is"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Ruiken' = geuren waarnemen via de neus, of een geur hebben. Verleden tijd: 'rook', voltooid deelwoord: 'geroken'. Synoniem: 'snuiven' (actief), 'stinken' (negatief). Figuurlijk: 'dat ruikt naar problemen' = dat lijkt verdacht of geeft een slecht gevoel.",
     "hint": "Dit woord kan zowel passief (de geur komt naar jou) als actief (jij brengt je neus naar iets) gebruikt worden. Welk zintuig staat centraal?",
     "collocations": [
@@ -946,11 +946,11 @@
     ],
     "options": [
       "zeker weten hoe iets zit na grondig onderzoek",
-      "licht uitstralen, of vermoedelijk het geval zijn",
       "langzaam zichtbaar worden na een periode van verborgen te zijn",
+      "licht uitstralen, of vermoedelijk het geval zijn",
       "bewust iets laten zien aan anderen die het willen weten"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Schijnen' = licht uitstralen (letterlijk), of blijkbaar het geval zijn (figuurlijk). Verleden tijd: 'scheen', voltooid deelwoord: 'geschenen'. Synoniem: 'stralen', 'lijken'. Figuurlijk: 'het schijnt dat...' = men zegt dat, het lijkt zo te zijn.",
     "hint": "Dit woord heeft twee heel verschillende betekenissen. Eén gaat over licht, de andere over zekerheid. Wat is de graad van zekerheid bij de figuurlijke betekenis?",
     "collocations": [
@@ -969,10 +969,10 @@
       "Ze heeft het ver <mark>geschopt</mark> in haar carrière door hard te werken."
     ],
     "options": [
-      "iets snel en met kracht met de hand raken",
-      "iets raken of wegstuwen met de voet",
       "iets snel over de grond slepen met beide handen",
-      "iets met het hoofd raken in een sportieve context"
+      "iets raken of wegstuwen met de voet",
+      "iets met het hoofd raken in een sportieve context",
+      "iets snel en met kracht met de hand raken"
     ],
     "correct": 1,
     "explanation": "'Schoppen' = raken of wegstuwen met de voet. Verleden tijd: 'schopte', voltooid deelwoord: 'geschopt'. Synoniem: 'trappen', 'een trap geven'. Figuurlijk: 'het ver schoppen' = veel bereiken in het leven of een carrière.",
@@ -993,12 +993,12 @@
       "De verantwoordelijkheid wordt steeds <mark>doorgeschoven</mark> van de ene afdeling naar de andere."
     ],
     "options": [
+      "iets in een kringvorm ronddraaien op zijn plek",
       "iets optillen en op een andere plek neerzetten",
-      "iets langs een oppervlak verplaatsen zonder het op te tillen",
       "iets zo snel duwen dat het van zijn plek valt",
-      "iets in een kringvorm ronddraaien op zijn plek"
+      "iets langs een oppervlak verplaatsen zonder het op te tillen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Schuiven' = iets langs een oppervlak verplaatsen. Verleden tijd: 'schoof', voltooid deelwoord: 'geschoven'. Synoniem: 'verschuiven', 'verplaatsen'. Figuurlijk: 'verantwoordelijkheid doorschuiven' = verantwoordelijkheid aan iemand anders overlaten.",
     "hint": "Dit woord beschrijft een verplaatsing waarbij contact met het oppervlak bewaard blijft. Wat is het verschil met tillen?",
     "collocations": [
@@ -1017,12 +1017,12 @@
       "De nieuwe campagne <mark>sloeg</mark> aan bij de jonge doelgroep."
     ],
     "options": [
-      "iets zachtjes aanraken om te voelen hoe het is",
       "iets of iemand raken met een snelle, krachtige beweging",
-      "iets vasthouden en langzaam bewegen",
-      "iets wegstuwen met de voet in een bepaalde richting"
+      "iets zachtjes aanraken om te voelen hoe het is",
+      "iets wegstuwen met de voet in een bepaalde richting",
+      "iets vasthouden en langzaam bewegen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Slaan' = iets raken met een snelle, krachtige beweging. Verleden tijd: 'sloeg', voltooid deelwoord: 'geslagen'. Synoniem: 'een klap geven', 'meppen'. Figuurlijk: 'aanslaan bij iemand' = goed ontvangen worden; 'de klok slaat' = de klok luidt een uur.",
     "hint": "Dit woord beschrijft een plotselinge, gerichte beweging. Wat is het verschil tussen slaan en duwen in termen van snelheid en contact?",
     "collocations": [
@@ -1041,10 +1041,10 @@
       "De twee bedrijven <mark>sloten</mark> een deal na weken van onderhandelen."
     ],
     "options": [
-      "iets verwijderen zodat er een opening ontstaat",
-      "een opening of toegang afsluiten, of een overeenkomst afronden",
       "iets zo plaatsen dat het zichtbaar is voor iedereen",
-      "iets tijdelijk vasthouden zodat het niet weg kan"
+      "een opening of toegang afsluiten, of een overeenkomst afronden",
+      "iets tijdelijk vasthouden zodat het niet weg kan",
+      "iets verwijderen zodat er een opening ontstaat"
     ],
     "correct": 1,
     "explanation": "'Sluiten' = een opening afsluiten of een overeenkomst bereiken. Verleden tijd: 'sloot', voltooid deelwoord: 'gesloten'. Antonym: 'openen'. Synoniem: 'dichtzetten', 'afsluiten'. Figuurlijk: 'een deal sluiten' = een overeenkomst bereiken; 'vrede sluiten' = vrede bereiken.",
@@ -1065,10 +1065,10 @@
       "De aanklager <mark>speelde</mark> een cruciale rol in het proces tegen de verdachte."
     ],
     "options": [
-      "iets serieus aanpakken met een duidelijk zakelijk of professioneel doel",
+      "iets uitvoeren dat je van iemand anders hebt overgenomen",
       "aan een activiteit deelnemen voor plezier, of een instrument bespelen",
       "iets uitleggen aan iemand die het nog niet begrijpt",
-      "iets uitvoeren dat je van iemand anders hebt overgenomen"
+      "iets serieus aanpakken met een duidelijk zakelijk of professioneel doel"
     ],
     "correct": 1,
     "explanation": "'Spelen' = deelnemen aan een activiteit voor plezier, of een rol of instrument bespelen. Verleden tijd: 'speelde', voltooid deelwoord: 'gespeeld'. Synoniem: 'bespelen'. Figuurlijk: 'een rol spelen' = een belangrijke functie hebben; 'spelen met ideeën' = losjes nadenken over mogelijkheden.",
@@ -1089,12 +1089,12 @@
       "De kosten <mark>zijn</mark> het afgelopen kwartaal flink <mark>gesprongen</mark>."
     ],
     "options": [
-      "langzaam en laag bij de grond bewegen door te kruipen",
       "je lichaam snel omhoog stuwen zodat je even de grond verlaat",
-      "snel lopen zodat je bijna van de grond loslaat",
-      "vallen van een hoogte zonder controle over de landing"
+      "vallen van een hoogte zonder controle over de landing",
+      "langzaam en laag bij de grond bewegen door te kruipen",
+      "snel lopen zodat je bijna van de grond loslaat"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Springen' = je lichaam omhoogstuwen zodat je de grond tijdelijk verlaat. Verleden tijd: 'sprong', voltooid deelwoord: 'gesprongen'. Synoniem: 'een sprong maken'. Figuurlijk: 'de kosten springen omhoog' = kosten stijgen plotseling; 'in het oog springen' = opvallen.",
     "hint": "Dit woord impliceert een moment waarop je de grond niet raakt. Wat is het verschil tussen springen en vallen?",
     "collocations": [
@@ -1113,10 +1113,10 @@
       "Hij <mark>steekt</mark> veel energie in zijn vrijwilligerswerk voor de buurt."
     ],
     "options": [
-      "iets snel en met kracht op een oppervlak leggen",
+      "iets langzaam over een oppervlak bewegen",
       "iets scherp of puntig in of door iets anders brengen",
       "iets met kracht wegstuwen zodat het van je verwijderd raakt",
-      "iets langzaam over een oppervlak bewegen"
+      "iets snel en met kracht op een oppervlak leggen"
     ],
     "correct": 1,
     "explanation": "'Steken' = iets scherps in of door iets brengen. Verleden tijd: 'stak', voltooid deelwoord: 'gestoken'. Synoniem: 'prikken', 'priemen'. Figuurlijk: 'energie steken in' = energie investeren in iets; 'dat steekt' = dat doet pijn of is beledigend.",
@@ -1137,12 +1137,12 @@
       "Haar populariteit <mark>is</mark> flink <mark>gestegen</mark> na haar optreden in het tv-programma."
     ],
     "options": [
+      "snel en oncontroleerbaar omhoog schieten na een explosie",
       "op hetzelfde niveau blijven zonder te veranderen",
       "omlaag bewegen of in waarde of hoeveelheid afnemen",
-      "omhoog bewegen of in waarde, hoeveelheid of niveau toenemen",
-      "snel en oncontroleerbaar omhoog schieten na een explosie"
+      "omhoog bewegen of in waarde, hoeveelheid of niveau toenemen"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Stijgen' = omhoog bewegen of in waarde/niveau toenemen. Verleden tijd: 'steeg', voltooid deelwoord: 'gestegen'. Antonym: 'dalen'. Synoniem: 'toenemen', 'omhooggaan'. Figuurlijk: 'in iemands achting stijgen' = positiever beoordeeld worden.",
     "hint": "Dit woord is het tegenovergestelde van dalen. Maar wat is het verschil tussen stijgen en springen?",
     "collocations": [
@@ -1161,12 +1161,12 @@
       "Hij <mark>stopte</mark> het geld in zijn portemonnee en liep de winkel uit."
     ],
     "options": [
-      "langzamer worden terwijl je in beweging blijft",
       "ophouden met bewegen of met een activiteit, of iets ergens in plaatsen",
+      "langzamer worden terwijl je in beweging blijft",
       "iets tijdelijk onderbreken met de bedoeling snel verder te gaan",
       "iets doen zodat iemand anders er mee kan beginnen"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Stoppen' = ophouden met bewegen of een activiteit, of iets ergens insteken. Verleden tijd: 'stopte', voltooid deelwoord: 'gestopt'. Synoniem: 'ophouden', 'halt houden'. Figuurlijk: 'stoppen met roken' = definitief ophouden met roken.",
     "hint": "Dit woord heeft zowel een bewegingsbetekenis (een trein) als een activiteitsbetekenis (roken). Wat is de gemeenschappelijke kern?",
     "collocations": [
@@ -1185,12 +1185,12 @@
       "We moeten het gesprek <mark>tillen</mark> naar een hoger niveau van inhoud."
     ],
     "options": [
-      "iets langs een oppervlak schuiven naar een andere positie",
-      "iets van de grond of een vlak omhoog brengen door kracht",
+      "iets voorzichtig neerzetten zodat het niet beschadigt",
       "iets naar je toe trekken zodat het dichter bij je komt",
-      "iets voorzichtig neerzetten zodat het niet beschadigt"
+      "iets langs een oppervlak schuiven naar een andere positie",
+      "iets van de grond of een vlak omhoog brengen door kracht"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Tillen' = iets omhoog brengen door kracht. Verleden tijd: 'tilde', voltooid deelwoord: 'getild'. Synoniem: 'optillen', 'heffen'. Figuurlijk: 'een niveau tillen' = iets naar een hoger niveau brengen; 'zwaar tillen aan iets' = ergens zwaar aan twijfelen.",
     "hint": "Dit woord beschrijft een verticale beweging van beneden naar boven. Wat is het verschil tussen tillen en schuiven?",
     "collocations": [
@@ -1209,12 +1209,12 @@
       "Zijn ervaring <mark>nam toe</mark> met elk project dat hij succesvol afrondde."
     ],
     "options": [
-      "op hetzelfde niveau blijven zonder merkbare verandering",
+      "plotseling en onverwacht in grootte of aantal veranderen",
       "minder worden in hoeveelheid, intensiteit of omvang",
-      "groter, meer of sterker worden over een periode",
-      "plotseling en onverwacht in grootte of aantal veranderen"
+      "op hetzelfde niveau blijven zonder merkbare verandering",
+      "groter, meer of sterker worden over een periode"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Toenemen' = groter of meer worden over tijd. Scheidbaar: 'neemt toe', 'nam toe', 'toegenomen'. Antonym: 'afnemen'. Synoniem: 'groeien', 'stijgen'. Figuurlijk: 'zorgen nemen toe' = zorgen worden erger; 'toenemende druk' = steeds meer druk.",
     "hint": "Dit woord beschrijft een verandering in de loop van tijd. In welke richting gaat die verandering?",
     "collocations": [
@@ -1233,9 +1233,9 @@
       "De bezuinigingen <mark>treffen</mark> de lagere inkomens het hardst."
     ],
     "options": [
-      "bewust iemand opzoeken op een afgesproken tijd en locatie",
-      "iemand of iets raken of tegenkomen, opzettelijk of toevallig",
       "iets missen ondanks meerdere pogingen het te bereiken",
+      "iemand of iets raken of tegenkomen, opzettelijk of toevallig",
+      "bewust iemand opzoeken op een afgesproken tijd en locatie",
       "iets of iemand actief volgen totdat je op dezelfde plek bent"
     ],
     "correct": 1,
@@ -1257,12 +1257,12 @@
       "Hij <mark>trekt</mark> een duidelijke grens tussen zijn werk- en privéleven."
     ],
     "options": [
-      "iets van je af duwen zodat het verder van je verwijderd raakt",
       "iets naar je toe bewegen door er kracht op uit te oefenen",
+      "iets langzaam omhoog tillen totdat het boven je hoofd is",
       "iets zo snel mogelijk laten vallen naar de grond",
-      "iets langzaam omhoog tillen totdat het boven je hoofd is"
+      "iets van je af duwen zodat het verder van je verwijderd raakt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Trekken' = iets naar je toe bewegen door kracht. Verleden tijd: 'trok', voltooid deelwoord: 'getrokken'. Antonym: 'duwen'. Synoniem: 'slepen', 'meenemen'. Figuurlijk: 'bezoekers trekken' = bezoekers aantrekken; 'een grens trekken' = een limiet stellen.",
     "hint": "Trekken en duwen zijn elkaars tegengestelden. Als je iets duwt, beweeg je het weg. Wat doe je bij trekken?",
     "collocations": [
@@ -1281,12 +1281,12 @@
       "We <mark>gaan ervan uit</mark> dat de vergadering door zal gaan zoals gepland."
     ],
     "options": [
-      "binnenshuis blijven en een rustige avond thuis doorbrengen",
-      "het huis verlaten voor entertainment, of ophouden te branden",
       "op reis gaan voor langere tijd naar een andere stad of land",
-      "vroeg naar bed gaan na een drukke en vermoeiende dag"
+      "vroeg naar bed gaan na een drukke en vermoeiende dag",
+      "binnenshuis blijven en een rustige avond thuis doorbrengen",
+      "het huis verlaten voor entertainment, of ophouden te branden"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Uitgaan' = buitenshuis gaan voor vermaak, of stoppen met branden. Scheidbaar: 'ga uit', 'ging uit', 'uitgegaan'. Synoniem: 'naar buiten gaan' (vermaak), 'doven' (licht). Figuurlijk: 'ervan uitgaan' = veronderstellen als uitgangspunt.",
     "hint": "Dit woord heeft minstens twee heel verschillende betekenissen. Welke twee situaties heeft het woord 'uit' gemeen in beide gevallen?",
     "collocations": [
@@ -1306,11 +1306,11 @@
     ],
     "options": [
       "bewust omlaag springen naar een zachte of veilige ondergrond",
-      "ongecontroleerd omlaag bewegen door de zwaartekracht",
       "langzaam zakken terwijl je nog controle hebt over de beweging",
+      "ongecontroleerd omlaag bewegen door de zwaartekracht",
       "van een hoogte springen met als doel ergens anders te landen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Vallen' = ongecontroleerd omlaag bewegen. Verleden tijd: 'viel', voltooid deelwoord: 'gevallen'. Synoniem: 'neervallen', 'omvallen'. Figuurlijk: 'een besluit valt' = een besluit wordt genomen; 'dit valt goed' = dit wordt goed ontvangen.",
     "hint": "Vallen en springen zijn allebei verticale bewegingen, maar één is bewust en één is niet. Welke is welke?",
     "collocations": [
@@ -1330,11 +1330,11 @@
     ],
     "options": [
       "iets gooien in de richting van iemand anders",
+      "iets vastbinden zodat het niet weg kan bewegen",
       "iets of iemand grijpen dat beweegt of wil ontsnappen",
-      "iets bewust laten vallen op de grond",
-      "iets vastbinden zodat het niet weg kan bewegen"
+      "iets bewust laten vallen op de grond"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Vangen' = iets of iemand grijpen dat beweegt of wil ontsnappen. Verleden tijd: 'ving', voltooid deelwoord: 'gevangen'. Synoniem: 'grijpen', 'pakken'. Figuurlijk: 'een glimp vangen' = even iets zien; 'gevangen worden' = gearresteerd worden.",
     "hint": "Gooien en vangen zijn tegengestelden in een ballspel. Als iemand gooit, beweegt het object weg. Wat doe jij bij vangen?",
     "collocations": [
@@ -1353,12 +1353,12 @@
       "De manier waarop mensen werken <mark>verandert</mark> snel door nieuwe technologie."
     ],
     "options": [
-      "op exact dezelfde manier blijven als je was zonder enige aanpassing",
-      "anders worden of iets anders maken dan het was",
+      "geleidelijk verslechteren tot het niet meer bruikbaar is",
       "tijdelijk iets anders lijken zonder dat de kern verandert",
-      "geleidelijk verslechteren tot het niet meer bruikbaar is"
+      "anders worden of iets anders maken dan het was",
+      "op exact dezelfde manier blijven als je was zonder enige aanpassing"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Veranderen' = anders worden of anders maken. Verleden tijd: 'veranderde', voltooid deelwoord: 'veranderd'. Synoniem: 'wijzigen', 'aanpassen'. Figuurlijk: 'van gedachten veranderen' = anders gaan denken; 'niets verandert eraan' = het blijft hetzelfde.",
     "hint": "Dit woord beschrijft een verschil tussen een vorige en een nieuwe toestand. Wat maakt het anders dan 'aanpassen'?",
     "collocations": [
@@ -1377,10 +1377,10 @@
       "De organisatie werd beschuldigd van het <mark>verbergen</mark> van financiële informatie."
     ],
     "options": [
-      "iets op een vaste, bekende plek bewaren zodat je het makkelijk terugvindt",
+      "iets tijdelijk opslaan zodat het beschermd is tegen beschadiging",
       "iets bewust uit het zicht of buiten het bereik van anderen brengen",
-      "iets laten verdwijnen zodat het nooit meer gevonden kan worden",
-      "iets tijdelijk opslaan zodat het beschermd is tegen beschadiging"
+      "iets op een vaste, bekende plek bewaren zodat je het makkelijk terugvindt",
+      "iets laten verdwijnen zodat het nooit meer gevonden kan worden"
     ],
     "correct": 1,
     "explanation": "'Verbergen' = iets bewust uit het zicht halen of houden. Verleden tijd: 'verborg', voltooid deelwoord: 'verborgen'. Synoniem: 'verstoppen', 'wegmoffelen'. Figuurlijk: 'gevoelens verbergen' = gevoelens niet laten zien aan anderen.",
@@ -1401,12 +1401,12 @@
       "Het vermogen werd na het overlijden <mark>verdeeld</mark> onder de drie kinderen."
     ],
     "options": [
-      "iets van meerdere personen samenvoegen tot één geheel",
       "iets in stukken splitsen en over verschillende personen of plekken spreiden",
       "iets stap voor stap opbouwen uit losse onderdelen",
-      "iets gelijkmatig over een oppervlak uitsmeren"
+      "iets gelijkmatig over een oppervlak uitsmeren",
+      "iets van meerdere personen samenvoegen tot één geheel"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Verdelen' = iets in stukken splitsen en distribueren. Verleden tijd: 'verdeelde', voltooid deelwoord: 'verdeeld'. Synoniem: 'distribueren', 'opsplitsen'. Figuurlijk: 'de mening is verdeeld' = mensen denken er verschillend over; 'verdeel en heers' = strategie om controle te houden.",
     "hint": "Dit woord beschrijft een actie waarbij één geheel in meerdere delen uiteenvalt en verspreid wordt. Wat is het verschil met delen in de wiskunde?",
     "collocations": [
@@ -1425,12 +1425,12 @@
       "Steeds meer kleine winkels <mark>verdwijnen</mark> uit de Nederlandse binnensteden."
     ],
     "options": [
-      "ergens naartoe gaan terwijl iedereen weet waar je bent",
       "onzichtbaar of afwezig worden zonder duidelijke verklaring of spoor",
-      "langzaam minder worden totdat er nog een klein restje over is",
-      "zichtbaar minder worden maar toch aanwezig blijven"
+      "zichtbaar minder worden maar toch aanwezig blijven",
+      "ergens naartoe gaan terwijl iedereen weet waar je bent",
+      "langzaam minder worden totdat er nog een klein restje over is"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Verdwijnen' = onzichtbaar of afwezig worden. Verleden tijd: 'verdween', voltooid deelwoord: 'verdwenen'. Antonym: 'verschijnen'. Synoniem: 'weggaan', 'oplossen'. Figuurlijk: 'pijn verdwijnt' = pijn stopt; 'van de aardbodem verdwijnen' = volledig wegblijven.",
     "hint": "Dit woord beschrijft het tegenovergestelde van verschijnen. Wat is het verschil tussen verdwijnen en weggaan?",
     "collocations": [
@@ -1449,9 +1449,9 @@
       "Het riool was <mark>verstopt</mark> door een ophoping van vet en vuil."
     ],
     "options": [
-      "iets op een bekende en vaste plek bewaren voor later gebruik",
-      "iets of zichzelf bewust uit het zicht plaatsen, of een doorgang blokkeren",
       "iets weggooien zodat anderen het niet meer kunnen vinden",
+      "iets of zichzelf bewust uit het zicht plaatsen, of een doorgang blokkeren",
+      "iets op een bekende en vaste plek bewaren voor later gebruik",
       "iets tijdelijk opbergen totdat het nodig is"
     ],
     "correct": 1,
@@ -1473,10 +1473,10 @@
       "De tijd <mark>vloog</mark> voorbij tijdens de boeiende lezing."
     ],
     "options": [
-      "snel over een wateroppervlak bewegen met behulp van wind of motor",
-      "door de lucht bewegen, al dan niet met een vliegtuig",
       "snel en laag over de grond bewegen zodat je bijna de grond raakt",
-      "langzaam zweven in de lucht zonder duidelijke richting"
+      "door de lucht bewegen, al dan niet met een vliegtuig",
+      "langzaam zweven in de lucht zonder duidelijke richting",
+      "snel over een wateroppervlak bewegen met behulp van wind of motor"
     ],
     "correct": 1,
     "explanation": "'Vliegen' = door de lucht bewegen. Verleden tijd: 'vloog', voltooid deelwoord: 'gevlogen'. Synoniem: 'zweven' (langzamer). Figuurlijk: 'de tijd vliegt' = de tijd gaat snel; 'ergens op afvliegen' = snel ergens naartoe gaan.",
@@ -1498,11 +1498,11 @@
     ],
     "options": [
       "actief naar iemand of iets toe bewegen om het sneller te bereiken",
-      "op een plek of in een toestand blijven totdat iets of iemand komt",
+      "iemand opbellen om te controleren hoe lang het nog duurt",
       "iets doen om de tijd te overbruggen totdat een afspraak begint",
-      "iemand opbellen om te controleren hoe lang het nog duurt"
+      "op een plek of in een toestand blijven totdat iets of iemand komt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Wachten' = op een plek blijven totdat iets of iemand arriveert. Verleden tijd: 'wachtte', voltooid deelwoord: 'gewacht'. Synoniem: 'afwachten', 'staan te wachten'. Figuurlijk: 'er wacht iemand iets' = iemand zal iets meemaken in de toekomst.",
     "hint": "Dit woord beschrijft een passieve toestand in afwachting van iets. Wat is het verschil tussen wachten en afwachten?",
     "collocations": [
@@ -1521,12 +1521,12 @@
       "Ze <mark>durfde</mark> het niet te <mark>wagen</mark> om haar baas rechtstreeks aan te spreken."
     ],
     "options": [
+      "iets uitstellen totdat de omstandigheden gunstiger zijn",
       "iets voorzichtig en met weinig risico proberen",
-      "iets riskants proberen wetende dat er een kans op mislukking of verlies is",
       "iets doen nadat je zeker weet dat het goed zal aflopen",
-      "iets uitstellen totdat de omstandigheden gunstiger zijn"
+      "iets riskants proberen wetende dat er een kans op mislukking of verlies is"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Wagen' = iets riskants proberen met kans op verlies. Verleden tijd: 'waagde', voltooid deelwoord: 'gewaagd'. Synoniem: 'riskeren', 'durven'. Figuurlijk: 'het erop wagen' = een gok nemen; 'zijn leven wagen' = zijn leven in gevaar brengen.",
     "hint": "Dit woord lijkt op proberen, maar bevat een extra element. Wat is dat element dat dit woord zwaarder maakt dan gewoon 'proberen'?",
     "collocations": [
@@ -1545,12 +1545,12 @@
       "Het schip <mark>wendde</mark> koers richting de haven na de storm."
     ],
     "options": [
+      "iets van de ene naar de andere kant schuiven",
       "iets of iemand langzaam in een cirkel ronddraaien",
       "zich in een bepaalde richting keren of tot iemand richten",
-      "iets van de ene naar de andere kant schuiven",
       "iets bewust omdraaien zodat de voor- en achterkant wisselen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Wenden' = zich richten of keren in een bepaalde richting. Verleden tijd: 'wendde', voltooid deelwoord: 'gewend'. Synoniem: 'richten', 'keren'. Figuurlijk: 'zich wenden tot iemand' = iemand om hulp of advies vragen; 'de blik wenden' = ergens anders naar kijken.",
     "hint": "Dit formele woord beschrijft een verandering van richting of aandacht. Wat is het verschil tussen je wenden tot iemand en hem opbellen?",
     "collocations": [
@@ -1569,12 +1569,12 @@
       "De nieuwe aanpak <mark>werkt</mark> uitstekend — de resultaten zijn al zichtbaar."
     ],
     "options": [
-      "iets proberen zonder te weten of het uiteindelijk resultaat zal hebben",
       "inspanning leveren voor een doel, of functioneren zoals bedoeld",
+      "iets doen uitsluitend voor je eigen plezier zonder enig nut",
       "iets rusten tot een later moment wanneer je meer energie hebt",
-      "iets doen uitsluitend voor je eigen plezier zonder enig nut"
+      "iets proberen zonder te weten of het uiteindelijk resultaat zal hebben"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Werken' = inspanning leveren voor een doel, of functioneren zoals bedoeld. Verleden tijd: 'werkte', voltooid deelwoord: 'gewerkt'. Synoniem: 'functioneren', 'opereren'. Figuurlijk: 'het werkt' = het heeft het gewenste effect; 'werken aan iets' = aan iets bezig zijn.",
     "hint": "Dit woord heeft twee hoofdbetekenissen: wat een persoon doet en wat een machine of methode doet. Wat is de gemeenschappelijke kern?",
     "collocations": [
@@ -1594,11 +1594,11 @@
     ],
     "options": [
       "iets bevestigen nadat je er lang en grondig over hebt nagedacht",
-      "met een vinger of object de aandacht op iets richten",
+      "iets laten zien door het omhoog te houden voor anderen",
       "iemand zachtjes aanraken om zijn aandacht te trekken",
-      "iets laten zien door het omhoog te houden voor anderen"
+      "met een vinger of object de aandacht op iets richten"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Wijzen' = de aandacht op iets richten met een vinger of aanwijzing. Verleden tijd: 'wees', voltooid deelwoord: 'gewezen'. Synoniem: 'aanwijzen', 'aanduiden'. Figuurlijk: 'wijzen op iets' = iets aangeven of signaleren; 'de richting wijzen' = leiding geven.",
     "hint": "Dit woord beschrijft een gerichte beweging of aanduiding. Wat is het verschil tussen iets wijzen en iets laten zien?",
     "collocations": [
@@ -1617,9 +1617,9 @@
       "De temperatuur <mark>zakt</mark> de komende dagen naar het vriespunt."
     ],
     "options": [
-      "plotseling en ongecontroleerd omlaag storten",
-      "langzaam omlaag bewegen of in niveau afnemen",
       "snel en steil naar beneden bewegen na een sprong",
+      "langzaam omlaag bewegen of in niveau afnemen",
+      "plotseling en ongecontroleerd omlaag storten",
       "langzaam stijgen totdat een bepaald niveau bereikt is"
     ],
     "correct": 1,
@@ -1641,12 +1641,12 @@
       "De nieuwe regel <mark>zet</mark> een rem op de groeiende kosten."
     ],
     "options": [
-      "iets in een horizontale positie neerleggen op een oppervlak",
       "iets in een verticale of rechtopstaande positie plaatsen",
-      "iets bevestigen aan een punt van bovenaf zodat het hangt",
-      "iets met kracht neersmijten op een oppervlak"
+      "iets in een horizontale positie neerleggen op een oppervlak",
+      "iets met kracht neersmijten op een oppervlak",
+      "iets bevestigen aan een punt van bovenaf zodat het hangt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Zetten' = iets in een rechtopstaande positie plaatsen. Verleden tijd: 'zette', voltooid deelwoord: 'gezet'. Synoniem: 'plaatsen', 'neerzetten'. Figuurlijk: 'een stap zetten' = een actie ondernemen; 'een rem zetten op' = iets beperken.",
     "hint": "Leggen, zetten en hangen beschrijven alle drie het plaatsen van iets. Welke positie is specifiek voor zetten?",
     "collocations": [
@@ -1665,12 +1665,12 @@
       "Hij <mark>ziet</mark> mogelijkheden waar anderen obstakels zien."
     ],
     "options": [
-      "bewust en aandachtig ergens op letten met de ogen",
       "iets waarnemen met de ogen, passief of actief",
       "iets aanraken om de vorm of textuur ervan te bepalen",
+      "bewust en aandachtig ergens op letten met de ogen",
       "iets begrijpen na lang en diep nadenken"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Zien' = visuele informatie waarnemen. Verleden tijd: 'zag', voltooid deelwoord: 'gezien'. Antonym: 'niet zien', 'blind zijn'. Synoniem: 'waarnemen'. Figuurlijk: 'ik zie het niet' = ik begrijp of geloof het niet; 'kansen zien' = kansen opmerken.",
     "hint": "Zien en kijken zijn allebei visueel. Welke is passief en welke is actief en gericht?",
     "collocations": [
@@ -1689,10 +1689,10 @@
       "Het probleem <mark>zit</mark> hem in de slechte communicatie tussen de teams."
     ],
     "options": [
-      "rechtop staan op een oppervlak met het gewicht op de voeten",
+      "hangen aan een punt van bovenaf met de benen vrij in de lucht",
       "horizontaal liggen met het hele lichaam in contact met een oppervlak",
       "rusten op een oppervlak met het gewicht op het zitvlak",
-      "hangen aan een punt van bovenaf met de benen vrij in de lucht"
+      "rechtop staan op een oppervlak met het gewicht op de voeten"
     ],
     "correct": 2,
     "explanation": "'Zitten' = rusten op het zitvlak. Verleden tijd: 'zat', voltooid deelwoord: 'gezeten'. Synoniem: 'gaan zitten'. Figuurlijk: 'het zit hem in de details' = de moeilijkheid ligt in de details; 'zitten met een probleem' = een probleem hebben dat je niet kunt oplossen.",
@@ -1713,12 +1713,12 @@
       "De politie <mark>zoekt</mark> getuigen van het incident in het stadscentrum."
     ],
     "options": [
+      "iets bewaren op een bekende plek zodat je het snel kunt vinden",
       "iets toevallig en zonder moeite tegenkomen",
       "actief en bewust naar iets of iemand op zoek gaan",
-      "iets aanvragen bij een instantie om het te mogen gebruiken",
-      "iets bewaren op een bekende plek zodat je het snel kunt vinden"
+      "iets aanvragen bij een instantie om het te mogen gebruiken"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Zoeken' = actief naar iets of iemand op zoek gaan. Verleden tijd: 'zocht', voltooid deelwoord: 'gezocht'. Synoniem: 'opzoeken', 'nagaan'. Figuurlijk: 'narigheid zoeken' = problemen uitlokken; 'gezocht worden' = door de politie opgespoord worden.",
     "hint": "Dit woord beschrijft het proces, niet het resultaat. Wat is het verschil tussen zoeken en vinden?",
     "collocations": [
@@ -1737,10 +1737,10 @@
       "Het bedrijf <mark>zwemt</mark> in het geld na de succesvolle beursgang."
     ],
     "options": [
-      "snel over een wateroppervlak bewegen met behulp van een boot",
-      "door het water bewegen door ritmische bewegingen van armen en benen",
       "langzaam drijven op het wateroppervlak zonder actief te bewegen",
-      "onder water bewegen met behulp van duikuitrusting"
+      "door het water bewegen door ritmische bewegingen van armen en benen",
+      "onder water bewegen met behulp van duikuitrusting",
+      "snel over een wateroppervlak bewegen met behulp van een boot"
     ],
     "correct": 1,
     "explanation": "'Zwemmen' = door het water bewegen met ritmische lichaamsbewegingen. Verleden tijd: 'zwom', voltooid deelwoord: 'gezwommen'. Synoniem: 'baantjes trekken'. Figuurlijk: 'zwemmen in het geld' = heel veel geld hebben; 'zwemmen in het werk' = overweldigd zijn door werk.",
