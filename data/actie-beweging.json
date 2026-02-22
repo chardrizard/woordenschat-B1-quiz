@@ -3,285 +3,375 @@
     "word": "bereiken",
     "pos": "werkwoord",
     "level": 1,
+    "register": "alledaags",
     "examples": [
       "Na uren rijden <mark>bereikten</mark> ze eindelijk de stad.",
       "Ze <mark>bereikte</mark> haar doel na maanden van hard werken.",
-      "Probeer de manager te <mark>bereiken</mark> via e-mail of telefoon."
+      "De organisatie hoopt met deze campagne een breed publiek te <mark>bereiken</mark>."
     ],
     "options": [
-      "iets achterlaten",
-      "aankomen bij een plek of het behalen van een doel",
-      "stoppen met een activiteit",
-      "van iets weglopen"
+      "ergens mee stoppen nadat je het een tijdje hebt gedaan",
+      "ergens langzaam naartoe bewegen zonder zeker te weten of je aankomt",
+      "ergens naartoe gaan en er daadwerkelijk aankomen, of een doel behalen",
+      "contact opnemen met iemand zonder zeker te weten of die persoon reageert"
     ],
-    "correct": 1,
-    "explanation": "'Bereiken' = ergens naartoe gaan en er aankomen, of een doel behalen. Van 'reiken' = strekken. Ook figuurlijk: 'iets bereiken' = succes hebben.",
-    "hint": "Na lang rijden kom je eindelijk aan. Je hebt de bestemming..."
+    "correct": 2,
+    "explanation": "'Bereiken' = ergens aankomen of een doel behalen. Verleden tijd: 'bereikte'/'bereikten', voltooid deelwoord: 'bereikt'. Van 'reiken' (strekken). Synoniem: 'halen'. Figuurlijk: 'iemand bereiken' = contact krijgen met iemand; 'een publiek bereiken' = mensen aanspreken.",
+    "hint": "Het gaat niet alleen om bewegen, maar om het eindpunt. Wat is het verschil tussen onderweg zijn naar iets en er daadwerkelijk zijn?",
+    "collocations": [
+      "een doel bereiken",
+      "iemand telefonisch bereiken",
+      "een akkoord bereiken"
+    ]
   },
   {
     "word": "omdraaien",
     "pos": "werkwoord · scheidbaar",
     "level": 1,
+    "register": "alledaags",
     "examples": [
       "Ze <mark>draaide</mark> de sleutel <mark>om</mark> en opende de deur.",
-      "Hij <mark>draaide</mark> zich <mark>om</mark> toen hij zijn naam hoorde.",
-      "<mark>Draai</mark> het formulier <mark>om</mark> en vul ook de achterkant in."
+      "Hij <mark>draaide</mark> zich <mark>om</span> toen hij zijn naam hoorde.",
+      "De rechter <mark>draaide</mark> zijn eerdere beslissing <mark>om</mark> na nieuw bewijs."
     ],
     "options": [
-      "iets in stukken breken",
-      "iets langzaam vooruit bewegen",
-      "iets op zijn plek laten",
-      "iets of jezelf 180 graden wenden"
+      "iets of iemand geleidelijk in een andere richting laten bewegen",
+      "iets op zijn plek laten en de stand ervan bewust niet veranderen",
+      "iets of jezelf zo wenden dat de voor- en achterkant van positie wisselen",
+      "iets met kracht van zijn plek duwen zodat het omvalt"
     ],
-    "correct": 3,
-    "explanation": "'Omdraaien' = iets 180 graden wenden, de andere kant op richten. Scheidbaar: 'draai om', 'draaide om', 'omgedraaid'. Ook figuurlijk: 'de situatie omdraaien'.",
-    "hint": "Je kijkt naar voren en wendt je naar achteren — je..."
+    "correct": 2,
+    "explanation": "'Omdraaien' = iets of jezelf zodanig bewegen dat de voor- en achterkant wisselen, of een situatie/beslissing volledig veranderen. Scheidbaar: 'draai om', 'draaide om', 'omgedraaid'. Synoniem: 'keren', 'wenden'. Figuurlijk: 'een beslissing omdraaien' = een eerder genomen besluit terugdraaien.",
+    "hint": "Denk aan het verschil tussen draaien (in cirkels of gedeeltelijk) en omdraaien. Wat is de specifieke eindpositie bij omdraaien?",
+    "collocations": [
+      "zich omdraaien",
+      "een beslissing omdraaien",
+      "de situatie omdraaien"
+    ]
   },
   {
     "word": "verplaatsen",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
-      "Ze <mark>verplaatste</mark> de vergadering naar een latere datum.",
       "De meubels werden naar de andere kamer <mark>verplaatst</mark>.",
-      "Je kunt je <mark>verplaatsen</mark> in de situatie van een ander."
+      "Ze <mark>verplaatste</mark> de vergadering naar een latere datum.",
+      "Een goede schrijver kan zich <mark>verplaatsen</mark> in de gedachten van zijn personages."
     ],
     "options": [
-      "iets of iemand naar een andere plek brengen",
-      "iets snel laten bewegen",
-      "iets tijdelijk opslaan",
-      "iets op zijn plek laten staan"
+      "iets tijdelijk opbergen zodat je het later weer kunt gebruiken",
+      "iets of iemand van de ene naar de andere plek of tijd brengen",
+      "iets zo snel laten bewegen dat de richting moeilijk te volgen is",
+      "iets langzaam aanpassen totdat het beter past in zijn omgeving"
     ],
-    "correct": 0,
-    "explanation": "'Verplaatsen' = iets van de ene naar de andere plek bewegen. Scheidbaar: 'verplaats', 'verplaatste', 'verplaatst'. Ook figuurlijk: 'je verplaatsen in iemand' = empathie.",
-    "hint": "De stoel staat niet goed — je wilt hem ergens anders zetten. Je gaat hem..."
+    "correct": 1,
+    "explanation": "'Verplaatsen' = iets van de ene naar de andere locatie of tijdstip brengen. Scheidbaar: 'verplaats', 'verplaatste', 'verplaatst'. Synoniem: 'verschuiven' (voor tijd), 'verhuizen' (voor personen). Figuurlijk: 'zich verplaatsen in iemand' = empathie tonen, je in iemands situatie inleven.",
+    "hint": "Het gaat altijd om een begin- en eindpunt. Wat is het essentiële verschil tussen iets bewegen en iets verplaatsen?",
+    "collocations": [
+      "de vergadering verplaatsen",
+      "zich verplaatsen in iemand",
+      "een afspraak verplaatsen"
+    ]
   },
   {
     "word": "vluchten",
     "pos": "werkwoord",
     "level": 1,
+    "register": "alledaags",
     "examples": [
-      "Ze <mark>vluchtten</mark> het land uit door de oorlog.",
-      "De kat <mark>vluchtte</mark> weg toen de hond blafte.",
-      "Hij <mark>vluchtte</mark> de kamer uit zonder een woord te zeggen."
+      "De bewoners <mark>vluchtten</mark> hun huizen uit toen het water bleef stijgen.",
+      "Hij <mark>vluchtte</mark> in zijn werk om niet aan zijn problemen te hoeven denken.",
+      "Duizenden mensen zijn <mark>gevlucht</mark> voor het geweld in hun thuisland."
     ],
     "options": [
-      "snel weggaan om gevaar of onplezierig iets te ontwijken",
-      "naar een bestemming reizen",
-      "langzaam weglopen",
-      "iemand achterna lopen"
+      "snel ergens naartoe gaan om iets belangrijks te regelen",
+      "snel weggaan om een ongemakkelijke situatie te vermijden",
+      "snel weggaan uit angst of om dreigend gevaar te ontwijken",
+      "langzaam en voorzichtig een gevaarlijke plek verlaten"
     ],
-    "correct": 0,
-    "explanation": "'Vluchten' = snel weggaan uit angst of om gevaar te ontkomen. Van 'vlucht'. Zelfstandig naamwoord: 'vluchteling'. Synoniem: 'ontvluchten', 'wegrennen'.",
-    "hint": "Als er gevaar is, ga je snel weg. Je..."
+    "correct": 2,
+    "explanation": "'Vluchten' = snel weggaan uit angst of om gevaar te ontlopen. Verleden tijd: 'vluchtte', voltooid deelwoord: 'gevlucht'. Zelfstandig naamwoord: 'vluchteling', 'vlucht'. Synoniem: 'ontvluchten'. Figuurlijk: 'vluchten in iets' = troost of afleiding zoeken in iets.",
+    "hint": "Niet elke snelle vertrek is vluchten. Wat is de specifieke reden of emotie die dit woord onderscheidt van gewoon 'snel weggaan'?",
+    "collocations": [
+      "vluchten voor het gevaar",
+      "in iets vluchten",
+      "op de vlucht slaan"
+    ]
   },
   {
     "word": "naderen",
     "pos": "werkwoord",
     "level": 2,
+    "register": "alledaags",
     "examples": [
-      "De deadline <mark>nadert</mark> — we moeten opschieten.",
       "De trein <mark>naderde</mark> het station met lage snelheid.",
+      "De deadline <mark>nadert</mark> — we moeten opschieten.",
       "Hij <mark>naderde</mark> haar voorzichtig en vroeg of hij kon helpen."
     ],
     "options": [
-      "dichter bij komen",
-      "plotseling stoppen",
-      "op iemand wachten",
-      "van iets weggaan"
+      "op een vaste afstand van iets blijven zonder te bewegen",
+      "snel langs iets bewegen zonder te stoppen",
+      "dichter bij iets of iemand komen, letterlijk of in de tijd",
+      "de afstand tot iets vergroten door van een plek weg te bewegen"
     ],
-    "correct": 0,
-    "explanation": "'Naderen' = dichter bij komen, dichterbij bewegen. Van 'na' (dichtbij) + '-deren'. Zelfstandig naamwoord: 'nadering'. Synoniem: 'dichterbij komen'.",
-    "hint": "De auto rijdt richting het stoplicht. Hij komt dichterbij — hij..."
+    "correct": 2,
+    "explanation": "'Naderen' = dichter bij komen, de afstand tot iets of iemand verkleinen. Van 'na' (dichtbij) + '-deren'. Zelfstandig naamwoord: 'nadering'. Synoniem: 'dichterbij komen', 'aannaderen'. Figuurlijk: 'een deadline nadert' = een moment in de tijd komt dichterbij.",
+    "hint": "Denk aan afstand. Wordt de afstand groter, kleiner, of blijft hij gelijk bij dit woord?",
+    "collocations": [
+      "het station naderen",
+      "een oplossing naderen",
+      "de grens naderen"
+    ]
   },
   {
     "word": "omringen",
     "pos": "werkwoord",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "De stad wordt <mark>omringd</mark> door groene heuvels.",
       "Ze <mark>omringde</mark> zich met mensen die haar inspireerden.",
       "De politie <mark>omringde</mark> het gebouw na de melding."
     ],
     "options": [
-      "iets of iemand aan alle kanten omgeven",
-      "iets van boven naar beneden bewegen",
-      "iets in het midden plaatsen",
-      "iets van zich afduwen"
+      "iets of iemand van één kant benaderen en tegenhouden",
+      "iets of iemand aan alle kanten insluiten of omgeven",
+      "iets in het midden van een ruimte plaatsen zodat anderen er omheen kunnen staan",
+      "iets of iemand langzaam in de richting van een bepaalde plek bewegen"
     ],
-    "correct": 0,
-    "explanation": "'Omringen' = aan alle kanten omgeven of insluiten. Samengesteld van 'om' + 'ringen' (cirkels trekken). Synoniem: 'omgeven', 'insluiten'.",
-    "hint": "Als iets aan alle kanten door iets anders is ingesloten — omgeven — dan wordt het..."
+    "correct": 1,
+    "explanation": "'Omringen' = iets of iemand aan alle kanten omgeven of insluiten. Samengesteld van 'om' + 'ringen'. Synoniem: 'omgeven', 'insluiten'. Figuurlijk: 'zich omringen met mensen' = bewust kiezen wie je om je heen wilt hebben.",
+    "hint": "Eén kant benaderen is niet genoeg. Welk woord beschrijft wat je doet als je van alle kanten tegelijk aanwezig bent?",
+    "collocations": [
+      "zich omringen met vrienden",
+      "omringd zijn door natuur",
+      "het gebouw omringen"
+    ]
   },
   {
     "word": "doorzetten",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "Zelfs toen het moeilijk werd, <mark>zette</mark> ze <mark>door</mark>.",
-      "Hij besloot om het project toch <mark>door te zetten</mark>, ondanks de tegenslagen.",
-      "<mark>Doorzetten</mark> is een belangrijke eigenschap in sport."
+      "Hij besloot het project toch <mark>door te zetten</mark>, ondanks de tegenslagen.",
+      "Wie in topsport succesvol wil zijn, moet kunnen <mark>doorzetten</mark> als anderen opgeven."
     ],
     "options": [
-      "iets snel afronden",
-      "volharden en doorgaan ondanks moeilijkheden",
-      "iets opgeven als het moeilijk wordt",
-      "iets naar een andere persoon doorgeven"
+      "iets tijdelijk onderbreken en later op een beter moment verder gaan",
+      "doorgaan met iets ook als het moeilijk of vermoeiend wordt",
+      "iets succesvol afronden zonder noemenswaardige problemen",
+      "iets overdragen aan iemand anders omdat jij er niet meer mee verder kunt"
     ],
     "correct": 1,
-    "explanation": "'Doorzetten' = volharden, doorgaan ook als het moeilijk is. Scheidbaar: 'zet door', 'zette door', 'doorgezet'. Synoniem: 'volharden', 'doorgaan'.",
-    "hint": "Het is zwaar en je wilt stoppen, maar je gaat toch door. Je..."
+    "explanation": "'Doorzetten' = volharden en doorgaan ook als het zwaar is. Scheidbaar: 'zet door', 'zette door', 'doorgezet'. Synoniem: 'volharden', 'volhouden'. Antonym: 'opgeven'. Figuurlijk ook: 'een plan doorzetten' = een beslissing uitvoeren ondanks weerstand.",
+    "hint": "Het is niet genoeg om gewoon door te gaan. Wat is de specifieke omstandigheid die dit woord van 'doorgaan' onderscheidt?",
+    "collocations": [
+      "blijven doorzetten",
+      "een plan doorzetten",
+      "doorzettingsvermogen"
+    ]
   },
   {
     "word": "inhalen",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "De fietser <mark>haalde</mark> de auto vlak voor het stoplicht <mark>in</mark>.",
       "Ze miste een week school en moest de stof <mark>inhalen</mark>.",
-      "Hij hoopte de achterstand op zijn concurrent <mark>in te halen</mark>."
+      "De nieuwkomer <mark>haalde</mark> zijn ervaren collega's snel <mark>in</mark> dankzij zijn snelle leercurve."
     ],
     "options": [
-      "voorbijgaan aan iemand of iets, of iets wat gemist is alsnog doen",
-      "iets voor de eerste keer doen",
-      "langzamer worden dan iemand anders",
-      "achter iemand aanlopen"
+      "langzamer worden zodat iemand anders voor je kan gaan rijden",
+      "iemand of iets bijhouden dat al sneller of verder is",
+      "voorbijgaan aan iemand of iets, of een gemiste activiteit alsnog doen",
+      "op gelijke hoogte komen met iemand zonder die persoon te passeren"
     ],
-    "correct": 0,
-    "explanation": "'Inhalen' = voorbijgaan (in verkeer) of achterstanden compenseren. Scheidbaar: 'haal in', 'haalde in', 'ingehaald'. Dubbele betekenis: letterlijk en figuurlijk.",
-    "hint": "Op de snelweg rijd jij sneller dan de auto voor je. Je... die auto."
+    "correct": 2,
+    "explanation": "'Inhalen' = voorbijgaan aan iemand of iets (letterlijk, bijv. in het verkeer), of achterstanden compenseren (figuurlijk, bijv. gemiste lessen). Scheidbaar: 'haal in', 'haalde in', 'ingehaald'. Synoniem: 'voorbijgaan' (letterlijk), 'bijspijkeren' (figuurlijk). Let op: dubbele betekenis — context bepaalt welke betekenis bedoeld wordt.",
+    "hint": "Er zijn twee situaties waarin je dit woord gebruikt. In allebei is er een achterstand of een verschil in positie. Wat doe je met die achterstand?",
+    "collocations": [
+      "een achterstand inhalen",
+      "op de snelweg inhalen",
+      "gemiste lessen inhalen"
+    ]
   },
   {
     "word": "opstaan",
     "pos": "werkwoord · scheidbaar",
     "level": 1,
+    "register": "alledaags",
     "examples": [
       "Ze <mark>staat</mark> elke ochtend om 6 uur <mark>op</mark>.",
       "Iedereen <mark>stond op</mark> toen de rechter de zaal binnenkwam.",
-      "Hij <mark>stond op</mark> om zijn stoel aan de oudere dame te geven."
+      "Ze <mark>stond op</mark> voor haar rechten na jaren van stilzwijgen."
     ],
     "options": [
-      "gaan zitten of liggen",
-      "ergens naartoe lopen",
-      "vanuit liggende of zittende positie gaan staan",
-      "met iemand in discussie gaan"
+      "wakker worden uit je slaap en de dag beginnen",
+      "vanuit een liggende of zittende positie overeind komen",
+      "je naar voren bewegen om naar een andere plek te gaan",
+      "je plek aan iemand anders geven en ergens anders gaan staan"
     ],
-    "correct": 2,
-    "explanation": "'Opstaan' = vanuit een liggende of zittende positie overeind komen. Scheidbaar: 'sta op', 'stond op', 'opgestaan'. Ook figuurlijk: 'opstaan voor je rechten'.",
-    "hint": "Je hebt de nacht geslapen. De wekker gaat. Je..."
+    "correct": 1,
+    "explanation": "'Opstaan' = vanuit liggen of zitten overeind komen tot een staande positie. Scheidbaar: 'sta op', 'stond op', 'opgestaan'. Synoniem: 'overeind komen'. Antonym: 'gaan zitten', 'gaan liggen'. Figuurlijk: 'opstaan voor iets' = publiekelijk voor iets opkomen of je verdedigen.",
+    "hint": "Wakker worden en opstaan zijn twee verschillende dingen. Wat is de specifieke lichaamsbeweging die 'opstaan' beschrijft?",
+    "collocations": [
+      "vroeg opstaan",
+      "opstaan voor je rechten",
+      "opstaan van tafel"
+    ]
   },
   {
     "word": "zweven",
     "pos": "werkwoord",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "De ballon <mark>zweefde</mark> rustig boven de stad.",
-      "In haar droom <mark>zweefde</mark> ze over de oceaan.",
-      "De veer <mark>zweefde</mark> langzaam naar de grond."
+      "In haar droom <mark>zweefde</mark> ze moeiteloos over de oceaan.",
+      "De kwestie <mark>zweeft</mark> al maanden tussen de twee partijen — er is nog geen beslissing."
     ],
     "options": [
-      "snel door de lucht bewegen",
-      "op het water drijven",
-      "snel vallen naar beneden",
-      "bewegen in de lucht zonder grond te raken"
+      "snel door de lucht bewegen met een duidelijke richting en bestemming",
+      "op het oppervlak van water bewegen zonder te zinken",
+      "langzaam en licht bewegen in de lucht zonder de grond te raken of te vallen",
+      "onzeker bewegen alsof je elk moment kunt vallen of struikelen"
     ],
-    "correct": 3,
-    "explanation": "'Zweven' = langzaam en licht bewegen in de lucht, zonder neer te storten. Bijvoeglijk naamwoord: 'zwevend'. Figuurlijk: 'met je hoofd in de wolken'.",
-    "hint": "Een veer of ballon beweegt langzaam in de lucht zonder te vallen. Het..."
+    "correct": 2,
+    "explanation": "'Zweven' = langzaam en licht bewegen in de lucht, zonder grond te raken en zonder te vallen. Bijvoeglijk naamwoord: 'zwevend'. Synoniem: 'drijven' (in vloeistof of lucht). Figuurlijk: 'een zwevende kwestie' = iets dat nog niet beslist of opgelost is; 'met je hoofd in de wolken zweven'.",
+    "hint": "Denk aan het verschil tussen een steen en een veer die je laat vallen. Welke beweging beschrijft dit woord?",
+    "collocations": [
+      "zweven in de lucht",
+      "een zwevende kwestie",
+      "zweven tussen twee opties"
+    ]
   },
   {
     "word": "uitstellen",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
+      "De wedstrijd werd <mark>uitgesteld</mark> wegens slecht weer.",
       "Ze <mark>stelde</mark> de vergadering <mark>uit</mark> naar volgende week.",
-      "Stop met <mark>uitstellen</mark> en begin gewoon!",
-      "De wedstrijd werd <mark>uitgesteld</mark> wegens slecht weer."
+      "Langdurig <mark>uitstellen</mark> van moeilijke beslissingen kan leiden tot grotere problemen."
     ],
     "options": [
-      "iets definitief annuleren",
-      "iets naar een later moment verschuiven",
-      "iets snel afhandelen",
-      "iets eerder dan gepland doen"
+      "iets eerder plannen dan oorspronkelijk bedoeld zodat je meer tijd hebt",
+      "iets voor onbepaalde tijd opschorten zonder een nieuwe datum te prikken",
+      "iets naar een later moment verschuiven terwijl de intentie om het te doen blijft",
+      "iets volledig schrappen van je planning omdat het niet meer nodig is"
     ],
-    "correct": 1,
-    "explanation": "'Uitstellen' = iets naar een later tijdstip verschuiven. Scheidbaar: 'stel uit', 'stelde uit', 'uitgesteld'. Zelfstandig naamwoord: 'uitstel'. Synoniem: 'postponeren'.",
-    "hint": "Je moest het vandaag doen, maar je doet het volgende week. Je..."
+    "correct": 2,
+    "explanation": "'Uitstellen' = iets naar een later tijdstip verschuiven, terwijl de bedoeling is het uiteindelijk wel te doen. Scheidbaar: 'stel uit', 'stelde uit', 'uitgesteld'. Zelfstandig naamwoord: 'uitstel'. Synoniem: 'postponeren', 'verzetten'. Figuurlijk ook als gewoonte: 'uitstellen' = vermijdingsgedrag (procrastinatie).",
+    "hint": "Annuleren en uitstellen zijn niet hetzelfde. Wat blijft er bewaard als je iets uitstelt?",
+    "collocations": [
+      "een vergadering uitstellen",
+      "uitstel van betaling",
+      "uitstellen is afstelelen"
+    ]
   },
   {
     "word": "verschuiven",
     "pos": "werkwoord · scheidbaar",
     "level": 3,
+    "register": "alledaags",
     "examples": [
       "Ze <mark>verschoof</mark> de stoel een beetje naar links.",
       "De afspraak werd <mark>verschoven</mark> naar een ander tijdstip.",
-      "De machtsverhoudingen in de wereld <mark>verschuiven</mark> voortdurend."
+      "De machtsverhoudingen in de wereld <mark>verschuiven</mark> voortdurend door geopolitieke veranderingen."
     ],
     "options": [
-      "iets groter of kleiner te maken",
-      "iets weg te gooien",
-      "iets naar een andere positie of tijdstip brengen",
-      "iets op zijn plek laten"
+      "iets op zijn plek houden terwijl de omgeving eromheen verandert",
+      "iets naar een andere positie, tijd of verhouding brengen",
+      "iets geleidelijk vergroten of uitbreiden zonder de locatie te veranderen",
+      "iets volledig verwijderen van zijn huidige positie zonder het ergens anders te plaatsen"
     ],
-    "correct": 2,
-    "explanation": "'Verschuiven' = iets langzaam naar een andere positie of een ander tijdstip brengen. Scheidbaar: 'verschuif', 'verschoof', 'verschoven'. Synoniem: 'verplaatsen', 'uitstellen'.",
-    "hint": "Je raakt de stoel lichtjes aan en hij glijdt een stukje opzij. Je... hem."
+    "correct": 1,
+    "explanation": "'Verschuiven' = iets langzaam naar een andere positie, datum of verhouding brengen. Scheidbaar: 'verschuif', 'verschoof', 'verschoven'. Synoniem: 'verplaatsen' (locatie), 'uitstellen' (tijd). Let op het nuanceverschil: 'verschuiven' suggereert een geleidelijke of relatief kleine verandering.",
+    "hint": "Dit woord beschrijft een beweging met een begin- en eindpositie. Wat is het verschil tussen iets verschuiven en iets helemaal verplaatsen?",
+    "collocations": [
+      "de afspraak verschuiven",
+      "grenzen verschuiven",
+      "de macht verschuift"
+    ]
   },
   {
     "word": "omgaan",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
-      "Ze weet goed <mark>om</mark> te <mark>gaan</mark> met moeilijke situaties.",
       "Hoe ga je <mark>om</mark> met kritiek van je baas?",
-      "Hij <mark>gaat</mark> vriendelijk <mark>om</mark> met iedereen."
+      "Ze weet goed <mark>om</mark> te <mark>gaan</mark> met moeilijke situaties.",
+      "In de zorgsector is het essentieel dat medewerkers professioneel <mark>omgaan</mark> met vertrouwelijke informatie."
     ],
     "options": [
-      "ergens omheen lopen",
-      "met iets of iemand te handelen of te reageren",
-      "iets helemaal vermijden",
-      "iets voor een ander doen"
+      "iets of iemand letterlijk omcirkelen of er fysiek omheen bewegen",
+      "een situatie, persoon of probleem op een bepaalde manier benaderen of behandelen",
+      "iets proberen te vermijden door er geen aandacht aan te besteden",
+      "iets oplossen door het aan iemand anders over te laten"
     ],
     "correct": 1,
-    "explanation": "'Omgaan met' = reageren op of omgaan met een situatie, persoon of probleem. Scheidbaar: 'ga om', 'ging om', 'omgegaan'. Synoniem: 'hanteren', 'behandelen'.",
-    "hint": "Hoe reageer je op een moeilijke situatie? Hoe ga je er mee..."
+    "explanation": "'Omgaan met' = reageren op of handelen in een situatie, met een persoon of probleem. Scheidbaar: 'ga om', 'ging om', 'omgegaan'. Synoniem: 'hanteren', 'behandelen'. Figuurlijk veel gebruikt: 'omgaan met stress', 'omgaan met verlies' = een strategie hebben voor moeilijke situaties.",
+    "hint": "Dit woord gaat niet over een fysieke beweging, maar over een houding of aanpak. Wat doe je precies als je 'goed met iets omgaat'?",
+    "collocations": [
+      "omgaan met stress",
+      "voorzichtig omgaan met",
+      "goed kunnen omgaan met mensen"
+    ]
   },
   {
     "word": "terugkeren",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "Na een jaar in het buitenland <mark>keerde</mark> ze <mark>terug</mark> naar Nederland.",
       "Het thema <mark>keert</mark> regelmatig <mark>terug</mark> in zijn werk.",
-      "Hij wil nooit meer <mark>terugkeren</mark> naar zijn oude gewoontes."
+      "Na de crisis <mark>keerden</mark> de aandelenkoersen langzaam <mark>terug</mark> naar hun vroegere niveau."
     ],
     "options": [
-      "definitief ergens naartoe gaan",
-      "langzaam ergens naartoe bewegen",
-      "naar een eerder punt of situatie gaan",
-      "een nieuwe richting kiezen"
+      "voor het eerst ergens naartoe gaan waar je nog nooit eerder bent geweest",
+      "naar een plek, situatie of toestand gaan waar je eerder was of vandaan komt",
+      "ergens blijven omdat je de plek of situatie niet wilt verlaten",
+      "langzaam verder bewegen in dezelfde richting als daarvoor"
     ],
-    "correct": 2,
-    "explanation": "'Terugkeren' = naar een eerder vertrekpunt of situatie gaan. Scheidbaar: 'keer terug', 'keerde terug', 'teruggekeerd'. Synoniem: 'terugkomen', 'weerkeren'.",
-    "hint": "Je was weg en nu ga je weer naar de plek waar je vandaan komt. Je..."
+    "correct": 1,
+    "explanation": "'Terugkeren' = naar een eerder vertrekpunt, situatie of toestand gaan. Scheidbaar: 'keer terug', 'keerde terug', 'teruggekeerd'. Synoniem: 'terugkomen', 'weerkeren'. Figuurlijk: 'terugkeren naar een thema' = opnieuw over hetzelfde onderwerp beginnen; 'terugkeren naar af' = weer bij het begin zijn.",
+    "hint": "Dit is geen eerste bezoek. Wat heeft de plek of situatie waarnaar je gaat gemeen met jou?",
+    "collocations": [
+      "terugkeren naar huis",
+      "terugkeren op je schreden",
+      "het thema keert terug"
+    ]
   },
   {
     "word": "aanpassen",
     "pos": "werkwoord · scheidbaar",
     "level": 2,
+    "register": "alledaags",
     "examples": [
       "Ze <mark>paste</mark> haar schema <mark>aan</mark> na de vergadering.",
       "Na de verhuizing moest hij zich <mark>aanpassen</mark> aan zijn nieuwe omgeving.",
-      "Het programma <mark>past</mark> de moeilijkheid automatisch <mark>aan</mark> op basis van je niveau."
+      "Het systeem <mark>past</mark> de moeilijkheid automatisch <mark>aan</mark> op basis van de prestaties van de gebruiker."
     ],
     "options": [
-      "iets volledig veranderen",
-      "iets of zichzelf wijzigen om beter te passen",
-      "iets te weigeren",
-      "iets te accepteren zoals het is"
+      "iets volledig opnieuw maken zodat het niets meer gemeen heeft met het origineel",
+      "iets of zichzelf wijzigen zodat het beter past in een nieuwe situatie",
+      "accepteren hoe iets is zonder er iets aan te veranderen",
+      "iets tijdelijk vervangen totdat de oorspronkelijke versie weer beschikbaar is"
     ],
     "correct": 1,
-    "explanation": "'Aanpassen' = iets of zichzelf wijzigen zodat het beter past in een situatie. Scheidbaar: 'pas aan', 'paste aan', 'aangepast'. Zelfstandig naamwoord: 'aanpassing'.",
-    "hint": "De situatie is veranderd. Je past je gedrag of plan iets aan. Je... je."
+    "explanation": "'Aanpassen' = iets of zichzelf zo wijzigen dat het beter past in een situatie of omgeving. Scheidbaar: 'pas aan', 'paste aan', 'aangepast'. Zelfstandig naamwoord: 'aanpassing'. Synoniem: 'bijstellen', 'herzien'. Let op het verschil met 'veranderen': aanpassen impliceert een gerichte wijziging op basis van een nieuwe context.",
+    "hint": "Aanpassen is niet hetzelfde als accepteren, en ook niet hetzelfde als volledig veranderen. Wat zit er precies tussen die twee uitersten in?",
+    "collocations": [
+      "zich aanpassen aan de omgeving",
+      "het plan aanpassen",
+      "aanpassingsvermogen"
+    ]
   }
 ]
