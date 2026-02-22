@@ -9,12 +9,12 @@
       "Zijn <mark>antwoord</mark> op de kritiek was kort maar duidelijk."
     ],
     "options": [
+      "een reactie die je geeft zonder dat er een directe aanleiding voor is",
       "een vraag die je aan iemand stelt om meer te weten te komen",
       "een reactie die je geeft nadat iemand iets heeft gevraagd of gezegd",
-      "een officieel document met regels of afspraken",
-      "een reactie die je geeft zonder dat er een directe aanleiding voor is"
+      "een officieel document met regels of afspraken"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Antwoord' = een reactie op een vraag, brief of bericht. Meervoud: 'antwoorden'. Werkwoord: 'antwoorden'. Synoniem: 'reactie', 'respons'. Figuurlijk: 'het antwoord op een probleem' = de oplossing voor iets.",
     "hint": "Denk aan de twee rollen in een gesprek: iemand begint, iemand reageert. Wat is er altijd nodig voordat dit woord van toepassing is?",
     "collocations": [
@@ -33,12 +33,12 @@
       "Je dient binnen drie werkdagen schriftelijk te <mark>antwoorden</mark> op een officieel bezwaar."
     ],
     "options": [
-      "als eerste het woord nemen in een gesprek zonder uitgenodigd te zijn",
-      "iemand een bericht sturen zonder dat die persoon iets heeft gevraagd",
       "reageren op een vraag of bericht dat aan jou gericht is",
-      "instemmen met wat iemand zegt door hetzelfde te herhalen"
+      "als eerste het woord nemen in een gesprek zonder uitgenodigd te zijn",
+      "instemmen met wat iemand zegt door hetzelfde te herhalen",
+      "iemand een bericht sturen zonder dat die persoon iets heeft gevraagd"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "'Antwoorden' = een reactie geven op een vraag of bericht. Verleden tijd: 'antwoordde', voltooid deelwoord: 'geantwoord'. Synoniem: 'reageren', 'terugschrijven'. Figuurlijk: 'antwoorden op een situatie' = reageren op een omstandigheid.",
     "hint": "Dit werkwoord beschrijft wat je doet ná het ontvangen van iets. Wat is er altijd nodig voordat je dit kunt doen?",
     "collocations": [
@@ -57,12 +57,12 @@
       "Dit wetenschappelijke <mark>artikel</mark> is gepubliceerd in een internationaal vakblad."
     ],
     "options": [
-      "een volledig tijdschrift of krant met meerdere onderwerpen",
       "een kort persoonlijk bericht dat iemand online plaatst",
-      "een afzonderlijke geschreven tekst over één onderwerp in een publicatie",
-      "een gesproken reportage die wordt uitgezonden op de radio"
+      "een gesproken reportage die wordt uitgezonden op de radio",
+      "een volledig tijdschrift of krant met meerdere onderwerpen",
+      "een afzonderlijke geschreven tekst over één onderwerp in een publicatie"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Artikel' = een zelfstandige non-fictietekst in een krant, tijdschrift of op een website. Meervoud: 'artikelen'. Tweede betekenis: een product in een winkel ('een duur artikel'). Synoniem: 'stuk', 'bijdrage'.",
     "hint": "Een krant bevat veel van deze dingen. Wat is het verschil tussen dit woord en de krant zelf?",
     "collocations": [
@@ -81,12 +81,12 @@
       "Een <mark>belofte</mark> aan een kind moet je altijd nakomen, anders verlies je hun vertrouwen."
     ],
     "options": [
-      "een bewering over iets wat je eerder hebt gedaan",
       "een toezegging dat je iets in de toekomst zeker zult doen",
       "een verzoek aan iemand anders om iets voor jou te regelen",
-      "een verklaring waarmee je jezelf verdedigt tegen een beschuldiging"
+      "een verklaring waarmee je jezelf verdedigt tegen een beschuldiging",
+      "een bewering over iets wat je eerder hebt gedaan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Belofte' = een toezegging dat je iets gaat doen. Werkwoord: 'beloven'. Vaste combinaties: 'een belofte doen', 'een belofte nakomen', 'een belofte breken'. Synoniem: 'toezegging'. Figuurlijk: 'een veelbelovende student' = iemand met veel potentie.",
     "hint": "Dit woord gaat altijd over de toekomst. Maar niet alles wat je over de toekomst zegt is een belofte — welk extra element zit erin?",
     "collocations": [
@@ -105,10 +105,10 @@
       "Het persbureau stuurde een urgent <mark>bericht</mark> de wereld in over het ongeluk."
     ],
     "options": [
-      "een lang schriftelijk document met officiële afspraken",
+      "een pakket met goederen dat via de post wordt verstuurd",
       "een geschreven of gesproken mededeling of informatieoverdracht",
       "een formeel gesprek tussen twee partijen met een vaste agenda",
-      "een pakket met goederen dat via de post wordt verstuurd"
+      "een lang schriftelijk document met officiële afspraken"
     ],
     "correct": 1,
     "explanation": "'Bericht' = een korte mededeling, via telefoon, e-mail, post of nieuws. Meervoud: 'berichten'. Synoniem: 'boodschap', 'mededeling'. Figuurlijk: 'het bericht doen de ronde' = nieuws verspreidt zich.",
@@ -129,12 +129,12 @@
       "Het bestuur wil de financiële situatie uitgebreid <mark>bespreken</mark> tijdens de vergadering."
     ],
     "options": [
-      "samen over een onderwerp praten om informatie te delen of tot een besluit te komen",
-      "iemand uitleggen hoe iets werkt zonder de mening van de ander te vragen",
+      "informatie over een onderwerp verzamelen zonder er met anderen over te praten",
       "een standpunt schriftelijk vastleggen na overleg met anderen",
-      "informatie over een onderwerp verzamelen zonder er met anderen over te praten"
+      "samen over een onderwerp praten om informatie te delen of tot een besluit te komen",
+      "iemand uitleggen hoe iets werkt zonder de mening van de ander te vragen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "'Bespreken' = samen over een onderwerp praten, vaak met als doel een beslissing te nemen. Verleden tijd: 'besprak', voltooid deelwoord: 'besproken'. Synoniem: 'overleggen', 'behandelen'. Tweede betekenis: 'een tafel bespreken' = reserveren.",
     "hint": "Niet elke vorm van praten is bespreken. Hoeveel mensen zijn er minimaal nodig, en wat is het doel?",
     "collocations": [
@@ -153,12 +153,12 @@
       "De minister <mark>beweert</mark> dat de economie verbetert, maar de cijfers tonen iets anders."
     ],
     "options": [
-      "iets officieel bekendmaken met bewijs of documentatie",
-      "iemand overtuigen van iets door langdurig te argumenteren",
       "iets als waar stellen zonder dat je dat kunt of hoeft te bewijzen",
-      "toegeven dat je iets fout hebt gedaan na erop gewezen te zijn"
+      "iets officieel bekendmaken met bewijs of documentatie",
+      "toegeven dat je iets fout hebt gedaan na erop gewezen te zijn",
+      "iemand overtuigen van iets door langdurig te argumenteren"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "'Beweren' = iets als waar stellen, zonder dat je het per se kunt bewijzen. Verleden tijd: 'beweerde', voltooid deelwoord: 'beweerd'. Zelfstandig naamwoord: 'bewering'. Neutraler dan 'liegen', maar impliceert enige scepsis bij de luisteraar.",
     "hint": "Dit woord zegt iets over hoe zeker de spreker is van wat hij zegt — en hoe zeker de luisteraar dat vindt. Wat ontbreekt er bij dit woord vergeleken met 'bewijzen'?",
     "collocations": [
@@ -177,10 +177,10 @@
       "De <mark>boodschap</mark> van de film is dat vriendschap belangrijker is dan succes."
     ],
     "options": [
-      "een gesprek dat je voert om informatie te achterhalen",
+      "een aankondiging die voor iedereen tegelijk wordt gedaan",
       "informatie of een kern van betekenis die je aan iemand overbrengt",
-      "een officieel verzoek dat schriftelijk moet worden ingediend",
-      "een aankondiging die voor iedereen tegelijk wordt gedaan"
+      "een gesprek dat je voert om informatie te achterhalen",
+      "een officieel verzoek dat schriftelijk moet worden ingediend"
     ],
     "correct": 1,
     "explanation": "'Boodschap' = een mededeling die je voor iemand achterlaat, of de kern van wat je wilt overbrengen. Meervoud: 'boodschappen'. Let op de tweede betekenis: 'boodschappen doen' = inkopen doen in de supermarkt. Synoniem: 'bericht', 'mededeling'.",
@@ -201,10 +201,10 @@
       "Vergeet niet een postzegel op de <mark>brief</mark> te plakken voordat je hem verstuurt."
     ],
     "options": [
-      "een mondeling bericht dat je doorgeefd via een tussenpersoon",
+      "een officieel formulier dat je invult bij een overheidsinstantie",
       "een geschreven mededeling op papier die je per post verstuurt",
       "een kort digitaal bericht dat je via e-mail verstuurt",
-      "een officieel formulier dat je invult bij een overheidsinstantie"
+      "een mondeling bericht dat je doorgeefd via een tussenpersoon"
     ],
     "correct": 1,
     "explanation": "'Brief' = een geschreven of getypt bericht op papier dat per post wordt verstuurd. Meervoud: 'brieven'. Samenstellingen: 'brievenbus', 'briefpapier', 'briefkaart'. Synoniem: 'epistel' (formeel/literair). Figuurlijk: 'open brief' = een publieke brief gericht aan een specifieke persoon.",
@@ -227,8 +227,8 @@
     "options": [
       "een contract of overeenkomst die je met iemand sluit",
       "verbinding of communicatie die je met iemand onderhoudt",
-      "een meningsverschil of conflict tussen twee partijen",
-      "een formele kennismaking bij een eerste ontmoeting"
+      "een formele kennismaking bij een eerste ontmoeting",
+      "een meningsverschil of conflict tussen twee partijen"
     ],
     "correct": 1,
     "explanation": "'Contact' = de verbinding of communicatie die je met iemand hebt of onderhoudt. Werkwoord: 'contact opnemen'. Synoniem: 'verbinding', 'communicatie'. Figuurlijk: 'in contact staan met de realiteit' = voeling hebben met hoe dingen werkelijk zijn.",
@@ -250,9 +250,9 @@
     ],
     "options": [
       "een privégesprek tussen twee mensen over een gevoelig onderwerp",
-      "een vergadering waarbij één persoon een plan presenteert aan anderen",
+      "een informeel gesprek waarbij mensen ideeën met elkaar uitwisselen",
       "een gestructureerde discussie waarbij tegengestelde standpunten worden verdedigd",
-      "een informeel gesprek waarbij mensen ideeën met elkaar uitwisselen"
+      "een vergadering waarbij één persoon een plan presenteert aan anderen"
     ],
     "correct": 2,
     "explanation": "'Debat' = een gestructureerde discussie waarbij partijen tegengestelde meningen verdedigen. Werkwoord: 'debatteren'. Synoniem: 'discussie' (informeler). Figuurlijk: 'het maatschappelijk debat' = de publieke discussie in een samenleving over een onderwerp.",
@@ -273,12 +273,12 @@
       "Er is veel publieke <mark>discussie</mark> over de nieuwe regels rondom stikstofuitstoot."
     ],
     "options": [
+      "een verhoor waarbij iemand vragen moet beantwoorden die hij liever vermijdt",
       "een gesprek waarbij mensen verschillende meningen uitwisselen en beargumenteren",
-      "een toespraak waarbij één persoon een publiek toespreekt",
       "een onderhandeling waarbij twee partijen tot een compromis proberen te komen",
-      "een verhoor waarbij iemand vragen moet beantwoorden die hij liever vermijdt"
+      "een toespraak waarbij één persoon een publiek toespreekt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "'Discussie' = een gesprek waarin meningen worden gedeeld en beargumenteerd, vaak bij onenigheid. Werkwoord: 'discussiëren'. Synoniem: 'debat' (formeler). Figuurlijk: 'dat staat niet ter discussie' = dat is niet onderhandelbaar.",
     "hint": "Bij dit woord zijn er minimaal twee mensen nodig die het niet volledig eens zijn. Wat is het verschil met gewoon 'praten'?",
     "collocations": [
@@ -297,12 +297,12 @@
       "Maak de <mark>envelop</mark> voorzichtig open, anders scheurt de brief die erin zit."
     ],
     "options": [
-      "een kaartje waarop je een wens of felicitatie schrijft",
+      "een klein pakketje met meerdere documenten of goederen",
       "de doos of bak bij de voordeur waar post in bezorgd wordt",
-      "een papieren hoesje waarin je een brief stopt om te versturen",
-      "een klein pakketje met meerdere documenten of goederen"
+      "een kaartje waarop je een wens of felicitatie schrijft",
+      "een papieren hoesje waarin je een brief stopt om te versturen"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "'Envelop' = het papieren zakje of hoesje waarin je een brief verstuurt. Uitgesproken met klemtoon op de laatste lettergreep: 'enve-LOP'. Van het Frans 'enveloppe'. Synoniem: geen gangbaar synoniem. Samenstellingen: 'vensterenvelop', 'luchtenvelop'.",
     "hint": "Een brief heeft een hoesje nodig voordat hij de post in kan. Hoe heet dat hoesje?",
     "collocations": [
@@ -347,8 +347,8 @@
     "options": [
       "een compliment dat je iemand geeft over zijn prestaties",
       "een uiting van beleefdheid bij een ontmoeting of afscheid",
-      "een officieel verzoek dat je mondeling doet aan een autoriteit",
-      "een korte reactie die je geeft op een vraag"
+      "een korte reactie die je geeft op een vraag",
+      "een officieel verzoek dat je mondeling doet aan een autoriteit"
     ],
     "correct": 1,
     "explanation": "'Groet' = een woord of gebaar als beleefdheidsuitdrukking bij begroeting of afscheid. Meervoud: 'groeten'. Werkwoord: 'groeten'. Synoniem: 'begroeting'. Figuurlijk: 'met vriendelijke groet' is een standaard e-mailafsluiting.",
@@ -369,12 +369,12 @@
       "Geschiedenis <mark>herhaalt</mark> zich — dezelfde fouten worden steeds opnieuw gemaakt."
     ],
     "options": [
-      "iets wat eerder gezegd is samenvatten in minder en eenvoudigere woorden",
-      "iets opnieuw zeggen of doen zoals het eerder is gezegd of gedaan",
       "iets langzamer en duidelijker zeggen zodat de ander het beter kan begrijpen",
-      "iets uitleggen op een manier die de ander nog niet eerder heeft gehoord"
+      "iets uitleggen op een manier die de ander nog niet eerder heeft gehoord",
+      "iets opnieuw zeggen of doen zoals het eerder is gezegd of gedaan",
+      "iets wat eerder gezegd is samenvatten in minder en eenvoudigere woorden"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Herhalen' = iets nog een keer doen of zeggen op dezelfde manier. Verleden tijd: 'herhaalde', voltooid deelwoord: 'herhaald'. Zelfstandig naamwoord: 'herhaling'. Synoniem: 'opnieuw doen'. Figuurlijk: 'de geschiedenis herhaalt zich' = dezelfde situaties doen zich steeds opnieuw voor.",
     "hint": "Samenvatten en herhalen lijken op elkaar maar zijn anders. Wat blijft er bij herhalen behouden wat bij samenvatten verloren gaat?",
     "collocations": [
@@ -394,9 +394,9 @@
     ],
     "options": [
       "feiten en gegevens over een onderwerp die je kennis vergroten",
-      "de persoonlijke mening van iemand die hij publiekelijk verkondigt",
       "een bericht dat speciaal is gemaakt om iemand te overtuigen van iets",
-      "gegevens die bewust worden achtergehouden voor een bepaalde groep"
+      "gegevens die bewust worden achtergehouden voor een bepaalde groep",
+      "de persoonlijke mening van iemand die hij publiekelijk verkondigt"
     ],
     "correct": 0,
     "explanation": "'Informatie' = feiten en gegevens die je kennis over een onderwerp vergroten. Werkwoord: 'informeren'. Synoniem: 'gegevens', 'data', 'inlichtingen'. Figuurlijk: 'goed geïnformeerd zijn' = weten wat er speelt; 'informatief' = leerzaam, verhelderend.",
@@ -417,12 +417,12 @@
       "Via het <mark>internet</mark> zijn mensen over de hele wereld met elkaar verbonden."
     ],
     "options": [
-      "een lokaal netwerk van computers binnen één gebouw of bedrijf",
       "een wereldwijd netwerk van computers voor informatie en communicatie",
+      "een lokaal netwerk van computers binnen één gebouw of bedrijf",
       "een televisieprogramma dat live wordt uitgezonden voor een groot publiek",
       "een digitale app op je telefoon voor het delen van foto's en berichten"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Internet' = het wereldwijde netwerk dat computers en apparaten met elkaar verbindt. Lidwoord: 'het internet', maar ook vaak gebruikt zonder lidwoord ('op internet zoeken'). Synoniem: 'het web', 'het net'. Figuurlijk: 'het internet vergeet niets' = informatie online blijft bewaard.",
     "hint": "Een lokaal netwerk op school en het internet zijn beide netwerken. Wat is het essentiële verschil in schaal?",
     "collocations": [
@@ -441,12 +441,12 @@
       "In het tijdschrift staat een uitgebreid <mark>interview</mark> met de schrijver over zijn nieuwe roman."
     ],
     "options": [
+      "een informeel gesprek tussen vrienden waarbij iedereen gelijkwaardig meedoet",
       "een toespraak waarbij één persoon een publiek toespreekt zonder interactie",
       "een vraaggesprek waarbij één partij vragen stelt en de ander antwoordt",
-      "een vergadering waarbij meerdere mensen samen een beslissing proberen te nemen",
-      "een informeel gesprek tussen vrienden waarbij iedereen gelijkwaardig meedoet"
+      "een vergadering waarbij meerdere mensen samen een beslissing proberen te nemen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Interview' = een gepland vraaggesprek voor media, onderzoek of sollicitatie. Werkwoord: 'interviewen'. Synoniem: 'vraaggesprek'. Figuurlijk: in de volksmond wordt een sollicitatiegesprek ook wel 'een interview' of 'een sollicitatie-interview' genoemd.",
     "hint": "Twee mensen zijn in gesprek, maar ze hebben niet dezelfde rol. Wat is de structurele asymmetrie die dit woord van een gewoon gesprek onderscheidt?",
     "collocations": [
@@ -466,11 +466,11 @@
     ],
     "options": [
       "een bericht of signaal actief naar iemand versturen",
-      "een geluid voortbrengen, of de indruk wekken die iets bij het horen geeft",
       "met opzet zo hard praten dat iedereen in de ruimte het kan horen",
-      "aandachtig luisteren naar wat iemand zegt zonder te reageren"
+      "aandachtig luisteren naar wat iemand zegt zonder te reageren",
+      "een geluid voortbrengen, of de indruk wekken die iets bij het horen geeft"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Klinken' = een geluid voortbrengen (letterlijk), of de indruk geven die iets maakt bij het horen (figuurlijk). Verleden tijd: 'klonk', voltooid deelwoord: 'geklonken'. Synoniem: 'klinken als' = lijken op. Figuurlijk: 'dat klinkt goed' = dat lijkt me een goed idee.",
     "hint": "Dit woord heeft een letterlijke betekenis (geluid) en een figuurlijke (indruk). Welk zintuig of gevoel staat in beide gevallen centraal?",
     "collocations": [
@@ -489,9 +489,9 @@
       "De klantenservice ontving veel <mark>klachten</mark> over de lange wachttijden."
     ],
     "options": [
-      "een verzoek om meer informatie over een product of dienst",
-      "een uiting van ontevredenheid over iemand of iets, vaak formeel ingediend",
       "een opmerking die je maakt om iemand te waarschuwen voor gevaar",
+      "een uiting van ontevredenheid over iemand of iets, vaak formeel ingediend",
+      "een verzoek om meer informatie over een product of dienst",
       "een reactie waarmee je aangeeft het ergens mee eens te zijn"
     ],
     "correct": 1,
@@ -514,11 +514,11 @@
     ],
     "options": [
       "een maandelijks tijdschrift met uitgebreide achtergrondartikelen",
+      "een online platform waar je zelf nieuws kunt schrijven en delen",
       "een dagelijkse publicatie met nieuws en actualiteiten",
-      "een wekelijks programma op televisie over het nieuws",
-      "een online platform waar je zelf nieuws kunt schrijven en delen"
+      "een wekelijks programma op televisie over het nieuws"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Krant' = een dagelijkse publicatie op papier of digitaal met nieuws en actualiteiten. Meervoud: 'kranten'. Synoniemen: 'dagblad', 'nieuwsblad'. Figuurlijk: 'in de krant staan' = publiekelijk bekend zijn.",
     "hint": "Dit woord beschrijft een nieuwsmedium. Wat onderscheidt het van een tijdschrift in termen van verschijningsfrequentie?",
     "collocations": [
@@ -537,12 +537,12 @@
       "De minister weigert te <mark>luisteren</mark> naar de zorgen van de bevolking."
     ],
     "options": [
-      "geluid produceren zodat anderen jou kunnen horen",
-      "bewust en aandachtig waarnemen wat iemand zegt of wat er klinkt",
       "reageren op wat iemand zegt door jouw eigen mening te geven",
-      "stilzwijgend aanwezig zijn zonder actief deel te nemen aan een gesprek"
+      "stilzwijgend aanwezig zijn zonder actief deel te nemen aan een gesprek",
+      "bewust en aandachtig waarnemen wat iemand zegt of wat er klinkt",
+      "geluid produceren zodat anderen jou kunnen horen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Luisteren' = bewust en aandachtig waarnemen wat iemand zegt of wat er te horen is. Verleden tijd: 'luisterde', voltooid deelwoord: 'geluisterd'. Synoniem: 'aanhoren'. Figuurlijk: 'luisteren naar iemand' = serieus nemen wat iemand zegt; 'goed luisteren' = empathisch zijn.",
     "hint": "Horen en luisteren zijn niet hetzelfde. Wat is het extra element dat luisteren van horen onderscheidt?",
     "collocations": [
@@ -561,9 +561,9 @@
       "Stuur maar een <mark>mail</mark> als je nog vragen hebt na de vergadering."
     ],
     "options": [
-      "een geschreven brief op papier die je per post verstuurt",
-      "een digitaal bericht dat je via het internet naar iemand stuurt",
       "een kort tekstbericht dat je via je telefoon verstuurt",
+      "een digitaal bericht dat je via het internet naar iemand stuurt",
+      "een geschreven brief op papier die je per post verstuurt",
       "een officieel document dat je downloadt van een overheidswebsite"
     ],
     "correct": 1,
@@ -585,12 +585,12 @@
       "Je <mark>manieren</mark> zeggen veel over hoe je bent opgevoed."
     ],
     "options": [
+      "de manier waarop je communiceert via digitale kanalen",
       "de technieken die je gebruikt om een taak zo efficiënt mogelijk uit te voeren",
-      "de gedragsregels en beleefdheidsvormen die in een samenleving worden verwacht",
       "de persoonlijke gewoontes die je hebt ontwikkeld in je dagelijks leven",
-      "de manier waarop je communiceert via digitale kanalen"
+      "de gedragsregels en beleefdheidsvormen die in een samenleving worden verwacht"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Manieren' = sociaal geaccepteerde gedragsregels en beleefdheidsvormen. Enkelvoud 'manier' heeft een andere betekenis: 'op welke manier doe je dat?' = 'hoe doe je dat?'. Synoniem: 'etiquette', 'omgangsvormen'. Figuurlijk: 'iemand manieren leren' = iemand leren hoe hij zich moet gedragen.",
     "hint": "Dit woord gaat over hoe je je gedraagt tegenover anderen in sociale situaties. Wat is het verschil tussen een 'manier' en 'manieren' in het Nederlands?",
     "collocations": [
@@ -609,12 +609,12 @@
       "De treinomroep deed een <mark>mededeling</mark> over de vertraging van tien minuten."
     ],
     "options": [
-      "een vraag die je stelt aan een groep mensen om informatie te verzamelen",
       "een formele of officiële aankondiging of bekendmaking aan een groep",
+      "een vraag die je stelt aan een groep mensen om informatie te verzamelen",
       "een persoonlijk gesprek waarbij je nieuws deelt met één vertrouwenspersoon",
       "een reactie op een eerder bericht of aankondiging van iemand anders"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Mededeling' = een officieel of formeel bericht of aankondiging. Van 'mededelen' = officieel bekendmaken. Formeler dan 'bericht'. Meervoud: 'mededelingen'. Synoniem: 'bekendmaking', 'aankondiging'. Figuurlijk: 'geen verdere mededelingen' = geen commentaar.",
     "hint": "Dit woord is formeler dan 'bericht'. In welke richting gaat de communicatie: van één persoon naar velen, of van velen naar één?",
     "collocations": [
@@ -633,10 +633,10 @@
       "Zijn <mark>mening</mark> over de kwestie veranderde nadat hij de feiten had gelezen."
     ],
     "options": [
-      "een bewezen feit dat je kunt onderbouwen met wetenschappelijk bewijs",
+      "een vraag die je stelt om de opvatting van een ander te achterhalen",
       "de persoonlijke opvatting of standpunt dat iemand over iets heeft",
       "officiële informatie die door een autoriteit wordt verspreid",
-      "een vraag die je stelt om de opvatting van een ander te achterhalen"
+      "een bewezen feit dat je kunt onderbouwen met wetenschappelijk bewijs"
     ],
     "correct": 1,
     "explanation": "'Mening' = een persoonlijke opvatting of standpunt over iets. Synoniem: 'opvatting', 'standpunt', 'visie'. Werkwoord: 'menen' (vinden). Figuurlijk: 'van mening veranderen' = anders gaan denken; 'van mening verschillen' = het niet eens zijn.",
@@ -657,12 +657,12 @@
       "Goed <mark>nieuws</mark>: je sollicitatie is geslaagd en je mag volgende week beginnen!"
     ],
     "options": [
-      "alle informatie die al eerder bekend was en herhaald wordt",
       "recente informatie over actuele gebeurtenissen die mensen nog niet wisten",
       "een persoonlijke mening over wat er in de wereld zou moeten veranderen",
-      "een uitgebreide analyse van historische gebeurtenissen en hun gevolgen"
+      "een uitgebreide analyse van historische gebeurtenissen en hun gevolgen",
+      "alle informatie die al eerder bekend was en herhaald wordt"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Nieuws' = recente informatie over actuele gebeurtenissen. Altijd met 'het'. Samenstellingen: 'nieuwsbrief', 'nieuwsuitzending', 'nieuwslezer'. Synoniem: 'actualiteiten'. Figuurlijk: 'dat is geen nieuws' = dat weet iedereen al; 'slecht nieuws' of 'goed nieuws' als opener.",
     "hint": "Het woord zelf geeft al een aanwijzing over wanneer iets dit woord verdient. Wat is de tijdsdimensie?",
     "collocations": [
@@ -681,12 +681,12 @@
       "De commissie <mark>noemde</mark> het rapport 'een belangrijke stap voorwaarts'."
     ],
     "options": [
-      "iemand of iets een naam of aanduiding geven of uitspreken",
-      "iemand uitgebreid beschrijven zodat anderen weten wie het is",
       "iets beweren te zijn wat je zelf niet bent",
+      "iemand uitgebreid beschrijven zodat anderen weten wie het is",
+      "iemand of iets een naam of aanduiding geven of uitspreken",
       "iets voor de eerste keer bekendmaken aan een groep mensen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "'Noemen' = een naam of aanduiding geven aan iets of iemand. Verleden tijd: 'noemde', voltooid deelwoord: 'genoemd'. Synoniem: 'aanduiden', 'betitelen'. Figuurlijk: 'iets noemen' = iets benoemen of vermelden in een gesprek.",
     "hint": "Dit woord gaat altijd over een label of naam die je aan iets koppelt. Wat is het verschil tussen iets noemen en iets beschrijven?",
     "collocations": [
@@ -705,9 +705,9 @@
       "Zijn <mark>opmerking</mark> over de planning was terecht — we hadden er eerder aan moeten denken."
     ],
     "options": [
-      "een uitgebreide reactie waarbij je een standpunt volledig onderbouwt",
-      "een korte mondelinge of schriftelijke reactie of toevoeging",
       "een officiële aanklacht die je bij een instantie indient",
+      "een korte mondelinge of schriftelijke reactie of toevoeging",
+      "een uitgebreide reactie waarbij je een standpunt volledig onderbouwt",
       "een vraag die je stelt om meer informatie over een onderwerp te krijgen"
     ],
     "correct": 1,
@@ -729,12 +729,12 @@
       "Het team moet intern <mark>overleggen</mark> voordat het een antwoord geeft aan de klant."
     ],
     "options": [
-      "iemand vertellen wat hij moet doen zonder zijn mening te vragen",
-      "samen bespreken om tot een gezamenlijke beslissing of aanpak te komen",
       "zelfstandig een beslissing nemen op basis van beschikbare informatie",
-      "iets officieel bekendmaken aan een groep mensen"
+      "iemand vertellen wat hij moet doen zonder zijn mening te vragen",
+      "iets officieel bekendmaken aan een groep mensen",
+      "samen bespreken om tot een gezamenlijke beslissing of aanpak te komen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Overleggen' = samen bespreken om tot een uitkomst te komen. Zelfstandig naamwoord: 'overleg'. Synoniem: 'bespreken', 'consulteren'. Tweede betekenis: 'overleggen' = een document tonen ('u moet uw paspoort overleggen'). Figuurlijk: 'in overleg' = na bespreking.",
     "hint": "Dit woord heeft twee totaal verschillende betekenissen in het Nederlands. In de context van communicatie: wat is het doel van dit gesprek?",
     "collocations": [
@@ -802,11 +802,11 @@
     ],
     "options": [
       "een apparaat waarmee je bewegende beelden en geluid kunt ontvangen",
-      "een medium dat geluid uitzendt via radiogolven zonder beelden",
       "een app op je telefoon waarmee je podcasts en muziek kunt streamen",
-      "een kabelnetwerk waarlangs televisie en internet worden verzonden"
+      "een kabelnetwerk waarlangs televisie en internet worden verzonden",
+      "een medium dat geluid uitzendt via radiogolven zonder beelden"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Radio' = een medium dat geluidsignalen uitzendt via radiogolven, of het apparaat om die signalen te ontvangen. Zowel 'de radio' als 'het radiostation'. Synoniem: 'de omroep'. Figuurlijk: 'stilte op de radio' = geen nieuws vanuit een bepaalde hoek.",
     "hint": "Dit medium en televisie lijken op elkaar. Wat is het fundamentele verschil in wat je waarneemt?",
     "collocations": [
@@ -825,9 +825,9 @@
       "Het bedrijf heeft nog niet <mark>gereageerd</mark> op onze klacht van vorige week."
     ],
     "options": [
-      "als eerste iets zeggen of doen in een situatie",
-      "een actie ondernemen of iets zeggen als antwoord op iets wat eerder gebeurde",
       "zwijgen en geen actie ondernemen naar aanleiding van iets",
+      "een actie ondernemen of iets zeggen als antwoord op iets wat eerder gebeurde",
+      "als eerste iets zeggen of doen in een situatie",
       "iets herhalen wat een ander heeft gezegd om aan te geven dat je luistert"
     ],
     "correct": 1,
@@ -850,11 +850,11 @@
     ],
     "options": [
       "zachtjes iets zeggen zodat alleen de persoon naast je het kan horen",
-      "iemand of iets luid aanspreken om de aandacht te trekken of oproepen",
       "een bericht sturen via een digitaal platform om iemand te bereiken",
-      "herhalen wat iemand anders heeft gezegd om te bevestigen dat je het hebt gehoord"
+      "herhalen wat iemand anders heeft gezegd om te bevestigen dat je het hebt gehoord",
+      "iemand of iets luid aanspreken om de aandacht te trekken of oproepen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Roepen' = luid iemand aanspreken of iets uitroepen. Verleden tijd: 'riep', voltooid deelwoord: 'geroepen'. Synoniem: 'schreeuwen' (intenser), 'uitroepen'. Figuurlijk: 'geroepen zijn voor iets' = het gevoel hebben dat je ergens voor bestemd bent.",
     "hint": "Dit woord impliceert een bepaalde volumes en intentie. Wat doet het woord met de volume en het doel vergeleken met gewoon 'zeggen'?",
     "collocations": [
@@ -874,11 +874,11 @@
     ],
     "options": [
       "iemand die professioneel boeken leest en er recensies over schrijft",
-      "iemand die teksten of boeken maakt als beroep of bezigheid",
+      "iemand die anderen helpt bij het verbeteren van hun schrijfstijl",
       "iemand die nieuwsberichten verzamelt en samenstelt voor een krant",
-      "iemand die anderen helpt bij het verbeteren van hun schrijfstijl"
+      "iemand die teksten of boeken maakt als beroep of bezigheid"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Schrijver' = iemand die teksten of literaire werken schrijft. Vrouwelijke vorm: 'schrijfster'. Synoniem: 'auteur', 'literator'. Figuurlijk: 'schrijver van een rapport' = de persoon die een document heeft opgesteld.",
     "hint": "Een journalist en een schrijver schrijven allebei. Wat is het verschil in wat ze produceren?",
     "collocations": [
@@ -898,11 +898,11 @@
     ],
     "options": [
       "informeel babbelen met iemand zonder een specifiek doel",
-      "woorden uitspreken of communiceren via de mond, formeel of zakelijk",
       "schriftelijk communiceren via brieven of berichten",
+      "woorden uitspreken of communiceren via de mond, formeel of zakelijk",
       "luisteren naar wat anderen zeggen en dat onthouden"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Spreken' = woorden uitspreken of communiceren via de mond. Verleden tijd: 'sprak', voltooid deelwoord: 'gesproken'. Synoniem: 'praten' (informeler). Figuurlijk: 'voor zichzelf spreken' = geen verdere uitleg nodig zijn; 'dat spreekt voor zich'.",
     "hint": "Dit woord en 'praten' betekenen bijna hetzelfde. In welke situaties — formeel of informeel — gebruik je eerder dit woord?",
     "collocations": [
@@ -921,12 +921,12 @@
       "Bij de verkiezingen bracht iedere burger zijn <mark>stem</mark> uit op de kandidaat van zijn keuze."
     ],
     "options": [
-      "de toon waarop je iets zegt, dus vriendelijk, boos of verdrietig",
       "het geluid dat je maakt als je spreekt, of je recht om mee te beslissen",
       "de snelheid waarmee je spreekt bij een presentatie of toespraak",
-      "de inhoud van wat je zegt in een formele vergadering"
+      "de inhoud van wat je zegt in een formele vergadering",
+      "de toon waarop je iets zegt, dus vriendelijk, boos of verdrietig"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "'Stem' = het geluid dat je produceert bij spreken of zingen, of het recht om mee te stemmen. Werkwoord: 'stemmen'. Synoniem: 'geluid' (letterlijk), 'kiesrecht' (figuurlijk). Figuurlijk: 'een stem geven aan iemand' = iemand de kans geven zijn mening te uiten.",
     "hint": "Dit woord heeft twee heel verschillende betekenissen: één is letterlijk (iets wat je hoort), en één is figuurlijk (iets wat je uitbrengt bij een verkiezing). Wat verbindt die twee?",
     "collocations": [
@@ -946,11 +946,11 @@
     ],
     "options": [
       "een medium dat alleen geluid uitzendt via radiogolven",
+      "een abonnementsdienst waarmee je films en series kunt bekijken",
       "een medium dat bewegende beelden en geluid uitzendt of weergeeft",
-      "een digitaal platform waarop je zelf video's kunt uploaden en delen",
-      "een abonnementsdienst waarmee je films en series kunt bekijken"
+      "een digitaal platform waarop je zelf video's kunt uploaden en delen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Televisie' = een medium dat beeld en geluid uitzendt, of het apparaat om dat te ontvangen. Afkorting: 'tv'. Synoniem: 'tv', 'buis' (informeel). Figuurlijk: 'op televisie zijn' = publiekelijk zichtbaar zijn voor een groot publiek.",
     "hint": "Radio en televisie zijn allebei omroepmedia. Wat kun je bij televisie dat je bij radio niet kunt?",
     "collocations": [
@@ -969,12 +969,12 @@
       "Dit wetenschappelijke <mark>tijdschrift</mark> publiceert alleen peer-reviewed onderzoek."
     ],
     "options": [
+      "een digitale nieuwsbrief die je per e-mail ontvangt van een organisatie",
       "een dagelijks nieuwsblad met actuele berichten en reportages",
-      "een periodieke publicatie die regelmatig verschijnt over een specifiek thema",
       "een boek met fictieve verhalen dat je per hoofdstuk kunt lezen",
-      "een digitale nieuwsbrief die je per e-mail ontvangt van een organisatie"
+      "een periodieke publicatie die regelmatig verschijnt over een specifiek thema"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Tijdschrift' = een periodieke publicatie die wekelijks, maandelijks of per kwartaal verschijnt. Samengesteld van 'tijd' + 'schrift'. Synoniem: 'magazine', 'blad'. Figuurlijk: een 'wetenschappelijk tijdschrift' is een vakblad voor specialisten.",
     "hint": "Een krant en een tijdschrift zijn allebei publicaties. Wat zijn de twee belangrijkste verschillen in hoe en wanneer ze verschijnen?",
     "collocations": [
@@ -993,12 +993,12 @@
       "Zijn <mark>uitleg</mark> voor zijn afwezigheid was niet erg overtuigend."
     ],
     "options": [
+      "een instructie die precies voorschrijft wat iemand stap voor stap moet doen",
       "een oordeel over hoe goed iemand iets heeft gedaan of begrepen",
-      "een toelichting waarmee je iets begrijpelijker of duidelijker maakt",
       "een samenvatting van een lang document in één korte alinea",
-      "een instructie die precies voorschrijft wat iemand stap voor stap moet doen"
+      "een toelichting waarmee je iets begrijpelijker of duidelijker maakt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Uitleg' = een toelichting waarmee je iets begrijpelijker maakt. Werkwoord: 'uitleggen'. Synoniem: 'toelichting', 'verklaring'. Figuurlijk: 'een uitleg voor iets hebben' = een reden of verklaring voor iets kunnen geven.",
     "hint": "Een instructie vertelt je wat je moet doen. Een uitleg doet iets anders. Wat is dat verschil?",
     "collocations": [
@@ -1017,12 +1017,12 @@
       "De getuige vertelde zijn <mark>verhaal</mark> aan de politie, van begin tot eind."
     ],
     "options": [
+      "een tekst met regels en procedures die gevolgd moeten worden",
       "een korte feitelijke samenvatting van actuele gebeurtenissen",
       "een reeks gebeurtenissen die je beschrijft of vertelt, echt of verzonnen",
-      "een argument dat je gebruikt om je standpunt te onderbouwen",
-      "een tekst met regels en procedures die gevolgd moeten worden"
+      "een argument dat je gebruikt om je standpunt te onderbouwen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Verhaal' = een reeks gebeurtenissen die je beschrijft, fictief of niet. Meervoud: 'verhalen'. Synoniem: 'vertelling', 'narratief'. Figuurlijk: 'dat is een ander verhaal' = dat is een andere kwestie; 'zijn verhaal doen' = zijn kant van de zaak vertellen.",
     "hint": "Dit woord impliceert een begin, een midden en een einde. Wat is het verschil tussen een verhaal en losse feiten?",
     "collocations": [
@@ -1041,12 +1041,12 @@
       "De opa <mark>vertelt</mark> zijn kleinkinderen elke avond een ander verhaal voor het slapen."
     ],
     "options": [
+      "iets opschrijven zodat anderen het later kunnen lezen",
       "vragen om informatie die je zelf nog niet hebt",
       "informatie of een verhaal doorgeven aan iemand anders",
-      "iets opschrijven zodat anderen het later kunnen lezen",
       "iemand overhalen iets te doen door argumenten te geven"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Vertellen' = informatie of een verhaal mondeling doorgeven aan iemand anders. Verleden tijd: 'vertelde', voltooid deelwoord: 'verteld'. Synoniem: 'mededelen', 'zeggen'. Figuurlijk: 'dat vertelt ons iets' = dat geeft ons informatie over iets.",
     "hint": "Zowel nieuws doorgeven als een sprookje vertellen valt onder dit woord. Wat is de gemeenschappelijke kern?",
     "collocations": [
@@ -1066,11 +1066,11 @@
     ],
     "options": [
       "informatie geven aan iemand die dat nodig heeft",
-      "informatie opvragen of om iets verzoeken bij iemand anders",
       "iemand vertellen wat hij moet doen zonder zijn mening te willen horen",
-      "iets bevestigen wat je al weet door het hardop te zeggen"
+      "iets bevestigen wat je al weet door het hardop te zeggen",
+      "informatie opvragen of om iets verzoeken bij iemand anders"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Vragen' = om informatie of iets anders verzoeken bij iemand. Verleden tijd: 'vroeg', voltooid deelwoord: 'gevraagd'. Synoniem: 'verzoeken', 'informeren'. Figuurlijk: 'dat vraagt om problemen' = dat zal problemen veroorzaken.",
     "hint": "Dit is het tegenovergestelde van antwoorden. Wat is het doel van dit woord in communicatie?",
     "collocations": [
@@ -1090,11 +1090,11 @@
     ],
     "options": [
       "iemand straffen voor iets wat hij heeft gedaan",
-      "iemand van tevoren informeren over een risico of gevaar",
       "iemand verbieden iets te doen via een officieel besluit",
-      "iemand aanmoedigen door hem op zijn kwaliteiten te wijzen"
+      "iemand aanmoedigen door hem op zijn kwaliteiten te wijzen",
+      "iemand van tevoren informeren over een risico of gevaar"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Waarschuwen' = iemand van tevoren informeren over een gevaar, risico of ongewenste situatie. Verleden tijd: 'waarschuwde', voltooid deelwoord: 'gewaarschuwd'. Zelfstandig naamwoord: 'waarschuwing'. Synoniem: 'alarmeren', 'attent maken op'.",
     "hint": "Dit woord gaat over timing. Wat doe je voor iets gebeurt, niet erna?",
     "collocations": [
@@ -1113,12 +1113,12 @@
       "De <mark>website</mark> was niet bereikbaar door een technische storing."
     ],
     "options": [
+      "een digitaal document dat je per e-mail verstuurt als bijlage",
       "een digitale map op je computer waar je bestanden opslaat",
       "een pagina of verzameling pagina's op het internet van een organisatie of persoon",
-      "een app op je telefoon voor een specifieke dienst of bedrijf",
-      "een digitaal document dat je per e-mail verstuurt als bijlage"
+      "een app op je telefoon voor een specifieke dienst of bedrijf"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Website' = een pagina of set van pagina's op het internet met een eigen adres (URL). Synoniem: 'internetpagina', 'webpagina', 'site'. Figuurlijk: 'een website hebben' is voor bedrijven en personen een must voor hun online aanwezigheid.",
     "hint": "Een app en een website lijken op elkaar maar zijn technisch anders. Hoe open je een website — via welk programma?",
     "collocations": [
@@ -1161,12 +1161,12 @@
       "De omroep <mark>zond</mark> een speciaal nieuwsprogramma uit na het incident."
     ],
     "options": [
-      "iets via een digitaal netwerk naar één specifieke persoon sturen",
-      "signalen of programma's via de ether uitzenden naar een breed publiek",
       "iets per post of koerier naar een ander adres sturen",
-      "informatie opslaan zodat anderen het later kunnen terugvinden"
+      "iets via een digitaal netwerk naar één specifieke persoon sturen",
+      "informatie opslaan zodat anderen het later kunnen terugvinden",
+      "signalen of programma's via de ether uitzenden naar een breed publiek"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "'Zenden' = signalen of programma's uitzenden via de ether, doorgaans naar een breed publiek. Verleden tijd: 'zond', voltooid deelwoord: 'gezonden'. Synoniem: 'uitzenden', 'broadcasten'. Figuurlijk: 'een boodschap zenden' = een signaal of boodschap versturen.",
     "hint": "Dit woord en 'sturen' zijn allebei vormen van verzenden. Wat is het verschil in het beoogde publiek?",
     "collocations": [
@@ -1186,11 +1186,11 @@
     ],
     "options": [
       "iets opschrijven zodat anderen het later kunnen lezen",
+      "iemand overtuigen van iets door lang te argumenteren",
       "woorden uitspreken om informatie, mening of gevoel over te brengen",
-      "luisteren naar wat iemand zegt en dat letterlijk herhalen",
-      "iemand overtuigen van iets door lang te argumenteren"
+      "luisteren naar wat iemand zegt en dat letterlijk herhalen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Zeggen' = woorden uitspreken om informatie of gevoelens over te brengen. Verleden tijd: 'zei', voltooid deelwoord: 'gezegd'. Synoniem: 'spreken', 'vertellen'. Figuurlijk: 'iets zegt je iets' = iets roept een herkenning of gevoel op; 'dat zegt me niks' = dat betekent niets voor mij.",
     "hint": "Dit is een van de meest basale werkwoorden voor communicatie. Wat maakt het anders dan 'schrijven'?",
     "collocations": [
@@ -1209,12 +1209,12 @@
       "Het recht om te <mark>zwijgen</mark> is een fundamenteel recht van elke verdachte."
     ],
     "options": [
+      "pauzeren in een gesprek terwijl je nadenkt over je volgende zin",
       "heel zachtjes praten zodat anderen je nauwelijks kunnen horen",
       "bewust geen woorden uitspreken of informatie achterhouden",
-      "pauzeren in een gesprek terwijl je nadenkt over je volgende zin",
       "weigeren te luisteren naar wat iemand zegt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "'Zwijgen' = bewust niets zeggen of informatie achterhouden. Verleden tijd: 'zweeg', voltooid deelwoord: 'gezwegen'. Antonym: 'spreken'. Synoniem: 'stilzwijgen'. Figuurlijk: 'het zwijgen opleggen' = iemand verbieden te praten; 'stilzwijgend akkoord' = instemming zonder het hardop te zeggen.",
     "hint": "Zwijgen en fluisteren zijn allebei alternatieve manieren voor luid spreken. Wat is het fundamentele verschil?",
     "collocations": [
