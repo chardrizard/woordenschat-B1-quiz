@@ -1,287 +1,178 @@
 [
   {
-    "word": "beweren",
+    "_grade_before": "F → A",
+    "word": "bespreken",
     "pos": "werkwoord",
     "level": 1,
+    "register": "alledaags",
     "examples": [
-      "Hij <mark>beweert</mark> dat hij de trein heeft gemist, maar ik geloof hem niet.",
-      "Ze <mark>beweerde</mark> onschuldig te zijn, ondanks het bewijs.",
-      "De politicus <mark>beweert</mark> dat zijn plan de problemen zal oplossen."
+      "We moeten de plannen voor het weekend nog even <mark>bespreken</mark>.",
+      "De leraar <mark>besprak</mark> de antwoorden van de toets met de klas.",
+      "Het bestuur wil de financiële situatie uitgebreid <mark>bespreken</mark> tijdens de volgende vergadering."
     ],
     "options": [
-      "iets officieel bekendmaken",
-      "iets aantonen met bewijs",
-      "iets vragen aan een ander",
-      "iets stellen of zeggen zonder bewijs"
+      "samen een onderwerp doornemen om informatie te delen of tot een besluit te komen",
+      "iemand uitleggen hoe iets werkt zonder de mening van de ander te vragen",
+      "een standpunt innemen dat je daarna schriftelijk vastlegt",
+      "informatie over een onderwerp verzamelen zonder er met anderen over te praten"
     ],
-    "correct": 3,
-    "explanation": "'Beweren' = iets stellen als waar, zonder het noodzakelijk te bewijzen. Zelfstandig naamwoord: 'bewering'. Neutraler dan 'liegen', maar impliceert enige scepsis.",
-    "hint": "Iemand zegt dat iets zo is, maar je bent er niet zeker van of het klopt. Hij... dat."
+    "correct": 0,
+    "explanation": "'Bespreken' = samen over een onderwerp praten, vaak met als doel een beslissing te nemen of informatie te delen. Verleden tijd: 'besprak', voltooid deelwoord: 'besproken'. Synoniem: 'overleggen', 'behandelen'. Let op de tweede betekenis: 'een tafel bespreken' = reserveren.",
+    "hint": "Niet elke vorm van praten is bespreken. Hoeveel mensen zijn er minimaal nodig, en wat is het doel van het gesprek?",
+    "collocations": ["een onderwerp bespreken", "een tafel bespreken", "iets in detail bespreken"]
   },
   {
-    "word": "overleggen",
+    "_grade_before": "D → B",
+    "word": "antwoord",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "register": "alledaags",
+    "examples": [
+      "Ik wacht nog steeds op een <mark>antwoord</mark> op mijn e-mail.",
+      "Weet jij het juiste <mark>antwoord</mark> op deze lastige vraag?",
+      "Zijn <mark>antwoord</mark> op de kritiek was kort maar duidelijk."
+    ],
+    "options": [
+      "een vraag die je aan iemand stelt om informatie te krijgen",
+      "een reactie die je geeft nadat iemand iets heeft gevraagd of gezegd",
+      "een officieel document met regels of afspraken",
+      "een reactie die je geeft zonder dat er een aanleiding voor is"
+    ],
+    "correct": 1,
+    "explanation": "'Antwoord' = de reactie op een vraag, brief of bericht. Tegenstelling: 'de vraag'. Werkwoord: 'antwoorden'. Synoniem: 'reactie', 'respons'. Figuurlijk: 'het antwoord op een probleem' = de oplossing.",
+    "hint": "Denk aan de twee rollen in een gesprek: iemand begint, iemand reageert. Dit woord beschrijft de tweede rol. Maar niet elke reactie is een antwoord — wat is er altijd aan voorafgegaan?",
+    "collocations": ["een antwoord geven", "wachten op antwoord", "het antwoord op een probleem"]
+  },
+  {
+    "_grade_before": "D → B",
+    "word": "antwoorden",
     "pos": "werkwoord",
     "level": 1,
+    "register": "alledaags",
     "examples": [
-      "Voor de beslissing wil ik eerst met mijn collega's <mark>overleggen</mark>.",
-      "Ze <mark>overlegden</mark> een uur over de beste aanpak.",
-      "Kun je dit even met je manager <mark>overleggen</mark>?"
+      "Zij <mark>antwoordde</mark> direct op mijn berichtje.",
+      "Hij wilde niet <mark>antwoorden</mark> toen de politie hem vragen stelde.",
+      "Je moet binnen drie werkdagen <mark>antwoorden</mark> op een officiële brief van de gemeente."
     ],
     "options": [
-      "met anderen bespreken om tot een beslissing of mening te komen",
-      "een klacht indienen",
-      "iets officieel vastleggen",
-      "een beslissing alleen nemen"
-    ],
-    "correct": 0,
-    "explanation": "'Overleggen' = samen bespreken om tot een uitkomst te komen. Zelfstandig naamwoord: 'overleg'. 'In overleg' = na bespreking. Synoniem: 'bespreken', 'consulteren'.",
-    "hint": "Niet alleen beslissen, maar eerst met anderen praten. Dat noem je..."
-  },
-  {
-    "word": "mededeling",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De directeur deed een belangrijke <mark>mededeling</mark> aan het personeel.",
-      "Op het bord hing een <mark>mededeling</mark> over de gewijzigde openingstijden.",
-      "De treinomroep deed een <mark>mededeling</mark> over de vertraging."
-    ],
-    "options": [
-      "een officiële of formele aankondiging of bericht",
-      "een klacht die is ingediend",
-      "een vraag die om een antwoord vraagt",
-      "een instructie die gevolgd moet worden"
-    ],
-    "correct": 0,
-    "explanation": "'Mededeling' = een officieel of formeel bericht of aankondiging. Van 'mededelen' = officieel bekendmaken. Formeler dan 'bericht'. Meervoud: 'mededelingen'.",
-    "hint": "Een formeel bericht of aankondiging van een organisatie aan haar leden of klanten heet een..."
-  },
-  {
-    "word": "toelichten",
-    "pos": "werkwoord · scheidbaar",
-    "level": 2,
-    "examples": [
-      "Kunt u uw beslissing nader <mark>toelichten</mark>?",
-      "De minister <mark>lichtte</mark> het nieuwe beleid <mark>toe</mark> tijdens een persconferentie.",
-      "Ze vroeg hem zijn standpunt verder <mark>toe te lichten</mark>."
-    ],
-    "options": [
-      "iets herhalen zonder uitleg",
-      "iets officieel goedkeuren",
-      "iets verder uitleggen en verduidelijken",
-      "iets verbergen of onduidelijk maken"
+      "als eerste het woord nemen in een gesprek",
+      "iemand een bericht sturen zonder dat diegene iets heeft gevraagd",
+      "reageren op een vraag of bericht dat aan jou gericht is",
+      "hetzelfde zeggen als iemand anders om te laten merken dat je het eens bent"
     ],
     "correct": 2,
-    "explanation": "'Toelichten' = iets meer uitleggen of verduidelijken. Scheidbaar: 'licht toe', 'lichtte toe', 'toegelicht'. Synoniem: 'verduidelijken', 'uitleggen'.",
-    "hint": "Je uitleg was kort — nu geef je meer detail en uitleg. Je... jouw antwoord."
+    "explanation": "'Antwoorden' = een reactie geven op een vraag of bericht. Verleden tijd: 'antwoordde', voltooid deelwoord: 'geantwoord'. Synoniem: 'reageren', 'terugschrijven'. Figuurlijk: 'antwoorden op de situatie' = reageren op een omstandigheid.",
+    "hint": "Dit werkwoord beschrijft wat je doet ná het ontvangen van iets. Wat is er altijd nodig voordat je dit kunt doen?",
+    "collocations": ["antwoorden op een vraag", "schriftelijk antwoorden", "niet antwoorden"]
   },
   {
-    "word": "misverstaan",
-    "pos": "werkwoord",
+    "_grade_before": "D → B",
+    "word": "belofte",
+    "pos": "zelfstandig naamwoord · de",
     "level": 2,
+    "register": "alledaags",
     "examples": [
-      "Ze had hem <mark>misverstaan</mark> — hij bedoelde iets heel anders.",
-      "Door het slechte geluid <mark>misverstoond</mark> hij wat er gezegd werd.",
-      "Dit is een <mark>misverstand</mark> — we zijn het eigenlijk eens."
+      "Hij brak zijn <mark>belofte</mark> om me te helpen met verhuizen.",
+      "De politicus deed een <mark>belofte</mark> over lagere belastingen.",
+      "Een <mark>belofte</mark> aan een kind moet je altijd nakomen — anders verlies je hun vertrouwen."
     ],
     "options": [
-      "iemand goed begrijpen",
-      "iets verkeerd begrijpen of interpreteren",
-      "iemand bewust verkeerd informeren",
-      "iets niet horen"
+      "een bewering over iets wat je in het verleden hebt gedaan",
+      "een toezegging dat je iets in de toekomst zeker zult doen",
+      "een verzoek aan iemand anders om iets voor jou te doen",
+      "een verklaring dat je iets niet hebt gedaan wat je beschuldigd wordt van"
     ],
     "correct": 1,
-    "explanation": "'Misverstaan' = iets verkeerd begrijpen. Zelfstandig naamwoord: 'misverstand'. 'Mis-' = verkeerd. 'Er is een misverstand' = we begrijpen elkaar niet goed.",
-    "hint": "Je dacht dat iemand X bedoelde, maar hij bedoelde Y. Je hebt hem..."
+    "explanation": "'Belofte' = een toezegging dat je iets gaat doen. Werkwoord: 'beloven', 'een belofte doen/nakomen/breken'. Synoniem: 'toezegging', 'gelofte' (formeler). Figuurlijk: 'een belofte van kwaliteit' = garantie; 'een veelbelovende student' = iemand met veel potentie.",
+    "hint": "Dit woord gaat altijd over de toekomst. Maar niet alles wat je over de toekomst zegt is een belofte — wat is het extra element dat dit woord toevoegt?",
+    "collocations": ["een belofte doen", "een belofte nakomen", "een belofte breken"]
   },
   {
-    "word": "onderbouwen",
-    "pos": "werkwoord · scheidbaar",
-    "level": 3,
-    "examples": [
-      "Hij <mark>onderbouwde</mark> zijn argument met wetenschappelijke feiten.",
-      "Kun je dit standpunt beter <mark>onderbouwen</mark>?",
-      "Een goed <mark>onderbouwde</mark> conclusie is sterker dan een mening."
-    ],
-    "options": [
-      "iets op intuïtie beweren zonder feiten",
-      "iets ontkrachten of weerleggen",
-      "een samenvatting maken van een argument",
-      "een stelling steunen met argumenten of bewijs"
-    ],
-    "correct": 3,
-    "explanation": "'Onderbouwen' = een bewering of standpunt voorzien van argumenten en bewijs. Scheidbaar: 'onderbouw', 'onderbouwde', 'onderbouwd'. Synoniem: 'beargumenteren'.",
-    "hint": "Je stelling is sterker als je er feiten en argumenten aan toevoegt. Je moet je stelling..."
-  },
-  {
-    "word": "woordkeus",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Zijn <mark>woordkeus</mark> was niet gepast in deze formele context.",
-      "De <mark>woordkeus</mark> in de brief was nauwkeurig en professioneel.",
-      "Door een slechte <mark>woordkeus</mark> kwam de boodschap verkeerd over."
-    ],
-    "options": [
-      "de grammaticale structuur van een zin",
-      "het accent waarmee iemand Nederlands spreekt",
-      "de snelheid waarmee iemand spreekt",
-      "de selectie van woorden die iemand gebruikt om zich uit te drukken"
-    ],
-    "correct": 3,
-    "explanation": "'Woordkeus' = de selectie van specifieke woorden in spraak of schrijven. Samengesteld van 'woord' + 'keus' (keuze). Synoniem: 'woordgebruik', 'taalgebruik'.",
-    "hint": "Niet hoe snel je spreekt, maar welke woorden je kiest — dat is je..."
-  },
-  {
-    "word": "formuleren",
+    "_grade_before": "D → B",
+    "word": "herhalen",
     "pos": "werkwoord",
-    "level": 2,
+    "level": 1,
+    "register": "alledaags",
     "examples": [
-      "Ze nam even de tijd om haar antwoord zorgvuldig te <mark>formuleren</mark>.",
-      "Hoe <mark>formuleer</mark> je een beleefd maar duidelijk verzoek?",
-      "De vraag was moeilijk te <mark>formuleren</mark> in duidelijke taal."
+      "Kunt u die zin alstublieft <mark>herhalen</mark>? Ik verstond het niet.",
+      "De docent moest de uitleg meerdere keren <mark>herhalen</mark>.",
+      "Geschiedenis <mark>herhaalt</mark> zich — dezelfde fouten worden steeds opnieuw gemaakt."
     ],
     "options": [
-      "iets in woorden uitdrukken of verwoorden",
-      "iets samenvatten in één zin",
-      "iets vertalen naar een andere taal",
-      "iets neerschrijven zonder nadenken"
+      "iets wat eerder gezegd is samenvatten in minder woorden",
+      "iets wat gezegd of gedaan is nog een keer zeggen of doen",
+      "iets langzamer en duidelijker zeggen zodat de ander het beter begrijpt",
+      "iets uitleggen op een manier die de ander nog niet eerder heeft gehoord"
+    ],
+    "correct": 1,
+    "explanation": "'Herhalen' = iets nog een keer doen of zeggen. Verleden tijd: 'herhaalde', voltooid deelwoord: 'herhaald'. Zelfstandig naamwoord: 'herhaling'. Synoniem: 'opnieuw doen', 'nog eens zeggen'. Figuurlijk: 'de geschiedenis herhaalt zich' = dezelfde situaties doen zich steeds opnieuw voor.",
+    "hint": "Samenvatten en herhalen zijn niet hetzelfde. Wat blijft er behouden bij herhalen wat bij samenvatten verloren gaat?",
+    "collocations": ["een vraag herhalen", "de stof herhalen", "geschiedenis herhaalt zich"]
+  },
+  {
+    "_grade_before": "D → B",
+    "word": "informatie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "register": "alledaags",
+    "examples": [
+      "Op het internet kun je veel <mark>informatie</mark> vinden over dit onderwerp.",
+      "Voor meer <mark>informatie</mark> kunt u terecht bij de balie.",
+      "De folder bevat belangrijke <mark>informatie</mark> voor nieuwe studenten over de procedure."
+    ],
+    "options": [
+      "kennis en gegevens over een onderwerp die je kunt delen of opzoeken",
+      "de persoonlijke mening van iemand over een onderwerp",
+      "een bericht dat speciaal bedoeld is om iemand te overtuigen",
+      "gegevens die bewust verborgen worden gehouden voor anderen"
     ],
     "correct": 0,
-    "explanation": "'Formuleren' = iets in woorden uitdrukken, een gedachte of idee verwoorden. Van het Latijn 'formula'. Zelfstandig naamwoord: 'formulering'.",
-    "hint": "Je hebt een idee, maar je moet het in woorden uitdrukken. Je moet het..."
+    "explanation": "'Informatie' = feiten en gegevens die je kennis over een onderwerp vergroten. Werkwoord: 'informeren' (iemand informeren = iemand kennis geven). Synoniem: 'gegevens', 'data'. Figuurlijk: 'goed geïnformeerd zijn' = op de hoogte zijn van de feiten.",
+    "hint": "Niet elke bewering is informatie. Wat is het verschil tussen wat iemand vindt en wat informatie is?",
+    "collocations": ["informatie opzoeken", "informatie verstrekken", "om informatie vragen"]
   },
   {
-    "word": "interpretatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Er zijn meerdere <mark>interpretaties</mark> mogelijk van dit gedicht.",
-      "Zijn <mark>interpretatie</mark> van de wet was omstreden.",
-      "Wat was jouw <mark>interpretatie</mark> van die opmerking?"
-    ],
-    "options": [
-      "de officiële definitie van een begrip",
-      "de samenvatting van een tekst",
-      "de letterlijke vertaling van een tekst",
-      "de uitleg of betekenis die iemand aan iets geeft"
-    ],
-    "correct": 3,
-    "explanation": "'Interpretatie' = de betekenis of uitleg die iemand aan iets geeft. Van het Latijn 'interpretatio'. Werkwoord: 'interpreteren'. Synoniemen: 'lezing', 'uitleg'.",
-    "hint": "Je leest een gedicht. Wat betekent het voor jou? Dat is jouw..."
-  },
-  {
-    "word": "correspondentie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Alle <mark>correspondentie</mark> met de klant is per e-mail verlopen.",
-      "Ze had een lange <mark>correspondentie</mark> met de advocaat.",
-      "De <mark>correspondentie</mark> wordt bewaard voor tien jaar."
-    ],
-    "options": [
-      "een vergadering tussen vertegenwoordigers",
-      "een mondeling gesprek tussen twee partijen",
-      "de uitwisseling van berichten, brieven of e-mails",
-      "een officieel contract tussen partijen"
-    ],
-    "correct": 2,
-    "explanation": "'Correspondentie' = het uitwisselen van brieven of berichten, of de berichten zelf. Van het Latijn 'correspondere'. Werkwoord: 'corresponderen'.",
-    "hint": "Het uitwisselen van brieven of e-mails over een periode noem je..."
-  },
-  {
-    "word": "dialect",
+    "_grade_before": "D → B",
+    "word": "interview",
     "pos": "zelfstandig naamwoord · het",
     "level": 2,
+    "register": "alledaags",
     "examples": [
-      "Zijn grootmoeder sprak nog het oude Groningse <mark>dialect</mark>.",
-      "Het Limburgs <mark>dialect</mark> verschilt sterk van het Standaardnederlands.",
-      "Sommige <mark>dialecten</mark> zijn zo anders dat ze bijna onverstaanbaar zijn."
+      "De beroemde zanger gaf een exclusief <mark>interview</mark> op televisie.",
+      "Ik was erg zenuwachtig voor mijn <mark>interview</mark> voor de nieuwe baan.",
+      "In het tijdschrift staat een uitgebreid <mark>interview</mark> met de schrijver over zijn nieuwe roman."
     ],
     "options": [
-      "een regionale variant van een taal",
-      "een formele schrijfstijl van een taal",
-      "een vreemde taal die in Nederland wordt gesproken",
-      "een verouderde vorm van een taal"
-    ],
-    "correct": 0,
-    "explanation": "'Dialect' = een regionale variëteit van een taal, met eigen klanken, woordenschat en soms grammatica. Bijvoeglijk naamwoord: 'dialectisch'.",
-    "hint": "Limburgs, Gronings, Zeeuws — dit zijn regionale varianten van het Nederlands. We noemen ze..."
-  },
-  {
-    "word": "debat",
-    "pos": "zelfstandig naamwoord · het",
-    "level": 2,
-    "examples": [
-      "In het parlement werd een fel <mark>debat</mark> gevoerd over klimaatverandering.",
-      "Het <mark>debat</mark> tussen de politici trok veel kijkers.",
-      "Ze verloor het <mark>debat</mark> omdat haar argumenten zwak waren."
-    ],
-    "options": [
-      "een toespraak voor een groot publiek",
-      "een vergadering om beslissingen te nemen",
-      "een formele discussie waarbij tegenstanders argumenten uitwisselen",
-      "een gesprek tussen twee vrienden"
-    ],
-    "correct": 2,
-    "explanation": "'Debat' = een gestructureerde discussie waarbij twee of meer partijen tegengestelde meningen verdedigen. Van het Frans 'débattre'. Werkwoord: 'debatteren'.",
-    "hint": "Twee partijen beargumenteren elk hun standpunt tegenover elkaar. Dat is een..."
-  },
-  {
-    "word": "taalvaardigheid",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Een hoge <mark>taalvaardigheid</mark> in het Nederlands is vereist voor de baan.",
-      "Zijn <mark>taalvaardigheid</mark> verbeterde snel door veel te lezen.",
-      "Het NT2-examen toetst de <mark>taalvaardigheid</mark> op B1-niveau."
-    ],
-    "options": [
-      "het vermogen om een taal correct en vloeiend te gebruiken",
-      "het kennen van veel woorden",
-      "de kennis van grammaticaregels",
-      "het kunnen vertalen tussen twee talen"
-    ],
-    "correct": 0,
-    "explanation": "'Taalvaardigheid' = het vermogen om een taal effectief te gebruiken: spreken, luisteren, lezen en schrijven. Samengesteld van 'taal' + 'vaardigheid'.",
-    "hint": "Niet alleen woorden kennen, maar ook vlot kunnen spreken, lezen en schrijven — dat is je..."
-  },
-  {
-    "word": "woordenschat",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Hij had een rijke <mark>woordenschat</mark> dankzij zijn liefde voor lezen.",
-      "Met een beperkte <mark>woordenschat</mark> is het lastig je goed uit te drukken.",
-      "Deze quiz helpt je <mark>woordenschat</mark> te vergroten."
-    ],
-    "options": [
-      "de kwaliteit van iemands uitspraak",
-      "het totaal aan woorden dat iemand kent en kan gebruiken",
-      "de kennis van grammaticale regels",
-      "het vermogen om snel te lezen"
+      "een gesprek waarbij één persoon zijn verhaal vertelt zonder vragen te beantwoorden",
+      "een vraaggesprek waarbij één persoon vragen stelt en de ander antwoordt",
+      "een vergadering waarbij meerdere mensen samen een beslissing nemen",
+      "een beoordeling van iemands prestaties door een leidinggevende"
     ],
     "correct": 1,
-    "explanation": "'Woordenschat' = alle woorden die iemand kent en kan gebruiken. Samengesteld van 'woord' + 'schat' (verzameling). Engels: 'vocabulary'.",
-    "hint": "Alle woorden die jij kent, samen — dat is jouw..."
+    "explanation": "'Interview' = een gepland vraaggesprek voor media, onderzoek of sollicitatie. Werkwoord: 'interviewen'. Synoniem: 'vraaggesprek'. Figuurlijk: 'een sollicitatiegesprek' wordt in de volksmond ook 'een interview' of 'een sollicitatie-interview' genoemd.",
+    "hint": "Twee mensen zijn in gesprek, maar ze hebben niet dezelfde rol. Wat is het structurele verschil dat een interview onderscheidt van een gewoon gesprek?",
+    "collocations": ["een interview geven", "een interview afnemen", "een sollicitatie-interview"]
   },
   {
-    "word": "nuanceren",
+    "_grade_before": "C → B+",
+    "word": "klinken",
     "pos": "werkwoord",
-    "level": 3,
+    "level": 2,
+    "register": "alledaags",
     "examples": [
-      "Hij <mark>nuanceerde</mark> zijn uitspraak na kritiek van collega's.",
-      "De situatie is complex — laten we het niet te simpel stellen maar <mark>nuanceren</mark>.",
-      "Een goede journalist <mark>nuanceert</mark> zijn berichten."
+      "De muziek <mark>klinkt</mark> hier veel te hard — zet het zachter.",
+      "Zijn stem <mark>klonk</mark> een beetje verdrietig aan de telefoon.",
+      "Dat plan <mark>klinkt</mark> als een heel goed idee — laten we het proberen!"
     ],
     "options": [
-      "iets sterker en duidelijker stellen",
-      "een uitspraak verfijnen door uitzonderingen en details toe te voegen",
-      "iets terugtrekken wat eerder is gezegd",
-      "iets in simpelere bewoordingen uitleggen"
+      "een bericht of signaal naar iemand sturen",
+      "een geluid produceren, of de indruk wekken die je krijgt als je iets hoort of leest",
+      "een geluid produceren dat als storend of te luid wordt ervaren",
+      "heel goed luisteren naar wat iemand zegt"
     ],
     "correct": 1,
-    "explanation": "'Nuanceren' = een uitspraak of mening verfijnen door onderscheid te maken en uitzonderingen te benoemen. Zelfstandig naamwoord: 'nuance'. Van het Frans 'nuance' (schakering).",
-    "hint": "De werkelijkheid is niet zwart-wit. Als je dat erkent en toevoegt aan je standpunt, noem je dat..."
+    "explanation": "'Klinken' = geluid produceren (letterlijk), of de indruk geven die iets maakt (figuurlijk). Verleden tijd: 'klonk', voltooid deelwoord: 'geklonken'. Synoniem: 'klinken als iets' = lijken op, de indruk wekken van. Figuurlijk: 'dat klinkt goed' = dat lijkt me een goed idee; 'het klinkt te mooi om waar te zijn'.",
+    "hint": "Dit woord heeft een letterlijke en een figuurlijke betekenis. In beide gevallen is er iets wat je zintuiglijk of mentaal waarneemt. Welk zintuig is dat?",
+    "collocations": ["goed klinken", "klinken als", "dat klinkt interessant"]
   }
 ]
