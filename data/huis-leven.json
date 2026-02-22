@@ -1,287 +1,1322 @@
 [
   {
-    "word": "huurder",
-    "pos": "zelfstandig naamwoord · de",
+    "word": "adres",
+    "pos": "zelfstandig naamwoord · het",
     "level": 1,
     "examples": [
-      "De <mark>huurder</mark> betaalt elke maand huur aan de verhuurder.",
-      "Als <mark>huurder</mark> ben je verantwoordelijk voor kleine reparaties.",
-      "De <mark>huurder</mark> vroeg of hij een kat mocht houden."
+      "Ze schreef haar <mark>adres</mark> op de envelop zodat het pakket kon worden bezorgd.",
+      "Wat is jouw <mark>adres</mark>? Ik wil je een kaartje sturen.",
+      "Het bedrijf heeft zijn <mark>adres</mark> verplaatst naar een nieuw pand in de stad."
     ],
     "options": [
-      "iemand die een huis of appartement huurt van een ander",
-      "iemand die een huis koopt",
-      "iemand die een woning beheert",
-      "iemand die een huis bezit en verhuurt"
+      "de aanduiding van de locatie van een gebouw met straat en huisnummer",
+      "het registratienummer waarmee iemand staat ingeschreven bij de gemeente",
+      "het telefoonnummer waarop iemand bereikbaar is",
+      "de naam van de wijk of buurt waar iemand woont"
     ],
     "correct": 0,
-    "explanation": "'Huurder' = iemand die een woning huurt. De eigenaar heet 'verhuurder'. Van 'huren' = betalen voor tijdelijk gebruik. Meervoud: 'huurders'.",
-    "hint": "Je betaalt maandelijks geld om in een huis te mogen wonen dat van iemand anders is. Dan ben je een..."
+    "explanation": "'Adres' = de locatieaanduiding van een gebouw of persoon. Meervoud: 'adressen'. Synoniem: 'woonadres', 'vestigingsadres'. Figuurlijk: 'aan het verkeerde adres zijn' = bij de verkeerde persoon zijn voor iets.",
+    "hint": "Om een brief of pakket te bezorgen heb je dit nodig. Het bestaat uit straatnaam, huisnummer en woonplaats. Wat is het?",
+    "collocations": [
+      "een adres opgeven",
+      "aan het verkeerde adres zijn",
+      "adreswijziging doorgeven"
+    ]
   },
   {
-    "word": "verwarming",
+    "word": "afval",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze gooide het <mark>afval</mark> in de juiste container — glas bij glas, papier bij papier.",
+      "Het bedrijf produceert te veel <mark>afval</mark> en moet duurzamer worden.",
+      "Zwerfafval in het park is een groeiend probleem in de gemeente."
+    ],
+    "options": [
+      "materiaal of stof dat niet meer bruikbaar is en weggegooid wordt",
+      "de verpakking van producten die na gebruik kan worden hergebruikt",
+      "de restanten van voedsel die worden bewaard voor compostering",
+      "de producten die een bedrijf maakt en verkoopt aan klanten"
+    ],
+    "correct": 0,
+    "explanation": "'Afval' = materiaal dat niet meer nodig is en wordt weggegooid. Ontelbaar. Synoniem: 'vuilnis', 'restmateriaal'. Figuurlijk: 'afvallen' (werkwoord) = gewicht verliezen; 'het zwakste afvallen' = de slechtste worden geëlimineerd.",
+    "hint": "Wat doe je met lege blikjes, kapotte spullen en etensresten die je niet meer wilt? Je gooit het...?",
+    "collocations": [
+      "afval scheiden",
+      "afval weggooien",
+      "afvalcontainer"
+    ]
+  },
+  {
+    "word": "bad",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze nam elke avond een warm <mark>bad</mark> om te ontspannen na het werk.",
+      "De kinderen speelden met speelgoed in het <mark>bad</mark> tijdens het wassen.",
+      "Het zwembad heeft een apart <mark>bad</mark> voor kleine kinderen met ondiep water."
+    ],
+    "options": [
+      "de douchekop waaruit water sproeit voor een snelle wasbeurt",
+      "de kraan waaruit warm of koud water stroomt in de badkamer",
+      "de grote bak met water waarin je onderdompelt om je te wassen",
+      "de handdoek waarmee je jezelf afdroegt na het wassen"
+    ],
+    "correct": 2,
+    "explanation": "'Bad' = de grote bak voor onderdompeling, of het wassen zelf. Meervoud: 'baden'. Synoniem: 'badkuip'. Figuurlijk: 'een bad nemen' = een volledig bad; 'een bloedblad' = een bloedbad; 'in het bad zitten' = in de problemen zitten.",
+    "hint": "Douche en bad zijn allebei manieren om je te wassen. Wat is het verschil — in welke sta je en in welke lig je?",
+    "collocations": [
+      "een bad nemen",
+      "een warm bad",
+      "bad of douche"
+    ]
+  },
+  {
+    "word": "badkamer",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "In de winter zet ze de <mark>verwarming</mark> op 20 graden.",
-      "De <mark>verwarming</mark> was stuk en het werd ijskoud in huis.",
-      "Hij draaide de <mark>verwarming</mark> lager om energie te besparen."
+      "De <mark>badkamer</mark> is vernieuwd met een nieuwe douche en wastafel.",
+      "Ze was elke ochtend twintig minuten in de <mark>badkamer</mark> voordat ze naar werk ging.",
+      "Het appartement heeft één slaapkamer en een kleine <mark>badkamer</mark>."
     ],
     "options": [
-      "de waterinstallatie in een woning",
-      "de isolatie van muren en ramen",
-      "het koelsysteem van een gebouw",
-      "het systeem dat een gebouw warm houdt"
+      "de ruimte in huis waar wasgoed wordt gewassen en gedroogd",
+      "de ruimte in huis waar men eet en drinkt aan tafel",
+      "de ruimte in huis met douche, bad of wastafel voor persoonlijke hygiëne",
+      "de ruimte in huis waar men maaltijden bereidt"
+    ],
+    "correct": 2,
+    "explanation": "'Badkamer' = de ruimte voor persoonlijke hygiëne. Meervoud: 'badkamers'. Synoniem: 'toilet' (informeel), 'sanitaire ruimte'. Figuurlijk: 'naar de badkamer gaan' = een eufemisme voor naar het toilet gaan.",
+    "hint": "Keuken, woonkamer en badkamer zijn drie kamers in een huis. Welke kamer is specifiek voor wassen en hygiëne?",
+    "collocations": [
+      "naar de badkamer gaan",
+      "de badkamer renoveren",
+      "een gedeelde badkamer"
+    ]
+  },
+  {
+    "word": "bakken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>bakt</mark> elke zondag verse broodjes voor het ontbijt.",
+      "Hij <mark>bakte</mark> een ei in de koekenpan met een klontje boter.",
+      "De ondernemer <mark>bakt</mark> er niets van — zijn bedrijf draait slecht."
+    ],
+    "options": [
+      "voedsel bereiden via droge hitte in een oven of pan",
+      "voedsel bereiden door het in kokend water te dompelen",
+      "voedsel bereiden door het rauw te eten zonder verhitting",
+      "voedsel bereiden door het langzaam te verhitten in een vloeistof"
+    ],
+    "correct": 0,
+    "explanation": "'Bakken' = voedsel bereiden via droge hitte in oven of pan. Verleden tijd: 'bakte', voltooid deelwoord: 'gebakken'. Synoniem: 'braden', 'grillen'. Figuurlijk: 'er niets van bakken' = ergens niet goed in zijn.",
+    "hint": "Koken, bakken en stoven zijn bereidewijzen. Bakken gebruikt droge hitte — in een oven of pan. Wat is het verschil met koken in water?",
+    "collocations": [
+      "een taart bakken",
+      "er niets van bakken",
+      "gebakken ei"
+    ]
+  },
+  {
+    "word": "bank",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze ploften na het werk allebei neer op de <mark>bank</mark> voor de televisie.",
+      "De <mark>bank</mark> weigerde hem een lening omdat zijn inkomen te laag was.",
+      "Er stond een houten <mark>bank</mark> in het park waarop ouderen zaten te praten."
+    ],
+    "options": [
+      "een stoel met een hoge rugleuning voor comfort in de woonkamer",
+      "uitsluitend een financiële instelling die geld beheert en leningen verstrekt",
+      "een lang zitmeubel met ruimte voor meerdere mensen, of een financiële instelling",
+      "een tafel in de woonkamer waarop tijdschriften en afstandsbedieningen liggen"
+    ],
+    "correct": 2,
+    "explanation": "'Bank' = een lang zitmeubel of een financiële instelling. Meervoud: 'banken'. Synoniem: 'sofa', 'canapé' (meubel) of 'geldinstelling'. Figuurlijk: 'op de bank zitten' = in de voetbalsport: reserve zijn; 'bank houden' = oppassen.",
+    "hint": "Bank heeft twee veelgebruikte betekenissen in het dagelijks leven: één in de woonkamer en één in de financiële wereld. Welke twee zijn dat?",
+    "collocations": [
+      "op de bank liggen",
+      "geld op de bank zetten",
+      "op de bank zitten"
+    ]
+  },
+  {
+    "word": "bed",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze kroop het <mark>bed</mark> in met een goed boek na een lange dag.",
+      "Het <mark>bed</mark> opmaken is elke ochtend haar eerste taak.",
+      "Hij heeft een bloemen<mark>bed</mark> vol tulpen en narcissen aangelegd."
+    ],
+    "options": [
+      "de kast waarin kleding en beddengoed wordt opgeborgen",
+      "de tafel naast het slaapkamermeubel voor boeken en wekker",
+      "het meubel waarop men zit en ontspant in de woonkamer",
+      "het meubel waarop men slaapt, of een afgebakend stuk grond voor planten"
     ],
     "correct": 3,
-    "explanation": "'Verwarming' = het systeem dat warmte produceert in een gebouw, zoals een cv-installatie. Van 'verwarmen' = warm maken.",
-    "hint": "In de winter zet je dit aan zodat het warm blijft in huis. Dat is de..."
+    "explanation": "'Bed' = het slaapmeubel, of een afgebakend stukje tuin voor planten. Meervoud: 'bedden'. Synoniem: 'slaapplaats', 'bloembed' (tuin). Figuurlijk: 'het bed opmaken' = netjes zijn; 'naar bed gaan' = gaan slapen.",
+    "hint": "Bank, bed en stoel zijn meubels. Bed is specifiek voor één activiteit — welke?",
+    "collocations": [
+      "naar bed gaan",
+      "het bed opmaken",
+      "bloemenbed"
+    ]
   },
   {
-    "word": "boodschappen",
-    "pos": "zelfstandig naamwoord · meervoud",
+    "word": "broek",
+    "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "Ze deed elke vrijdag <mark>boodschappen</mark> in de supermarkt.",
-      "Hij vergat melk op de <mark>boodschappenlijst</mark> te zetten.",
-      "Na het werk haalde ze snel de <mark>boodschappen</mark> op."
+      "Hij trok een schone <mark>broek</mark> aan na het sporten.",
+      "Ze kocht een nieuwe spijker<mark>broek</mark> in de uitverkoop.",
+      "In die relatie draagt zij duidelijk de <mark>broek</mark> — zij neemt alle beslissingen."
     ],
     "options": [
-      "inkopen die je doet voor dagelijks gebruik",
-      "facturen die je moet betalen",
-      "berichten die je aan iemand doorstuurt",
-      "cadeaus die je koopt voor anderen"
+      "een kledingstuk dat van de taille tot de knieën of enkels valt zonder pijpen",
+      "een kledingstuk dat de benen en het onderlichaam bedekt met twee pijpen",
+      "een kledingstuk dat het bovenlichaam van nek tot taille bedekt",
+      "een kledingstuk dat over schouders en rug hangt als buitenlaag"
+    ],
+    "correct": 1,
+    "explanation": "'Broek' = een kledingstuk met twee pijpen voor het onderlichaam. Meervoud: 'broeken'. Synoniem: 'pantalon' (formeel), 'spijkerbroek' (jeans). Figuurlijk: 'de broek aanhebben' = de baas zijn in een relatie.",
+    "hint": "Broek, rok en shirt zijn kledingstukken. Broek bedekt de benen in twee aparte pijpen. Wat is het verschil met een rok?",
+    "collocations": [
+      "een broek aantrekken",
+      "de broek aanhebben",
+      "een spijkerbroek"
+    ]
+  },
+  {
+    "word": "deur",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze klopte op de <mark>deur</mark> maar er werd niet opengedaan.",
+      "Doe de <mark>deur</mark> dicht — het tocht verschrikkelijk hier.",
+      "Er gaan nieuwe deuren voor haar open nu ze haar diploma heeft gehaald."
+    ],
+    "options": [
+      "het raam dat kan worden geopend voor ventilatie en daglicht",
+      "het beweegbare paneel in een opening dat toegang tot een ruimte geeft",
+      "de muur die twee kamers van elkaar scheidt",
+      "het slot waarmee een ruimte of kast kan worden afgesloten"
+    ],
+    "correct": 1,
+    "explanation": "'Deur' = een beweegbaar paneel dat een opening afsluit. Meervoud: 'deuren'. Synoniem: 'toegang'. Figuurlijk: 'deuren openen' = mogelijkheden creëren; 'met de deur in huis vallen' = direct ter zake komen.",
+    "hint": "Deur, raam en muur zijn onderdelen van een gebouw. De deur is het enige dat je erdoor kan lopen — hoe?",
+    "collocations": [
+      "de deur opendoen",
+      "nieuwe deuren openen",
+      "met de deur in huis vallen"
+    ]
+  },
+  {
+    "word": "ding",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Wat is dat voor <mark>ding</mark> op de keukentafel — heb jij dat meegebracht?",
+      "Ze heeft heel wat <mark>dingen</mark> meegemaakt in haar lange leven.",
+      "Het belangrijkste <mark>ding</mark> is dat je gezond blijft en plezier hebt."
+    ],
+    "options": [
+      "een activiteit of handeling die wordt uitgevoerd door een persoon",
+      "een specifiek, nauwkeurig omschreven voorwerp met een bekende naam",
+      "een onbepaald voorwerp, zaak of aangelegenheid zonder specificering",
+      "een abstract begrip dat niet tastbaar is maar wel invloed heeft"
+    ],
+    "correct": 2,
+    "explanation": "'Ding' = een onbepaald voorwerp, zaak of aangelegenheid. Meervoud: 'dingen'. Synoniem: 'zaak', 'voorwerp'. Figuurlijk: 'er een ding van maken' = ergens te moeilijk over doen; 'dat is zijn ding' = dat is zijn specialiteit of interesse.",
+    "hint": "Ding is het meest algemene woord voor een voorwerp of zaak. Wanneer gebruik je 'ding' in plaats van de echte naam van iets?",
+    "collocations": [
+      "een ding is zeker",
+      "zijn ding doen",
+      "dingen meemaken"
+    ]
+  },
+  {
+    "word": "douche",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze nam een koude <mark>douche</mark> na haar ochtendloop.",
+      "De <mark>douche</mark> lekt — er moet een loodgieter komen.",
+      "Zijn opmerking was een koude <mark>douche</mark> na al het harde werk."
+    ],
+    "options": [
+      "de handdoekhouder waaraan handdoeken worden gehangen na het wassen",
+      "de installatie waarbij water van bovenaf sproeit voor een snelle wasbeurt",
+      "de kraan waaruit warm en koud water stroomt bij de wastafel",
+      "de grote bak water waarin je onderdompelt voor een uitgebreide wasbeurt"
+    ],
+    "correct": 1,
+    "explanation": "'Douche' = een wasinstallatie waarbij water van bovenaf sproeit. Meervoud: 'douches'. Werkwoord: 'douchen'. Synoniem: 'stortbad'. Figuurlijk: 'een koude douche zijn' = een teleurstellende verrassing zijn.",
+    "hint": "Douche en bad zijn allebei manieren om je te wassen. Bij een douche sta je; bij een bad...?",
+    "collocations": [
+      "een douche nemen",
+      "douchen voor het slapengaan",
+      "een koude douche"
+    ]
+  },
+  {
+    "word": "drank",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Op het feest was er volop <mark>drank</mark> en lekker eten voor alle gasten.",
+      "Ze drinkt alleen frisdrank — geen <mark>drank</mark> met alcohol.",
+      "Zijn verslaving aan <mark>drank</mark> kostte hem zijn baan en zijn relatie."
+    ],
+    "options": [
+      "elke vloeistof die je drinkt, of specifiek alcoholische drank",
+      "vloeibaar voedsel dat speciaal is gemaakt voor zieke mensen",
+      "uitsluitend alcoholische vloeistoffen zoals bier, wijn en sterke drank",
+      "koolzuurhoudende frisdrank in blik of fles"
     ],
     "correct": 0,
-    "explanation": "'Boodschappen' = de inkopen voor dagelijks gebruik, zoals eten en drinken. 'Boodschappen doen' = naar de winkel gaan. Enkelvoud: 'boodschap' (ook: bericht).",
-    "hint": "Naar de supermarkt gaan voor eten en drinken — dat noem je..."
+    "explanation": "'Drank' = elke vloeistof die je drinkt, of specifiek alcohol. Ontelbaar als alcoholisch. Synoniem: 'dranken', 'alcohol'. Figuurlijk: 'aan de drank zijn' = een drankprobleem hebben; 'drank is zijn vijand' = hij heeft moeite alcohol te weerstaan.",
+    "hint": "Drank en water zijn allebei vloeistoffen die je drinkt. Maar 'aan de drank zijn' betekent iets specifieks. Welke dubbele betekenis heeft drank?",
+    "collocations": [
+      "aan de drank zijn",
+      "sterke drank",
+      "eten en drank"
+    ]
+  },
+  {
+    "word": "drinken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>drinkt</mark> elke ochtend twee glazen water voor het ontbijt.",
+      "Na het hardlopen <mark>dronk</mark> hij de hele fles water leeg in één keer.",
+      "Ze <mark>drinken</mark> op het succes van het project met een glas champagne."
+    ],
+    "options": [
+      "vaste stof laten oplossen in een vloeistof voordat je het inneemt",
+      "voedsel in de mond stoppen en doorslikken na kauwen",
+      "vloeistof door de mond innemen en doorslikken",
+      "voedsel of drank opwarmen voordat je het consumeert"
+    ],
+    "correct": 2,
+    "explanation": "'Drinken' = vloeistof door de mond innemen. Verleden tijd: 'dronk', voltooid deelwoord: 'gedronken'. Synoniem: 'consumeren'. Figuurlijk: 'drinken op iets' = een toast uitbrengen; 'drinken als een tempelier' = erg veel drinken.",
+    "hint": "Eten en drinken zijn de twee basale consumptiehandelingen. Wat is het verschil — vaste of vloeibare stof?",
+    "collocations": [
+      "water drinken",
+      "drinken op succes",
+      "drinken als een tempelier"
+    ]
+  },
+  {
+    "word": "eten",
+    "pos": "werkwoord / zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze <mark>eet</mark> elke avond om half zeven samen met haar gezin.",
+      "Het <mark>eten</mark> in dat restaurant was uitstekend — ze komen zeker terug.",
+      "Hij <mark>at</mark> zijn bord leeg zonder een woord te zeggen."
+    ],
+    "options": [
+      "voedsel door de mond innemen, kauwen en doorslikken, of het voedsel zelf",
+      "voedsel bewaren in de koelkast zodat het langer houdbaar blijft",
+      "voedsel inkopen bij een winkel of markt voor thuisgebruik",
+      "voedsel bereiden door het te verhitten in een oven of pan"
+    ],
+    "correct": 0,
+    "explanation": "'Eten' = voedsel consumeren (werkwoord), of het voedsel zelf (zelfstandig naamwoord). Verleden tijd: 'at', voltooid deelwoord: 'gegeten'. Synoniem: 'consumeren', 'nuttigen'. Figuurlijk: 'dat pik ik niet' of 'dat eet ik niet' = dat accepteer ik niet.",
+    "hint": "Eten is zowel een handeling als een zelfstandig naamwoord. 'Goed eten' kan twee dingen betekenen — welke twee?",
+    "collocations": [
+      "samen eten",
+      "lekker eten",
+      "eten klaarmaken"
+    ]
+  },
+  {
+    "word": "fles",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze kocht een <mark>fles</mark> wijn voor het diner bij vrienden.",
+      "De baby dronk zijn <mark>fles</mark> leeg en sliep daarna direct.",
+      "Hij is een oude <mark>fles</mark> — hij verandert nooit van aanpak."
+    ],
+    "options": [
+      "een brede, lage pot met deksel voor het bewaren van voedsel",
+      "een plat, open bakje voor het serveren van dranken aan tafel",
+      "een smal, hoog recipiënt met een hals voor het bewaren van vloeistoffen",
+      "een zakje of pak voor het bewaren van melk of sap"
+    ],
+    "correct": 2,
+    "explanation": "'Fles' = een smal recipiënt met een hals voor vloeistoffen. Meervoud: 'flessen'. Synoniem: 'flesje' (klein). Figuurlijk: 'een old fles zijn' = een conservatief of verouderd persoon; 'de geest uit de fles' = iets wat niet meer teruggedraaid kan worden.",
+    "hint": "Fles, glas en pot zijn alle drie recipiënten voor vloeistoffen of voedsel. De fles heeft een smalle hals — wat maakt het onderscheidend?",
+    "collocations": [
+      "een fles wijn",
+      "de geest uit de fles",
+      "een lege fles"
+    ]
+  },
+  {
+    "word": "gebruik",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Het <mark>gebruik</mark> van mobiele telefoons tijdens de les is verboden.",
+      "Ze maakte <mark>gebruik</mark> van haar recht om te zwijgen voor de rechter.",
+      "Het is een oud <mark>gebruik</mark> om op oudejaarsavond vuurwerk af te steken."
+    ],
+    "options": [
+      "de manier waarop iets is gebouwd of ontworpen",
+      "het toepassen of benutten van iets, of een gewoonte of traditie",
+      "de hoeveelheid van iets die beschikbaar is voor consumptie",
+      "de instructie die uitlegt hoe een product werkt"
+    ],
+    "correct": 1,
+    "explanation": "'Gebruik' = het toepassen of benutten van iets, of een gewoonte. Meervoud: 'gebruiken' (gewoonten). Werkwoord: 'gebruiken'. Synoniem: 'toepassing', 'gewoonte'. Figuurlijk: 'gebruik maken van' = iets benutten; 'in gebruik zijn' = actief worden gebruikt.",
+    "hint": "Gebruik heeft twee betekenissen: de handeling van iets gebruiken én een gewoonte of traditie. Welke twee zijn dat?",
+    "collocations": [
+      "gebruik maken van",
+      "in gebruik nemen",
+      "een oud gebruik"
+    ]
+  },
+  {
+    "word": "geld",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze had niet genoeg <mark>geld</mark> bij zich om de rekening te betalen.",
+      "Hij verdient goed <mark>geld</mark> als freelance consultant.",
+      "Tijd is <mark>geld</mark> — elk uur telt in dit project."
+    ],
+    "options": [
+      "het ruilmiddel in de vorm van munten en biljetten dat voor betaling dient",
+      "de waarde die een product heeft op de markt",
+      "de bankrekening waarop je inkomen en spaargeld worden bijgehouden",
+      "de lening die je ontvangt van de bank om grote aankopen te doen"
+    ],
+    "correct": 0,
+    "explanation": "'Geld' = het officiële ruilmiddel voor economische transacties. Ontelbaar. Synoniem: 'geldmiddelen', 'valuta'. Figuurlijk: 'tijd is geld' = tijd is waardevol; 'voor geen geld' = absoluut niet; 'geld maakt niet gelukkig' = welvaart is niet alles.",
+    "hint": "Geld, creditcard en bankrekening zijn alledrie gerelateerd aan betalen. Geld is de meest tastbare en universele vorm — wat is het precies?",
+    "collocations": [
+      "geld verdienen",
+      "voor geen geld",
+      "tijd is geld"
+    ]
+  },
+  {
+    "word": "glas",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze schonk een <mark>glas</mark> water in voor haar dorstige gast.",
+      "Het <mark>glas</mark> van het raam was gebarsten na de storm.",
+      "Hij heeft een <mark>glas</mark> te veel gedronken — hij rijdt niet meer mee."
+    ],
+    "options": [
+      "de transparante laag op een schilderij of ander kunstwerk",
+      "het materiaal waarvan brillenglazen en lenzen worden gemaakt",
+      "het doorzichtige materiaal in ramen en flessen, of het drinkgerei",
+      "uitsluitend het drinkgerei voor vloeistoffen aan tafel"
+    ],
+    "correct": 2,
+    "explanation": "'Glas' = het transparante materiaal én het drinkgerei gemaakt ervan. Meervoud: 'glazen'. Synoniem: 'drinkglas', 'glazen materiaal'. Figuurlijk: 'een glas te veel' = één drankje te veel gedronken hebben; 'door een roze bril kijken' = de wereld optimistisch zien.",
+    "hint": "Glas heeft twee nauw verwante betekenissen: het materiaal (in ramen) en het voorwerp ervan gemaakt (om uit te drinken). Welke twee zijn dat?",
+    "collocations": [
+      "een glas water",
+      "gebroken glas",
+      "een glas te veel"
+    ]
+  },
+  {
+    "word": "huis",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze kochten een oud <mark>huis</mark> en renoveerden het van de grond af.",
+      "Na het werk ga ik direct naar <mark>huis</mark> — ik ben moe.",
+      "Het Witte <mark>Huis</mark> is de officiële residentie van de Amerikaanse president."
+    ],
+    "options": [
+      "uitsluitend een vrijstaand gebouw op eigen grond",
+      "een gebouw dat als woning dient, of de thuissituatie",
+      "een tijdelijk verblijf zoals een hotel of pension",
+      "een appartement in een groot flatgebouw met meerdere verdiepingen"
+    ],
+    "correct": 1,
+    "explanation": "'Huis' = een woongebouw of de thuissituatie. Meervoud: 'huizen'. Synoniem: 'woning', 'thuis'. Figuurlijk: 'naar huis gaan' = naar je eigen woonplek; 'Huis van Bewaring' = gevangenis; 'het huis op orde hebben' = alles goed geregeld hebben.",
+    "hint": "Huis, woning en appartement zijn alledrie woonplekken. Huis is het meest algemeen. Wat is het verschil met 'thuis'?",
+    "collocations": [
+      "naar huis gaan",
+      "een huis kopen",
+      "het huis op orde"
+    ]
+  },
+  {
+    "word": "hoed",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze zette een brede strooien <mark>hoed</mark> op tegen de felle zon.",
+      "De tovenaar in het verhaal droeg altijd een hoge zwarte <mark>hoed</mark>.",
+      "Als voorzitter draagt hij twee <mark>hoeden</mark> — bestuurder én onderhandelaar."
+    ],
+    "options": [
+      "een hoofddeksel dat het hoofd beschermt of siert",
+      "een sjaal die om de nek wordt gedragen voor warmte of stijl",
+      "een zonnebril die de ogen beschermt tegen felle straling",
+      "een muts die strak om het hoofd past voor warmte in de winter"
+    ],
+    "correct": 0,
+    "explanation": "'Hoed' = een hoofddeksel met een vaste rand. Meervoud: 'hoeden'. Synoniem: 'hoofddeksel'. Figuurlijk: 'twee hoeden dragen' = twee verschillende rollen vervullen; 'de hoed is af' = respect betuigen.",
+    "hint": "Hoed, muts en pet zijn alle drie hoofddeksels. Een hoed heeft een brede, vaste rand. Wat onderscheidt het van een muts?",
+    "collocations": [
+      "een hoed opdoen",
+      "twee hoeden dragen",
+      "de hoed afnemen"
+    ]
+  },
+  {
+    "word": "jas",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze trok een dikke winterjas aan voor de sneeuw buiten.",
+      "Hang je <mark>jas</mark> aan de kapstok als je binnenkomt.",
+      "De dokter droeg een witte <mark>jas</mark> en een stethoscoop om zijn nek."
+    ],
+    "options": [
+      "een kledingstuk dat de benen en het onderlichaam beschermt",
+      "een kledingstuk dat alleen de bovenste helft van de romp bedekt",
+      "een kledingstuk dat als onderlaag wordt gedragen tegen de huid",
+      "een kledingstuk dat het bovenlichaam en de armen bedekt als buitenlaag"
+    ],
+    "correct": 3,
+    "explanation": "'Jas' = een bovenkleding die het lichaam beschermt tegen weer en wind. Meervoud: 'jassen'. Synoniem: 'mantel', 'overjas'. Figuurlijk: 'zijn jas ophangen' = ergens weggaan of stoppen met iets.",
+    "hint": "Trui, shirt en jas zijn bovenkleding maar in een andere laag. De jas is de buitenste laag die je aantrekt als je naar buiten gaat. Wat is het kenmerk?",
+    "collocations": [
+      "een jas aantrekken",
+      "de jas ophangen",
+      "een witte jas"
+    ]
+  },
+  {
+    "word": "kamer",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "De kinderen deelden een <mark>kamer</mark> totdat het gezin verhuisde.",
+      "Ze had een eigen <mark>kamer</mark> gehuurd in een studentenhuis.",
+      "De Tweede <mark>Kamer</mark> debatteert vanavond over de nieuwe belastingwet."
+    ],
+    "options": [
+      "de totale oppervlakte van een woning in vierkante meters",
+      "een verdieping in een gebouw met meerdere ruimtes erop",
+      "de buitenruimte rondom een woonhuis met planten en paden",
+      "een afgebakende ruimte binnen een gebouw met een specifieke functie"
+    ],
+    "correct": 3,
+    "explanation": "'Kamer' = een afgebakende ruimte in een gebouw. Meervoud: 'kamers'. Synoniem: 'ruimte', 'vertrek'. Figuurlijk: 'Tweede Kamer' = het parlement; 'kamer huren' = een kamer huren als woonruimte.",
+    "hint": "Een huis bestaat uit meerdere kamers. Wat is het kenmerkende van een kamer — hoe is ze afgebakend?",
+    "collocations": [
+      "een kamer huren",
+      "de woonkamer",
+      "Tweede Kamer"
+    ]
+  },
+  {
+    "word": "kast",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze hing haar kleding netjes in de <mark>kast</mark> na het wassen.",
+      "De boeken<mark>kast</mark> stond vol met romans en naslagwerken.",
+      "Hij is een echte <mark>kast</mark> van een vent — bijna twee meter lang."
+    ],
+    "options": [
+      "een staand meubel met deuren en planken voor het bewaren van spullen",
+      "een mand of doos voor het tijdelijk bewaren van kleding",
+      "een tafel met lades voor het bewaren van paperassen en kantoorbenodigdheden",
+      "een plank aan de muur voor het neerzetten van boeken en decoratie"
+    ],
+    "correct": 0,
+    "explanation": "'Kast' = een gesloten meubel met deuren voor opslag. Meervoud: 'kasten'. Synoniem: 'bergkast', 'kleerkast'. Figuurlijk: 'uit de kast komen' = openlijk voor je identiteit uitkomen; 'een kast van een vent' = een grote, imposante man.",
+    "hint": "Kast, rek en plank zijn opslagmeubilair. Wat maakt een kast anders dan een open rek?",
+    "collocations": [
+      "uit de kast komen",
+      "kleding in de kast",
+      "een kast van een vent"
+    ]
+  },
+  {
+    "word": "keuken",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze kookte een driegangenmenu in de <mark>keuken</mark> voor haar gasten.",
+      "De nieuwe <mark>keuken</mark> heeft een inductieplaat en een vaatwasser.",
+      "De Italiaanse <mark>keuken</mark> staat bekend om pasta, pizza en risotto."
+    ],
+    "options": [
+      "de ruimte in huis waar wasgoed wordt gewassen en gedroogd",
+      "de ruimte in huis waar maaltijden worden bereid, of een culinaire stijl",
+      "de ruimte in huis waar men eet en drinkt aan tafel",
+      "de ruimte in huis voor persoonlijke hygiëne met douche of bad"
+    ],
+    "correct": 1,
+    "explanation": "'Keuken' = de ruimte voor maaltijdbereiding, of een culinaire stijl. Meervoud: 'keukens'. Synoniem: 'kookruimte'. Figuurlijk: 'de keuken van het land' = de gastronomische traditie van een land.",
+    "hint": "Badkamer, keuken en woonkamer zijn kamers in huis met elk een specifieke functie. Welke activiteit vindt er in de keuken plaats?",
+    "collocations": [
+      "in de keuken staan",
+      "Italiaanse keuken",
+      "een open keuken"
+    ]
+  },
+  {
+    "word": "kleding",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze kocht nieuwe <mark>kleding</mark> voor de zomer in de uitverkoop.",
+      "Draag comfortabele <mark>kleding</mark> voor de lange busreis.",
+      "Zijn <mark>kleding</mark> verraadde dat hij van goede komaf was."
+    ],
+    "options": [
+      "de accessoires die men draagt zoals horloges, sieraden en tassen",
+      "uitsluitend de formele kleding voor speciale gelegenheden",
+      "het textielmateriaal waarvan kledingstukken worden gemaakt",
+      "het geheel van kledingstukken dat iemand draagt of bezit"
+    ],
+    "correct": 3,
+    "explanation": "'Kleding' = het geheel van kledingstukken. Altijd ontelbaar. Synoniem: 'kledij', 'outfit', 'garderobe'. Figuurlijk: 'kleding zegt veel over een persoon' = kleding weerspiegelt identiteit en status.",
+    "hint": "Kleding en kledingstuk zijn verwant. Kleding is het geheel; een kledingstuk is één specifiek...?",
+    "collocations": [
+      "kleding kopen",
+      "comfortabele kleding",
+      "kleding dragen"
+    ]
+  },
+  {
+    "word": "koffie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze begint haar dag nooit zonder een kop sterke <mark>koffie</mark>.",
+      "Wil jij ook <mark>koffie</mark>? Ik zet net een pot.",
+      "Hij woont nog bij zijn ouders maar dat is <mark>koffie</mark>dik kijken of hij snel vertrekt."
+    ],
+    "options": [
+      "een warme drank gemaakt van gefermenteerde theebladeren",
+      "een warme drank gemaakt van kruiden of vruchten in heet water",
+      "een warme drank gemaakt van gemalen en gezette koffiebonen",
+      "een warme drank gemaakt van cacao en melk"
+    ],
+    "correct": 2,
+    "explanation": "'Koffie' = een drank gemaakt van gezette koffiebonen. Ontelbaar als vloeistof. Synoniem: 'espresso', 'café' (Frans). Figuurlijk: 'koffiedik kijken' = proberen de toekomst te voorspellen; 'geen koffie van lust' = helemaal niet aantrekkelijk.",
+    "hint": "Koffie, thee en cacao zijn warme dranken. Koffie wordt gemaakt van bonen die geroosterd en gemalen worden. Wat maakt het uniek?",
+    "collocations": [
+      "een kop koffie",
+      "koffiedik kijken",
+      "koffie zetten"
+    ]
+  },
+  {
+    "word": "koken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>kookt</mark> elke dag een warme maaltijd voor haar gezin.",
+      "Het water <mark>kookt</mark> — gooi de pasta er maar in.",
+      "Hij <mark>kookte</mark> van woede toen hij het nieuws hoorde."
+    ],
+    "options": [
+      "voedsel bereiden in kokend water of een warme vloeistof, of maaltijden bereiden algemeen",
+      "voedsel snel verhitten in een magnetron via elektromagnetische straling",
+      "voedsel bereiden via droge hitte in een oven of koekenpan",
+      "voedsel langzaam gaar laten worden in de oven op lage temperatuur"
+    ],
+    "correct": 0,
+    "explanation": "'Koken' = voedsel in kokend water bereiden, of algemeen maaltijden bereiden. Verleden tijd: 'kookte', voltooid deelwoord: 'gekookt'. Synoniem: 'bereiden', 'klarmaken'. Figuurlijk: 'koken van woede' = extreem boos zijn.",
+    "hint": "Koken en bakken zijn allebei bereidingsmethoden. Koken gebruikt water of een vloeistof; bakken gebruikt...?",
+    "collocations": [
+      "een maaltijd koken",
+      "water kookt",
+      "koken van woede"
+    ]
+  },
+  {
+    "word": "kopen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>kocht</mark> een nieuw paar schoenen in de uitverkoop.",
+      "Hij <mark>koopt</mark> zijn groenten altijd op de markt op zaterdagochtend.",
+      "Dat verhaal <mark>koop</mark> ik niet — ik geloof er niets van."
+    ],
+    "options": [
+      "iets ruilen voor een ander product zonder geld te gebruiken",
+      "iets tijdelijk lenen van iemand anders tegen betaling",
+      "iets gratis ontvangen als geschenk van een ander persoon",
+      "iets in eigendom verkrijgen door er geld voor te betalen"
+    ],
+    "correct": 3,
+    "explanation": "'Kopen' = eigendom verkrijgen via betaling. Verleden tijd: 'kocht', voltooid deelwoord: 'gekocht'. Antonym: 'verkopen'. Synoniem: 'aanschaffen'. Figuurlijk: 'dat koop ik niet' = ik geloof dat niet; 'iemand kopen' = iemand omkopen.",
+    "hint": "Kopen, huren en lenen zijn manieren om iets te gebruiken. Alleen bij kopen wordt het ook echt...?",
+    "collocations": [
+      "iets kopen",
+      "dat koop ik niet",
+      "kopen of huren"
+    ]
+  },
+  {
+    "word": "kruis",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze zette een <mark>kruis</mark> achter de namen van de mensen die al hadden betaald.",
+      "Het Rode <mark>Kruis</mark> verleent hulp aan slachtoffers van oorlog en rampen.",
+      "Hij droeg een gouden <mark>kruis</mark> aan een ketting om zijn nek."
+    ],
+    "options": [
+      "een driehoekig symbool dat gevaar of waarschuwing aanduidt",
+      "een cirkelvormig symbool dat eenheid en cyclus symboliseert",
+      "een pijl die richting of beweging aangeeft in tekeningen en kaarten",
+      "een vorm met twee elkaar snijdende lijnen, of een religieus of symbolisch teken"
+    ],
+    "correct": 3,
+    "explanation": "'Kruis' = een vorm met twee elkaar kruisende lijnen, of een christelijk symbool. Meervoud: 'kruisen'. Synoniem: 'kruisteken'. Figuurlijk: 'een kruis zetten achter iets' = iets als afgedaan beschouwen; 'zijn kruis dragen' = een last of beproeving accepteren.",
+    "hint": "Een kruis bestaat uit twee lijnen die elkaar snijden: één horizontaal en één verticaal. Welke twee betekenissen heeft het in het dagelijks leven?",
+    "collocations": [
+      "een kruis zetten",
+      "het Rode Kruis",
+      "zijn kruis dragen"
+    ]
+  },
+  {
+    "word": "lepel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze roerde de soep met een grote houten <mark>lepel</mark> door de pan.",
+      "Neem twee <mark>lepels</mark> suiker in je thee als je het zoet wil.",
+      "Ze zijn altijd samen — ze zijn als lepel en vork."
+    ],
+    "options": [
+      "een schepvormig bestek voor het scheppen en eten van vloeibaar of zacht voedsel",
+      "twee stokjes die in Aziatische keukens gebruikt worden om mee te eten",
+      "een plat bestek met scherpe rand voor het snijden van voedsel",
+      "een vorkachtig bestek met puntige tanden voor het prikken van voedsel"
+    ],
+    "correct": 0,
+    "explanation": "'Lepel' = schepvormig bestek voor vloeibaar of zacht voedsel. Meervoud: 'lepels'. Synoniem: 'soeplepel', 'eetlepel'. Figuurlijk: 'met de gouden lepel in de mond geboren zijn' = in een rijke familie geboren zijn.",
+    "hint": "Lepel, vork en mes zijn de drie bestekstukken. De lepel heeft een holte om vloeistof in te scheppen. Welk voedsel eet je ermee?",
+    "collocations": [
+      "een lepel soep",
+      "roeren met een lepel",
+      "met de gouden lepel geboren"
+    ]
+  },
+  {
+    "word": "maaltijd",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze eten elke dag drie <mark>maaltijden</mark>: ontbijt, lunch en avondeten.",
+      "De <mark>maaltijd</mark> was heerlijk bereid en rijkelijk gevuld.",
+      "Na de begrafenis was er een gezamenlijke <mark>maaltijd</mark> voor alle aanwezigen."
+    ],
+    "options": [
+      "het totaal aan eten dat iemand op een dag consumeert",
+      "een georganiseerd eetmoment op een vast tijdstip van de dag",
+      "een portie voedsel bereid voor één persoon",
+      "een tussendoortje dat snel wordt gegeten tussen de maaltijden door"
+    ],
+    "correct": 1,
+    "explanation": "'Maaltijd' = een georganiseerd eetmoment op een vast tijdstip. Meervoud: 'maaltijden'. Synoniem: 'maal', 'etensmoment'. Figuurlijk: 'een warme maaltijd' = een volwaardige, warme portie eten.",
+    "hint": "Snack, maaltijd en tussendoortje zijn alle drie eetmomenten. Wat maakt een maaltijd officiëler en vollediger dan een snack?",
+    "collocations": [
+      "een warme maaltijd",
+      "drie maaltijden per dag",
+      "een gezamenlijke maaltijd"
+    ]
+  },
+  {
+    "word": "mes",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze sneed de groenten met een scherp <mark>mes</mark> op de snijplank.",
+      "Hij droeg een zakmes bij zich voor onderweg.",
+      "Dat is een tweesnijdend <mark>mes</mark> — het heeft voor- én nadelen."
+    ],
+    "options": [
+      "een keukengerei voor het kloppen en mengen van ingrediënten",
+      "een schepvormig bestek voor het eten van soep en pap",
+      "een plat bestek met een scherpe rand voor het snijden van voedsel",
+      "een bestek met puntige tanden voor het prikken en vasthouden van voedsel"
+    ],
+    "correct": 2,
+    "explanation": "'Mes' = een bestek- of gereedschapsvoorwerp met een scherpe snijrand. Meervoud: 'messen'. Synoniem: 'snijmes', 'keukenmes'. Figuurlijk: 'tweesnijdend mes' = iets met zowel voor- als nadelen; 'het mes zet aan beide kanten' = beide partijen hebben er last van.",
+    "hint": "Lepel, vork en mes zijn de drie bestekstukken. Het mes heeft een scherpe rand — voor welke handeling gebruik je het?",
+    "collocations": [
+      "een mes slijpen",
+      "een tweesnijdend mes",
+      "mes en vork"
+    ]
+  },
+  {
+    "word": "pan",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze verhitte de olie in de <mark>pan</mark> voordat ze de ui toevoegde.",
+      "De soep pruttelde zachtjes in de grote <mark>pan</mark> op het fornuis.",
+      "De criticus <mark>pande</mark> de film — hij gaf hem één ster van de vijf."
+    ],
+    "options": [
+      "een kookgerei van metaal voor het verhitten van voedsel op het vuur",
+      "een vlak bord voor het serveren van warme maaltijden aan tafel",
+      "een elektrisch apparaat voor het snel opwarmen van voedsel",
+      "een keukengerei voor het bewaren van voedsel in de koelkast"
+    ],
+    "correct": 0,
+    "explanation": "'Pan' = een metalen kookgerei voor verhitten van voedsel. Meervoud: 'pannen'. Synoniem: 'kookpan', 'koekenpan'. Figuurlijk: 'iets uit de pan verheffen' = iets enorm prijzen; als werkwoord: 'pannen' = harsch bekritiseren.",
+    "hint": "Pan, pot en oven zijn alle drie voor koken. De pan staat op het vuur of de kookplaat — wat is het verschil met een pot?",
+    "collocations": [
+      "een pan opzetten",
+      "de pan uit rijzen",
+      "een koekenpan"
+    ]
+  },
+  {
+    "word": "plant",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze heeft haar <mark>plant</mark> teveel water gegeven — de blaadjes worden geel.",
+      "Een cactus is een eenvoudige <mark>plant</mark> voor mensen die vergeten water te geven.",
+      "Hij was een <mark>plant</mark> in het publiek — hij deed alsof hij gewoon een toeschouwer was."
+    ],
+    "options": [
+      "een schimmel of paddenstoel die op dood organisch materiaal groeit",
+      "een alg die uitsluitend in water leeft en geen wortels heeft",
+      "een levend organisme dat energie haalt via fotosynthese en in grond groeit",
+      "een levend organisme dat zich voortbeweegt en geen zonne-energie gebruikt"
+    ],
+    "correct": 2,
+    "explanation": "'Plant' = een levend organisme dat via fotosynthese energie opneemt. Meervoud: 'planten'. Synoniem: 'gewas', 'groenplant'. Figuurlijk: 'een plant zijn' = passief en stil aanwezig zijn; 'een plant in het publiek' = iemand die doet alsof hij spontaan reageert.",
+    "hint": "Plant en dier zijn beide levende organismen. Wat is het fundamentele verschil in hoe ze energie verkrijgen?",
+    "collocations": [
+      "een plant water geven",
+      "kamerplant",
+      "een plant in het publiek"
+    ]
+  },
+  {
+    "word": "pot",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze deed de jam in een glazen <mark>pot</mark> met een deksel.",
+      "De <mark>pot</mark> soep stond de hele dag op laag vuur te sudderen.",
+      "Wat er in de <mark>pot</mark> zit, is de vraag — de agenda is geheim."
+    ],
+    "options": [
+      "een plat, open schaal voor het serveren van warme gerechten",
+      "een diep, rond recipiënt met deksel voor koken of bewaren van voedsel",
+      "een platte bak voor het bakken van gebak in de oven",
+      "een smalle, hoge fles voor het bewaren van vloeistoffen"
+    ],
+    "correct": 1,
+    "explanation": "'Pot' = een diep, rond recipiënt voor koken of bewaren. Meervoud: 'potten'. Synoniem: 'kookpot', 'voorraadpot'. Figuurlijk: 'wat er in de pot zit' = wat er besloten is of beschikbaar is; 'de pot verwijt de ketel' = de zwarte pot verwijt de ketel.",
+    "hint": "Pan en pot zijn beide kookgerei. De pot is dieper en heeft een deksel. Wat is een typisch gerecht dat je in een pot maakt?",
+    "collocations": [
+      "een pot soep",
+      "de pot verwijt de ketel",
+      "in de pot zitten"
+    ]
+  },
+  {
+    "word": "raam",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze opende het <mark>raam</mark> om frisse lucht binnen te laten.",
+      "Het <mark>raam</mark> was zo vuil dat je er nauwelijks doorheen kon kijken.",
+      "Er zit een klein <mark>raam</mark> van mogelijkheden — we moeten snel beslissen."
+    ],
+    "options": [
+      "de muur die een kamer van buiten afschermt",
+      "de opening in een muur met glas die licht en lucht doorlaat",
+      "de deur die toegang geeft tot een balkon of terras",
+      "het dak van een gebouw dat regen en zon buiten houdt"
+    ],
+    "correct": 1,
+    "explanation": "'Raam' = een glazen opening in een muur voor licht en ventilatie. Meervoud: 'ramen'. Synoniem: 'venster' (formeel). Figuurlijk: 'een raam van mogelijkheden' = een beperkte periode van kansen; 'voor het raam staan' = te koop aanbieden.",
+    "hint": "Deur en raam zijn allebei openingen in een muur. Door de deur loop je; door het raam...?",
+    "collocations": [
+      "het raam openen",
+      "door het raam kijken",
+      "raam wassen"
+    ]
+  },
+  {
+    "word": "schoen",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze kocht nieuwe <mark>schoenen</mark> voor de bruiloft — hoge hakken.",
+      "Zet je <mark>schoenen</mark> bij de deur als je binnenkomt.",
+      "Als je in zijn <mark>schoenen</mark> stond, wat zou jij dan doen?"
+    ],
+    "options": [
+      "een kledingstuk van stof dat de voet en enkel warm houdt",
+      "een stevig stuk rubber dat onder de voetzool wordt geplakt",
+      "een zachte, stoffen voetbedekking voor binnenshuis gebruik",
+      "een voetbedekking van leer of rubber die de voet beschermt"
+    ],
+    "correct": 3,
+    "explanation": "'Schoen' = een stevige voetbedekking van leer of synthetisch materiaal. Meervoud: 'schoenen'. Synoniem: 'laars' (hoog model). Figuurlijk: 'in iemands schoenen staan' = iemands positie innemen; 'ergens de schoenen van uittrekken' = ergens van profiteren.",
+    "hint": "Schoen, sok en slipper beschermen de voet op verschillende manieren. Schoenen zijn steviger — wat beschermen ze specifiek?",
+    "collocations": [
+      "schoenen aantrekken",
+      "in iemands schoenen staan",
+      "schoenen poetsen"
+    ]
   },
   {
     "word": "schoonmaken",
     "pos": "werkwoord · scheidbaar",
     "level": 1,
     "examples": [
-      "Ze <mark>maakt</mark> elk weekend het huis <mark>schoon</mark>.",
-      "Na het feest moest hij alles <mark>schoonmaken</mark>.",
-      "Het toilet <mark>schoonmaken</mark> is niet zijn lievelingsklusje."
+      "Ze <mark>maakt</mark> elke zaterdag het hele huis <mark>schoon</mark>.",
+      "Hij <mark>maakte</mark> zijn bureau <mark>schoon</mark> voor de nieuwe collega.",
+      "De organisatie wil de rivier <mark>schoonmaken</mark> van plastic afval."
     ],
     "options": [
-      "de vloer verven of bekleden",
-      "vuil of stof verwijderen om iets hygiënisch te maken",
-      "de tuin onderhouden",
-      "meubels repareren"
-    ],
-    "correct": 1,
-    "explanation": "'Schoonmaken' = vuil verwijderen, reinigen. Scheidbaar: 'maak schoon', 'maakte schoon', 'schoongemaakt'. Synoniem: 'reinigen', 'poetsen'.",
-    "hint": "Je haalt een doekje en verwijdert stof en vuil. Je bent het huis aan het..."
-  },
-  {
-    "word": "hypotheek",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Ze sloten een <mark>hypotheek</mark> af om hun eerste huis te kopen.",
-      "De maandelijkse <mark>hypotheek</mark> bedraagt 1.200 euro.",
-      "Na dertig jaar is de <mark>hypotheek</mark> volledig afbetaald."
-    ],
-    "options": [
-      "de kosten van het onderhoud van een huis",
-      "de maandelijkse huurprijs van een woning",
-      "een verzekering voor schade aan het huis",
-      "een lening om een huis te kopen, waarbij het huis als onderpand dient"
+      "iets opbergen op de juiste plek nadat het is gebruikt",
+      "iets verven of bekleden zodat het er nieuw uitziet",
+      "iets herstellen dat kapot of beschadigd is geraakt",
+      "vuil, stof of rommel verwijderen van een oppervlak of ruimte"
     ],
     "correct": 3,
-    "explanation": "'Hypotheek' = een lening van de bank voor het kopen van een woning, waarbij het huis als zekerheid geldt. Van het Grieks 'hypotheke' (onderpand).",
-    "hint": "Je leent geld van de bank om een huis te kopen. Die lening heet een..."
+    "explanation": "'Schoonmaken' = vuil of stof verwijderen. Scheidbaar: 'maakt schoon', 'maakte schoon', 'schoongemaakt'. Synoniem: 'reinigen', 'poetsen'. Figuurlijk: 'schoonmaken' in financiën = schulden afbetalen; 'schone lei' = een nieuw begin.",
+    "hint": "Schoonmaken, opruimen en repareren zijn drie huishoudelijke taken. Schoonmaken verwijdert...?",
+    "collocations": [
+      "het huis schoonmaken",
+      "schoonmaken voor gasten",
+      "grondig schoonmaken"
+    ]
   },
   {
-    "word": "slaapkamer",
+    "word": "shirt",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Hij trok een wit <mark>shirt</mark> aan onder zijn colbert.",
+      "Ze draagt altijd een kleurrijk <mark>shirt</mark> — ze houdt van opvallen.",
+      "Het voetbal<mark>shirt</mark> van zijn favoriete club hing ingelijst aan de muur."
+    ],
+    "options": [
+      "een kledingstuk dat het bovenlichaam bedekt van schouders tot taille",
+      "een kledingstuk dat het onderlichaam bedekt van taille tot knieën",
+      "een kledingstuk dat als onderste laag direct tegen de huid wordt gedragen",
+      "een kledingstuk dat als buitenste laag het hele lichaam warm houdt"
+    ],
+    "correct": 0,
+    "explanation": "'Shirt' = een kledingstuk voor het bovenlichaam met korte of lange mouwen. Meervoud: 'shirts'. Synoniem: 'hemd', 'blouse' (dames). Figuurlijk: 'het shirt van zijn rug verkopen' = alles opofferen voor iets of iemand.",
+    "hint": "Shirt, broek en jas zijn kledingstukken. Een shirt bedekt een specifiek deel van het lichaam — welk deel?",
+    "collocations": [
+      "een shirt aantrekken",
+      "voetbalshirt",
+      "een wit shirt"
+    ]
+  },
+  {
+    "word": "slapen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>slaapt</mark> elke nacht acht uur en voelt zich uitgerust.",
+      "De baby <mark>slaapt</mark> eindelijk — spreek zacht.",
+      "Hij <mark>sliep</mark> tijdens de vergadering — zo saai was de presentatie."
+    ],
+    "options": [
+      "in een toestand van bewusteloos zijn en het lichaam laten herstellen",
+      "in een rustige toestand zitten zonder te bewegen of te denken",
+      "in rust liggen zonder te slapen, maar ook zonder te bewegen",
+      "doezelen terwijl je eigenlijk nog half wakker bent"
+    ],
+    "correct": 0,
+    "explanation": "'Slapen' = in een toestand van bewusteloze rust waarbij het lichaam herstelt. Verleden tijd: 'sliep', voltooid deelwoord: 'geslapen'. Synoniem: 'rusten'. Figuurlijk: 'ergens op slapen' = een beslissing uitstellen; 'slapen als een roos' = heel goed slapen.",
+    "hint": "Rusten, slapen en doezelen zijn toenemende niveaus van bewusteloosheid. Slapen is de diepste vorm — wat is er kenmerkend aan?",
+    "collocations": [
+      "goed slapen",
+      "slapen als een roos",
+      "ergens op slapen"
+    ]
+  },
+  {
+    "word": "spiegel",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
     "examples": [
-      "De kinderen delen een <mark>slaapkamer</mark>.",
-      "Haar <mark>slaapkamer</mark> heeft uitzicht op de tuin.",
-      "Hij verfde de <mark>slaapkamer</mark> lichtblauw."
+      "Ze keek in de <mark>spiegel</mark> om haar haar te controleren voor vertrek.",
+      "De <mark>spiegel</mark> in de badkamer was aangeslagen na de hete douche.",
+      "Kunst is een <mark>spiegel</mark> van de samenleving — het toont wie we zijn."
     ],
     "options": [
-      "de kamer om gasten te ontvangen",
-      "de kamer die is ingericht om in te slapen",
-      "de kamer waar je eet en kookt",
-      "de ruimte om kleding op te slaan"
+      "een reflecterend oppervlak dat het spiegelbeeld van wat ervoor staat toont",
+      "een glazen lens die het oog vergroot voor betere zichtbaarheid",
+      "een scherm waarop beelden worden geprojecteerd of weergegeven",
+      "een transparante glasplaat in een raam die licht doorlaat"
     ],
-    "correct": 1,
-    "explanation": "'Slaapkamer' = de kamer in een woning die bestemd is om in te slapen. Samengesteld van 'slapen' + 'kamer'. Synoniem: 'slaapvertrek' (formeler).",
-    "hint": "Waar staat je bed en slaap je 's nachts? Dat is de..."
+    "correct": 0,
+    "explanation": "'Spiegel' = een reflecterend oppervlak dat een beeld weerkaatst. Meervoud: 'spiegels'. Synoniem: 'reflector'. Figuurlijk: 'een spiegel zijn van' = een weerspiegeling zijn van; 'iemand een spiegel voorhouden' = iemand confronteren met zijn gedrag.",
+    "hint": "Een raam en een spiegel zijn beide van glas maar hebben een fundamenteel verschil. Het raam laat licht door; de spiegel...?",
+    "collocations": [
+      "in de spiegel kijken",
+      "iemand een spiegel voorhouden",
+      "een spiegel van de samenleving"
+    ]
   },
   {
-    "word": "onderhoud",
+    "word": "stoel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze trok een stoel bij en ging aan de vergadertafel zitten.",
+      "De tandartsstoel is gevreesd door menig patiënt.",
+      "Hij wankelt op zijn <mark>stoel</mark> als politicus — zijn positie staat ter discussie."
+    ],
+    "options": [
+      "een zacht kussen op de vloer voor ontspannen zitten",
+      "een lang meubelstuk voor meerdere mensen om op te zitten",
+      "een plat oppervlak op poten voor het neerzetten van voorwerpen",
+      "een zitmeubel voor één persoon met een rugleuning"
+    ],
+    "correct": 3,
+    "explanation": "'Stoel' = een zitmeubel voor één persoon met een rugleuning. Meervoud: 'stoelen'. Synoniem: 'zetel' (formeel). Figuurlijk: 'op zijn stoel wankelen' = zijn positie niet meer zeker zijn; 'de stoel van iemand innemen' = iemands functie overnemen.",
+    "hint": "Bank, stoel en kruk zijn alledrie zitmeubels. De stoel is voor één persoon en heeft een rugleuning — wat ontbreekt bij een kruk?",
+    "collocations": [
+      "een stoel bijschuiven",
+      "op zijn stoel wankelen",
+      "de tandartsstoel"
+    ]
+  },
+  {
+    "word": "straat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze woont in een rustige <mark>straat</mark> aan de rand van het centrum.",
+      "De demonstranten gingen de <mark>straat</mark> op om te protesteren.",
+      "Hij is op <mark>straat</mark> gezet na het faillissement van zijn bedrijf."
+    ],
+    "options": [
+      "een voetpad naast een weg voor voetgangers en fietsers",
+      "een plein in het centrum van een stad omgeven door gebouwen",
+      "een verharde weg buiten de bebouwde kom voor doorgaand verkeer",
+      "een verharde weg in een bebouwde omgeving met huizen aan weerszijden"
+    ],
+    "correct": 3,
+    "explanation": "'Straat' = een verharde weg in de bebouwde kom. Meervoud: 'straten'. Synoniem: 'weg', 'laan'. Figuurlijk: 'de straat opgaan' = protesteren; 'op straat staan' = werkloos of dakloos zijn; 'straatarm' = erg arm.",
+    "hint": "Straat, weg en laan zijn verharde routes. Een straat is specifiek in een woongebied — wat staat er aan weerszijden?",
+    "collocations": [
+      "de straat op gaan",
+      "op straat staan",
+      "de straat oversteken"
+    ]
+  },
+  {
+    "word": "tafel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze dekte de <mark>tafel</mark> voor het diner met een wit tafelkleed.",
+      "Laten we dit aan de onderhandelings<mark>tafel</mark> bespreken — niet via de media.",
+      "De rapporten lagen verspreid over de hele <mark>tafel</mark>."
+    ],
+    "options": [
+      "een laag meubel in de woonkamer voor tijdschriften en afstandsbedieningen",
+      "een zitmeubel met een rugleuning voor één persoon",
+      "een open rek op poten voor het opbergen van boeken en spullen",
+      "een plat oppervlak op poten voor het plaatsen van voorwerpen of eten"
+    ],
+    "correct": 3,
+    "explanation": "'Tafel' = een plat oppervlak op poten voor diverse doeleinden. Meervoud: 'tafels'. Synoniem: 'bureau' (werktafel). Figuurlijk: 'aan tafel komen' = onderhandelen; 'onder de tafel werken' = zwart werken.",
+    "hint": "Stoel en tafel horen samen. De stoel is om op te zitten; de tafel is het vlakke oppervlak om...?",
+    "collocations": [
+      "de tafel dekken",
+      "aan tafel gaan",
+      "onder de tafel werken"
+    ]
+  },
+  {
+    "word": "thuis",
+    "pos": "bijwoord / zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze werkt drie dagen per week <mark>thuis</mark> en twee dagen op kantoor.",
+      "Eindelijk <mark>thuis</mark> na een lange reis — het voelt zo fijn.",
+      "Hij heeft nooit een echt <mark>thuis</mark> gehad als kind — hij groeide op in pleeggezinnen."
+    ],
+    "options": [
+      "de aanduiding voor het gebouw waarin iemand woont",
+      "het adres waarop iemand zijn post ontvangt",
+      "de gemeente of stad waar iemand officieel staat ingeschreven",
+      "de plek of toestand van het eigen huis, of het gevoel van thuishoren"
+    ],
+    "correct": 3,
+    "explanation": "'Thuis' = de plek van het eigen huis of het gevoel van thuishoren. Als bijwoord: op je eigen plek. Synoniem: 'tehuis', 'woonplek'. Figuurlijk: 'je thuis voelen' = je ergens op je gemak voelen; 'thuishoren' = ergens bij passen.",
+    "hint": "Huis en thuis zijn nauw verwant maar niet identiek. Een huis is een gebouw; thuis is een...gevoel of toestand. Wat is het verschil?",
+    "collocations": [
+      "thuis werken",
+      "je thuis voelen",
+      "eindelijk thuis"
+    ]
+  },
+  {
+    "word": "trap",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze liep de <mark>trap</mark> op naar de bovenverdieping.",
+      "De kleine jongen viel van de <mark>trap</mark> en schaafde zijn knie.",
+      "Hij gaf het project een extra <mark>trap</mark> door zijn netwerk in te zetten."
+    ],
+    "options": [
+      "een lift of hefplatform voor personen met een beperkte mobiliteit",
+      "een constructie van treden die twee verdiepingen met elkaar verbindt",
+      "een hellend vlak dat twee niveaus verbindt zonder treden",
+      "een ladder die tegen een muur wordt geplaatst voor tijdelijk gebruik"
+    ],
+    "correct": 1,
+    "explanation": "'Trap' = een constructie met treden die niveauverschillen overbrugt. Meervoud: 'trappen'. Synoniem: 'trappenhuis', 'trede'. Figuurlijk: 'een trap geven aan iets' = iets een impuls geven; 'onderaan de maatschappelijke ladder staan' = laag op de sociale ladder.",
+    "hint": "Trap, lift en helling overbruggen alledrie niveauverschillen in een gebouw. De trap doet dit met...?",
+    "collocations": [
+      "de trap op lopen",
+      "een trap geven",
+      "de sociale ladder"
+    ]
+  },
+  {
+    "word": "trui",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze trok een dikke wollen <mark>trui</mark> aan — het was koud geworden buiten.",
+      "Hij droeg een gebreide <mark>trui</mark> van zijn grootmoeder.",
+      "De gele <mark>trui</mark> in de Tour de France is voor de klassementsleider."
+    ],
+    "options": [
+      "een dun kledingstuk van katoen voor het bovenlichaam in warme periodes",
+      "een lange jas van wol voor de koudste winterdagen",
+      "een kledingstuk voor het onderlichaam van dikke stof voor de winter",
+      "een dik gebreid of gevlochten bovenkleding voor warmte"
+    ],
+    "correct": 3,
+    "explanation": "'Trui' = een dik, gebreid kledingstuk voor het bovenlichaam. Meervoud: 'truien'. Synoniem: 'pullover', 'sweater'. Figuurlijk: 'de gele trui' = de leiderstrui in wielerwedstrijden.",
+    "hint": "Shirt, trui en jas zijn bovenkleding in toenemende dikte. Een trui is dikker dan een shirt maar dunner dan een jas — wanneer trek je het aan?",
+    "collocations": [
+      "een dikke trui",
+      "de gele trui",
+      "een trui breien"
+    ]
+  },
+  {
+    "word": "tuin",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze brengt elke zomer uren door in haar <mark>tuin</mark> met planten en bloemen.",
+      "De kinderen speelden in de <mark>tuin</mark> terwijl de ouders bbq'den.",
+      "Hij liet zich in de <mark>tuin</mark> leiden door haar mooie beloftes."
+    ],
+    "options": [
+      "een stuk land buiten de stad dat wordt gebruikt voor landbouw",
+      "een binnentuin in een groot gebouw of complex",
+      "het buitenterrein rondom een woning voor recreatie en beplanting",
+      "een openbaar park in de stad voor recreatie en ontspanning"
+    ],
+    "correct": 2,
+    "explanation": "'Tuin' = het buitenterrein bij een woning. Meervoud: 'tuinen'. Synoniem: 'achtertuin', 'voortuin'. Figuurlijk: 'in de tuin leiden' = iemand misleiden of voor de gek houden.",
+    "hint": "Tuin, park en akker zijn alledrie buitenruimtes met groen. Wat maakt de tuin persoonlijk en privé?",
+    "collocations": [
+      "in de tuin werken",
+      "in de tuin leiden",
+      "een moestuin"
+    ]
+  },
+  {
+    "word": "vork",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze prikte de kerstomaatjes op haar <mark>vork</mark> één voor één.",
+      "Hij at de pasta op met een <mark>vork</mark> en een lepel.",
+      "Op dit kruispunt staat de weg op een <mark>vork</mark> — links of rechts?"
+    ],
+    "options": [
+      "een lang houten keukengerei voor het roeren in potten en pannen",
+      "een plat bestek met een scherpe rand voor het snijden van vlees",
+      "een bestek met puntige tanden voor het prikken en vasthouden van voedsel",
+      "een schepvormig bestek voor vloeibaar of zacht voedsel"
+    ],
+    "correct": 2,
+    "explanation": "'Vork' = bestek met tanden voor het prikken van voedsel. Meervoud: 'vorken'. Synoniem: 'vorkje'. Figuurlijk: 'een vork in de weg' = een splitsing van wegen; 'hoe de vork in de steel zit' = hoe iets echt in elkaar zit.",
+    "hint": "Lepel, mes en vork zijn de drie bestekstukken. De vork heeft puntige tanden — voor welke manier van eten gebruik je het?",
+    "collocations": [
+      "mes en vork",
+      "hoe de vork in de steel zit",
+      "een vork in de weg"
+    ]
+  },
+  {
+    "word": "vuur",
     "pos": "zelfstandig naamwoord · het",
-    "level": 2,
+    "level": 1,
     "examples": [
-      "Het <mark>onderhoud</mark> van een koophuis kost gemiddeld 1% van de woningwaarde per jaar.",
-      "De cv-ketel heeft regelmatig <mark>onderhoud</mark> nodig.",
-      "Slecht <mark>onderhoud</mark> kan leiden tot grote schade."
+      "Ze stak het <mark>vuur</mark> aan in de haard op de koude avond.",
+      "De kampeerders zaten rond het kampvuur en zongen liedjes.",
+      "Hij heeft het <mark>vuur</mark> van de passie voor zijn werk nog lang niet verloren."
     ],
     "options": [
-      "het regelmatig verzorgen en repareren om iets in goede staat te houden",
-      "het verbouwen van een woning",
-      "het kopen van nieuwe meubels",
-      "het afsluiten van een verzekering"
-    ],
-    "correct": 0,
-    "explanation": "'Onderhoud' = het geheel van activiteiten om iets in goede staat te houden. Van 'onderhouden' = in stand houden. Werkwoord: 'onderhouden'.",
-    "hint": "Schilderen, kleine reparaties, de ketel laten controleren — dat zijn allemaal vormen van..."
-  },
-  {
-    "word": "woningcorporatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Ze huurde haar appartement via een <mark>woningcorporatie</mark>.",
-      "<mark>Woningcorporaties</mark> verhuren sociale huurwoningen voor een lage prijs.",
-      "De wachtlijst bij de <mark>woningcorporatie</mark> is soms wel tien jaar."
-    ],
-    "options": [
-      "een gemeente-instelling voor woningtoewijzing",
-      "een organisatie die betaalbare huurwoningen beheert voor mensen met een laag inkomen",
-      "een bank die hypotheken verstrekt",
-      "een makelaardij die huizen verkoopt"
+      "de warmte die de zon uitstraalt via infraroodstraling",
+      "de zichtbare vlam en hitte die ontstaat bij verbranding",
+      "de elektrische energie die kookplaten en apparaten van stroom voorziet",
+      "de hitte die een fornuis of oven uitstraalt zonder zichtbare vlam"
     ],
     "correct": 1,
-    "explanation": "'Woningcorporatie' = een non-profitorganisatie die sociale huurwoningen beheert en verhuurt aan mensen met een laag inkomen. Synoniem: 'corporatie', 'woningbouwvereniging'.",
-    "hint": "Een organisatie die goedkope huurwoningen aanbiedt aan mensen die niet zoveel verdienen — dat heet een..."
+    "explanation": "'Vuur' = de zichtbare vlam en hitte bij verbranding. Meervoud: 'vuren'. Synoniem: 'vlam', 'brand'. Figuurlijk: 'vuur van passie' = intense enthousiasme; 'vuur met vuur bestrijden' = een gevaarlijke methode gebruiken tegen een gevaar.",
+    "hint": "Vuur, warmte en licht zijn alledrie bij een brand aanwezig. Vuur is de combinatie van vlam en...?",
+    "collocations": [
+      "vuur maken",
+      "het vuur aansteken",
+      "vuur van passie"
+    ]
   },
   {
-    "word": "inboedel",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
+    "word": "wassen",
+    "pos": "werkwoord",
+    "level": 1,
     "examples": [
-      "Bij een brand raakte de familie zijn hele <mark>inboedel</mark> kwijt.",
-      "De <mark>inboedelverzekering</mark> dekt schade aan meubels en apparaten.",
-      "Bij de verhuizing moest de hele <mark>inboedel</mark> worden ingepakt."
+      "Ze <mark>wast</mark> haar haren elke twee dagen met shampoo.",
+      "Hij <mark>waste</mark> zijn kleding op 60 graden om bacteriën te doden.",
+      "Het idee <mark>waste</mark> niet — ze liet het los en bedacht iets nieuws."
     ],
     "options": [
-      "de structuur van een gebouw",
-      "de technische installaties in een woning",
-      "alle spullen en meubels in een woning",
-      "de tuin en buitenruimte van een huis"
-    ],
-    "correct": 2,
-    "explanation": "'Inboedel' = alle roerende goederen in een woning: meubels, apparaten, kleding, enzovoort. Van 'boedel' (bezit).",
-    "hint": "Alle meubels, apparaten en persoonlijke spullen in je huis bij elkaar — dat is je..."
-  },
-  {
-    "word": "ventilatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Goede <mark>ventilatie</mark> is belangrijk om schimmel te voorkomen.",
-      "De <mark>ventilatie</mark> in het appartement werkte niet goed.",
-      "Zet een raam open voor natuurlijke <mark>ventilatie</mark>."
-    ],
-    "options": [
-      "het vernieuwen van de lucht in een ruimte",
-      "de verwarming van een ruimte",
-      "het isoleren van een gebouw",
-      "het koelen van een ruimte in de zomer"
-    ],
-    "correct": 0,
-    "explanation": "'Ventilatie' = het verversen van de lucht in een ruimte door verse lucht aan te voeren en verbruikte lucht af te voeren. Van het Latijn 'ventilare'.",
-    "hint": "Zonder dit wordt de lucht in een kamer muf en vochtig. Je hebt goede... nodig."
-  },
-  {
-    "word": "energierekening",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Na de winter was zijn <mark>energierekening</mark> veel hoger dan verwacht.",
-      "Door zonnepanelen is zijn <mark>energierekening</mark> bijna nul.",
-      "Ze besparen bewust om de <mark>energierekening</mark> laag te houden."
-    ],
-    "options": [
-      "een belastingaanslag voor woningbezitters",
-      "een rekening voor het verbruik van gas en elektriciteit",
-      "kosten voor reparaties aan een woning",
-      "een rekening van de watermaatschappij"
+      "iets chemisch behandelen om vlekken en geuren te verwijderen",
+      "iets reinigen met water en zeep om vuil te verwijderen",
+      "iets droog afnemen met een doek om stof te verwijderen",
+      "iets strijken met een strijkijzer om kreukels te verwijderen"
     ],
     "correct": 1,
-    "explanation": "'Energierekening' = de rekening van de energieleverancier voor gas en elektriciteitsverbruik. Samengesteld van 'energie' + 'rekening'.",
-    "hint": "Elke maand of elk kwartaal ontvang je een rekening van je energieleverancier. Dat is de..."
+    "explanation": "'Wassen' = reinigen met water en zeep. Verleden tijd: 'waste', voltooid deelwoord: 'gewassen'. Synoniem: 'reinigen', 'schoonmaken'. Figuurlijk: 'iemand de oren wassen' = iemand stevig de waarheid zeggen.",
+    "hint": "Wassen, afdrogen en strijken zijn stappen in de wasroutine. Wassen is de eerste stap — wat wordt er gebruikt?",
+    "collocations": [
+      "de was doen",
+      "iemand de oren wassen",
+      "haren wassen"
+    ]
   },
   {
-    "word": "servicekosten",
-    "pos": "zelfstandig naamwoord · meervoud",
-    "level": 3,
+    "word": "water",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
     "examples": [
-      "De huur is 900 euro exclusief <mark>servicekosten</mark>.",
-      "<mark>Servicekosten</mark> kunnen betrekking hebben op schoonmaak en onderhoud van gemeenschappelijke ruimtes.",
-      "Zijn verhuurder rekende te hoge <mark>servicekosten</mark>."
+      "Ze drinkt minstens twee liter <mark>water</mark> per dag.",
+      "Het schip zonk langzaam in het ijskoude <mark>water</mark>.",
+      "Daar kan ik geen <mark>water</mark> bij drinken — dat sla ik over."
     ],
     "options": [
-      "extra kosten bovenop de huur voor gedeelde diensten en voorzieningen",
-      "belasting die je als huurder betaalt",
-      "de huurprijs voor een woning",
-      "kosten voor internet en televisie"
-    ],
-    "correct": 0,
-    "explanation": "'Servicekosten' = extra kosten bovenop de kale huur voor diensten zoals schoonmaak, lift en tuinonderhoud in gemeenschappelijke ruimtes.",
-    "hint": "Naast de kale huur betaal je ook... voor het onderhoud van de gedeelde ruimtes."
-  },
-  {
-    "word": "bewoning",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 3,
-    "examples": [
-      "Het pand was al jaren niet meer geschikt voor <mark>bewoning</mark>.",
-      "De <mark>bewoning</mark> van het huis begint op 1 mei.",
-      "Na de renovatie was de woning klaar voor <mark>bewoning</mark>."
-    ],
-    "options": [
-      "het renoveren van een gebouw",
-      "het verhuren van een woning aan anderen",
-      "het te koop zetten van een woning",
-      "het bewonen of in gebruik nemen van een woning"
-    ],
-    "correct": 3,
-    "explanation": "'Bewoning' = het feit of de staat van bewonen — dat er mensen wonen. Van 'bewonen' = in wonen. 'Ongeschikt voor bewoning' = te gevaarlijk of slecht om in te wonen.",
-    "hint": "Als mensen in een woning leven, is er sprake van..."
-  },
-  {
-    "word": "renovatie",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "Na de <mark>renovatie</mark> was het oude gebouw niet meer te herkennen.",
-      "De <mark>renovatie</mark> van de keuken kostte 15.000 euro.",
-      "Tijdens de <mark>renovatie</mark> woonden ze tijdelijk bij haar ouders."
-    ],
-    "options": [
-      "het verkopen van een woning",
-      "het slopen van een gebouw",
-      "het kleine reparaties uitvoeren",
-      "het grootschalig vernieuwen of opknappen van een gebouw"
-    ],
-    "correct": 3,
-    "explanation": "'Renovatie' = het ingrijpend vernieuwen of opknappen van een gebouw. Van het Latijn 'renovatio'. Werkwoord: 'renoveren'.",
-    "hint": "Het hele huis opknappen — nieuwe keuken, badkamer, dak — dat is een..."
-  },
-  {
-    "word": "klusjesman",
-    "pos": "zelfstandig naamwoord · de",
-    "level": 2,
-    "examples": [
-      "De <mark>klusjesman</mark> repareerde de lekkende kraan.",
-      "Ze belde een <mark>klusjesman</mark> voor de kapotte deur.",
-      "Als <mark>klusjesman</mark> kan hij aan de slag in de hele buurt."
-    ],
-    "options": [
-      "een makelaar die huizen verkoopt",
-      "een architect die huizen ontwerpt",
-      "iemand die kleine reparaties en klussen in en om het huis uitvoert",
-      "een aannemer die grote bouwprojecten leidt"
+      "een vloeistof gemaakt van mineralen die goed is voor de gezondheid",
+      "elke vloeistof die je kunt drinken inclusief sappen en melk",
+      "de kleurloze, reukloze vloeistof H₂O die essentieel is voor leven",
+      "de neerslag die als regen uit wolken op de aarde valt"
     ],
     "correct": 2,
-    "explanation": "'Klusjesman' = iemand die handige kleine reparaties en klussen uitvoert. Van 'klusje' (kleine taak). Samengesteld van 'klus' + 'man'. Vrouwelijk: 'klusjesvrouw'.",
-    "hint": "De kraan lekt, het slot is kapot. Je belt een..."
+    "explanation": "'Water' = de kleurloze vloeistof H₂O die leven mogelijk maakt. Ontelbaar. Synoniem: 'H₂O', 'vloeistof'. Figuurlijk: 'water bij de wijn doen' = concessies doen; 'in zwaar water zitten' = in moeilijkheden zijn.",
+    "hint": "Water is de meest fundamentele vloeistof. Wat maakt het uniek ten opzichte van andere dranken?",
+    "collocations": [
+      "water drinken",
+      "water bij de wijn doen",
+      "in zwaar water zitten"
+    ]
+  },
+  {
+    "word": "winkel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ze ging naar de <mark>winkel</mark> om brood en melk te kopen.",
+      "De nieuwe <mark>winkel</mark> in de binnenstad verkoopt uitsluitend biologische producten.",
+      "Hij runt zijn eigen kleine <mark>winkel</mark> al twintig jaar met succes."
+    ],
+    "options": [
+      "een magazijn waar producten worden opgeslagen voor later gebruik",
+      "een online platform waar je producten kunt bestellen en laten bezorgen",
+      "een marktplaats buiten waar verkopers hun waren aanprijzen",
+      "een ruimte of etablissement waar producten worden verkocht aan klanten"
+    ],
+    "correct": 3,
+    "explanation": "'Winkel' = een vaste ruimte waar producten worden verkocht. Meervoud: 'winkels'. Synoniem: 'zaak', 'boetiek'. Figuurlijk: 'zijn winkel sluiten' = stoppen met een activiteit of bedrijf.",
+    "hint": "Winkel, markt en webshop zijn drie verkoopkanalen. Wat is het kenmerkende van een winkel ten opzichte van een markt?",
+    "collocations": [
+      "naar de winkel gaan",
+      "een winkel openen",
+      "winkelen in de stad"
+    ]
+  },
+  {
+    "word": "wonen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>woont</mark> al tien jaar in Amsterdam en wil niet meer weg.",
+      "Hij <mark>woonde</mark> tijdelijk bij zijn ouders na zijn scheiding.",
+      "Dat <mark>woont</mark> lekker — die nieuwe buurt heeft alles wat je nodig hebt."
+    ],
+    "options": [
+      "een gebouw huren voor commercieel gebruik als kantoor of winkel",
+      "ergens permanent of langdurig je woonplaats hebben",
+      "af en toe een locatie bezoeken zonder er formeel ingeschreven te zijn",
+      "tijdelijk verblijven op een locatie tijdens een reis of vakantie"
+    ],
+    "correct": 1,
+    "explanation": "'Wonen' = ergens zijn vaste woonplaats hebben. Verleden tijd: 'woonde', voltooid deelwoord: 'gewoond'. Synoniem: 'leven', 'verblijven'. Figuurlijk: 'dat woont lekker' = dat is prettig om te doen of te gebruiken.",
+    "hint": "Wonen en verblijven zijn allebei locatiegerelateerde werkwoorden. Wonen is permanent; verblijven is...?",
+    "collocations": [
+      "in een stad wonen",
+      "prettig wonen",
+      "wonen en werken"
+    ]
+  },
+  {
+    "word": "plaat",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze luisterde naar een oude <mark>plaat</mark> van haar vader op de draaitafel.",
+      "Hij hing een kleurige <mark>plaat</mark> van de wereldkaart boven zijn bureau.",
+      "De loodgieter verving de metalen <mark>plaat</mark> onder de gootsteen."
+    ],
+    "options": [
+      "een ingelijste foto gemaakt met een camera op papier afgedrukt",
+      "een dun, vlak stuk materiaal, een vinyl geluidsdrager of een afbeelding",
+      "een dikke, harde schijf die muziek opslaat via digitale codering",
+      "een boek of tijdschrift met afbeeldingen en weinig tekst"
+    ],
+    "correct": 1,
+    "explanation": "'Plaat' = een dun vlak stuk materiaal, een vinyl grammofoonplaat, of een afbeelding/prent. Meervoud: 'platen'. Synoniem: 'vinyl' (muziek), 'prent' (afbeelding), 'plaat staal' (materiaal). Figuurlijk: 'de plaat poetsen' = snel vertrekken; 'tektonische platen' = grote stukken van de aardkorst.",
+    "hint": "Dit woord heeft drie veelgebruikte betekenissen: een muziekdrager van vinyl, een vlak stuk materiaal, en een afbeelding of prent. Wat verbindt ze?",
+    "collocations": [
+      "een plaat draaien",
+      "de plaat poetsen",
+      "een metalen plaat"
+    ]
   }
 ]
