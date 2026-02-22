@@ -1,178 +1,1226 @@
 [
   {
-    "_grade_before": "F → A",
-    "word": "bespreken",
-    "pos": "werkwoord",
-    "level": 1,
-    "register": "alledaags",
-    "examples": [
-      "We moeten de plannen voor het weekend nog even <mark>bespreken</mark>.",
-      "De leraar <mark>besprak</mark> de antwoorden van de toets met de klas.",
-      "Het bestuur wil de financiële situatie uitgebreid <mark>bespreken</mark> tijdens de volgende vergadering."
-    ],
-    "options": [
-      "samen een onderwerp doornemen om informatie te delen of tot een besluit te komen",
-      "iemand uitleggen hoe iets werkt zonder de mening van de ander te vragen",
-      "een standpunt innemen dat je daarna schriftelijk vastlegt",
-      "informatie over een onderwerp verzamelen zonder er met anderen over te praten"
-    ],
-    "correct": 0,
-    "explanation": "'Bespreken' = samen over een onderwerp praten, vaak met als doel een beslissing te nemen of informatie te delen. Verleden tijd: 'besprak', voltooid deelwoord: 'besproken'. Synoniem: 'overleggen', 'behandelen'. Let op de tweede betekenis: 'een tafel bespreken' = reserveren.",
-    "hint": "Niet elke vorm van praten is bespreken. Hoeveel mensen zijn er minimaal nodig, en wat is het doel van het gesprek?",
-    "collocations": ["een onderwerp bespreken", "een tafel bespreken", "iets in detail bespreken"]
-  },
-  {
-    "_grade_before": "D → B",
     "word": "antwoord",
     "pos": "zelfstandig naamwoord · het",
     "level": 1,
-    "register": "alledaags",
     "examples": [
       "Ik wacht nog steeds op een <mark>antwoord</mark> op mijn e-mail.",
-      "Weet jij het juiste <mark>antwoord</mark> op deze lastige vraag?",
+      "Weet jij het juiste <mark>antwoord</mark> op deze wiskundige vraag?",
       "Zijn <mark>antwoord</mark> op de kritiek was kort maar duidelijk."
     ],
     "options": [
-      "een vraag die je aan iemand stelt om informatie te krijgen",
+      "een vraag die je aan iemand stelt om meer te weten te komen",
       "een reactie die je geeft nadat iemand iets heeft gevraagd of gezegd",
       "een officieel document met regels of afspraken",
-      "een reactie die je geeft zonder dat er een aanleiding voor is"
+      "een reactie die je geeft zonder dat er een directe aanleiding voor is"
     ],
     "correct": 1,
-    "explanation": "'Antwoord' = de reactie op een vraag, brief of bericht. Tegenstelling: 'de vraag'. Werkwoord: 'antwoorden'. Synoniem: 'reactie', 'respons'. Figuurlijk: 'het antwoord op een probleem' = de oplossing.",
-    "hint": "Denk aan de twee rollen in een gesprek: iemand begint, iemand reageert. Dit woord beschrijft de tweede rol. Maar niet elke reactie is een antwoord — wat is er altijd aan voorafgegaan?",
-    "collocations": ["een antwoord geven", "wachten op antwoord", "het antwoord op een probleem"]
+    "explanation": "'Antwoord' = een reactie op een vraag, brief of bericht. Meervoud: 'antwoorden'. Werkwoord: 'antwoorden'. Synoniem: 'reactie', 'respons'. Figuurlijk: 'het antwoord op een probleem' = de oplossing voor iets.",
+    "hint": "Denk aan de twee rollen in een gesprek: iemand begint, iemand reageert. Wat is er altijd nodig voordat dit woord van toepassing is?",
+    "collocations": [
+      "een antwoord geven",
+      "wachten op antwoord",
+      "het antwoord op een probleem"
+    ]
   },
   {
-    "_grade_before": "D → B",
     "word": "antwoorden",
     "pos": "werkwoord",
     "level": 1,
-    "register": "alledaags",
     "examples": [
       "Zij <mark>antwoordde</mark> direct op mijn berichtje.",
       "Hij wilde niet <mark>antwoorden</mark> toen de politie hem vragen stelde.",
-      "Je moet binnen drie werkdagen <mark>antwoorden</mark> op een officiële brief van de gemeente."
+      "Je dient binnen drie werkdagen schriftelijk te <mark>antwoorden</mark> op een officieel bezwaar."
     ],
     "options": [
-      "als eerste het woord nemen in een gesprek",
-      "iemand een bericht sturen zonder dat diegene iets heeft gevraagd",
+      "als eerste het woord nemen in een gesprek zonder uitgenodigd te zijn",
+      "iemand een bericht sturen zonder dat die persoon iets heeft gevraagd",
       "reageren op een vraag of bericht dat aan jou gericht is",
-      "hetzelfde zeggen als iemand anders om te laten merken dat je het eens bent"
+      "instemmen met wat iemand zegt door hetzelfde te herhalen"
     ],
     "correct": 2,
-    "explanation": "'Antwoorden' = een reactie geven op een vraag of bericht. Verleden tijd: 'antwoordde', voltooid deelwoord: 'geantwoord'. Synoniem: 'reageren', 'terugschrijven'. Figuurlijk: 'antwoorden op de situatie' = reageren op een omstandigheid.",
+    "explanation": "'Antwoorden' = een reactie geven op een vraag of bericht. Verleden tijd: 'antwoordde', voltooid deelwoord: 'geantwoord'. Synoniem: 'reageren', 'terugschrijven'. Figuurlijk: 'antwoorden op een situatie' = reageren op een omstandigheid.",
     "hint": "Dit werkwoord beschrijft wat je doet ná het ontvangen van iets. Wat is er altijd nodig voordat je dit kunt doen?",
-    "collocations": ["antwoorden op een vraag", "schriftelijk antwoorden", "niet antwoorden"]
+    "collocations": [
+      "antwoorden op een vraag",
+      "schriftelijk antwoorden",
+      "niet antwoorden"
+    ]
   },
   {
-    "_grade_before": "D → B",
+    "word": "artikel",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ik las een interessant <mark>artikel</mark> in de krant over klimaatverandering.",
+      "De journalist schrijft een <mark>artikel</mark> over de uitslag van de verkiezingen.",
+      "Dit wetenschappelijke <mark>artikel</mark> is gepubliceerd in een internationaal vakblad."
+    ],
+    "options": [
+      "een volledig tijdschrift of krant met meerdere onderwerpen",
+      "een kort persoonlijk bericht dat iemand online plaatst",
+      "een afzonderlijke geschreven tekst over één onderwerp in een publicatie",
+      "een gesproken reportage die wordt uitgezonden op de radio"
+    ],
+    "correct": 2,
+    "explanation": "'Artikel' = een zelfstandige non-fictietekst in een krant, tijdschrift of op een website. Meervoud: 'artikelen'. Tweede betekenis: een product in een winkel ('een duur artikel'). Synoniem: 'stuk', 'bijdrage'.",
+    "hint": "Een krant bevat veel van deze dingen. Wat is het verschil tussen dit woord en de krant zelf?",
+    "collocations": [
+      "een artikel schrijven",
+      "een artikel lezen",
+      "een artikel publiceren"
+    ]
+  },
+  {
     "word": "belofte",
     "pos": "zelfstandig naamwoord · de",
     "level": 2,
-    "register": "alledaags",
     "examples": [
-      "Hij brak zijn <mark>belofte</mark> om me te helpen met verhuizen.",
-      "De politicus deed een <mark>belofte</mark> over lagere belastingen.",
-      "Een <mark>belofte</mark> aan een kind moet je altijd nakomen — anders verlies je hun vertrouwen."
+      "Hij brak zijn <mark>belofte</mark> om me te helpen met de verhuizing.",
+      "De politicus deed een <mark>belofte</mark> over lagere belastingen voor iedereen.",
+      "Een <mark>belofte</mark> aan een kind moet je altijd nakomen, anders verlies je hun vertrouwen."
     ],
     "options": [
-      "een bewering over iets wat je in het verleden hebt gedaan",
+      "een bewering over iets wat je eerder hebt gedaan",
       "een toezegging dat je iets in de toekomst zeker zult doen",
-      "een verzoek aan iemand anders om iets voor jou te doen",
-      "een verklaring dat je iets niet hebt gedaan wat je beschuldigd wordt van"
+      "een verzoek aan iemand anders om iets voor jou te regelen",
+      "een verklaring waarmee je jezelf verdedigt tegen een beschuldiging"
     ],
     "correct": 1,
-    "explanation": "'Belofte' = een toezegging dat je iets gaat doen. Werkwoord: 'beloven', 'een belofte doen/nakomen/breken'. Synoniem: 'toezegging', 'gelofte' (formeler). Figuurlijk: 'een belofte van kwaliteit' = garantie; 'een veelbelovende student' = iemand met veel potentie.",
-    "hint": "Dit woord gaat altijd over de toekomst. Maar niet alles wat je over de toekomst zegt is een belofte — wat is het extra element dat dit woord toevoegt?",
-    "collocations": ["een belofte doen", "een belofte nakomen", "een belofte breken"]
+    "explanation": "'Belofte' = een toezegging dat je iets gaat doen. Werkwoord: 'beloven'. Vaste combinaties: 'een belofte doen', 'een belofte nakomen', 'een belofte breken'. Synoniem: 'toezegging'. Figuurlijk: 'een veelbelovende student' = iemand met veel potentie.",
+    "hint": "Dit woord gaat altijd over de toekomst. Maar niet alles wat je over de toekomst zegt is een belofte — welk extra element zit erin?",
+    "collocations": [
+      "een belofte doen",
+      "een belofte nakomen",
+      "een belofte breken"
+    ]
   },
   {
-    "_grade_before": "D → B",
+    "word": "bericht",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Heb je mijn <mark>bericht</mark> op WhatsApp al gelezen?",
+      "Er is een nieuw <mark>bericht</mark> voor u achtergelaten op de voicemail.",
+      "Het persbureau stuurde een urgent <mark>bericht</mark> de wereld in over het ongeluk."
+    ],
+    "options": [
+      "een lang schriftelijk document met officiële afspraken",
+      "een geschreven of gesproken mededeling of informatieoverdracht",
+      "een formeel gesprek tussen twee partijen met een vaste agenda",
+      "een pakket met goederen dat via de post wordt verstuurd"
+    ],
+    "correct": 1,
+    "explanation": "'Bericht' = een korte mededeling, via telefoon, e-mail, post of nieuws. Meervoud: 'berichten'. Synoniem: 'boodschap', 'mededeling'. Figuurlijk: 'het bericht doen de ronde' = nieuws verspreidt zich.",
+    "hint": "Een SMS en een krantenartikel kunnen allebei dit woord zijn. Wat hebben ze gemeenschappelijk qua functie?",
+    "collocations": [
+      "een bericht sturen",
+      "een bericht ontvangen",
+      "een bericht achterlaten"
+    ]
+  },
+  {
+    "word": "bespreken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "We moeten de plannen voor het weekend nog even <mark>bespreken</mark>.",
+      "De leraar <mark>besprak</mark> de antwoorden van de toets met de klas.",
+      "Het bestuur wil de financiële situatie uitgebreid <mark>bespreken</mark> tijdens de vergadering."
+    ],
+    "options": [
+      "samen over een onderwerp praten om informatie te delen of tot een besluit te komen",
+      "iemand uitleggen hoe iets werkt zonder de mening van de ander te vragen",
+      "een standpunt schriftelijk vastleggen na overleg met anderen",
+      "informatie over een onderwerp verzamelen zonder er met anderen over te praten"
+    ],
+    "correct": 0,
+    "explanation": "'Bespreken' = samen over een onderwerp praten, vaak met als doel een beslissing te nemen. Verleden tijd: 'besprak', voltooid deelwoord: 'besproken'. Synoniem: 'overleggen', 'behandelen'. Tweede betekenis: 'een tafel bespreken' = reserveren.",
+    "hint": "Niet elke vorm van praten is bespreken. Hoeveel mensen zijn er minimaal nodig, en wat is het doel?",
+    "collocations": [
+      "een onderwerp bespreken",
+      "een plan bespreken",
+      "een tafel bespreken"
+    ]
+  },
+  {
+    "word": "beweren",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Hij <mark>beweert</mark> dat hij de trein heeft gemist, maar ik geloof hem niet.",
+      "Ze <mark>beweerde</mark> onschuldig te zijn, ondanks al het bewijs.",
+      "De minister <mark>beweert</mark> dat de economie verbetert, maar de cijfers tonen iets anders."
+    ],
+    "options": [
+      "iets officieel bekendmaken met bewijs of documentatie",
+      "iemand overtuigen van iets door langdurig te argumenteren",
+      "iets als waar stellen zonder dat je dat kunt of hoeft te bewijzen",
+      "toegeven dat je iets fout hebt gedaan na erop gewezen te zijn"
+    ],
+    "correct": 2,
+    "explanation": "'Beweren' = iets als waar stellen, zonder dat je het per se kunt bewijzen. Verleden tijd: 'beweerde', voltooid deelwoord: 'beweerd'. Zelfstandig naamwoord: 'bewering'. Neutraler dan 'liegen', maar impliceert enige scepsis bij de luisteraar.",
+    "hint": "Dit woord zegt iets over hoe zeker de spreker is van wat hij zegt — en hoe zeker de luisteraar dat vindt. Wat ontbreekt er bij dit woord vergeleken met 'bewijzen'?",
+    "collocations": [
+      "iets beweren",
+      "dat beweert hij",
+      "een bewering doen"
+    ]
+  },
+  {
+    "word": "boodschap",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Kan ik een <mark>boodschap</mark> doorgeven aan de directeur?",
+      "De spreker had een duidelijke <mark>boodschap</mark> voor het publiek: doe meer met minder.",
+      "De <mark>boodschap</mark> van de film is dat vriendschap belangrijker is dan succes."
+    ],
+    "options": [
+      "een gesprek dat je voert om informatie te achterhalen",
+      "informatie of een kern van betekenis die je aan iemand overbrengt",
+      "een officieel verzoek dat schriftelijk moet worden ingediend",
+      "een aankondiging die voor iedereen tegelijk wordt gedaan"
+    ],
+    "correct": 1,
+    "explanation": "'Boodschap' = een mededeling die je voor iemand achterlaat, of de kern van wat je wilt overbrengen. Meervoud: 'boodschappen'. Let op de tweede betekenis: 'boodschappen doen' = inkopen doen in de supermarkt. Synoniem: 'bericht', 'mededeling'.",
+    "hint": "Dit woord heeft twee heel verschillende betekenissen in het Nederlands. In de context van communicatie: wat is de essentie van wat je wilt overbrengen?",
+    "collocations": [
+      "een boodschap doorgeven",
+      "de boodschap begrijpen",
+      "boodschappen doen"
+    ]
+  },
+  {
+    "word": "brief",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ik heb een formele <mark>brief</mark> van de gemeente ontvangen over mijn belastingen.",
+      "Vroeger schreven mensen elkaar liefdes<mark>brieven</mark>; nu sturen ze berichten.",
+      "Vergeet niet een postzegel op de <mark>brief</mark> te plakken voordat je hem verstuurt."
+    ],
+    "options": [
+      "een mondeling bericht dat je doorgeefd via een tussenpersoon",
+      "een geschreven mededeling op papier die je per post verstuurt",
+      "een kort digitaal bericht dat je via e-mail verstuurt",
+      "een officieel formulier dat je invult bij een overheidsinstantie"
+    ],
+    "correct": 1,
+    "explanation": "'Brief' = een geschreven of getypt bericht op papier dat per post wordt verstuurd. Meervoud: 'brieven'. Samenstellingen: 'brievenbus', 'briefpapier', 'briefkaart'. Synoniem: 'epistel' (formeel/literair). Figuurlijk: 'open brief' = een publieke brief gericht aan een specifieke persoon.",
+    "hint": "Een e-mail en een brief lijken op elkaar, maar één ding is fundamenteel anders. Wat is het verschil in medium?",
+    "collocations": [
+      "een brief schrijven",
+      "een brief versturen",
+      "een brief ontvangen"
+    ]
+  },
+  {
+    "word": "contact",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ik heb nog steeds goed <mark>contact</mark> met mijn oude collega's van het eerste bedrijf.",
+      "Neem gerust <mark>contact</mark> met ons op als je vragen hebt via het formulier.",
+      "Door zijn lange verblijf in het buitenland zijn we het <mark>contact</mark> langzaam verloren."
+    ],
+    "options": [
+      "een contract of overeenkomst die je met iemand sluit",
+      "verbinding of communicatie die je met iemand onderhoudt",
+      "een meningsverschil of conflict tussen twee partijen",
+      "een formele kennismaking bij een eerste ontmoeting"
+    ],
+    "correct": 1,
+    "explanation": "'Contact' = de verbinding of communicatie die je met iemand hebt of onderhoudt. Werkwoord: 'contact opnemen'. Synoniem: 'verbinding', 'communicatie'. Figuurlijk: 'in contact staan met de realiteit' = voeling hebben met hoe dingen werkelijk zijn.",
+    "hint": "Dit woord beschrijft niet één gesprek, maar iets wat je over langere tijd met iemand onderhoudt. Wat is het verschil met een enkele ontmoeting?",
+    "collocations": [
+      "contact opnemen",
+      "contact onderhouden",
+      "contact verliezen"
+    ]
+  },
+  {
+    "word": "debat",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "In het parlement werd een fel <mark>debat</mark> gevoerd over de nieuwe belastingwet.",
+      "Het <mark>debat</mark> tussen de twee politici trok miljoenen kijkers op televisie.",
+      "Er is momenteel veel maatschappelijk <mark>debat</mark> over de rol van sociale media."
+    ],
+    "options": [
+      "een privégesprek tussen twee mensen over een gevoelig onderwerp",
+      "een vergadering waarbij één persoon een plan presenteert aan anderen",
+      "een gestructureerde discussie waarbij tegengestelde standpunten worden verdedigd",
+      "een informeel gesprek waarbij mensen ideeën met elkaar uitwisselen"
+    ],
+    "correct": 2,
+    "explanation": "'Debat' = een gestructureerde discussie waarbij partijen tegengestelde meningen verdedigen. Werkwoord: 'debatteren'. Synoniem: 'discussie' (informeler). Figuurlijk: 'het maatschappelijk debat' = de publieke discussie in een samenleving over een onderwerp.",
+    "hint": "Een debat en een gewoon gesprek zijn allebei vormen van communicatie tussen meerdere mensen. Wat maakt een debat specifieker?",
+    "collocations": [
+      "een debat voeren",
+      "debatteren over",
+      "het maatschappelijk debat"
+    ]
+  },
+  {
+    "word": "discussie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Tijdens de vergadering ontstond er een felle <mark>discussie</mark> over het budget.",
+      "We hadden een interessante <mark>discussie</mark> over de toekomst van werken vanuit huis.",
+      "Er is veel publieke <mark>discussie</mark> over de nieuwe regels rondom stikstofuitstoot."
+    ],
+    "options": [
+      "een gesprek waarbij mensen verschillende meningen uitwisselen en beargumenteren",
+      "een toespraak waarbij één persoon een publiek toespreekt",
+      "een onderhandeling waarbij twee partijen tot een compromis proberen te komen",
+      "een verhoor waarbij iemand vragen moet beantwoorden die hij liever vermijdt"
+    ],
+    "correct": 0,
+    "explanation": "'Discussie' = een gesprek waarin meningen worden gedeeld en beargumenteerd, vaak bij onenigheid. Werkwoord: 'discussiëren'. Synoniem: 'debat' (formeler). Figuurlijk: 'dat staat niet ter discussie' = dat is niet onderhandelbaar.",
+    "hint": "Bij dit woord zijn er minimaal twee mensen nodig die het niet volledig eens zijn. Wat is het verschil met gewoon 'praten'?",
+    "collocations": [
+      "een discussie voeren",
+      "in discussie gaan",
+      "ter discussie stellen"
+    ]
+  },
+  {
+    "word": "envelop",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Hij stopte de brief in een <mark>envelop</mark> en schreef het adres er netjes op.",
+      "De uitnodiging voor het huwelijk zat in een mooie crèmekleurige <mark>envelop</mark>.",
+      "Maak de <mark>envelop</mark> voorzichtig open, anders scheurt de brief die erin zit."
+    ],
+    "options": [
+      "een kaartje waarop je een wens of felicitatie schrijft",
+      "de doos of bak bij de voordeur waar post in bezorgd wordt",
+      "een papieren hoesje waarin je een brief stopt om te versturen",
+      "een klein pakketje met meerdere documenten of goederen"
+    ],
+    "correct": 2,
+    "explanation": "'Envelop' = het papieren zakje of hoesje waarin je een brief verstuurt. Uitgesproken met klemtoon op de laatste lettergreep: 'enve-LOP'. Van het Frans 'enveloppe'. Synoniem: geen gangbaar synoniem. Samenstellingen: 'vensterenvelop', 'luchtenvelop'.",
+    "hint": "Een brief heeft een hoesje nodig voordat hij de post in kan. Hoe heet dat hoesje?",
+    "collocations": [
+      "een envelop dichtplakken",
+      "een envelop adresseren",
+      "in een envelop stoppen"
+    ]
+  },
+  {
+    "word": "gesprek",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ik had gisteren een heel goed <mark>gesprek</mark> met mijn manager over mijn loopbaan.",
+      "Tijdens het eten voerden we een interessant <mark>gesprek</mark> over de toekomst.",
+      "Zij raakten in <mark>gesprek</mark> met een onbekende in de trein en praatten twee uur lang."
+    ],
+    "options": [
+      "een schriftelijke uitwisseling van berichten over langere tijd",
+      "een eenzijdige toespraak waarbij één persoon het woord voert",
+      "mondelinge communicatie waarbij twee of meer mensen beurtelings spreken",
+      "een formele vergadering met een vaste agenda en notulen"
+    ],
+    "correct": 2,
+    "explanation": "'Gesprek' = mondelinge communicatie waarbij mensen beurtelings spreken. Werkwoord: 'spreken', 'een gesprek voeren'. Synoniem: 'conversatie'. Figuurlijk: 'het gesprek van de dag' = het onderwerp waar iedereen het over heeft.",
+    "hint": "Zowel een vriendelijk babbeltje als een zakelijk overleg kunnen dit woord zijn. Wat is het minimale dat nodig is om dit woord te kunnen gebruiken?",
+    "collocations": [
+      "een gesprek voeren",
+      "in gesprek zijn",
+      "een gesprek aangaan"
+    ]
+  },
+  {
+    "word": "groet",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Met vriendelijke <mark>groet</mark> sloot hij zijn zakelijke e-mail af.",
+      "Hij gaf me een vriendelijke <mark>groet</mark> toen we elkaar passeerden op straat.",
+      "Doe de <mark>groeten</mark> aan je ouders van mij als je ze ziet!"
+    ],
+    "options": [
+      "een compliment dat je iemand geeft over zijn prestaties",
+      "een uiting van beleefdheid bij een ontmoeting of afscheid",
+      "een officieel verzoek dat je mondeling doet aan een autoriteit",
+      "een korte reactie die je geeft op een vraag"
+    ],
+    "correct": 1,
+    "explanation": "'Groet' = een woord of gebaar als beleefdheidsuitdrukking bij begroeting of afscheid. Meervoud: 'groeten'. Werkwoord: 'groeten'. Synoniem: 'begroeting'. Figuurlijk: 'met vriendelijke groet' is een standaard e-mailafsluiting.",
+    "hint": "Dit woord hoort bij het begin of het einde van een ontmoeting. Welk gevoel of sociale functie heeft het?",
+    "collocations": [
+      "de groeten doen",
+      "met vriendelijke groet",
+      "iemand groeten"
+    ]
+  },
+  {
     "word": "herhalen",
     "pos": "werkwoord",
     "level": 1,
-    "register": "alledaags",
     "examples": [
-      "Kunt u die zin alstublieft <mark>herhalen</mark>? Ik verstond het niet.",
-      "De docent moest de uitleg meerdere keren <mark>herhalen</mark>.",
+      "Kunt u die zin alstublieft <mark>herhalen</mark>? Ik verstond het niet goed.",
+      "De docent moest de uitleg meerdere keren <mark>herhalen</mark> voordat iedereen het begreep.",
       "Geschiedenis <mark>herhaalt</mark> zich — dezelfde fouten worden steeds opnieuw gemaakt."
     ],
     "options": [
-      "iets wat eerder gezegd is samenvatten in minder woorden",
-      "iets wat gezegd of gedaan is nog een keer zeggen of doen",
-      "iets langzamer en duidelijker zeggen zodat de ander het beter begrijpt",
+      "iets wat eerder gezegd is samenvatten in minder en eenvoudigere woorden",
+      "iets opnieuw zeggen of doen zoals het eerder is gezegd of gedaan",
+      "iets langzamer en duidelijker zeggen zodat de ander het beter kan begrijpen",
       "iets uitleggen op een manier die de ander nog niet eerder heeft gehoord"
     ],
     "correct": 1,
-    "explanation": "'Herhalen' = iets nog een keer doen of zeggen. Verleden tijd: 'herhaalde', voltooid deelwoord: 'herhaald'. Zelfstandig naamwoord: 'herhaling'. Synoniem: 'opnieuw doen', 'nog eens zeggen'. Figuurlijk: 'de geschiedenis herhaalt zich' = dezelfde situaties doen zich steeds opnieuw voor.",
-    "hint": "Samenvatten en herhalen zijn niet hetzelfde. Wat blijft er behouden bij herhalen wat bij samenvatten verloren gaat?",
-    "collocations": ["een vraag herhalen", "de stof herhalen", "geschiedenis herhaalt zich"]
+    "explanation": "'Herhalen' = iets nog een keer doen of zeggen op dezelfde manier. Verleden tijd: 'herhaalde', voltooid deelwoord: 'herhaald'. Zelfstandig naamwoord: 'herhaling'. Synoniem: 'opnieuw doen'. Figuurlijk: 'de geschiedenis herhaalt zich' = dezelfde situaties doen zich steeds opnieuw voor.",
+    "hint": "Samenvatten en herhalen lijken op elkaar maar zijn anders. Wat blijft er bij herhalen behouden wat bij samenvatten verloren gaat?",
+    "collocations": [
+      "een vraag herhalen",
+      "de stof herhalen",
+      "zich herhalen"
+    ]
   },
   {
-    "_grade_before": "D → B",
     "word": "informatie",
     "pos": "zelfstandig naamwoord · de",
     "level": 1,
-    "register": "alledaags",
     "examples": [
-      "Op het internet kun je veel <mark>informatie</mark> vinden over dit onderwerp.",
-      "Voor meer <mark>informatie</mark> kunt u terecht bij de balie.",
-      "De folder bevat belangrijke <mark>informatie</mark> voor nieuwe studenten over de procedure."
+      "Op het internet kun je veel <mark>informatie</mark> vinden over bijna elk onderwerp.",
+      "Voor meer <mark>informatie</mark> kunt u terecht bij de balie of via onze website.",
+      "De folder bevat belangrijke <mark>informatie</mark> voor nieuwe studenten over de inschrijvingsprocedure."
     ],
     "options": [
-      "kennis en gegevens over een onderwerp die je kunt delen of opzoeken",
-      "de persoonlijke mening van iemand over een onderwerp",
-      "een bericht dat speciaal bedoeld is om iemand te overtuigen",
-      "gegevens die bewust verborgen worden gehouden voor anderen"
+      "feiten en gegevens over een onderwerp die je kennis vergroten",
+      "de persoonlijke mening van iemand die hij publiekelijk verkondigt",
+      "een bericht dat speciaal is gemaakt om iemand te overtuigen van iets",
+      "gegevens die bewust worden achtergehouden voor een bepaalde groep"
     ],
     "correct": 0,
-    "explanation": "'Informatie' = feiten en gegevens die je kennis over een onderwerp vergroten. Werkwoord: 'informeren' (iemand informeren = iemand kennis geven). Synoniem: 'gegevens', 'data'. Figuurlijk: 'goed geïnformeerd zijn' = op de hoogte zijn van de feiten.",
-    "hint": "Niet elke bewering is informatie. Wat is het verschil tussen wat iemand vindt en wat informatie is?",
-    "collocations": ["informatie opzoeken", "informatie verstrekken", "om informatie vragen"]
+    "explanation": "'Informatie' = feiten en gegevens die je kennis over een onderwerp vergroten. Werkwoord: 'informeren'. Synoniem: 'gegevens', 'data', 'inlichtingen'. Figuurlijk: 'goed geïnformeerd zijn' = weten wat er speelt; 'informatief' = leerzaam, verhelderend.",
+    "hint": "Niet elke bewering is informatie. Wat onderscheidt een feit of gegeven van een mening?",
+    "collocations": [
+      "informatie opzoeken",
+      "informatie verstrekken",
+      "om informatie vragen"
+    ]
   },
   {
-    "_grade_before": "D → B",
+    "word": "internet",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ik heb dit recept op het <mark>internet</mark> gevonden na vijf minuten zoeken.",
+      "Zonder <mark>internet</mark> kan ik mijn e-mails niet lezen of vergaderingen bijwonen.",
+      "Via het <mark>internet</mark> zijn mensen over de hele wereld met elkaar verbonden."
+    ],
+    "options": [
+      "een lokaal netwerk van computers binnen één gebouw of bedrijf",
+      "een wereldwijd netwerk van computers voor informatie en communicatie",
+      "een televisieprogramma dat live wordt uitgezonden voor een groot publiek",
+      "een digitale app op je telefoon voor het delen van foto's en berichten"
+    ],
+    "correct": 1,
+    "explanation": "'Internet' = het wereldwijde netwerk dat computers en apparaten met elkaar verbindt. Lidwoord: 'het internet', maar ook vaak gebruikt zonder lidwoord ('op internet zoeken'). Synoniem: 'het web', 'het net'. Figuurlijk: 'het internet vergeet niets' = informatie online blijft bewaard.",
+    "hint": "Een lokaal netwerk op school en het internet zijn beide netwerken. Wat is het essentiële verschil in schaal?",
+    "collocations": [
+      "op het internet zoeken",
+      "toegang tot het internet",
+      "het internet gebruiken"
+    ]
+  },
+  {
     "word": "interview",
     "pos": "zelfstandig naamwoord · het",
     "level": 2,
-    "register": "alledaags",
     "examples": [
-      "De beroemde zanger gaf een exclusief <mark>interview</mark> op televisie.",
-      "Ik was erg zenuwachtig voor mijn <mark>interview</mark> voor de nieuwe baan.",
+      "De beroemde zanger gaf een exclusief <mark>interview</mark> op televisie na zijn tournee.",
+      "Ik was erg zenuwachtig voor mijn <mark>interview</mark> bij het nieuwe bedrijf.",
       "In het tijdschrift staat een uitgebreid <mark>interview</mark> met de schrijver over zijn nieuwe roman."
     ],
     "options": [
-      "een gesprek waarbij één persoon zijn verhaal vertelt zonder vragen te beantwoorden",
-      "een vraaggesprek waarbij één persoon vragen stelt en de ander antwoordt",
-      "een vergadering waarbij meerdere mensen samen een beslissing nemen",
-      "een beoordeling van iemands prestaties door een leidinggevende"
+      "een toespraak waarbij één persoon een publiek toespreekt zonder interactie",
+      "een vraaggesprek waarbij één partij vragen stelt en de ander antwoordt",
+      "een vergadering waarbij meerdere mensen samen een beslissing proberen te nemen",
+      "een informeel gesprek tussen vrienden waarbij iedereen gelijkwaardig meedoet"
     ],
     "correct": 1,
-    "explanation": "'Interview' = een gepland vraaggesprek voor media, onderzoek of sollicitatie. Werkwoord: 'interviewen'. Synoniem: 'vraaggesprek'. Figuurlijk: 'een sollicitatiegesprek' wordt in de volksmond ook 'een interview' of 'een sollicitatie-interview' genoemd.",
-    "hint": "Twee mensen zijn in gesprek, maar ze hebben niet dezelfde rol. Wat is het structurele verschil dat een interview onderscheidt van een gewoon gesprek?",
-    "collocations": ["een interview geven", "een interview afnemen", "een sollicitatie-interview"]
+    "explanation": "'Interview' = een gepland vraaggesprek voor media, onderzoek of sollicitatie. Werkwoord: 'interviewen'. Synoniem: 'vraaggesprek'. Figuurlijk: in de volksmond wordt een sollicitatiegesprek ook wel 'een interview' of 'een sollicitatie-interview' genoemd.",
+    "hint": "Twee mensen zijn in gesprek, maar ze hebben niet dezelfde rol. Wat is de structurele asymmetrie die dit woord van een gewoon gesprek onderscheidt?",
+    "collocations": [
+      "een interview geven",
+      "een interview afnemen",
+      "een sollicitatie-interview"
+    ]
   },
   {
-    "_grade_before": "C → B+",
     "word": "klinken",
     "pos": "werkwoord",
     "level": 2,
-    "register": "alledaags",
     "examples": [
-      "De muziek <mark>klinkt</mark> hier veel te hard — zet het zachter.",
-      "Zijn stem <mark>klonk</mark> een beetje verdrietig aan de telefoon.",
-      "Dat plan <mark>klinkt</mark> als een heel goed idee — laten we het proberen!"
+      "De muziek <mark>klinkt</mark> hier veel te hard — kun je het zachter zetten?",
+      "Zijn stem <mark>klonk</mark> gespannen aan de telefoon, alsof er iets mis was.",
+      "Dat plan <mark>klinkt</mark> veelbelovend — laten we er morgen verder over praten."
     ],
     "options": [
-      "een bericht of signaal naar iemand sturen",
-      "een geluid produceren, of de indruk wekken die je krijgt als je iets hoort of leest",
-      "een geluid produceren dat als storend of te luid wordt ervaren",
-      "heel goed luisteren naar wat iemand zegt"
+      "een bericht of signaal actief naar iemand versturen",
+      "een geluid voortbrengen, of de indruk wekken die iets bij het horen geeft",
+      "met opzet zo hard praten dat iedereen in de ruimte het kan horen",
+      "aandachtig luisteren naar wat iemand zegt zonder te reageren"
     ],
     "correct": 1,
-    "explanation": "'Klinken' = geluid produceren (letterlijk), of de indruk geven die iets maakt (figuurlijk). Verleden tijd: 'klonk', voltooid deelwoord: 'geklonken'. Synoniem: 'klinken als iets' = lijken op, de indruk wekken van. Figuurlijk: 'dat klinkt goed' = dat lijkt me een goed idee; 'het klinkt te mooi om waar te zijn'.",
-    "hint": "Dit woord heeft een letterlijke en een figuurlijke betekenis. In beide gevallen is er iets wat je zintuiglijk of mentaal waarneemt. Welk zintuig is dat?",
-    "collocations": ["goed klinken", "klinken als", "dat klinkt interessant"]
+    "explanation": "'Klinken' = een geluid voortbrengen (letterlijk), of de indruk geven die iets maakt bij het horen (figuurlijk). Verleden tijd: 'klonk', voltooid deelwoord: 'geklonken'. Synoniem: 'klinken als' = lijken op. Figuurlijk: 'dat klinkt goed' = dat lijkt me een goed idee.",
+    "hint": "Dit woord heeft een letterlijke betekenis (geluid) en een figuurlijke (indruk). Welk zintuig of gevoel staat in beide gevallen centraal?",
+    "collocations": [
+      "goed klinken",
+      "klinken als",
+      "dat klinkt interessant"
+    ]
+  },
+  {
+    "word": "klacht",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze diende een officiële <mark>klacht</mark> in bij de directie over het gedrag van haar collega.",
+      "De buren hebben een <mark>klacht</mark> ingediend bij de gemeente vanwege de overlast.",
+      "De klantenservice ontving veel <mark>klachten</mark> over de lange wachttijden."
+    ],
+    "options": [
+      "een verzoek om meer informatie over een product of dienst",
+      "een uiting van ontevredenheid over iemand of iets, vaak formeel ingediend",
+      "een opmerking die je maakt om iemand te waarschuwen voor gevaar",
+      "een reactie waarmee je aangeeft het ergens mee eens te zijn"
+    ],
+    "correct": 1,
+    "explanation": "'Klacht' = een uiting van ontevredenheid, formeel of informeel. Werkwoord: 'klagen'. Synoniem: 'bezwaar', 'aanklacht' (juridisch). Figuurlijk: 'geen klachten' = alles gaat goed; 'klachten hebben' kan ook medisch zijn (pijn, symptomen).",
+    "hint": "Dit woord beschrijft een uiting van een negatief gevoel over iets. Wat is het verschil tussen dit woord en gewoon 'zeggen dat je iets niet leuk vindt'?",
+    "collocations": [
+      "een klacht indienen",
+      "klachten behandelen",
+      "een klacht hebben"
+    ]
+  },
+  {
+    "word": "krant",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Elke ochtend lees ik de <mark>krant</mark> bij mijn ontbijt.",
+      "Het nieuws stond groot op de voorpagina van de <mark>krant</mark>.",
+      "Steeds minder mensen abonneren zich op een papieren <mark>krant</mark> — ze lezen het nieuws online."
+    ],
+    "options": [
+      "een maandelijks tijdschrift met uitgebreide achtergrondartikelen",
+      "een dagelijkse publicatie met nieuws en actualiteiten",
+      "een wekelijks programma op televisie over het nieuws",
+      "een online platform waar je zelf nieuws kunt schrijven en delen"
+    ],
+    "correct": 1,
+    "explanation": "'Krant' = een dagelijkse publicatie op papier of digitaal met nieuws en actualiteiten. Meervoud: 'kranten'. Synoniemen: 'dagblad', 'nieuwsblad'. Figuurlijk: 'in de krant staan' = publiekelijk bekend zijn.",
+    "hint": "Dit woord beschrijft een nieuwsmedium. Wat onderscheidt het van een tijdschrift in termen van verschijningsfrequentie?",
+    "collocations": [
+      "de krant lezen",
+      "in de krant staan",
+      "een krant abonnement"
+    ]
+  },
+  {
+    "word": "luisteren",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Kun jij even <mark>luisteren</mark>? Ik moet je iets belangrijks vertellen.",
+      "Ze <mark>luisterde</mark> aandachtig naar de uitleg van de docent.",
+      "De minister weigert te <mark>luisteren</mark> naar de zorgen van de bevolking."
+    ],
+    "options": [
+      "geluid produceren zodat anderen jou kunnen horen",
+      "bewust en aandachtig waarnemen wat iemand zegt of wat er klinkt",
+      "reageren op wat iemand zegt door jouw eigen mening te geven",
+      "stilzwijgend aanwezig zijn zonder actief deel te nemen aan een gesprek"
+    ],
+    "correct": 1,
+    "explanation": "'Luisteren' = bewust en aandachtig waarnemen wat iemand zegt of wat er te horen is. Verleden tijd: 'luisterde', voltooid deelwoord: 'geluisterd'. Synoniem: 'aanhoren'. Figuurlijk: 'luisteren naar iemand' = serieus nemen wat iemand zegt; 'goed luisteren' = empathisch zijn.",
+    "hint": "Horen en luisteren zijn niet hetzelfde. Wat is het extra element dat luisteren van horen onderscheidt?",
+    "collocations": [
+      "aandachtig luisteren",
+      "luisteren naar muziek",
+      "naar iemand luisteren"
+    ]
+  },
+  {
+    "word": "mail",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Ik heb je een <mark>mail</mark> gestuurd met de documenten als bijlage.",
+      "Mijn <mark>mail</mark>box zit vol met ongelezen berichten van deze week.",
+      "Stuur maar een <mark>mail</mark> als je nog vragen hebt na de vergadering."
+    ],
+    "options": [
+      "een geschreven brief op papier die je per post verstuurt",
+      "een digitaal bericht dat je via het internet naar iemand stuurt",
+      "een kort tekstbericht dat je via je telefoon verstuurt",
+      "een officieel document dat je downloadt van een overheidswebsite"
+    ],
+    "correct": 1,
+    "explanation": "'Mail' = een digitaal bericht via e-mail. Informele vorm van 'e-mail'. Werkwoord: 'mailen'. Synoniem: 'e-mail', 'elektronisch bericht'. Figuurlijk: 'een mail sturen' is standaard geworden voor zakelijke communicatie naast formele brieven.",
+    "hint": "Dit woord lijkt op 'brief' maar is er een modern alternatief voor. Wat is het fundamentele verschil in hoe je het verstuurt?",
+    "collocations": [
+      "een mail sturen",
+      "een mail beantwoorden",
+      "een mail ontvangen"
+    ]
+  },
+  {
+    "word": "manieren",
+    "pos": "zelfstandig naamwoord · de (meervoud)",
+    "level": 2,
+    "examples": [
+      "Hij heeft goede <mark>manieren</mark> — hij bedankt altijd de gastheer na een etentje.",
+      "Praten met volle mond is slechte <mark>manieren</mark>.",
+      "Je <mark>manieren</mark> zeggen veel over hoe je bent opgevoed."
+    ],
+    "options": [
+      "de technieken die je gebruikt om een taak zo efficiënt mogelijk uit te voeren",
+      "de gedragsregels en beleefdheidsvormen die in een samenleving worden verwacht",
+      "de persoonlijke gewoontes die je hebt ontwikkeld in je dagelijks leven",
+      "de manier waarop je communiceert via digitale kanalen"
+    ],
+    "correct": 1,
+    "explanation": "'Manieren' = sociaal geaccepteerde gedragsregels en beleefdheidsvormen. Enkelvoud 'manier' heeft een andere betekenis: 'op welke manier doe je dat?' = 'hoe doe je dat?'. Synoniem: 'etiquette', 'omgangsvormen'. Figuurlijk: 'iemand manieren leren' = iemand leren hoe hij zich moet gedragen.",
+    "hint": "Dit woord gaat over hoe je je gedraagt tegenover anderen in sociale situaties. Wat is het verschil tussen een 'manier' en 'manieren' in het Nederlands?",
+    "collocations": [
+      "goede manieren hebben",
+      "slechte manieren",
+      "manieren leren"
+    ]
+  },
+  {
+    "word": "mededeling",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "De directeur deed een belangrijke <mark>mededeling</mark> aan het personeel over de reorganisatie.",
+      "Op het bord hing een <mark>mededeling</mark> over de gewijzigde openingstijden.",
+      "De treinomroep deed een <mark>mededeling</mark> over de vertraging van tien minuten."
+    ],
+    "options": [
+      "een vraag die je stelt aan een groep mensen om informatie te verzamelen",
+      "een formele of officiële aankondiging of bekendmaking aan een groep",
+      "een persoonlijk gesprek waarbij je nieuws deelt met één vertrouwenspersoon",
+      "een reactie op een eerder bericht of aankondiging van iemand anders"
+    ],
+    "correct": 1,
+    "explanation": "'Mededeling' = een officieel of formeel bericht of aankondiging. Van 'mededelen' = officieel bekendmaken. Formeler dan 'bericht'. Meervoud: 'mededelingen'. Synoniem: 'bekendmaking', 'aankondiging'. Figuurlijk: 'geen verdere mededelingen' = geen commentaar.",
+    "hint": "Dit woord is formeler dan 'bericht'. In welke richting gaat de communicatie: van één persoon naar velen, of van velen naar één?",
+    "collocations": [
+      "een mededeling doen",
+      "een officiële mededeling",
+      "mededelingen bekijken"
+    ]
+  },
+  {
+    "word": "mening",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Wat is jouw <mark>mening</mark> over het nieuwe plan van de directie?",
+      "Iedereen heeft het recht om zijn eigen <mark>mening</mark> te geven.",
+      "Zijn <mark>mening</mark> over de kwestie veranderde nadat hij de feiten had gelezen."
+    ],
+    "options": [
+      "een bewezen feit dat je kunt onderbouwen met wetenschappelijk bewijs",
+      "de persoonlijke opvatting of standpunt dat iemand over iets heeft",
+      "officiële informatie die door een autoriteit wordt verspreid",
+      "een vraag die je stelt om de opvatting van een ander te achterhalen"
+    ],
+    "correct": 1,
+    "explanation": "'Mening' = een persoonlijke opvatting of standpunt over iets. Synoniem: 'opvatting', 'standpunt', 'visie'. Werkwoord: 'menen' (vinden). Figuurlijk: 'van mening veranderen' = anders gaan denken; 'van mening verschillen' = het niet eens zijn.",
+    "hint": "Feiten en meningen zijn verschillende dingen. Wat is het kenmerk van dit woord dat het onderscheidt van een feit?",
+    "collocations": [
+      "een mening geven",
+      "van mening zijn",
+      "van mening veranderen"
+    ]
+  },
+  {
+    "word": "nieuws",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Heb je het laatste <mark>nieuws</mark> al gehoord over de politieke crisis?",
+      "Om acht uur kijk ik altijd naar het <mark>nieuws</mark> op televisie.",
+      "Goed <mark>nieuws</mark>: je sollicitatie is geslaagd en je mag volgende week beginnen!"
+    ],
+    "options": [
+      "alle informatie die al eerder bekend was en herhaald wordt",
+      "recente informatie over actuele gebeurtenissen die mensen nog niet wisten",
+      "een persoonlijke mening over wat er in de wereld zou moeten veranderen",
+      "een uitgebreide analyse van historische gebeurtenissen en hun gevolgen"
+    ],
+    "correct": 1,
+    "explanation": "'Nieuws' = recente informatie over actuele gebeurtenissen. Altijd met 'het'. Samenstellingen: 'nieuwsbrief', 'nieuwsuitzending', 'nieuwslezer'. Synoniem: 'actualiteiten'. Figuurlijk: 'dat is geen nieuws' = dat weet iedereen al; 'slecht nieuws' of 'goed nieuws' als opener.",
+    "hint": "Het woord zelf geeft al een aanwijzing over wanneer iets dit woord verdient. Wat is de tijdsdimensie?",
+    "collocations": [
+      "het nieuws kijken",
+      "in het nieuws zijn",
+      "goed nieuws"
+    ]
+  },
+  {
+    "word": "noemen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Hij <mark>noemde</mark> drie redenen waarom het project was mislukt.",
+      "Hoe <mark>noem</mark> je dit apparaat in het Nederlands?",
+      "De commissie <mark>noemde</mark> het rapport 'een belangrijke stap voorwaarts'."
+    ],
+    "options": [
+      "iemand of iets een naam of aanduiding geven of uitspreken",
+      "iemand uitgebreid beschrijven zodat anderen weten wie het is",
+      "iets beweren te zijn wat je zelf niet bent",
+      "iets voor de eerste keer bekendmaken aan een groep mensen"
+    ],
+    "correct": 0,
+    "explanation": "'Noemen' = een naam of aanduiding geven aan iets of iemand. Verleden tijd: 'noemde', voltooid deelwoord: 'genoemd'. Synoniem: 'aanduiden', 'betitelen'. Figuurlijk: 'iets noemen' = iets benoemen of vermelden in een gesprek.",
+    "hint": "Dit woord gaat altijd over een label of naam die je aan iets koppelt. Wat is het verschil tussen iets noemen en iets beschrijven?",
+    "collocations": [
+      "bij naam noemen",
+      "iets noemen",
+      "genoemd worden"
+    ]
+  },
+  {
+    "word": "opmerking",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Ze maakte een grappige <mark>opmerking</mark> die iedereen deed lachen.",
+      "Heb je nog <mark>opmerkingen</mark> op het concept van het rapport?",
+      "Zijn <mark>opmerking</mark> over de planning was terecht — we hadden er eerder aan moeten denken."
+    ],
+    "options": [
+      "een uitgebreide reactie waarbij je een standpunt volledig onderbouwt",
+      "een korte mondelinge of schriftelijke reactie of toevoeging",
+      "een officiële aanklacht die je bij een instantie indient",
+      "een vraag die je stelt om meer informatie over een onderwerp te krijgen"
+    ],
+    "correct": 1,
+    "explanation": "'Opmerking' = een korte reactie, commentaar of aanvulling op iets. Werkwoord: 'opmerken'. Synoniem: 'commentaar', 'noot', 'kanttekening'. Figuurlijk: 'een scherpe opmerking' = een kritische of bijtende uitspraak.",
+    "hint": "Dit woord beschrijft een korte bijdrage aan een gesprek of tekst. Wat is het verschil tussen een opmerking en een volledig betoog?",
+    "collocations": [
+      "een opmerking maken",
+      "opmerkingen plaatsen",
+      "een opmerking over iets"
+    ]
+  },
+  {
+    "word": "overleggen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Voor de beslissing wil ik eerst even met mijn collega's <mark>overleggen</mark>.",
+      "Ze <mark>overlegden</mark> een uur lang over de beste aanpak voor het project.",
+      "Het team moet intern <mark>overleggen</mark> voordat het een antwoord geeft aan de klant."
+    ],
+    "options": [
+      "iemand vertellen wat hij moet doen zonder zijn mening te vragen",
+      "samen bespreken om tot een gezamenlijke beslissing of aanpak te komen",
+      "zelfstandig een beslissing nemen op basis van beschikbare informatie",
+      "iets officieel bekendmaken aan een groep mensen"
+    ],
+    "correct": 1,
+    "explanation": "'Overleggen' = samen bespreken om tot een uitkomst te komen. Zelfstandig naamwoord: 'overleg'. Synoniem: 'bespreken', 'consulteren'. Tweede betekenis: 'overleggen' = een document tonen ('u moet uw paspoort overleggen'). Figuurlijk: 'in overleg' = na bespreking.",
+    "hint": "Dit woord heeft twee totaal verschillende betekenissen in het Nederlands. In de context van communicatie: wat is het doel van dit gesprek?",
+    "collocations": [
+      "in overleg gaan",
+      "overleg plegen",
+      "met elkaar overleggen"
+    ]
+  },
+  {
+    "word": "postzegel",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 2,
+    "examples": [
+      "Vergeet niet een <mark>postzegel</mark> op de envelop te plakken voordat je hem verstuurt.",
+      "De waarde van de <mark>postzegel</mark> is afhankelijk van het gewicht van de brief.",
+      "Hij verzamelt al jaren oude <mark>postzegels</mark> uit de hele wereld als hobby."
+    ],
+    "options": [
+      "het papieren hoesje waarin je een brief stopt om te versturen",
+      "het kleine betaalbewijs dat je op een envelop plakt om porto te betalen",
+      "de sticker met het adres die je op een pakket plakt voor bezorging",
+      "het officiële stempel van de posterijen op een verzonden brief"
+    ],
+    "correct": 1,
+    "explanation": "'Postzegel' = een klein papieren vignet dat je op een envelop plakt als betaling voor de postbezorging. Samengesteld van 'post' + 'zegel'. Synoniem: 'zegel', 'stamp' (informeel). Figuurlijk: postzegels verzamelen is een populaire hobby ('filatelie').",
+    "hint": "Een brief kan niet zomaar worden bezorgd — er is een klein betaalmiddel nodig. Hoe heet dat?",
+    "collocations": [
+      "een postzegel plakken",
+      "postzegels verzamelen",
+      "een postzegel kopen"
+    ]
+  },
+  {
+    "word": "praten",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "We hebben gisteren urenlang <mark>gepraat</mark> over onze plannen voor de toekomst.",
+      "De kinderen <mark>praten</mark> veel te veel tijdens de les, vindt de docent.",
+      "Hij <mark>praat</mark> liever niet over zijn verleden — dat is een gevoelig onderwerp."
+    ],
+    "options": [
+      "schriftelijk berichten uitwisselen met iemand via een digitaal platform",
+      "woorden spreken in een gesprek, informeel communiceren",
+      "een formele toespraak houden voor een groep mensen",
+      "luisteren naar wat een ander zegt zonder zelf het woord te nemen"
+    ],
+    "correct": 1,
+    "explanation": "'Praten' = woorden spreken in een gesprek, informeel communiceren. Verleden tijd: 'praatte', voltooid deelwoord: 'gepraat'. Synoniem: 'spreken' (formeler), 'kletsen' (informeler). Figuurlijk: 'ergens over praten' = een probleem bespreekbaar maken.",
+    "hint": "Dit woord en 'spreken' betekenen bijna hetzelfde, maar één is formeler. Welke is dat?",
+    "collocations": [
+      "met iemand praten",
+      "over iets praten",
+      "praten over problemen"
+    ]
+  },
+  {
+    "word": "radio",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Elke ochtend luister ik naar de <mark>radio</mark> tijdens het autorijden.",
+      "Op de <mark>radio</mark> hoorde ik dat er een ernstig ongeluk was op de snelweg.",
+      "De <mark>radio</mark> is een van de oudste vormen van massacommunicatie."
+    ],
+    "options": [
+      "een apparaat waarmee je bewegende beelden en geluid kunt ontvangen",
+      "een medium dat geluid uitzendt via radiogolven zonder beelden",
+      "een app op je telefoon waarmee je podcasts en muziek kunt streamen",
+      "een kabelnetwerk waarlangs televisie en internet worden verzonden"
+    ],
+    "correct": 1,
+    "explanation": "'Radio' = een medium dat geluidsignalen uitzendt via radiogolven, of het apparaat om die signalen te ontvangen. Zowel 'de radio' als 'het radiostation'. Synoniem: 'de omroep'. Figuurlijk: 'stilte op de radio' = geen nieuws vanuit een bepaalde hoek.",
+    "hint": "Dit medium en televisie lijken op elkaar. Wat is het fundamentele verschil in wat je waarneemt?",
+    "collocations": [
+      "naar de radio luisteren",
+      "op de radio zijn",
+      "een radio uitzending"
+    ]
+  },
+  {
+    "word": "reageren",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>reageerde</mark> boos op de kritiek van haar collega.",
+      "Hoe moet ik <mark>reageren</mark> op een beledigende opmerking?",
+      "Het bedrijf heeft nog niet <mark>gereageerd</mark> op onze klacht van vorige week."
+    ],
+    "options": [
+      "als eerste iets zeggen of doen in een situatie",
+      "een actie ondernemen of iets zeggen als antwoord op iets wat eerder gebeurde",
+      "zwijgen en geen actie ondernemen naar aanleiding van iets",
+      "iets herhalen wat een ander heeft gezegd om aan te geven dat je luistert"
+    ],
+    "correct": 1,
+    "explanation": "'Reageren' = iets zeggen of doen als reactie op iets wat eerder is gezegd of gebeurd. Verleden tijd: 'reageerde', voltooid deelwoord: 'gereageerd'. Zelfstandig naamwoord: 'reactie'. Synoniem: 'antwoorden', 'ingaan op'. Figuurlijk: 'snel reageren' = snel handelen in een situatie.",
+    "hint": "Dit woord vereist altijd een aanleiding. Wat is er altijd aan voorafgegaan voordat je dit kunt doen?",
+    "collocations": [
+      "reageren op iets",
+      "snel reageren",
+      "niet reageren"
+    ]
+  },
+  {
+    "word": "roepen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Ze <mark>riep</mark> zijn naam maar hij hoorde haar niet.",
+      "De kinderen <mark>riepen</mark> om hulp toen de bal het water in vloog.",
+      "De manager <mark>riep</mark> de medewerkers bijeen voor een spoedoverleg."
+    ],
+    "options": [
+      "zachtjes iets zeggen zodat alleen de persoon naast je het kan horen",
+      "iemand of iets luid aanspreken om de aandacht te trekken of oproepen",
+      "een bericht sturen via een digitaal platform om iemand te bereiken",
+      "herhalen wat iemand anders heeft gezegd om te bevestigen dat je het hebt gehoord"
+    ],
+    "correct": 1,
+    "explanation": "'Roepen' = luid iemand aanspreken of iets uitroepen. Verleden tijd: 'riep', voltooid deelwoord: 'geroepen'. Synoniem: 'schreeuwen' (intenser), 'uitroepen'. Figuurlijk: 'geroepen zijn voor iets' = het gevoel hebben dat je ergens voor bestemd bent.",
+    "hint": "Dit woord impliceert een bepaalde volumes en intentie. Wat doet het woord met de volume en het doel vergeleken met gewoon 'zeggen'?",
+    "collocations": [
+      "iemand roepen",
+      "om hulp roepen",
+      "geroepen worden"
+    ]
+  },
+  {
+    "word": "schrijver",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Zijn favoriete <mark>schrijver</mark> is Harry Mulisch, een beroemde Nederlandse auteur.",
+      "De <mark>schrijver</mark> van dit artikel blijft anoniem, staat er onderaan.",
+      "Ze droomt ervan om ooit <mark>schrijver</mark> te worden van haar eigen roman."
+    ],
+    "options": [
+      "iemand die professioneel boeken leest en er recensies over schrijft",
+      "iemand die teksten of boeken maakt als beroep of bezigheid",
+      "iemand die nieuwsberichten verzamelt en samenstelt voor een krant",
+      "iemand die anderen helpt bij het verbeteren van hun schrijfstijl"
+    ],
+    "correct": 1,
+    "explanation": "'Schrijver' = iemand die teksten of literaire werken schrijft. Vrouwelijke vorm: 'schrijfster'. Synoniem: 'auteur', 'literator'. Figuurlijk: 'schrijver van een rapport' = de persoon die een document heeft opgesteld.",
+    "hint": "Een journalist en een schrijver schrijven allebei. Wat is het verschil in wat ze produceren?",
+    "collocations": [
+      "een bekende schrijver",
+      "de schrijver van een boek",
+      "schrijver worden"
+    ]
+  },
+  {
+    "word": "spreken",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Hij <mark>spreekt</mark> vloeiend Nederlands na drie jaar in Amsterdam te hebben gewoond.",
+      "Ze <mark>sprak</mark> de vergadering toe over de nieuwe strategie van het bedrijf.",
+      "We moeten elkaar <mark>spreken</mark> — er is iets belangrijks te bespreken."
+    ],
+    "options": [
+      "informeel babbelen met iemand zonder een specifiek doel",
+      "woorden uitspreken of communiceren via de mond, formeel of zakelijk",
+      "schriftelijk communiceren via brieven of berichten",
+      "luisteren naar wat anderen zeggen en dat onthouden"
+    ],
+    "correct": 1,
+    "explanation": "'Spreken' = woorden uitspreken of communiceren via de mond. Verleden tijd: 'sprak', voltooid deelwoord: 'gesproken'. Synoniem: 'praten' (informeler). Figuurlijk: 'voor zichzelf spreken' = geen verdere uitleg nodig zijn; 'dat spreekt voor zich'.",
+    "hint": "Dit woord en 'praten' betekenen bijna hetzelfde. In welke situaties — formeel of informeel — gebruik je eerder dit woord?",
+    "collocations": [
+      "een taal spreken",
+      "iemand spreken",
+      "voor een groep spreken"
+    ]
+  },
+  {
+    "word": "stem",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Zijn <mark>stem</mark> klonk rustig en zelfverzekerd tijdens de presentatie.",
+      "Ze herkende zijn <mark>stem</mark> direct aan de telefoon, al jaren later.",
+      "Bij de verkiezingen bracht iedere burger zijn <mark>stem</mark> uit op de kandidaat van zijn keuze."
+    ],
+    "options": [
+      "de toon waarop je iets zegt, dus vriendelijk, boos of verdrietig",
+      "het geluid dat je maakt als je spreekt, of je recht om mee te beslissen",
+      "de snelheid waarmee je spreekt bij een presentatie of toespraak",
+      "de inhoud van wat je zegt in een formele vergadering"
+    ],
+    "correct": 1,
+    "explanation": "'Stem' = het geluid dat je produceert bij spreken of zingen, of het recht om mee te stemmen. Werkwoord: 'stemmen'. Synoniem: 'geluid' (letterlijk), 'kiesrecht' (figuurlijk). Figuurlijk: 'een stem geven aan iemand' = iemand de kans geven zijn mening te uiten.",
+    "hint": "Dit woord heeft twee heel verschillende betekenissen: één is letterlijk (iets wat je hoort), en één is figuurlijk (iets wat je uitbrengt bij een verkiezing). Wat verbindt die twee?",
+    "collocations": [
+      "een stem uitbrengen",
+      "een mooie stem hebben",
+      "zijn stem verheffen"
+    ]
+  },
+  {
+    "word": "televisie",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Na het eten kijken ze altijd een uurtje <mark>televisie</mark> samen.",
+      "Op de <mark>televisie</mark> was een documentaire over de geschiedenis van Nederland.",
+      "<mark>Televisie</mark> blijft een populair medium, ondanks de opkomst van streamingdiensten."
+    ],
+    "options": [
+      "een medium dat alleen geluid uitzendt via radiogolven",
+      "een medium dat bewegende beelden en geluid uitzendt of weergeeft",
+      "een digitaal platform waarop je zelf video's kunt uploaden en delen",
+      "een abonnementsdienst waarmee je films en series kunt bekijken"
+    ],
+    "correct": 1,
+    "explanation": "'Televisie' = een medium dat beeld en geluid uitzendt, of het apparaat om dat te ontvangen. Afkorting: 'tv'. Synoniem: 'tv', 'buis' (informeel). Figuurlijk: 'op televisie zijn' = publiekelijk zichtbaar zijn voor een groot publiek.",
+    "hint": "Radio en televisie zijn allebei omroepmedia. Wat kun je bij televisie dat je bij radio niet kunt?",
+    "collocations": [
+      "televisie kijken",
+      "op televisie zijn",
+      "een televisie programma"
+    ]
+  },
+  {
+    "word": "tijdschrift",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 2,
+    "examples": [
+      "Ze abonneert zich al jaren op een <mark>tijdschrift</mark> over interieur en design.",
+      "In de wachtkamer lagen stapels oude <mark>tijdschriften</mark> over reizen en koken.",
+      "Dit wetenschappelijke <mark>tijdschrift</mark> publiceert alleen peer-reviewed onderzoek."
+    ],
+    "options": [
+      "een dagelijks nieuwsblad met actuele berichten en reportages",
+      "een periodieke publicatie die regelmatig verschijnt over een specifiek thema",
+      "een boek met fictieve verhalen dat je per hoofdstuk kunt lezen",
+      "een digitale nieuwsbrief die je per e-mail ontvangt van een organisatie"
+    ],
+    "correct": 1,
+    "explanation": "'Tijdschrift' = een periodieke publicatie die wekelijks, maandelijks of per kwartaal verschijnt. Samengesteld van 'tijd' + 'schrift'. Synoniem: 'magazine', 'blad'. Figuurlijk: een 'wetenschappelijk tijdschrift' is een vakblad voor specialisten.",
+    "hint": "Een krant en een tijdschrift zijn allebei publicaties. Wat zijn de twee belangrijkste verschillen in hoe en wanneer ze verschijnen?",
+    "collocations": [
+      "een tijdschrift lezen",
+      "zich abonneren op een tijdschrift",
+      "een tijdschrift publiceren"
+    ]
+  },
+  {
+    "word": "uitleg",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Kun je me een korte <mark>uitleg</mark> geven over hoe dit apparaat werkt?",
+      "De docent gaf een duidelijke <mark>uitleg</mark> over het verschil tussen de twee begrippen.",
+      "Zijn <mark>uitleg</mark> voor zijn afwezigheid was niet erg overtuigend."
+    ],
+    "options": [
+      "een oordeel over hoe goed iemand iets heeft gedaan of begrepen",
+      "een toelichting waarmee je iets begrijpelijker of duidelijker maakt",
+      "een samenvatting van een lang document in één korte alinea",
+      "een instructie die precies voorschrijft wat iemand stap voor stap moet doen"
+    ],
+    "correct": 1,
+    "explanation": "'Uitleg' = een toelichting waarmee je iets begrijpelijker maakt. Werkwoord: 'uitleggen'. Synoniem: 'toelichting', 'verklaring'. Figuurlijk: 'een uitleg voor iets hebben' = een reden of verklaring voor iets kunnen geven.",
+    "hint": "Een instructie vertelt je wat je moet doen. Een uitleg doet iets anders. Wat is dat verschil?",
+    "collocations": [
+      "een uitleg geven",
+      "om uitleg vragen",
+      "een uitleg nodig hebben"
+    ]
+  },
+  {
+    "word": "verhaal",
+    "pos": "zelfstandig naamwoord · het",
+    "level": 1,
+    "examples": [
+      "Ze vertelde een grappig <mark>verhaal</mark> over haar eerste dag op het werk.",
+      "Het <mark>verhaal</mark> van zijn leven is zo bijzonder dat het een film waard is.",
+      "De getuige vertelde zijn <mark>verhaal</mark> aan de politie, van begin tot eind."
+    ],
+    "options": [
+      "een korte feitelijke samenvatting van actuele gebeurtenissen",
+      "een reeks gebeurtenissen die je beschrijft of vertelt, echt of verzonnen",
+      "een argument dat je gebruikt om je standpunt te onderbouwen",
+      "een tekst met regels en procedures die gevolgd moeten worden"
+    ],
+    "correct": 1,
+    "explanation": "'Verhaal' = een reeks gebeurtenissen die je beschrijft, fictief of niet. Meervoud: 'verhalen'. Synoniem: 'vertelling', 'narratief'. Figuurlijk: 'dat is een ander verhaal' = dat is een andere kwestie; 'zijn verhaal doen' = zijn kant van de zaak vertellen.",
+    "hint": "Dit woord impliceert een begin, een midden en een einde. Wat is het verschil tussen een verhaal en losse feiten?",
+    "collocations": [
+      "een verhaal vertellen",
+      "zijn verhaal doen",
+      "een lang verhaal"
+    ]
+  },
+  {
+    "word": "vertellen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Kun je me <mark>vertellen</mark> hoe laat het is?",
+      "Ze <mark>vertelde</mark> het nieuws aan haar vrienden met grote opwinding.",
+      "De opa <mark>vertelt</mark> zijn kleinkinderen elke avond een ander verhaal voor het slapen."
+    ],
+    "options": [
+      "vragen om informatie die je zelf nog niet hebt",
+      "informatie of een verhaal doorgeven aan iemand anders",
+      "iets opschrijven zodat anderen het later kunnen lezen",
+      "iemand overhalen iets te doen door argumenten te geven"
+    ],
+    "correct": 1,
+    "explanation": "'Vertellen' = informatie of een verhaal mondeling doorgeven aan iemand anders. Verleden tijd: 'vertelde', voltooid deelwoord: 'verteld'. Synoniem: 'mededelen', 'zeggen'. Figuurlijk: 'dat vertelt ons iets' = dat geeft ons informatie over iets.",
+    "hint": "Zowel nieuws doorgeven als een sprookje vertellen valt onder dit woord. Wat is de gemeenschappelijke kern?",
+    "collocations": [
+      "een verhaal vertellen",
+      "iemand iets vertellen",
+      "de waarheid vertellen"
+    ]
+  },
+  {
+    "word": "vragen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Mag ik je iets <mark>vragen</mark> over jouw ervaring met dit programma?",
+      "Ze <mark>vroeg</mark> om hulp toen ze de opdracht niet begreep.",
+      "Hij <mark>vroeg</mark> zijn baas of hij eerder naar huis mocht gaan vanwege zijn zieke kind."
+    ],
+    "options": [
+      "informatie geven aan iemand die dat nodig heeft",
+      "informatie opvragen of om iets verzoeken bij iemand anders",
+      "iemand vertellen wat hij moet doen zonder zijn mening te willen horen",
+      "iets bevestigen wat je al weet door het hardop te zeggen"
+    ],
+    "correct": 1,
+    "explanation": "'Vragen' = om informatie of iets anders verzoeken bij iemand. Verleden tijd: 'vroeg', voltooid deelwoord: 'gevraagd'. Synoniem: 'verzoeken', 'informeren'. Figuurlijk: 'dat vraagt om problemen' = dat zal problemen veroorzaken.",
+    "hint": "Dit is het tegenovergestelde van antwoorden. Wat is het doel van dit woord in communicatie?",
+    "collocations": [
+      "een vraag stellen",
+      "om hulp vragen",
+      "vragen naar iets"
+    ]
+  },
+  {
+    "word": "waarschuwen",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>waarschuwde</mark> haar collega dat de vloer nat was na het schoonmaken.",
+      "De overheid <mark>waarschuwt</mark> al jaren voor de gevaren van roken.",
+      "Hij had ons eerder moeten <mark>waarschuwen</mark> dat de vergadering was verzet."
+    ],
+    "options": [
+      "iemand straffen voor iets wat hij heeft gedaan",
+      "iemand van tevoren informeren over een risico of gevaar",
+      "iemand verbieden iets te doen via een officieel besluit",
+      "iemand aanmoedigen door hem op zijn kwaliteiten te wijzen"
+    ],
+    "correct": 1,
+    "explanation": "'Waarschuwen' = iemand van tevoren informeren over een gevaar, risico of ongewenste situatie. Verleden tijd: 'waarschuwde', voltooid deelwoord: 'gewaarschuwd'. Zelfstandig naamwoord: 'waarschuwing'. Synoniem: 'alarmeren', 'attent maken op'.",
+    "hint": "Dit woord gaat over timing. Wat doe je voor iets gebeurt, niet erna?",
+    "collocations": [
+      "iemand waarschuwen",
+      "een waarschuwing geven",
+      "gewaarschuwd zijn"
+    ]
+  },
+  {
+    "word": "website",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 1,
+    "examples": [
+      "Op de <mark>website</mark> van de gemeente kun je je verhuizing doorgeven.",
+      "Ze bouwde zelf een professionele <mark>website</mark> voor haar nieuwe onderneming.",
+      "De <mark>website</mark> was niet bereikbaar door een technische storing."
+    ],
+    "options": [
+      "een digitale map op je computer waar je bestanden opslaat",
+      "een pagina of verzameling pagina's op het internet van een organisatie of persoon",
+      "een app op je telefoon voor een specifieke dienst of bedrijf",
+      "een digitaal document dat je per e-mail verstuurt als bijlage"
+    ],
+    "correct": 1,
+    "explanation": "'Website' = een pagina of set van pagina's op het internet met een eigen adres (URL). Synoniem: 'internetpagina', 'webpagina', 'site'. Figuurlijk: 'een website hebben' is voor bedrijven en personen een must voor hun online aanwezigheid.",
+    "hint": "Een app en een website lijken op elkaar maar zijn technisch anders. Hoe open je een website — via welk programma?",
+    "collocations": [
+      "een website bezoeken",
+      "een website bouwen",
+      "op de website staan"
+    ]
+  },
+  {
+    "word": "zender",
+    "pos": "zelfstandig naamwoord · de",
+    "level": 3,
+    "examples": [
+      "NPO 1 is de populairste <mark>zender</mark> van Nederland.",
+      "Op welke <mark>zender</mark> is het nieuws vanavond om acht uur?",
+      "De <mark>zender</mark> van het radiosignaal staat opgesteld op een hoge mast buiten de stad."
+    ],
+    "options": [
+      "het apparaat waarmee je televisie of radio kunt ontvangen thuis",
+      "een omroepstation dat signalen of programma's uitzendt, of het apparaat dat zendt",
+      "de antenne op je dak die tv-signalen opvangt voor jouw toestel",
+      "het abonnement waarmee je toegang krijgt tot betaalkanalen"
+    ],
+    "correct": 1,
+    "explanation": "'Zender' = een omroepstation dat signalen uitzendt, of het technische apparaat dat dat doet. Werkwoord: 'zenden'. Synoniem: 'omroep', 'kanaal'. Figuurlijk: in communicatietheorie is de 'zender' degene die een bericht verstuurt (tegenover de 'ontvanger').",
+    "hint": "Dit woord kan zowel een televisiekanaal als een technisch apparaat betekenen. Wat is de gemeenschappelijke kern van beide betekenissen?",
+    "collocations": [
+      "een zender ontvangen",
+      "op een zender kijken",
+      "een radiosignaal zenden"
+    ]
+  },
+  {
+    "word": "zenden",
+    "pos": "werkwoord",
+    "level": 3,
+    "examples": [
+      "Het programma wordt vanavond live <mark>uitgezonden</mark> op NPO 1.",
+      "De satelliet <mark>zendt</mark> continu signalen naar de grond.",
+      "De omroep <mark>zond</mark> een speciaal nieuwsprogramma uit na het incident."
+    ],
+    "options": [
+      "iets via een digitaal netwerk naar één specifieke persoon sturen",
+      "signalen of programma's via de ether uitzenden naar een breed publiek",
+      "iets per post of koerier naar een ander adres sturen",
+      "informatie opslaan zodat anderen het later kunnen terugvinden"
+    ],
+    "correct": 1,
+    "explanation": "'Zenden' = signalen of programma's uitzenden via de ether, doorgaans naar een breed publiek. Verleden tijd: 'zond', voltooid deelwoord: 'gezonden'. Synoniem: 'uitzenden', 'broadcasten'. Figuurlijk: 'een boodschap zenden' = een signaal of boodschap versturen.",
+    "hint": "Dit woord en 'sturen' zijn allebei vormen van verzenden. Wat is het verschil in het beoogde publiek?",
+    "collocations": [
+      "een programma uitzenden",
+      "een signaal zenden",
+      "live zenden"
+    ]
+  },
+  {
+    "word": "zeggen",
+    "pos": "werkwoord",
+    "level": 1,
+    "examples": [
+      "Wat wil je eigenlijk <mark>zeggen</mark>? Ik begrijp je niet goed.",
+      "Ze <mark>zei</mark> dat ze morgen niet naar kantoor kan komen.",
+      "Dat is makkelijker <mark>gezegd</mark> dan gedaan — denk daar maar eens goed over na."
+    ],
+    "options": [
+      "iets opschrijven zodat anderen het later kunnen lezen",
+      "woorden uitspreken om informatie, mening of gevoel over te brengen",
+      "luisteren naar wat iemand zegt en dat letterlijk herhalen",
+      "iemand overtuigen van iets door lang te argumenteren"
+    ],
+    "correct": 1,
+    "explanation": "'Zeggen' = woorden uitspreken om informatie of gevoelens over te brengen. Verleden tijd: 'zei', voltooid deelwoord: 'gezegd'. Synoniem: 'spreken', 'vertellen'. Figuurlijk: 'iets zegt je iets' = iets roept een herkenning of gevoel op; 'dat zegt me niks' = dat betekent niets voor mij.",
+    "hint": "Dit is een van de meest basale werkwoorden voor communicatie. Wat maakt het anders dan 'schrijven'?",
+    "collocations": [
+      "iets zeggen",
+      "dat wil zeggen",
+      "voor zichzelf spreken"
+    ]
+  },
+  {
+    "word": "zwijgen",
+    "pos": "werkwoord",
+    "level": 2,
+    "examples": [
+      "Ze <mark>zweeg</mark> een moment voordat ze haar antwoord gaf.",
+      "Hij koos ervoor te <mark>zwijgen</mark> over wat hij had gezien.",
+      "Het recht om te <mark>zwijgen</mark> is een fundamenteel recht van elke verdachte."
+    ],
+    "options": [
+      "heel zachtjes praten zodat anderen je nauwelijks kunnen horen",
+      "bewust geen woorden uitspreken of informatie achterhouden",
+      "pauzeren in een gesprek terwijl je nadenkt over je volgende zin",
+      "weigeren te luisteren naar wat iemand zegt"
+    ],
+    "correct": 1,
+    "explanation": "'Zwijgen' = bewust niets zeggen of informatie achterhouden. Verleden tijd: 'zweeg', voltooid deelwoord: 'gezwegen'. Antonym: 'spreken'. Synoniem: 'stilzwijgen'. Figuurlijk: 'het zwijgen opleggen' = iemand verbieden te praten; 'stilzwijgend akkoord' = instemming zonder het hardop te zeggen.",
+    "hint": "Zwijgen en fluisteren zijn allebei alternatieve manieren voor luid spreken. Wat is het fundamentele verschil?",
+    "collocations": [
+      "het zwijgen opleggen",
+      "zwijgplicht",
+      "in stilzwijgen toestemmen"
+    ]
   }
 ]
