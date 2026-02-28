@@ -8,7 +8,7 @@ A mobile-friendly, context-first vocabulary quiz for Dutch learners at **B1–B2
 
 ## Live demo
 
-→ **[Open the quiz](https://chardrizard.github.io/woordenschat-quiz/)**
+→ **[Open the quiz](https://chardrizard.github.io/woordenschat-B1-quiz/)**
 
 ---
 
